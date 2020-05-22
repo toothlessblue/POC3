@@ -1,0 +1,1 @@
+mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:block_fused_quartz>,<minecraft:quartz>*4,<minecraft:sand>,4000);
