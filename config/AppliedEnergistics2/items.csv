@@ -9304,10 +9304,10 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -10449,6 +10449,8 @@ cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 craftingstation:crafting_station, Crafting Station
+doggytalents:dog_bath, Dog Bath
+doggytalents:food_bowl, Food Bowl
 doggytalents:throw_bone, Throw Bone
 doggytalents:throw_bone_wet, Drool Throw Bone
 doggytalents:throw_stick, Throw Stick
@@ -10477,8 +10479,6 @@ doggytalents:leather_jacket, Leather Jacket
 doggytalents:tiny_bone, Tiny Bone
 doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
-doggytalents:dog_bath, Dog Bath
-doggytalents:food_bowl, Food Bowl
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -10729,41 +10729,40 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:rfid_reader, RFID Reader
-opensecurity:security_terminal, Security Terminal
-opensecurity:keypad, Keypad
 opensecurity:data_block, Data Block
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:entity_detector, Entity Detector
+opensecurity:keypad, Keypad
+opensecurity:rfid_reader, RFID Reader
 opensecurity:alarm, Alarm
-opensecurity:energy_turret, Energy Turret
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:security_terminal, Security Terminal
 opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:energy_turret, Energy Turret
+opensecurity:entity_detector, Entity Detector
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:card_writer, Card Writer
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:rolldoor_element, Rolldoor Element
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:rolldoor, Rolldoor
-opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:door_controller, Door Controller
 opensecurity:nanofog, NanoFog
-opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:nanodna, NanoDNA
-opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rolldoor, Rolldoor
+opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:rfid_card, RFID Card
-opensecurity:movement_upgrade, Movement Upgrade
 opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:nanodna, NanoDNA
 opensecurity:mag_card, Magnetic Strip Card
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
+opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10913,22 +10912,23 @@ pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
 pneumaticcraft:drone_interface, Drone Interface
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.kerosene, Kerosene
 pneumaticcraft:fluid.plastic, Plastic
 pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -11056,6 +11056,10 @@ architecturecraft:largepulley, Large Pulley
 architecturecraft:chisel, Architect's Chisel
 architecturecraft:hammer, Architect's Hammer
 architecturecraft:sawbench, Architect's Sawbench
+betterbuilderswands:wandstone, Stone Wand
+betterbuilderswands:wandiron, Iron Wand
+betterbuilderswands:wanddiamond, Diamond Wand
+betterbuilderswands:wandunbreakable, Unbreakable Wand
 chiselsandbits:chisel_stone, Stone Chisel
 chiselsandbits:chisel_iron, Iron Chisel
 chiselsandbits:chisel_gold, Golden Chisel
@@ -13922,9 +13926,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Honeycomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Black Goo
@@ -15474,20 +15478,20 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-retrocomputers:disk_drive, Disk Drive
-retrocomputers:memory, 8K RAM Module
-quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:ribbon_cable, Ribbon Cable
 retrocomputers:backplane, Backplane
 retrocomputers:retinal_scanner, Retinal Scanner
-retrocomputers:ribbon_cable, Ribbon Cable
-retrocomputers:radio, Wireless Transceiver
 retrocomputers:computer, Computer
-retrocomputers:redstone_port_analog, Analog Redstone Port
+retrocomputers:memory, 8K RAM Module
 retrocomputers:terminal, Terminal
-retrocomputers:writable_disk, Floppy Disk
-retrocomputers:cpu, XC8010 CPU
+quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:disk_drive, Disk Drive
+retrocomputers:redstone_port_analog, Analog Redstone Port
 quacklib:wrench, Wrench
+retrocomputers:cpu, XC8010 CPU
 retrocomputers:debug, Debug Item
+retrocomputers:writable_disk, Floppy Disk
 retrocomputers:screwdriver, Screwdriver
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
@@ -15515,9 +15519,6 @@ storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
-zettaindustries:rfmeterblock, FU Meter
-zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -15534,6 +15535,9 @@ zettaindustries:itemprivatecardnfc, Private NFC Card
 zettaindustries:smartcard, Smart Card [WIP]
 zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
 zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
+zettaindustries:rfmeterblock, FU Meter
+zettaindustries:charcoalblock, Block of Charcoal
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
@@ -15563,7 +15567,7 @@ openentity:upgradeendertank, Upgrade Ender Tank
 openentity:upgraderange, Upgrade Range
 openentity:upgradecapacity_fe, Upgrade Capacity (FE/RF)
 openentity:upgradetransferrate_fe, Upgrade Transferrate (FE/RF)
-openglasses:openglasses:0, AR Glasses
-openglasses:openglasses:0, AR Glasses
-openglasses:openglasses_card, Glasses Terminal Card
 openglasses:openglassesterminal, Glasses Terminal
+openglasses:openglasses_card, Glasses Terminal Card
+openglasses:openglasses:0, AR Glasses
+openglasses:openglasses:0, AR Glasses
