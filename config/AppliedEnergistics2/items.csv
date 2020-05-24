@@ -6191,6 +6191,326 @@ alchemistry:ingot:116, Livermorium Ingot
 alchemistry:ingot:117, Tennessine Ingot
 alchemistry:ingot:118, Oganesson Ingot
 alchemistry:periodic_diagram, Periodic Diagram
+avp:helm.xeno, Alien Helm
+avp:body.xeno, Alien Chest Armor
+avp:legwear.xeno, Alien Leg Armor
+avp:boots.xeno, Alien Foot Armor
+avp:helm.pressure, Advanced SE Helmet
+avp:body.pressure, Advanced SE Vest
+avp:legwear.pressure, Advanced SE Legwear
+avp:boots.pressure, Advanced SE Boots
+avp:helm.mk50, MK50 Helmet
+avp:body.mk50, MK50 Chest Guard
+avp:legwear.mk50, MK50 Jumpsuit
+avp:boots.mk50, MK50 Boots
+avp:helm.tactical, Tactical Helmet
+avp:body.tactical, Tactical Vest
+avp:legwear.tactical, Tactical Legwear
+avp:boots.tactical, Tactical Boots
+avp:helm.celtic, Biomask
+avp:body.celtic, Celtic Chest Armor
+avp:legwear.celtic, Celtic Leg Armor
+avp:boots.celtic, Celtic Foot Armor
+avp:tool.celtic.shovel, Celtic Shovel
+avp:tool.celtic.pick, Celtic Pickaxe
+avp:tool.celtic.axe, Celtic Axe
+avp:tool.celtic.sword, Celtic Sword
+avp:tool.celtic.hoe, Celtic Hoe
+avp:tool.celtic.spear, Celtic Spear
+avp:wristblade, Wristbracer
+avp:wristbracer.blades, Wristbracer Blades
+avp:stun.baton, Stun Baton
+avp:plasmacannon, Plasma Caster
+avp:mine.laser, Laser Mine
+avp:smartdisc, Smart Disc
+avp:shuriken, Shuriken
+avp:grenade.m40, M40 Grenade
+avp:grenade.incindiary, M40 Incendiary Grenade
+avp:ammo.pistol, Pistol Rounds
+avp:ammo.ar, Assault Rifle Rounds
+avp:ammo.smg, Sub Machine-Gun Rounds
+avp:ammo.sniper, Sniper Rounds
+avp:ammo.flamethrower, Flamethrower Fuel
+avp:gun.m240icu, M240 Incinerator Unit
+avp:gun.flamethrower.nostromo, Incenerator Unit
+avp:gun.pistol, 88Mod4
+avp:gun.m4, M4 Carbine
+avp:gun.sniper, Semi-Automatic Sniper Rifle
+avp:gun.m41a, M41A Pulse Rifle
+avp:gun.m56sg, M56 SmartGun
+avp:gun.ak47, AK47 Assault Rifle
+avp:part.pistol.stock, 88Mod4 Stock
+avp:part.pistol.barrel, 88Mod4 Barrel
+avp:part.pistol.action, 88Mod4 Action
+avp:part.m4.stock, M4 Stock
+avp:part.m4.barrel, M4 Barrel
+avp:part.m4.action, M4 Action
+avp:part.sniper.stock, Sniper Stock
+avp:part.sniper.barrel, Sniper Barrel
+avp:part.sniper.action, Sniper Action
+avp:part.sniper.scope, Sniper Peripherals
+avp:part.sniper.peripherals, Sniper Peripherals
+avp:part.m41a.stock, M41A Stock
+avp:part.m41a.barrel, M41A Barrel
+avp:part.m41a.action, M41A Action
+avp:part.m41a.peripherals, M41A Peripherals
+avp:part.m56sg.stock, M56SG Stock
+avp:part.m56sg.barrel, M56SG Barrel
+avp:part.m56sg.action, M56SG Action
+avp:part.m56sg.supportframe, M56SG Support Frame
+avp:part.m56sg.aimingmodule, M56SG Aiming Module
+avp:part.ak47.stock, AK-47 Stock
+avp:part.ak47.barrel, AK-47 Barrel
+avp:part.ak47.action, AK-47 Action
+avp:food.doritos, Doritos
+avp:food.doritos.coolranch, Doritos (Cool Ranch)
+avp:food.raw.tentacle, Raw Tentacle
+avp:food.trilo.bite, Trilo Bite
+avp:device.nbtdrive, NBT Drive
+avp:part.capacitor, Capacitor
+avp:part.transistor, Transistor
+avp:part.ram, Random Access Memory
+avp:part.resistor, Resistor
+avp:artifact.tech, Yautja Artifact
+avp:part.processor, Microprocessor
+avp:part.solidstatedrive, Solid State Drive
+avp:part.diode, Diode
+avp:part.motherboard, Motherboard
+avp:part.powersupply, Power Supply
+avp:part.led.display, 7 Segment LED Display
+avp:part.regulator, Regulator
+avp:part.led, Light Emitting Diode (LED)
+avp:part.ic, Integrated Circuit
+avp:device.supplychute, Weyland-Yutani Supply Chute
+avp:device.supplychute.marines, USCM Supply Chute
+avp:device.supplychute.seegson, Seegson Supply Chute
+avp:apc, APC
+avp:carbon, Carbon
+avp:cobalt, Cobalt
+avp:neodymium, Neodymium
+avp:neodymium.magnet, item.avp:neodymium.magnet.name
+avp:silicon, Silicon
+avp:ingot.aluminum, Aluminum Ingot
+avp:ingot.copper, Copper Ingot
+avp:polycarbonate, Polycarbonate
+avp:ingot.lithium, Lithium Ingot
+avp:motiontracker, F.E.M.S 5.547.60 Motion Tracker
+avp:royaljelly, Royal Jelly
+avp:blackgoo.item, Black Goo
+avp:phial.goo, Ampule of Goo
+avp:phial.empty, Ampule
+avp:chargepack, Charge Pack
+avp:tool.maintenancejack, Maintenance Jack
+avp:bucket.blackgoo, Bucket of Black Goo
+avp:bucket.mist, Bucket of Reactive Mist
+avp:tool.securitytuner, Security Access Tuner
+avp:rackmodule1, Rack Module 1
+avp:rackmodule2, Rack Module 2
+avp:rackmodule3, Rack Module 3
+avp:rackmodule4, Rack Module 4
+avp:rackmodule5, Rack Module 5
+avp:rackmodule6, Rack Module 6
+avp:rackmodule7, Rack Module 7
+avp:rackmodule8, Rack Module 8
+avp:sporepod, item.avp:sporepod.name
+avp:summon.drone, Xenomorph Drone
+avp:summon.aqua, Nauticomorph
+avp:summon.warrior, Xenomorph Warrior
+avp:summon.crusher, Xenomorph Crusher
+avp:summon.spitter, Xenomorph Spitter
+avp:summon.praetorian, Xenomorph Praetorian
+avp:summon.queen, Xenomorph Queen
+avp:summon.chestburster, Chestburster
+avp:summon.facehugger, Facehugger
+avp:summon.marine, Marine
+avp:summon.ovamorph, Ovamorph (Egg)
+avp:summon.ovamorph.giger, Ovamorph (Egg, Giger)
+avp:summon.royalfacehugger, Royal Facehugger
+avp:summon.yautja.warrior, Yautja (Predator)
+avp:summon.predalien, Predalien
+avp:summon.synthetic.combat, Combat Synthetic
+avp:summon.deacon, Deacon
+avp:summon.deacon.adult, Adult Common Deacon
+avp:summon.hammerpede, Hammerpede
+avp:summon.trilobite, Trilobite
+avp:summon.yautja.berserker, Berserker Yautja
+avp:summon.spacejockey, SpaceJockey
+avp:summon.engineer, Engineer
+avp:summon.deaconshark, Deacon Shark
+avp:summon.runner.drone, Xenomorph Runner
+avp:summon.runner.warrior, Xenomorph Runner Warrior
+avp:summon.ultramorph, Ultramorph
+avp:summon.goomutant, Goo Mutant
+avp:summon.aethon, Aethon
+avp:summon.octohugger, Octohugger
+avp:summon.belugaburster, Belugaburster
+avp:summon.belugamorph, Belugamorph
+avp:summon.chestburster.predalien, Predalien Chestburster
+avp:summon.chestburster.queen, Queen Chestburster
+avp:summon.chestburster.runner, Runner Chestburster
+avp:hiveresin, Hive Resin
+avp:hiveresin.standard, Hive Resin (Standard)
+avp:tileovamorphdesign, Ovamorph Hieroglyphics Design
+avp:shippanel, Ship Panel
+avp:shippannelyautja, Yautja Ship Hieroglyphics
+avp:tilefacehuggerdesign, Facehugger Hieroglyphics Design
+avp:tilealiendesign, Alien Hieroglyphics Design
+avp:shipwallbase, Ship Wall Base
+avp:shipsupportpillar, Ship Support Pillar
+avp:shipdecor1, Ship Decor
+avp:shipbrick, Ship Brick
+avp:shipdecor2, Ship Decor
+avp:shipdecor3, Ship Decor
+avp:templebricksingle, Temple Brick Single
+avp:templebrick, Temple Brick 
+avp:templetile, Temple Tile 
+avp:templewallbase, Temple Wall Base 
+avp:templefloor, Temple Floor 
+avp:industrialwall, Industrial Wall
+avp:industrialwall2, Industrial Wall
+avp:ceilingpanel, Ceiling Panel
+avp:ceilingfan, Ceiling Fan
+avp:ceilingvent, Ceiling Vent
+avp:ceilinggrill, Ceiling Grill
+avp:skulls, Skull Pile 
+avp:floorgrill, Floor Grill
+avp:industrialglass, Industrial Glass
+avp:industrialbricks, Industrial Bricks
+avp:metalpanel1, Metal Panel
+avp:metalpanel2, Metal Panel
+avp:metalpanel3, Metal Panel
+avp:plastictilecircle, Plastic Circular Tiles
+avp:plasticblock, Plastic Block 
+avp:paddingpanel, White Geometric Padding Panel
+avp:plastictiletri, Plastic Triangular Tiles
+avp:plastictile, Plastic Tile
+avp:oresilicon, Silicon Ore
+avp:orelithium, Lithium Ore
+avp:orecopper, Copper Ore
+avp:orebauxite, Bauxite Ore
+avp:oremonazite, tile.avp:oremonazite.name
+avp:orecobalt, tile.avp:orecobalt.name
+avp:mainframepanel.shimmer, Mainframe Panel Shimmer
+avp:mainframepanel.flicker, Mainframe Panel Flicker
+avp:industrialvent, Industrial Vent
+avp:vent.wall, Vent Wall
+avp:vent.ceiling, Vent Ceiling
+avp:engineershipfloor, Engineer Ship Floor 
+avp:engineershipbrick, Engineer Ship Brick 
+avp:engineershipbrick1, Engineer Ship Brick 
+avp:engineershipbrick2, Engineer Hieroglyphics Panel
+avp:engineershipbrick3, Engineer Ship Brick
+avp:engineershipgravel, Engineer Ship Gravel 
+avp:engineershipwall, Engineer Ship Wall 
+avp:engineershipwall1, Engineer Ship Wall 
+avp:engineershipwall2, Engineer Ship Wall 
+avp:engineershipwall3, Engineer Hieroglyphics Wall Banner
+avp:engineershipwall4, Engineer Hieroglyphics Wall
+avp:engineershiprock, Engineer Ship Rock
+avp:engineershiprock1, Engineer Ship Rock 
+avp:engineershiprock2, Engineer Ship Rock 
+avp:engineershiprock3, Engineer Ship Rock 
+avp:engineershipcolumn1, Engineer Ship Biomechanical Column
+avp:engineershipcolumn2, Engineer Ship Ribbing
+avp:engineershipmaterial0, Engineer Ship Material 
+avp:engineershipmaterial1, Engineer Ship Material 
+avp:engineershipmaterial2, Engineer Ship Material 
+avp:paddingpanel_orange, Orange Geometric Padding Panel
+avp:padding_pipes_orange, Orange Padded Pipes
+avp:padding_pipes_white, White Padded Pipes
+avp:padding_square_orange, Orange Square Padding
+avp:padding_square_white, White Square Padding
+avp:padding_tiles_orange, Orange Padding Tiles
+avp:padding_tiles_white, White Padding Tiles
+avp:unistone, Unidentified stone
+avp:unisand, Unidentified sand
+avp:unigravel, Unidentified gravel
+avp:unidirt, Unidentified dirt
+avp:stalagmite, Stalagmite
+avp:paradise_dirt, Paradise Dirt
+avp:paradise_dirt_mossy, Paradise Mossy Dirt
+avp:paradise_dirt_podzol, Paradise Podzol Dirt
+avp:paradise_grass, Paradise Grass
+avp:paradise_leaves_large, Paradise Large Leaves
+avp:paradise_log_large, Paradise Large Log 
+avp:paradise_leaves_med, Paradise Medium Leaves 
+avp:paradise_log_med, Paradise Medium Log 
+avp:paradise_leaves_small, Paradise Small Leaves 
+avp:paradise_log_small, Paradise Small Log 
+avp:paradisian_ground_fern, Paradisian Ground Fern
+avp:paradisian_tree_fern, Paradisian Tree Fern
+avp:paradisian_wheat_grass, Paradisian Wheat Grass
+avp:unitree.wood, Unidentified Wood
+avp:unitree.tendons, Unidentified Tree Tendons
+avp:unitree.leaves, Unidentified Leaves
+avp:unitree.leaves.m, Unitree Medium Leaves 
+avp:unitree.leaves.b, Unitree Big Leaves 
+avp:unitree.sapling, Unidentified Sapling
+avp:lv426rock, Lv-426 Rock
+avp:satellitedish, Satellite Dish
+avp:spawner, Sacrificial Spawner
+avp:portal.varda, Portal to Varda (Lv-223)
+avp:portal.acheron, Portal to Acheron (Lv-426)
+avp:assembler, Assembler
+avp:floorgrillstairs, Floor Grill Stairs
+avp:ceilinggrillstairs, Ceiling Grill Stairs
+avp:industrialbrickstairs, Industrial Brick Stairs
+avp:industrialwallstairs, Industrial Wall Stairs
+avp:industrialglassstairs, Industrial Glass Stairs
+avp:floorgrillslab, Floor Grill Slab
+avp:ceilinggrillslab, Ceiling Grill Slab
+avp:industrialslab, Industrial Slab
+avp:industrialbrickslab, Industrial Brick Slab
+avp:industrialglassslab, Industrial Glass Slab
+avp:blackgoo, Black Goo
+avp:mist, Reactive Mist
+avp:turret, UA 571-E Sentry Turret
+avp:terminal, Terminal
+avp:stasismechanism, Stasis Mechanism
+avp:generator, Repulsion Generator
+avp:powerline, Power Cable
+avp:blastdoor, Blast Door
+avp:blastdoor.sevastopol, Blast Door (Sevastopol)
+avp:cryostasistube, Cryostasis Tube
+avp:lightpanel, Light Panel
+avp:ccfltube, Fluorescent Light
+avp:teslacoil, Tesla Coil
+avp:networkrack, Netword Rack
+avp:powercell, Powercell
+avp:redstonesensor, Redstone Sensor
+avp:redstoneemitter, Redstone Emitter
+avp:universalgenerator, Universal Power Converter
+avp:transformer, Step-Up Transformer
+avp:transformer.stepdown, Step-Down Transformer
+avp:supplychuteblock, Supply Crate (Weyland-Yutani)
+avp:supplychuteblock.marines, Supply Crate (USCM)
+avp:supplychuteblock.seegson, Supply Crate (Seegson)
+avp:solarpanel, Solar Panel
+avp:locker, Locker
+avp:medpod, Medpod
+avp:gunlocker, Gun Locker
+avp:engineership.ampule, Ampule
+avp:skull.engineer, Engineer Helmet
+avp:skull.spacejockey, Space Jockey Skull
+avp:skull.xenomorph, Xenomorph Skull (Gigeresque)
+avp:skull.xenomorph.warrior, Xenomorph Skull
+avp:skull.yautja, Yautja Skull
+avp:skull.matriarch, Matriarch Skull
+avp:skull.protomorph, Protomorph Skull
+avp:skull.neomorph, Neomorph Skull
+avp:biomask.classic, Classic Biomask
+avp:biomask.berserker, Berserker Biomask
+avp:biomask.falconer, Falconer Biomask
+avp:biomask.tracker, Tracker Biomask
+avp:head.aethon, Aethon Head
+avp:head.gigeralien, Giger Alien Head
+avp:slope, Reflective Slope
+avp:corner, Reflective Corner
+avp:invertedcorner, Reflective Inverted Corner
+avp:ridge, Reflective Ridge
+avp:pyramid, Reflective Pyramid
+avp:invertedridge, Reflective Inverted Ridge
+avp:invertedpyramid, Relfective Inverted Pyramid
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -6795,6 +7115,98 @@ appliedenergistics2:facade:0, Cable Facade - Argon Light
 appliedenergistics2:facade:0, Cable Facade - Krypton Light
 appliedenergistics2:facade:0, Cable Facade - Xenon Light
 appliedenergistics2:facade:0, Cable Facade - Wet Sand
+appliedenergistics2:facade:0, Cable Facade - Hive Resin (Standard)
+appliedenergistics2:facade:0, Cable Facade - Ovamorph Hieroglyphics Design
+appliedenergistics2:facade:0, Cable Facade - Ship Panel
+appliedenergistics2:facade:0, Cable Facade - Yautja Ship Hieroglyphics
+appliedenergistics2:facade:0, Cable Facade - Facehugger Hieroglyphics Design
+appliedenergistics2:facade:0, Cable Facade - Alien Hieroglyphics Design
+appliedenergistics2:facade:0, Cable Facade - Ship Wall Base
+appliedenergistics2:facade:0, Cable Facade - Ship Support Pillar
+appliedenergistics2:facade:0, Cable Facade - Ship Decor
+appliedenergistics2:facade:0, Cable Facade - Ship Brick
+appliedenergistics2:facade:0, Cable Facade - Ship Decor
+appliedenergistics2:facade:0, Cable Facade - Ship Decor
+appliedenergistics2:facade:0, Cable Facade - Temple Brick Single
+appliedenergistics2:facade:0, Cable Facade - Temple Brick
+appliedenergistics2:facade:0, Cable Facade - Temple Tile
+appliedenergistics2:facade:0, Cable Facade - Temple Wall Base
+appliedenergistics2:facade:0, Cable Facade - Temple Floor
+appliedenergistics2:facade:0, Cable Facade - Industrial Wall
+appliedenergistics2:facade:0, Cable Facade - Industrial Wall
+appliedenergistics2:facade:0, Cable Facade - Ceiling Panel
+appliedenergistics2:facade:0, Cable Facade - Ceiling Vent
+appliedenergistics2:facade:0, Cable Facade - Skull Pile
+appliedenergistics2:facade:0, Cable Facade - Industrial Bricks
+appliedenergistics2:facade:0, Cable Facade - Metal Panel
+appliedenergistics2:facade:0, Cable Facade - Metal Panel
+appliedenergistics2:facade:0, Cable Facade - Metal Panel
+appliedenergistics2:facade:0, Cable Facade - Plastic Circular Tiles
+appliedenergistics2:facade:0, Cable Facade - Plastic Block
+appliedenergistics2:facade:0, Cable Facade - White Geometric Padding Panel
+appliedenergistics2:facade:0, Cable Facade - Plastic Triangular Tiles
+appliedenergistics2:facade:0, Cable Facade - Plastic Tile
+appliedenergistics2:facade:0, Cable Facade - Silicon Ore
+appliedenergistics2:facade:0, Cable Facade - Lithium Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Bauxite Ore
+appliedenergistics2:facade:0, Cable Facade - tile.avp:oremonazite.name
+appliedenergistics2:facade:0, Cable Facade - tile.avp:orecobalt.name
+appliedenergistics2:facade:0, Cable Facade - Mainframe Panel Shimmer
+appliedenergistics2:facade:0, Cable Facade - Mainframe Panel Flicker
+appliedenergistics2:facade:0, Cable Facade - Industrial Vent
+appliedenergistics2:facade:0, Cable Facade - Vent Wall
+appliedenergistics2:facade:0, Cable Facade - Vent Ceiling
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Floor
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Brick
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Brick
+appliedenergistics2:facade:0, Cable Facade - Engineer Hieroglyphics Panel
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Brick
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Gravel
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Wall
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Wall
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Wall
+appliedenergistics2:facade:0, Cable Facade - Engineer Hieroglyphics Wall Banner
+appliedenergistics2:facade:0, Cable Facade - Engineer Hieroglyphics Wall
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Rock
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Rock
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Rock
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Rock
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Biomechanical Column
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Ribbing
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Material
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Material
+appliedenergistics2:facade:0, Cable Facade - Engineer Ship Material
+appliedenergistics2:facade:0, Cable Facade - Orange Geometric Padding Panel
+appliedenergistics2:facade:0, Cable Facade - Orange Padded Pipes
+appliedenergistics2:facade:0, Cable Facade - White Padded Pipes
+appliedenergistics2:facade:0, Cable Facade - Orange Square Padding
+appliedenergistics2:facade:0, Cable Facade - White Square Padding
+appliedenergistics2:facade:0, Cable Facade - Orange Padding Tiles
+appliedenergistics2:facade:0, Cable Facade - White Padding Tiles
+appliedenergistics2:facade:0, Cable Facade - Unidentified stone
+appliedenergistics2:facade:0, Cable Facade - Unidentified sand
+appliedenergistics2:facade:0, Cable Facade - Unidentified gravel
+appliedenergistics2:facade:0, Cable Facade - Unidentified dirt
+appliedenergistics2:facade:0, Cable Facade - Stalagmite
+appliedenergistics2:facade:0, Cable Facade - Paradise Dirt
+appliedenergistics2:facade:0, Cable Facade - Paradise Mossy Dirt
+appliedenergistics2:facade:0, Cable Facade - Paradise Podzol Dirt
+appliedenergistics2:facade:0, Cable Facade - Paradise Grass
+appliedenergistics2:facade:0, Cable Facade - Paradise Large Leaves
+appliedenergistics2:facade:0, Cable Facade - Paradise Large Log
+appliedenergistics2:facade:0, Cable Facade - Paradise Medium Leaves
+appliedenergistics2:facade:0, Cable Facade - Paradise Medium Log
+appliedenergistics2:facade:0, Cable Facade - Paradise Small Leaves
+appliedenergistics2:facade:0, Cable Facade - Paradise Small Log
+appliedenergistics2:facade:0, Cable Facade - Unidentified Wood
+appliedenergistics2:facade:0, Cable Facade - Unidentified Leaves
+appliedenergistics2:facade:0, Cable Facade - Unitree Medium Leaves
+appliedenergistics2:facade:0, Cable Facade - Unitree Big Leaves
+appliedenergistics2:facade:0, Cable Facade - Lv-426 Rock
+appliedenergistics2:facade:0, Cable Facade - Sacrificial Spawner
+appliedenergistics2:facade:0, Cable Facade - Portal to Varda (Lv-223)
+appliedenergistics2:facade:0, Cable Facade - Portal to Acheron (Lv-426)
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -8892,8 +9304,8 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
@@ -9522,6 +9934,7 @@ enderio:item_material:26, Copper Powder
 enderio:item_material:27, Tin Powder
 enderio:item_material:28, Ender Pearl Powder
 enderio:item_material:29, Obsidian Powder
+enderio:item_material:31, Cobalt Powder
 enderio:item_material:32, Lapis Lazuli Powder
 enderio:item_material:33, Quartz Powder
 enderio:item_material:34, Grains of Prescience
@@ -10316,32 +10729,41 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:entity_detector, Entity Detector
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:data_block, Data Block
-opensecurity:alarm, Alarm
+opensecurity:rfid_reader, RFID Reader
 opensecurity:security_terminal, Security Terminal
-opensecurity:card_writer, Card Writer
 opensecurity:keypad, Keypad
+opensecurity:data_block, Data Block
+opensecurity:biometric_reader, Biometric Reader
+opensecurity:entity_detector, Entity Detector
+opensecurity:alarm, Alarm
 opensecurity:energy_turret, Energy Turret
 opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:rfid_reader, RFID Reader
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:card_writer, Card Writer
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:nanofog, NanoFog
 opensecurity:rolldoor, Rolldoor
-opensecurity:door_controller, Door Controller
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:rfid_card, RFID Card
+opensecurity:door_controller, Door Controller
+opensecurity:nanofog, NanoFog
 opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:nanodna, NanoDNA
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rfid_card, RFID Card
+opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:mag_card, Magnetic Strip Card
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10499,23 +10921,14 @@ pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
 pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.kerosene, Kerosene
 pneumaticcraft:fluid.plastic, Plastic
 pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:fluid.lpg, LPG
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -13335,6 +13748,93 @@ chiselsandbits:block_bit:0, Chiseled Bit - Fission Core
 chiselsandbits:block_bit:0, Chiseled Bit - Fusion Casing
 chiselsandbits:block_bit:0, Chiseled Bit - Fusion Core
 chiselsandbits:block_bit:0, Chiseled Bit - Wet Sand
+chiselsandbits:block_bit:0, Chiseled Bit - Hive Resin (Standard)
+chiselsandbits:block_bit:0, Chiseled Bit - Ovamorph Hieroglyphics Design
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Yautja Ship Hieroglyphics
+chiselsandbits:block_bit:0, Chiseled Bit - Facehugger Hieroglyphics Design
+chiselsandbits:block_bit:0, Chiseled Bit - Alien Hieroglyphics Design
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Wall Base
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Support Pillar
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Decor
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Decor
+chiselsandbits:block_bit:0, Chiseled Bit - Ship Decor
+chiselsandbits:block_bit:0, Chiseled Bit - Temple Brick Single
+chiselsandbits:block_bit:0, Chiseled Bit - Temple Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Temple Tile
+chiselsandbits:block_bit:0, Chiseled Bit - Temple Wall Base
+chiselsandbits:block_bit:0, Chiseled Bit - Temple Floor
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Ceiling Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Ceiling Fan
+chiselsandbits:block_bit:0, Chiseled Bit - Ceiling Vent
+chiselsandbits:block_bit:0, Chiseled Bit - Ceiling Grill
+chiselsandbits:block_bit:0, Chiseled Bit - Skull Pile
+chiselsandbits:block_bit:0, Chiseled Bit - Floor Grill
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Metal Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Metal Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Metal Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Plastic Circular Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Plastic Block
+chiselsandbits:block_bit:0, Chiseled Bit - White Geometric Padding Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Plastic Triangular Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Plastic Tile
+chiselsandbits:block_bit:0, Chiseled Bit - Silicon Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Lithium Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Bauxite Ore
+chiselsandbits:block_bit:0, Chiseled Bit - tile.avp:oremonazite.name
+chiselsandbits:block_bit:0, Chiseled Bit - tile.avp:orecobalt.name
+chiselsandbits:block_bit:0, Chiseled Bit - Mainframe Panel Shimmer
+chiselsandbits:block_bit:0, Chiseled Bit - Mainframe Panel Flicker
+chiselsandbits:block_bit:0, Chiseled Bit - Industrial Vent
+chiselsandbits:block_bit:0, Chiseled Bit - Vent Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Vent Ceiling
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Floor
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Hieroglyphics Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Gravel
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Hieroglyphics Wall Banner
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Hieroglyphics Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Rock
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Rock
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Rock
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Rock
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Biomechanical Column
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Ribbing
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Material
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Material
+chiselsandbits:block_bit:0, Chiseled Bit - Engineer Ship Material
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Geometric Padding Panel
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Padded Pipes
+chiselsandbits:block_bit:0, Chiseled Bit - White Padded Pipes
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Square Padding
+chiselsandbits:block_bit:0, Chiseled Bit - White Square Padding
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Padding Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - White Padding Tiles
+chiselsandbits:block_bit:0, Chiseled Bit - Unidentified stone
+chiselsandbits:block_bit:0, Chiseled Bit - Unidentified sand
+chiselsandbits:block_bit:0, Chiseled Bit - Unidentified gravel
+chiselsandbits:block_bit:0, Chiseled Bit - Unidentified dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Mossy Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Podzol Dirt
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Grass
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Large Log Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Medium Log Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Paradise Small Log Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Unidentified Wood Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Lv-426 Rock
+chiselsandbits:block_bit:0, Chiseled Bit - Sacrificial Spawner
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
@@ -13422,11 +13922,13 @@ chiselsandbits:block_bit:0, Chiseled Bit - Honeycomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
+chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit - Black Goo
+chiselsandbits:block_bit:0, Chiseled Bit - Reactive Mist
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -14973,20 +15475,20 @@ quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
 retrocomputers:disk_drive, Disk Drive
-retrocomputers:computer, Computer
-retrocomputers:radio, Wireless Transceiver
 retrocomputers:memory, 8K RAM Module
-retrocomputers:backplane, Backplane
 quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:backplane, Backplane
 retrocomputers:retinal_scanner, Retinal Scanner
 retrocomputers:ribbon_cable, Ribbon Cable
-retrocomputers:terminal, Terminal
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:computer, Computer
 retrocomputers:redstone_port_analog, Analog Redstone Port
-retrocomputers:debug, Debug Item
-retrocomputers:screwdriver, Screwdriver
+retrocomputers:terminal, Terminal
+retrocomputers:writable_disk, Floppy Disk
 retrocomputers:cpu, XC8010 CPU
 quacklib:wrench, Wrench
-retrocomputers:writable_disk, Floppy Disk
+retrocomputers:debug, Debug Item
+retrocomputers:screwdriver, Screwdriver
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
 retrocomputers:disk:2, Extended FORTH Boot Disk
@@ -15014,15 +15516,8 @@ storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
 zettaindustries:rfmeterblock, FU Meter
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:nfcprogrammer, NFC Programmer
-zettaindustries:nfcreader, NFC Reader
-zettaindustries:itemcardnfc, NFC Card
-zettaindustries:itemprivatecardnfc, Private NFC Card
-zettaindustries:smartcard, Smart Card [WIP]
-zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -15032,6 +15527,13 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
+zettaindustries:nfcprogrammer, NFC Programmer
+zettaindustries:nfcreader, NFC Reader
+zettaindustries:itemcardnfc, NFC Card
+zettaindustries:itemprivatecardnfc, Private NFC Card
+zettaindustries:smartcard, Smart Card [WIP]
+zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
