@@ -1772,6 +1772,537 @@ opencomputers:misc:0, Creatix
 opencomputers:misc:0, Tablet
 opencomputers:misc:0, Hover Boots
 opencomputers:misc:0, EEPROM (Lua BIOS)
+railcraft:creosote, Creosote
+railcraft:steam, Steam
+railcraft:tool_crowbar_iron, Iron Jemmy
+railcraft:tool_crowbar_steel, Steel Jemmy
+railcraft:tool_axe_steel, Steel Axe
+railcraft:tool_hoe_steel, Steel Hoe
+railcraft:tool_pickaxe_steel, Steel Pickaxe
+railcraft:tool_shears_steel, Steel Shears
+railcraft:tool_shovel_steel, Steel Shovel
+railcraft:tool_sword_steel, Steel Sword
+railcraft:armor_helmet_steel, Steel Helmet
+railcraft:armor_chestplate_steel, Steel Chestplate
+railcraft:armor_leggings_steel, Steel Leggings
+railcraft:armor_boots_steel, Steel Boots
+railcraft:tool_magnifying_glass, Magnifying Glass
+railcraft:armor_goggles, Trackman's Goggles
+railcraft:armor_overalls, Engineer's Overalls
+railcraft:tool_notepad, Trackman's Notepad
+railcraft:rail:0, Standard Rail
+railcraft:rail:1, Advanced Rail
+railcraft:rail:2, Wooden Rail
+railcraft:rail:3, H.S. Rail
+railcraft:rail:4, Reinforced Rail
+railcraft:rail:5, Electric Rail
+railcraft:tie:0, Wooden Tie
+railcraft:tie:1, Stone Tie
+railcraft:rebar, Rebar
+railcraft:cart_spawner:0, Spawner Cart
+railcraft:detector:0, Cart Detector - Item
+railcraft:detector:1, Cart Detector - Any
+railcraft:detector:2, Cart Detector - Empty
+railcraft:detector:3, Cart Detector - Mob
+railcraft:detector:4, Cart Detector - Player
+railcraft:detector:5, Cart Detector - Animal
+railcraft:detector:6, Cart Detector - Tank
+railcraft:detector:7, Cart Detector - Advanced
+railcraft:detector:8, Cart Detector - Age
+railcraft:detector:9, Cart Detector - Train
+railcraft:detector:10, Cart Detector - Sheep
+railcraft:detector:11, Cart Detector - Villager
+railcraft:detector:12, Cart Detector - Locomotive
+railcraft:detector:13, Cart Detector - Routing
+railcraft:manipulator:0, Item Loader
+railcraft:manipulator:1, Item Unloader
+railcraft:manipulator:2, Adv. Item Loader
+railcraft:manipulator:3, Adv. Item Unloader
+railcraft:manipulator:4, Fluid Loader
+railcraft:manipulator:5, Fluid Unloader
+railcraft:manipulator:10, Redstone Flux Loader
+railcraft:manipulator:11, Redstone Flux Unloader
+railcraft:manipulator:8, Cart Dispenser
+railcraft:manipulator:9, Train Dispenser
+railcraft:equipment:0, Manual Rolling Machine
+railcraft:equipment:1, Powered Rolling Machine
+railcraft:equipment:2, Feed Station
+railcraft:equipment:3, Smoker
+railcraft:trade_station:0, Trade Station
+railcraft:force_track_emitter, Force Track Emitter
+railcraft:track_force, Force Track
+railcraft:filter_blank, Blank Filter
+railcraft:filter_type, Item Type Filter
+railcraft:filter_ore_dict, Ore Dictionary Filter
+railcraft:bore:0, Tunnel Bore
+railcraft:borehead_bronze, Bronze Bore Head
+railcraft:borehead_iron, Iron Bore Head
+railcraft:borehead_steel, Steel Bore Head
+railcraft:borehead_diamond, Diamond Bore Head
+railcraft:mow_track_layer:0, Track Layer Cart
+railcraft:mow_track_relayer:0, Track Relayer Cart
+railcraft:mow_track_remover:0, Track Remover Cart
+railcraft:mow_undercutter:0, Undercutter Cart
+railcraft:cart_trade_station:0, Trade Station Cart
+railcraft:cart_work:0, Work Cart
+railcraft:cart_jukebox:0, Jukebox Cart
+railcraft:cart_bed:0, Bed Cart
+railcraft:battery_nickel_iron, Nickel-Iron Battery
+railcraft:battery_nickel_zinc, Nickel-Zinc Battery
+railcraft:battery_zinc_carbon, Zinc-Carbon Battery
+railcraft:battery_zinc_silver, Zinc-Silver Battery
+railcraft:charge_feeder:1, Admin Charge Feeder Unit
+railcraft:charge_trap, Charge Trap
+railcraft:frame, Wire Support Frame
+railcraft:steam_turbine:0, Steam Turbine Housing
+railcraft:wire, Charge Shunting Wire
+railcraft:charge:0, Charge Coil
+railcraft:charge:1, Charge Terminal
+railcraft:charge:2, Small Charge Wire Spool
+railcraft:charge:3, Medium Charge Wire Spool
+railcraft:charge:4, Large Charge Wire Spool
+railcraft:charge:5, Charge Motor
+railcraft:charge:6, Nickel Electrode
+railcraft:charge:7, Iron Electrode
+railcraft:charge:8, Zinc Electrode
+railcraft:charge:9, item.railcraft.charge.electrode.carbon.name
+railcraft:charge:10, item.railcraft.charge.electrode.silver.name
+railcraft:tool_charge_meter, Charge Meter
+railcraft:turbine_blade, Turbine Blade
+railcraft:turbine_disk, Turbine Disk
+railcraft:turbine_rotor, Turbine Rotor
+railcraft:worldspike:0, Admin Worldspike
+railcraft:worldspike:1, Passive Worldspike
+railcraft:worldspike:2, Personal Worldspike
+railcraft:worldspike:3, Standard Worldspike
+railcraft:worldspike_point, Worldspike Point
+railcraft:cart_worldspike_standard:0, Standard Worldspike Cart
+railcraft:cart_worldspike_admin:0, Admin Worldspike Cart
+railcraft:cart_worldspike_personal:0, Personal Worldspike Cart
+railcraft:emblem, Emblem
+railcraft:anvil:0, Steel Anvil
+railcraft:anvil:1, Slightly Damaged Steel Anvil
+railcraft:anvil:2, Very Damaged Steel Anvil
+railcraft:fuel_coke, Coal Coke
+railcraft:coke_oven:0, Coke Oven Brick
+railcraft:coke_oven_red:0, tile.railcraft.coke.oven.red.name
+railcraft:blast_furnace:0, Blast Furnace Brick
+railcraft:rock_crusher:0, Rock Crusher
+railcraft:steam_oven:0, Steam Oven
+railcraft:tank_iron_gauge:0, Iron Tank Gauge
+railcraft:tank_iron_gauge:1, Iron Tank Gauge
+railcraft:tank_iron_gauge:2, Iron Tank Gauge
+railcraft:tank_iron_gauge:3, Iron Tank Gauge
+railcraft:tank_iron_gauge:4, Iron Tank Gauge
+railcraft:tank_iron_gauge:5, Iron Tank Gauge
+railcraft:tank_iron_gauge:6, Iron Tank Gauge
+railcraft:tank_iron_gauge:7, Iron Tank Gauge
+railcraft:tank_iron_gauge:8, Iron Tank Gauge
+railcraft:tank_iron_gauge:9, Iron Tank Gauge
+railcraft:tank_iron_gauge:10, Iron Tank Gauge
+railcraft:tank_iron_gauge:11, Iron Tank Gauge
+railcraft:tank_iron_gauge:12, Iron Tank Gauge
+railcraft:tank_iron_gauge:13, Iron Tank Gauge
+railcraft:tank_iron_gauge:14, Iron Tank Gauge
+railcraft:tank_iron_gauge:15, Iron Tank Gauge
+railcraft:tank_iron_valve:0, Iron Tank Valve
+railcraft:tank_iron_valve:1, Iron Tank Valve
+railcraft:tank_iron_valve:2, Iron Tank Valve
+railcraft:tank_iron_valve:3, Iron Tank Valve
+railcraft:tank_iron_valve:4, Iron Tank Valve
+railcraft:tank_iron_valve:5, Iron Tank Valve
+railcraft:tank_iron_valve:6, Iron Tank Valve
+railcraft:tank_iron_valve:7, Iron Tank Valve
+railcraft:tank_iron_valve:8, Iron Tank Valve
+railcraft:tank_iron_valve:9, Iron Tank Valve
+railcraft:tank_iron_valve:10, Iron Tank Valve
+railcraft:tank_iron_valve:11, Iron Tank Valve
+railcraft:tank_iron_valve:12, Iron Tank Valve
+railcraft:tank_iron_valve:13, Iron Tank Valve
+railcraft:tank_iron_valve:14, Iron Tank Valve
+railcraft:tank_iron_valve:15, Iron Tank Valve
+railcraft:tank_iron_wall:0, Iron Tank Wall
+railcraft:tank_iron_wall:1, Iron Tank Wall
+railcraft:tank_iron_wall:2, Iron Tank Wall
+railcraft:tank_iron_wall:3, Iron Tank Wall
+railcraft:tank_iron_wall:4, Iron Tank Wall
+railcraft:tank_iron_wall:5, Iron Tank Wall
+railcraft:tank_iron_wall:6, Iron Tank Wall
+railcraft:tank_iron_wall:7, Iron Tank Wall
+railcraft:tank_iron_wall:8, Iron Tank Wall
+railcraft:tank_iron_wall:9, Iron Tank Wall
+railcraft:tank_iron_wall:10, Iron Tank Wall
+railcraft:tank_iron_wall:11, Iron Tank Wall
+railcraft:tank_iron_wall:12, Iron Tank Wall
+railcraft:tank_iron_wall:13, Iron Tank Wall
+railcraft:tank_iron_wall:14, Iron Tank Wall
+railcraft:tank_iron_wall:15, Iron Tank Wall
+railcraft:tank_steel_gauge:0, Steel Tank Gauge
+railcraft:tank_steel_gauge:1, Steel Tank Gauge
+railcraft:tank_steel_gauge:2, Steel Tank Gauge
+railcraft:tank_steel_gauge:3, Steel Tank Gauge
+railcraft:tank_steel_gauge:4, Steel Tank Gauge
+railcraft:tank_steel_gauge:5, Steel Tank Gauge
+railcraft:tank_steel_gauge:6, Steel Tank Gauge
+railcraft:tank_steel_gauge:7, Steel Tank Gauge
+railcraft:tank_steel_gauge:8, Steel Tank Gauge
+railcraft:tank_steel_gauge:9, Steel Tank Gauge
+railcraft:tank_steel_gauge:10, Steel Tank Gauge
+railcraft:tank_steel_gauge:11, Steel Tank Gauge
+railcraft:tank_steel_gauge:12, Steel Tank Gauge
+railcraft:tank_steel_gauge:13, Steel Tank Gauge
+railcraft:tank_steel_gauge:14, Steel Tank Gauge
+railcraft:tank_steel_gauge:15, Steel Tank Gauge
+railcraft:tank_steel_valve:0, Steel Tank Valve
+railcraft:tank_steel_valve:1, Steel Tank Valve
+railcraft:tank_steel_valve:2, Steel Tank Valve
+railcraft:tank_steel_valve:3, Steel Tank Valve
+railcraft:tank_steel_valve:4, Steel Tank Valve
+railcraft:tank_steel_valve:5, Steel Tank Valve
+railcraft:tank_steel_valve:6, Steel Tank Valve
+railcraft:tank_steel_valve:7, Steel Tank Valve
+railcraft:tank_steel_valve:8, Steel Tank Valve
+railcraft:tank_steel_valve:9, Steel Tank Valve
+railcraft:tank_steel_valve:10, Steel Tank Valve
+railcraft:tank_steel_valve:11, Steel Tank Valve
+railcraft:tank_steel_valve:12, Steel Tank Valve
+railcraft:tank_steel_valve:13, Steel Tank Valve
+railcraft:tank_steel_valve:14, Steel Tank Valve
+railcraft:tank_steel_valve:15, Steel Tank Valve
+railcraft:tank_steel_wall:0, Steel Tank Wall
+railcraft:tank_steel_wall:1, Steel Tank Wall
+railcraft:tank_steel_wall:2, Steel Tank Wall
+railcraft:tank_steel_wall:3, Steel Tank Wall
+railcraft:tank_steel_wall:4, Steel Tank Wall
+railcraft:tank_steel_wall:5, Steel Tank Wall
+railcraft:tank_steel_wall:6, Steel Tank Wall
+railcraft:tank_steel_wall:7, Steel Tank Wall
+railcraft:tank_steel_wall:8, Steel Tank Wall
+railcraft:tank_steel_wall:9, Steel Tank Wall
+railcraft:tank_steel_wall:10, Steel Tank Wall
+railcraft:tank_steel_wall:11, Steel Tank Wall
+railcraft:tank_steel_wall:12, Steel Tank Wall
+railcraft:tank_steel_wall:13, Steel Tank Wall
+railcraft:tank_steel_wall:14, Steel Tank Wall
+railcraft:tank_steel_wall:15, Steel Tank Wall
+railcraft:tank_water:0, Water Tank Siding
+railcraft:chest_metals:0, Metals Chest
+railcraft:cart_chest_metals:0, Metals Chest Cart
+railcraft:firestone_cracked, Cracked Firestone
+railcraft:firestone_cut, Cut Firestone
+railcraft:firestone_raw, Raw Firestone
+railcraft:firestone_refined, Refined Firestone
+railcraft:cart_redstone_flux:0, Redstone Flux Cart
+railcraft:flux_transformer:0, Flux Transformer
+railcraft:metal:0, Block of Copper
+railcraft:metal:1, Block of Tin
+railcraft:metal:2, Block of Lead
+railcraft:metal:4, Block of Silver
+railcraft:metal:3, Block of Steel
+railcraft:metal:5, Block of Bronze
+railcraft:metal:6, Block of Nickel
+railcraft:metal:7, Block of Invar
+railcraft:metal:8, Block of Zinc
+railcraft:metal:9, Block of Brass
+railcraft:fluid_bottle_creosote, Creosote Bottle
+railcraft:fluid_bottle_steam, Steam Bottle
+railcraft:nugget:0, Steel Nugget
+railcraft:nugget:1, Copper Nugget
+railcraft:nugget:2, Tin Nugget
+railcraft:nugget:3, Lead Nugget
+railcraft:nugget:4, Silver Nugget
+railcraft:nugget:5, Bronze Nugget
+railcraft:nugget:6, Nickel Nugget
+railcraft:nugget:7, Invar Nugget
+railcraft:nugget:8, Zinc Nugget
+railcraft:nugget:9, Brass Nugget
+railcraft:ingot:0, Steel Ingot
+railcraft:ingot:1, Copper Ingot
+railcraft:ingot:2, Tin Ingot
+railcraft:ingot:3, Lead Ingot
+railcraft:ingot:4, Silver Ingot
+railcraft:ingot:5, Bronze Ingot
+railcraft:ingot:6, Nickel Ingot
+railcraft:ingot:7, Invar Ingot
+railcraft:ingot:8, Zinc Ingot
+railcraft:ingot:9, Brass Ingot
+railcraft:gear:0, Brass Gear
+railcraft:gear:1, Iron Gear
+railcraft:gear:2, Steel Gear
+railcraft:gear:3, Gear Bushing
+railcraft:gear:4, Bronze Gear
+railcraft:gear:5, Invar Gear
+railcraft:plate:0, Iron Plate
+railcraft:plate:1, Steel Plate
+railcraft:plate:2, Tin Plate
+railcraft:plate:3, Copper Plate
+railcraft:plate:4, Lead Plate
+railcraft:plate:5, Silver Plate
+railcraft:plate:6, Bronze Plate
+railcraft:plate:7, Gold Plate
+railcraft:plate:8, Nickel Plate
+railcraft:plate:9, Invar Plate
+railcraft:plate:10, Zinc Plate
+railcraft:plate:11, Brass Plate
+railcraft:dust:0, Obsidian Dust
+railcraft:dust:1, Sulphur
+railcraft:dust:2, Saltpeter
+railcraft:dust:3, Charcoal Dust
+railcraft:dust:4, Ground Blast Furnace Slag
+railcraft:dust:5, Coal Dust
+railcraft:dust:6, Ender Powder
+railcraft:dust:7, Void Powder
+railcraft:tool_crowbar_seasons, Crowbar of Seasons
+railcraft:cart_pumpkin:0, Pumpkin Cart
+railcraft:cart_gift:0, Gift Cart
+railcraft:signal:0, Block Signal
+railcraft:signal:1, Distant Signal
+railcraft:signal:2, Token Signal
+railcraft:signal_dual:0, Dual-Head Block Signal
+railcraft:signal_dual:1, Dual-Head Distant Signal
+railcraft:signal_dual:2, Dual-Head Token Signal
+railcraft:signal_box:2, Signal Controller Box
+railcraft:signal_box:4, Signal Receiver Box
+railcraft:signal_box:0, Analog Signal Controller Box
+railcraft:signal_box:1, Signal Capacitor Box
+railcraft:signal_box:3, Signal Interlock Box
+railcraft:signal_box:6, Signal Sequencer Box
+railcraft:signal_box:5, Signal Block Relay Box
+railcraft:tool_signal_surveyor:0, Signal Surveyor
+railcraft:tool_signal_tuner:0, Signal Tuner
+railcraft:signal_lamp, Signal Lamp
+railcraft:tool_signal_label, Signal Label
+railcraft:circuit:0, Controller Circuit
+railcraft:circuit:1, Receiver Circuit
+railcraft:circuit:2, Signal Circuit
+railcraft:circuit:3, Radio Circuit
+railcraft:admin_steam_producer:0, Admin Steam Producer
+railcraft:boiler_firebox_fluid:0, Fluid Fueled Boiler Firebox
+railcraft:boiler_firebox_solid:0, Solid Fueled Boiler Firebox
+railcraft:boiler_tank_pressure_high:0, High Pressure Boiler Tank
+railcraft:boiler_tank_pressure_low:0, Low Pressure Boiler Tank
+railcraft:brick_abyssal:0, Abyssal Brick
+railcraft:brick_abyssal:1, Fitted Abyssal Stone
+railcraft:brick_abyssal:2, Abyssal Block
+railcraft:brick_abyssal:3, Ornate Abyssal Stone
+railcraft:brick_abyssal:4, Etched Abyssal Stone
+railcraft:brick_abyssal:5, Abyssal Cobblestone
+railcraft:brick_bleachedbone:0, Bleached Bone Brick
+railcraft:brick_bleachedbone:1, Fitted Bleached Bone Stone
+railcraft:brick_bleachedbone:2, Bleached Bone Block
+railcraft:brick_bleachedbone:3, Ornate Bleached Bone Stone
+railcraft:brick_bleachedbone:4, Etched Bleached Bone Stone
+railcraft:brick_bleachedbone:5, Bleached Bone Cobblestone
+railcraft:brick_bloodstained:0, Blood Stained Brick
+railcraft:brick_bloodstained:1, Fitted Blood Stained Stone
+railcraft:brick_bloodstained:2, Blood Stained Block
+railcraft:brick_bloodstained:3, Ornate Blood Stained Stone
+railcraft:brick_bloodstained:4, Etched Blood Stained Stone
+railcraft:brick_bloodstained:5, Blood Stained Cobblestone
+railcraft:brick_frostbound:0, Frost Bound Brick
+railcraft:brick_frostbound:1, Fitted Frost Bound Stone
+railcraft:brick_frostbound:2, Frost Bound Block
+railcraft:brick_frostbound:3, Ornate Frost Bound Stone
+railcraft:brick_frostbound:4, Etched Frost Bound Stone
+railcraft:brick_frostbound:5, Frost Bound Cobblestone
+railcraft:brick_infernal:0, Infernal Brick
+railcraft:brick_infernal:1, Fitted Infernal Stone
+railcraft:brick_infernal:2, Infernal Block
+railcraft:brick_infernal:3, Ornate Infernal Stone
+railcraft:brick_infernal:4, Etched Infernal Stone
+railcraft:brick_infernal:5, Infernal Cobblestone
+railcraft:brick_quarried:0, Quarried Brick
+railcraft:brick_quarried:1, Fitted Quarried Stone
+railcraft:brick_quarried:2, Quarried Block
+railcraft:brick_quarried:3, Ornate Quarried Stone
+railcraft:brick_quarried:4, Etched Quarried Stone
+railcraft:brick_quarried:5, Quarried Cobblestone
+railcraft:brick_sandy:0, Sandy Brick
+railcraft:brick_sandy:1, Fitted Sandy Stone
+railcraft:brick_sandy:2, Sandy Block
+railcraft:brick_sandy:3, Ornate Sandy Stone
+railcraft:brick_sandy:4, Etched Sandy Stone
+railcraft:brick_sandy:5, Sandy Cobblestone
+railcraft:brick_red_sandy:0, Red Sandy Brick
+railcraft:brick_red_sandy:1, Fitted Red Sandy Stone
+railcraft:brick_red_sandy:2, Red Sandy Block
+railcraft:brick_red_sandy:3, Ornate Red Sandy Stone
+railcraft:brick_red_sandy:4, Etched Red Sandy Stone
+railcraft:brick_red_sandy:5, Red Sandy Cobblestone
+railcraft:brick_nether:0, Nether Brick
+railcraft:brick_nether:1, Fitted Nether Stone
+railcraft:brick_nether:2, Nether Block
+railcraft:brick_nether:3, Ornate Nether Stone
+railcraft:brick_nether:4, Etched Nether Stone
+railcraft:brick_nether:5, Nether Cobblestone
+railcraft:brick_red_nether:0, Red Nether Brick
+railcraft:brick_red_nether:1, Fitted Red Nether Stone
+railcraft:brick_red_nether:2, Red Nether Block
+railcraft:brick_red_nether:3, Ornate Red Nether Stone
+railcraft:brick_red_nether:4, Etched Red Nether Stone
+railcraft:brick_red_nether:5, Red Nether Cobblestone
+railcraft:brick_andesite:0, Andesite Brick
+railcraft:brick_andesite:1, Fitted Andesite
+railcraft:brick_andesite:6, Polished Andesite
+railcraft:brick_andesite:3, Ornate Andesite
+railcraft:brick_andesite:4, Etched Andesite
+railcraft:brick_andesite:5, Andesite Cobblestone
+railcraft:brick_diorite:0, Diorite Brick
+railcraft:brick_diorite:1, Fitted Diorite
+railcraft:brick_diorite:4, Polished Diorite
+railcraft:brick_diorite:3, Ornate Diorite
+railcraft:brick_diorite:4, Etched Diorite
+railcraft:brick_diorite:5, Diorite Cobblestone
+railcraft:brick_granite:0, Granite Brick
+railcraft:brick_granite:1, Fitted Granite
+railcraft:brick_granite:2, Polished Granite
+railcraft:brick_granite:3, Ornate Granite
+railcraft:brick_granite:4, Etched Granite
+railcraft:brick_granite:5, Granite Cobblestone
+railcraft:brick_pearlized:0, Pearlized Brick
+railcraft:brick_pearlized:1, Fitted Pearlized Stone
+railcraft:brick_pearlized:2, Pearlized Block
+railcraft:brick_pearlized:3, Ornate Pearlized Stone
+railcraft:brick_pearlized:4, Etched Pearlized Stone
+railcraft:brick_pearlized:5, Pearlized Cobblestone
+railcraft:tool_stone_carver, Stone Carver
+railcraft:concrete, Bag of Cement
+railcraft:glass:0, Strengthened Glass
+railcraft:glass:1, Orange Strengthened Glass
+railcraft:glass:2, Magenta Strengthened Glass
+railcraft:glass:3, Light Blue Strengthened Glass
+railcraft:glass:4, Yellow Strengthened Glass
+railcraft:glass:5, Lime Strengthened Glass
+railcraft:glass:6, Pink Strengthened Glass
+railcraft:glass:7, Gray Strengthened Glass
+railcraft:glass:8, Light Gray Strengthened Glass
+railcraft:glass:9, Cyan Strengthened Glass
+railcraft:glass:10, Purple Strengthened Glass
+railcraft:glass:11, Blue Strengthened Glass
+railcraft:glass:12, Brown Strengthened Glass
+railcraft:glass:13, Green Strengthened Glass
+railcraft:glass:14, Red Strengthened Glass
+railcraft:glass:15, Black Strengthened Glass
+railcraft:generic:5, Creosote Wood Block
+railcraft:generic:6, Block of Coal Coke
+railcraft:generic:7, Crushed Obsidian
+railcraft:generic:8, Abyssal Stone
+railcraft:generic:9, Quarried Stone
+railcraft:reinforced_concrete:0, White Reinforced Concrete
+railcraft:reinforced_concrete:1, Orange Reinforced Concrete
+railcraft:reinforced_concrete:2, Magenta Reinforced Concrete
+railcraft:reinforced_concrete:3, Light Blue Reinforced Concrete
+railcraft:reinforced_concrete:4, Yellow Reinforced Concrete
+railcraft:reinforced_concrete:5, Lime Reinforced Concrete
+railcraft:reinforced_concrete:6, Pink Reinforced Concrete
+railcraft:reinforced_concrete:7, Gray Reinforced Concrete
+railcraft:reinforced_concrete:8, Reinforced Concrete
+railcraft:reinforced_concrete:9, Cyan Reinforced Concrete
+railcraft:reinforced_concrete:10, Purple Reinforced Concrete
+railcraft:reinforced_concrete:11, Blue Reinforced Concrete
+railcraft:reinforced_concrete:12, Brown Reinforced Concrete
+railcraft:reinforced_concrete:13, Green Reinforced Concrete
+railcraft:reinforced_concrete:14, Red Reinforced Concrete
+railcraft:reinforced_concrete:15, Black Reinforced Concrete
+railcraft:post_metal:0, White Metal Post
+railcraft:post_metal:1, Orange Metal Post
+railcraft:post_metal:2, Magenta Metal Post
+railcraft:post_metal:3, Light Blue Metal Post
+railcraft:post_metal:4, Yellow Metal Post
+railcraft:post_metal:5, Lime Metal Post
+railcraft:post_metal:6, Pink Metal Post
+railcraft:post_metal:7, Gray Metal Post
+railcraft:post_metal:8, Light Gray Metal Post
+railcraft:post_metal:9, Cyan Metal Post
+railcraft:post_metal:10, Purple Metal Post
+railcraft:post_metal:11, Blue Metal Post
+railcraft:post_metal:12, Brown Metal Post
+railcraft:post_metal:13, Green Metal Post
+railcraft:post_metal:14, Red Metal Post
+railcraft:post_metal:15, Black Metal Post
+railcraft:post_metal_platform:0, White Metal Platform
+railcraft:post_metal_platform:1, Orange Metal Platform
+railcraft:post_metal_platform:2, Magenta Metal Platform
+railcraft:post_metal_platform:3, Light Blue Metal Platform
+railcraft:post_metal_platform:4, Yellow Metal Platform
+railcraft:post_metal_platform:5, Lime Metal Platform
+railcraft:post_metal_platform:6, Pink Metal Platform
+railcraft:post_metal_platform:7, Gray Metal Platform
+railcraft:post_metal_platform:8, Light Gray Metal Platform
+railcraft:post_metal_platform:9, Cyan Metal Platform
+railcraft:post_metal_platform:10, Purple Metal Platform
+railcraft:post_metal_platform:11, Blue Metal Platform
+railcraft:post_metal_platform:12, Brown Metal Platform
+railcraft:post_metal_platform:13, Green Metal Platform
+railcraft:post_metal_platform:14, Red Metal Platform
+railcraft:post_metal_platform:15, Black Metal Platform
+railcraft:track_kit:1, Activator Track Kit
+railcraft:track_kit:2, Booster Track Kit
+railcraft:track_kit:3, Buffer Stop Track Kit
+railcraft:track_kit:4, Control Track Kit
+railcraft:track_kit:5, Detector Track Kit
+railcraft:track_kit:6, Disembarking Track Kit
+railcraft:track_kit:7, Dumping Track Kit
+railcraft:track_kit:8, Embarking Track Kit
+railcraft:track_kit:9, Gated Track Kit
+railcraft:track_kit:10, Locking Track Kit
+railcraft:track_kit:11, One-Way Track Kit
+railcraft:track_kit:15, Messenger Track Kit
+railcraft:track_kit:16, Delayed Locking Track Kit
+railcraft:track_kit:17, Priming Track Kit
+railcraft:track_kit:18, Launcher Track Kit
+railcraft:track_kit:19, Whistle Track Kit
+railcraft:track_kit:20, Locomotive Track Kit
+railcraft:track_kit:21, Throttle Track Kit
+railcraft:track_kit:22, Routing Track Kit
+railcraft:track_kit:23, Transition Track Kit
+railcraft:track_kit:24, Coupler Track Kit
+railcraft:tool_spike_maul_iron, Iron Spike Maul
+railcraft:tool_spike_maul_steel, Steel Spike Maul
+railcraft:railbed:0, Wooden Railbed
+railcraft:railbed:1, Stone Railbed
+railcraft:track_parts, Track Parts
+railcraft:actuator:0, Switch Actuator Lever
+railcraft:actuator:1, Switch Actuator Motor
+railcraft:actuator:2, Routing Switch Actuator Motor
+railcraft:cart_tnt_wood:0, Wooden TNT Cart
+railcraft:track_elevator, Elevator Track
+railcraft:logbook, Logbook
+railcraft:tool_whistle_tuner, Whistle Tuner
+railcraft:routing_table, Routing Table
+railcraft:routing_ticket, Railway Ticket
+railcraft:routing_ticket_gold, Golden Railway Ticket
+railcraft:track_flex_abandoned, Abandoned Track
+railcraft:track_flex_electric, Electric Track
+railcraft:track_flex_high_speed, High Speed Track
+railcraft:track_flex_hs_electric, High Speed Electric Track
+railcraft:track_flex_reinforced, Reinforced Track
+railcraft:track_flex_strap_iron, Strap Iron Track
+railcraft:cart_cargo:0, Cargo Cart
+railcraft:cart_tank:0, Tank Cart
+railcraft:chest_void:0, Void Chest
+railcraft:cart_chest_void:0, Void Chest Cart
+railcraft:ore:0, Sulphur Ore
+railcraft:ore:1, Saltpeter Ore
+railcraft:ore:2, Dark Diamond Ore
+railcraft:ore:3, Dark Emerald Ore
+railcraft:ore:4, Dark Lapis Lazuli Ore
+railcraft:ore_metal:0, Copper Ore
+railcraft:ore_metal:1, Tin Ore
+railcraft:ore_metal:2, Lead Ore
+railcraft:ore_metal:3, Silver Ore
+railcraft:ore_metal:4, Nickel Ore
+railcraft:ore_metal:5, Zinc Ore
+railcraft:ore_metal_poor:0, Poor Iron Ore
+railcraft:ore_metal_poor:1, Poor Gold Ore
+railcraft:ore_metal_poor:2, Poor Copper Ore
+railcraft:ore_metal_poor:3, Poor Tin Ore
+railcraft:ore_metal_poor:4, Poor Lead Ore
+railcraft:ore_metal_poor:5, Poor Silver Ore
+railcraft:ore_metal_poor:6, Poor Nickel Ore
+railcraft:ore_metal_poor:7, Poor Zinc Ore
+railcraft:ore_magic:0, Firestone Ore
+railcraft:worldlogic, Saltpeter Ore Spawner
 computronics:iron_note_block, Iron Note Block
 computronics:audio_cable, Audio Cable
 computronics:speaker, Speaker
@@ -1793,6 +2324,12 @@ computronics:tape:6, Cassette Tape
 computronics:tape:8, Cassette Tape
 computronics:parts:0, Tape Track
 computronics:portable_tape_drive, Portable Tape Drive
+computronics:locomotive_relay, Digital Locomotive Relay
+computronics:relay_sensor, Digital Relay Sensor
+computronics:digital_box:0, Digital Signal Receiver Box
+computronics:digital_box:1, Digital Signal Controller Box
+computronics:digital_detector, Cart Detector - Digital
+computronics:ticket_machine, Ticket Machine
 computronics:oc_parts:0, Camera Upgrade
 computronics:oc_parts:1, Chat Upgrade
 computronics:oc_parts:2, Radar Upgrade
@@ -6033,6 +6570,148 @@ appliedenergistics2:facade:0, Cable Facade - Orange Rockwool
 appliedenergistics2:facade:0, Cable Facade - White Rockwool
 appliedenergistics2:facade:0, Cable Facade - Block of Chamelium
 appliedenergistics2:facade:0, Cable Facade - End Stone
+appliedenergistics2:facade:0, Cable Facade - Nickel-Iron Battery
+appliedenergistics2:facade:0, Cable Facade - Nickel-Zinc Battery
+appliedenergistics2:facade:0, Cable Facade - Zinc-Carbon Battery
+appliedenergistics2:facade:0, Cable Facade - Zinc-Silver Battery
+appliedenergistics2:facade:0, Cable Facade - Charge Trap
+appliedenergistics2:facade:0, Cable Facade - Worldspike Point
+appliedenergistics2:facade:0, Cable Facade - Block of Copper
+appliedenergistics2:facade:0, Cable Facade - Block of Tin
+appliedenergistics2:facade:0, Cable Facade - Block of Lead
+appliedenergistics2:facade:0, Cable Facade - Block of Silver
+appliedenergistics2:facade:0, Cable Facade - Block of Steel
+appliedenergistics2:facade:0, Cable Facade - Block of Bronze
+appliedenergistics2:facade:0, Cable Facade - Block of Nickel
+appliedenergistics2:facade:0, Cable Facade - Block of Invar
+appliedenergistics2:facade:0, Cable Facade - Block of Zinc
+appliedenergistics2:facade:0, Cable Facade - Block of Brass
+appliedenergistics2:facade:0, Cable Facade - Abyssal Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Abyssal Stone
+appliedenergistics2:facade:0, Cable Facade - Abyssal Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Abyssal Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Abyssal Stone
+appliedenergistics2:facade:0, Cable Facade - Abyssal Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Bleached Bone Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Bleached Bone Stone
+appliedenergistics2:facade:0, Cable Facade - Bleached Bone Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Bleached Bone Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Bleached Bone Stone
+appliedenergistics2:facade:0, Cable Facade - Bleached Bone Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Blood Stained Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Blood Stained Stone
+appliedenergistics2:facade:0, Cable Facade - Blood Stained Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Blood Stained Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Blood Stained Stone
+appliedenergistics2:facade:0, Cable Facade - Blood Stained Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Frost Bound Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Frost Bound Stone
+appliedenergistics2:facade:0, Cable Facade - Frost Bound Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Frost Bound Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Frost Bound Stone
+appliedenergistics2:facade:0, Cable Facade - Frost Bound Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Infernal Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Infernal Stone
+appliedenergistics2:facade:0, Cable Facade - Infernal Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Infernal Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Infernal Stone
+appliedenergistics2:facade:0, Cable Facade - Infernal Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Quarried Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Quarried Stone
+appliedenergistics2:facade:0, Cable Facade - Quarried Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Quarried Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Quarried Stone
+appliedenergistics2:facade:0, Cable Facade - Quarried Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Sandy Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Sandy Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Sandy Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Red Sandy Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Red Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Red Sandy Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Red Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Red Sandy Stone
+appliedenergistics2:facade:0, Cable Facade - Red Sandy Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Nether Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Nether Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Red Nether Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Red Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Red Nether Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Red Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Red Nether Stone
+appliedenergistics2:facade:0, Cable Facade - Red Nether Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Andesite Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Andesite
+appliedenergistics2:facade:0, Cable Facade - Polished Andesite
+appliedenergistics2:facade:0, Cable Facade - Ornate Andesite
+appliedenergistics2:facade:0, Cable Facade - Etched Andesite
+appliedenergistics2:facade:0, Cable Facade - Andesite Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Diorite Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Diorite
+appliedenergistics2:facade:0, Cable Facade - Polished Diorite
+appliedenergistics2:facade:0, Cable Facade - Ornate Diorite
+appliedenergistics2:facade:0, Cable Facade - Etched Diorite
+appliedenergistics2:facade:0, Cable Facade - Diorite Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Granite Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Granite
+appliedenergistics2:facade:0, Cable Facade - Polished Granite
+appliedenergistics2:facade:0, Cable Facade - Ornate Granite
+appliedenergistics2:facade:0, Cable Facade - Etched Granite
+appliedenergistics2:facade:0, Cable Facade - Granite Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Pearlized Brick
+appliedenergistics2:facade:0, Cable Facade - Fitted Pearlized Stone
+appliedenergistics2:facade:0, Cable Facade - Pearlized Block
+appliedenergistics2:facade:0, Cable Facade - Ornate Pearlized Stone
+appliedenergistics2:facade:0, Cable Facade - Etched Pearlized Stone
+appliedenergistics2:facade:0, Cable Facade - Pearlized Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Creosote Wood Block
+appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
+appliedenergistics2:facade:0, Cable Facade - Crushed Obsidian
+appliedenergistics2:facade:0, Cable Facade - Abyssal Stone
+appliedenergistics2:facade:0, Cable Facade - Quarried Stone
+appliedenergistics2:facade:0, Cable Facade - White Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Orange Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Magenta Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Light Blue Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Yellow Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Lime Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Pink Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Gray Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Cyan Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Purple Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Blue Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Brown Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Green Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Red Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Black Reinforced Concrete
+appliedenergistics2:facade:0, Cable Facade - Sulphur Ore
+appliedenergistics2:facade:0, Cable Facade - Saltpeter Ore
+appliedenergistics2:facade:0, Cable Facade - Dark Diamond Ore
+appliedenergistics2:facade:0, Cable Facade - Dark Emerald Ore
+appliedenergistics2:facade:0, Cable Facade - Dark Lapis Lazuli Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Zinc Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Iron Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Gold Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Lead Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Silver Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Nickel Ore
+appliedenergistics2:facade:0, Cable Facade - Poor Zinc Ore
+appliedenergistics2:facade:0, Cable Facade - Firestone Ore
+appliedenergistics2:facade:0, Cable Facade - Saltpeter Ore Spawner
 appliedenergistics2:facade:0, Cable Facade - Copper Ore
 appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Lead Ore
@@ -8214,9 +8893,9 @@ appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
 appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -9357,8 +10036,6 @@ cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 craftingstation:crafting_station, Crafting Station
-doggytalents:dog_bath, Dog Bath
-doggytalents:food_bowl, Food Bowl
 doggytalents:throw_bone, Throw Bone
 doggytalents:throw_bone_wet, Drool Throw Bone
 doggytalents:throw_stick, Throw Stick
@@ -9387,24 +10064,8 @@ doggytalents:leather_jacket, Leather Jacket
 doggytalents:tiny_bone, Tiny Bone
 doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
+doggytalents:dog_bath, Dog Bath
+doggytalents:food_bowl, Food Bowl
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -9525,6 +10186,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
@@ -9637,49 +10316,32 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:alarm, Alarm
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:security_terminal, Security Terminal
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:card_writer, Card Writer
-opensecurity:rfid_reader, RFID Reader
-opensecurity:data_block, Data Block
-opensecurity:energy_turret, Energy Turret
-opensecurity:keypad, Keypad
 opensecurity:entity_detector, Entity Detector
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:biometric_reader, Biometric Reader
+opensecurity:data_block, Data Block
+opensecurity:alarm, Alarm
+opensecurity:security_terminal, Security Terminal
+opensecurity:card_writer, Card Writer
+opensecurity:keypad, Keypad
+opensecurity:energy_turret, Energy Turret
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:rfid_reader, RFID Reader
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:door_controller, Door Controller
-opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:nanofog, NanoFog
 opensecurity:rolldoor, Rolldoor
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:nanodna, NanoDNA
-opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:door_controller, Door Controller
+opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:rfid_card, RFID Card
 opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
 opensecurity:damage_upgrade, Damage Upgrade
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
-pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
-pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
-pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
-pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
-pneumaticcraft:heat_frame, Heat Frame
-pneumaticcraft:spawner_agitator, Spawner Agitator
-pneumaticcraft:crop_support, Crop Support
-pneumaticcraft:transfer_gadget, Transfer Gadget
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:nanodna, NanoDNA
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -9837,6 +10499,23 @@ pneumaticcraft:regulator_tube_module, Regulator Tube Module
 pneumaticcraft:charging_module, Charging Module
 pneumaticcraft:logistics_module, Logistics Module
 pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -10287,6 +10966,131 @@ chiselsandbits:block_bit:0, Chiseled Bit - Orange Rockwool
 chiselsandbits:block_bit:0, Chiseled Bit - White Rockwool
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Chamelium
 chiselsandbits:block_bit:0, Chiseled Bit - End Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Copper
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Tin
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Lead
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Silver
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Steel
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Bronze
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Nickel
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Invar
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Zinc
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Brass
+chiselsandbits:block_bit:0, Chiseled Bit - Abyssal Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Abyssal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Abyssal Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Abyssal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Abyssal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Abyssal Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Bleached Bone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Bleached Bone Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Bleached Bone Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Bleached Bone Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Bleached Bone Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Bleached Bone Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Blood Stained Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Blood Stained Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Blood Stained Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Blood Stained Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Blood Stained Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Blood Stained Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Frost Bound Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Frost Bound Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Frost Bound Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Frost Bound Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Frost Bound Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Frost Bound Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Infernal Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Infernal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Infernal Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Infernal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Infernal Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Infernal Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Quarried Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Quarried Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Quarried Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Quarried Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Quarried Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Quarried Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Sandy Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Sandy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Sandy Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandy Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Red Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandy Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Red Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Red Sandy Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Sandy Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Nether Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Nether Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Red Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Nether Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Red Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Red Nether Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Red Nether Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Andesite Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Andesite
+chiselsandbits:block_bit:0, Chiseled Bit - Andesite Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Diorite Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Diorite
+chiselsandbits:block_bit:0, Chiseled Bit - Diorite Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Granite Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Polished Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Granite
+chiselsandbits:block_bit:0, Chiseled Bit - Granite Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - Pearlized Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Fitted Pearlized Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Pearlized Block
+chiselsandbits:block_bit:0, Chiseled Bit - Ornate Pearlized Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Etched Pearlized Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Pearlized Cobblestone
+chiselsandbits:block_bit:0, Chiseled Bit - White Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Orange Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Magenta Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Yellow Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Lime Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Pink Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Gray Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Cyan Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Purple Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Blue Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Brown Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Green Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Red Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Black Reinforced Concrete
+chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Lead Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Silver Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Nickel Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Zinc Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Iron Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Gold Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Copper Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Tin Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Lead Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Silver Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Nickel Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Poor Zinc Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Firestone Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Rusty Ladder
 chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
@@ -12619,8 +13423,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -12628,6 +13432,8 @@ chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
+chiselsandbits:block_bit:0, Chiseled Bit - Steam
+chiselsandbits:block_bit:0, Chiseled Bit - Creosote
 chiselsandbits:block_bit:0, Chiseled Bit - Crude Oil
 chiselsandbits:block_bit:0, Chiseled Bit - Destabilized Redstone
 chiselsandbits:block_bit:0, Chiseled Bit - Energized Glowstone
@@ -14166,20 +14972,20 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-retrocomputers:retinal_scanner, Retinal Scanner
-retrocomputers:terminal, Terminal
-retrocomputers:radio, Wireless Transceiver
-retrocomputers:ribbon_cable, Ribbon Cable
-quacklib:multiblock_test, tile.quacklib:multiblock_test.name
-retrocomputers:computer, Computer
-retrocomputers:backplane, Backplane
 retrocomputers:disk_drive, Disk Drive
-retrocomputers:redstone_port_analog, Analog Redstone Port
+retrocomputers:computer, Computer
+retrocomputers:radio, Wireless Transceiver
 retrocomputers:memory, 8K RAM Module
-quacklib:wrench, Wrench
+retrocomputers:backplane, Backplane
+quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:ribbon_cable, Ribbon Cable
+retrocomputers:terminal, Terminal
+retrocomputers:redstone_port_analog, Analog Redstone Port
 retrocomputers:debug, Debug Item
 retrocomputers:screwdriver, Screwdriver
 retrocomputers:cpu, XC8010 CPU
+quacklib:wrench, Wrench
 retrocomputers:writable_disk, Floppy Disk
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
@@ -14209,6 +15015,14 @@ storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
 zettaindustries:rfmeterblock, FU Meter
 zettaindustries:variableredstoneemitter, Variable Redstone Emitter
+zettaindustries:charcoalblock, Block of Charcoal
+zettaindustries:nfcprogrammer, NFC Programmer
+zettaindustries:nfcreader, NFC Reader
+zettaindustries:itemcardnfc, NFC Card
+zettaindustries:itemprivatecardnfc, Private NFC Card
+zettaindustries:smartcard, Smart Card [WIP]
+zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -14218,14 +15032,6 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
-zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:nfcprogrammer, NFC Programmer
-zettaindustries:nfcreader, NFC Reader
-zettaindustries:itemcardnfc, NFC Card
-zettaindustries:itemprivatecardnfc, Private NFC Card
-zettaindustries:smartcard, Smart Card [WIP]
-zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
@@ -14255,7 +15061,7 @@ openentity:upgradeendertank, Upgrade Ender Tank
 openentity:upgraderange, Upgrade Range
 openentity:upgradecapacity_fe, Upgrade Capacity (FE/RF)
 openentity:upgradetransferrate_fe, Upgrade Transferrate (FE/RF)
+openglasses:openglasses:0, AR Glasses
+openglasses:openglasses:0, AR Glasses
 openglasses:openglasses_card, Glasses Terminal Card
 openglasses:openglassesterminal, Glasses Terminal
-openglasses:openglasses:0, AR Glasses
-openglasses:openglasses:0, AR Glasses
