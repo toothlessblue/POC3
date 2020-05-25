@@ -99,6 +99,6 @@ chunk:
 
 # Distance renderer
 distance:
-  enable: true
+  enable: false
   mode: SIMPLE
   color: '0xFF_FF_AA_00'
