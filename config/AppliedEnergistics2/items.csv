@@ -10730,31 +10730,47 @@ openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
 opensecurity:data_block, Data Block
-opensecurity:security_terminal, Security Terminal
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:entity_detector, Entity Detector
+opensecurity:mag_reader, Magnetic Card Reader
 opensecurity:alarm, Alarm
+opensecurity:keypad, Keypad
 opensecurity:biometric_reader, Biometric Reader
+opensecurity:entity_detector, Entity Detector
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:rolldoor_element, Rolldoor Element
 opensecurity:card_writer, Card Writer
 opensecurity:energy_turret, Energy Turret
-opensecurity:keypad, Keypad
 opensecurity:rfid_reader, RFID Reader
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:security_terminal, Security Terminal
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:nanofog, NanoFog
-opensecurity:rolldoor, Rolldoor
 opensecurity:door_controller, Door Controller
+opensecurity:rolldoor, Rolldoor
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:mag_card, Magnetic Strip Card
+opensecurity:nanofog, NanoFog
+opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:nanodna, NanoDNA
+opensecurity:mag_card, Magnetic Strip Card
 opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:rfid_card, RFID Card
 opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.kerosene, Kerosene
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10913,22 +10929,6 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -15474,20 +15474,20 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-retrocomputers:redstone_port_analog, Analog Redstone Port
-retrocomputers:ribbon_cable, Ribbon Cable
 retrocomputers:computer, Computer
-retrocomputers:radio, Wireless Transceiver
-retrocomputers:memory, 8K RAM Module
-retrocomputers:terminal, Terminal
-retrocomputers:disk_drive, Disk Drive
-quacklib:multiblock_test, tile.quacklib:multiblock_test.name
 retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:terminal, Terminal
+retrocomputers:memory, 8K RAM Module
+quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:ribbon_cable, Ribbon Cable
+retrocomputers:redstone_port_analog, Analog Redstone Port
 retrocomputers:backplane, Backplane
+retrocomputers:disk_drive, Disk Drive
+retrocomputers:screwdriver, Screwdriver
 quacklib:wrench, Wrench
 retrocomputers:debug, Debug Item
 retrocomputers:writable_disk, Floppy Disk
-retrocomputers:screwdriver, Screwdriver
 retrocomputers:cpu, XC8010 CPU
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
@@ -15515,13 +15515,6 @@ storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
-zettaindustries:nfcprogrammer, NFC Programmer
-zettaindustries:nfcreader, NFC Reader
-zettaindustries:itemcardnfc, NFC Card
-zettaindustries:itemprivatecardnfc, Private NFC Card
-zettaindustries:smartcard, Smart Card [WIP]
-zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:charcoalblock, Block of Charcoal
 zettaindustries:rfmeterblock, FU Meter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
@@ -15534,6 +15527,13 @@ zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
 zettaindustries:variableredstoneemitter, Variable Redstone Emitter
+zettaindustries:nfcprogrammer, NFC Programmer
+zettaindustries:nfcreader, NFC Reader
+zettaindustries:itemcardnfc, NFC Card
+zettaindustries:itemprivatecardnfc, Private NFC Card
+zettaindustries:smartcard, Smart Card [WIP]
+zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
@@ -15563,7 +15563,7 @@ openentity:upgradeendertank, Upgrade Ender Tank
 openentity:upgraderange, Upgrade Range
 openentity:upgradecapacity_fe, Upgrade Capacity (FE/RF)
 openentity:upgradetransferrate_fe, Upgrade Transferrate (FE/RF)
-openglasses:openglasses:0, AR Glasses
-openglasses:openglasses:0, AR Glasses
 openglasses:openglassesterminal, Glasses Terminal
+openglasses:openglasses:0, AR Glasses
+openglasses:openglasses:0, AR Glasses
 openglasses:openglasses_card, Glasses Terminal Card

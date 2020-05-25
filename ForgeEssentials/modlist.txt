@@ -11,6 +11,7 @@ Minecraft Forge;14.23.5.2854;forge-1.12.2-14.23.5.2854.jar;http://minecraftforge
 CreativeCoreDummy;1.0.0;minecraft.jar;
 LittleTilesCore;1.0.0;minecraft.jar;
 Multi-Hotbar Core;1.12.2-1.0.1-build-T22;minecraft.jar;https://github.com/rolandoislas/multi-hotbar-core
+FoamFixCore;7.7.4;minecraft.jar;
 OpenComputers (Core);1.7.5.192;minecraft.jar;https://oc.cil.li/
 TickCentral;2.6;TickCentral-2.6.jar;
 AI Improvements;0.0.1.3;AIImprovements-1.12-0.0.1b3.jar;
@@ -59,9 +60,12 @@ Ender IO Powertools;5.1.55;EnderIO-conduits-1.12.2-5.1.55.jar;http://enderio.com
 Ender IO Open Computers Conduits;5.1.55;EnderIO-conduits-opencomputers-1.12.2-5.1.55.jar;http://enderio.com
 FTB Library;5.4.7.0;FTBLib-5.4.7.0.jar;http://minecraft.curseforge.com/projects/ftblib
 Ender IO Machines;5.1.55;EnderIO-machines-1.12.2-5.1.55.jar;http://enderio.com
+FastAsyncWorldEdit;3.5.1;FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar;
 Fast Leaf Decay;v14;FastLeafDecay-v14.jar;http://minecraft.curseforge.com/projects/fastleafdecay
+FoamFix;0.10.10-1.12.2;foamfix-0.10.10-1.12.2.jar;http://asie.pl/Projects/Minecraft/Mods/FoamFix
 Forge Endertech;1.12.2-4.5.2.0;ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar;https://www.curseforge.com/minecraft/mc-mods/forgeendertech
 ForgeEssentials Client Addon;12.3;forgeessentials-1.12.2-12.3.82-client.jar;
+WorldEdit;6.1.10;worldedit-forge-mc1.12.2-6.1.10-dist.jar;http://wiki.sk89q.com/wiki/WorldEdit
 Forge Essentials;12.3;forgeessentials-1.12.2-12.3.82-server.jar;
 Forge Multipart CBE;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
 Forge Microblocks;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
@@ -113,10 +117,12 @@ Simple Fluid Tanks;1.12.2-1.7.1.3;simplefluidtanks-1.12.2-1.7.1.3.jar;http://min
 Simple Storage Network;1.7.10;SimpleStorageNetwork-1.12.2-1.7.10.jar;https://minecraft.curseforge.com/projects/simple-storage-network
 Sound Filters;0.12_for_1.12;SoundFilters-0.12_for_1.12.jar;
 Surge;2.0.77;Surge-1.12.2-2.0.77.jar;
+Tick Dynamic;1.0.2;TickDynamic-1.12.2-1.0.2.jar;https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic
 Vein Miner;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
 Mod Support;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
 WanionLib;1.12.2-2.4;WanionLib-1.12.2-2.4.jar;http://minecraft.curseforge.com/projects/wanionlib
 What Are We Looking At;2.6.275;Wawla-1.12.2-2.6.275.jar;https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at
+WorldEdit CUI Forge Edition 3;3.0.4;WorldEdit-CUI-FE3-1.12.2-3.0.4.jar;http://github.com/hexomod/WorldEditCUI-Forge-Edition-3
 Zetta Industries;1.3;zettaindustries-1.3-1.12.2-161.jar;http://www.zi.bymarcin.com
 renderToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/renderToolkit
 guiToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/guiToolkit
