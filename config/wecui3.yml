@@ -85,7 +85,7 @@ cui:
 
 # Chunk renderer
 chunk:
-  enable: true
+  enable: false
   mode: 'OFF'
   chunk:
     color: '0x80_FF_00_00'
@@ -100,5 +100,5 @@ chunk:
 # Distance renderer
 distance:
   enable: false
-  mode: SIMPLE
+  mode: 'OFF'
   color: '0xFF_FF_AA_00'
