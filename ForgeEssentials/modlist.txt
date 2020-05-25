@@ -60,7 +60,6 @@ Ender IO Powertools;5.1.55;EnderIO-conduits-1.12.2-5.1.55.jar;http://enderio.com
 Ender IO Open Computers Conduits;5.1.55;EnderIO-conduits-opencomputers-1.12.2-5.1.55.jar;http://enderio.com
 FTB Library;5.4.7.0;FTBLib-5.4.7.0.jar;http://minecraft.curseforge.com/projects/ftblib
 Ender IO Machines;5.1.55;EnderIO-machines-1.12.2-5.1.55.jar;http://enderio.com
-FastAsyncWorldEdit;3.5.1;FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar;
 Fast Leaf Decay;v14;FastLeafDecay-v14.jar;http://minecraft.curseforge.com/projects/fastleafdecay
 FoamFix;0.10.10-1.12.2;foamfix-0.10.10-1.12.2.jar;http://asie.pl/Projects/Minecraft/Mods/FoamFix
 Forge Endertech;1.12.2-4.5.2.0;ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar;https://www.curseforge.com/minecraft/mc-mods/forgeendertech

@@ -6191,163 +6191,6 @@ alchemistry:ingot:116, Livermorium Ingot
 alchemistry:ingot:117, Tennessine Ingot
 alchemistry:ingot:118, Oganesson Ingot
 alchemistry:periodic_diagram, Periodic Diagram
-avp:helm.xeno, Alien Helm
-avp:body.xeno, Alien Chest Armor
-avp:legwear.xeno, Alien Leg Armor
-avp:boots.xeno, Alien Foot Armor
-avp:helm.pressure, Advanced SE Helmet
-avp:body.pressure, Advanced SE Vest
-avp:legwear.pressure, Advanced SE Legwear
-avp:boots.pressure, Advanced SE Boots
-avp:helm.mk50, MK50 Helmet
-avp:body.mk50, MK50 Chest Guard
-avp:legwear.mk50, MK50 Jumpsuit
-avp:boots.mk50, MK50 Boots
-avp:helm.tactical, Tactical Helmet
-avp:body.tactical, Tactical Vest
-avp:legwear.tactical, Tactical Legwear
-avp:boots.tactical, Tactical Boots
-avp:helm.celtic, Biomask
-avp:body.celtic, Celtic Chest Armor
-avp:legwear.celtic, Celtic Leg Armor
-avp:boots.celtic, Celtic Foot Armor
-avp:tool.celtic.shovel, Celtic Shovel
-avp:tool.celtic.pick, Celtic Pickaxe
-avp:tool.celtic.axe, Celtic Axe
-avp:tool.celtic.sword, Celtic Sword
-avp:tool.celtic.hoe, Celtic Hoe
-avp:tool.celtic.spear, Celtic Spear
-avp:wristblade, Wristbracer
-avp:wristbracer.blades, Wristbracer Blades
-avp:stun.baton, Stun Baton
-avp:plasmacannon, Plasma Caster
-avp:mine.laser, Laser Mine
-avp:smartdisc, Smart Disc
-avp:shuriken, Shuriken
-avp:grenade.m40, M40 Grenade
-avp:grenade.incindiary, M40 Incendiary Grenade
-avp:ammo.pistol, Pistol Rounds
-avp:ammo.ar, Assault Rifle Rounds
-avp:ammo.smg, Sub Machine-Gun Rounds
-avp:ammo.sniper, Sniper Rounds
-avp:ammo.flamethrower, Flamethrower Fuel
-avp:gun.m240icu, M240 Incinerator Unit
-avp:gun.flamethrower.nostromo, Incenerator Unit
-avp:gun.pistol, 88Mod4
-avp:gun.m4, M4 Carbine
-avp:gun.sniper, Semi-Automatic Sniper Rifle
-avp:gun.m41a, M41A Pulse Rifle
-avp:gun.m56sg, M56 SmartGun
-avp:gun.ak47, AK47 Assault Rifle
-avp:part.pistol.stock, 88Mod4 Stock
-avp:part.pistol.barrel, 88Mod4 Barrel
-avp:part.pistol.action, 88Mod4 Action
-avp:part.m4.stock, M4 Stock
-avp:part.m4.barrel, M4 Barrel
-avp:part.m4.action, M4 Action
-avp:part.sniper.stock, Sniper Stock
-avp:part.sniper.barrel, Sniper Barrel
-avp:part.sniper.action, Sniper Action
-avp:part.sniper.scope, Sniper Peripherals
-avp:part.sniper.peripherals, Sniper Peripherals
-avp:part.m41a.stock, M41A Stock
-avp:part.m41a.barrel, M41A Barrel
-avp:part.m41a.action, M41A Action
-avp:part.m41a.peripherals, M41A Peripherals
-avp:part.m56sg.stock, M56SG Stock
-avp:part.m56sg.barrel, M56SG Barrel
-avp:part.m56sg.action, M56SG Action
-avp:part.m56sg.supportframe, M56SG Support Frame
-avp:part.m56sg.aimingmodule, M56SG Aiming Module
-avp:part.ak47.stock, AK-47 Stock
-avp:part.ak47.barrel, AK-47 Barrel
-avp:part.ak47.action, AK-47 Action
-avp:food.doritos, Doritos
-avp:food.doritos.coolranch, Doritos (Cool Ranch)
-avp:food.raw.tentacle, Raw Tentacle
-avp:food.trilo.bite, Trilo Bite
-avp:device.nbtdrive, NBT Drive
-avp:part.capacitor, Capacitor
-avp:part.transistor, Transistor
-avp:part.ram, Random Access Memory
-avp:part.resistor, Resistor
-avp:artifact.tech, Yautja Artifact
-avp:part.processor, Microprocessor
-avp:part.solidstatedrive, Solid State Drive
-avp:part.diode, Diode
-avp:part.motherboard, Motherboard
-avp:part.powersupply, Power Supply
-avp:part.led.display, 7 Segment LED Display
-avp:part.regulator, Regulator
-avp:part.led, Light Emitting Diode (LED)
-avp:part.ic, Integrated Circuit
-avp:device.supplychute, Weyland-Yutani Supply Chute
-avp:device.supplychute.marines, USCM Supply Chute
-avp:device.supplychute.seegson, Seegson Supply Chute
-avp:apc, APC
-avp:carbon, Carbon
-avp:cobalt, Cobalt
-avp:neodymium, Neodymium
-avp:neodymium.magnet, item.avp:neodymium.magnet.name
-avp:silicon, Silicon
-avp:ingot.aluminum, Aluminum Ingot
-avp:ingot.copper, Copper Ingot
-avp:polycarbonate, Polycarbonate
-avp:ingot.lithium, Lithium Ingot
-avp:motiontracker, F.E.M.S 5.547.60 Motion Tracker
-avp:royaljelly, Royal Jelly
-avp:blackgoo.item, Black Goo
-avp:phial.goo, Ampule of Goo
-avp:phial.empty, Ampule
-avp:chargepack, Charge Pack
-avp:tool.maintenancejack, Maintenance Jack
-avp:bucket.blackgoo, Bucket of Black Goo
-avp:bucket.mist, Bucket of Reactive Mist
-avp:tool.securitytuner, Security Access Tuner
-avp:rackmodule1, Rack Module 1
-avp:rackmodule2, Rack Module 2
-avp:rackmodule3, Rack Module 3
-avp:rackmodule4, Rack Module 4
-avp:rackmodule5, Rack Module 5
-avp:rackmodule6, Rack Module 6
-avp:rackmodule7, Rack Module 7
-avp:rackmodule8, Rack Module 8
-avp:sporepod, item.avp:sporepod.name
-avp:summon.drone, Xenomorph Drone
-avp:summon.aqua, Nauticomorph
-avp:summon.warrior, Xenomorph Warrior
-avp:summon.crusher, Xenomorph Crusher
-avp:summon.spitter, Xenomorph Spitter
-avp:summon.praetorian, Xenomorph Praetorian
-avp:summon.queen, Xenomorph Queen
-avp:summon.chestburster, Chestburster
-avp:summon.facehugger, Facehugger
-avp:summon.marine, Marine
-avp:summon.ovamorph, Ovamorph (Egg)
-avp:summon.ovamorph.giger, Ovamorph (Egg, Giger)
-avp:summon.royalfacehugger, Royal Facehugger
-avp:summon.yautja.warrior, Yautja (Predator)
-avp:summon.predalien, Predalien
-avp:summon.synthetic.combat, Combat Synthetic
-avp:summon.deacon, Deacon
-avp:summon.deacon.adult, Adult Common Deacon
-avp:summon.hammerpede, Hammerpede
-avp:summon.trilobite, Trilobite
-avp:summon.yautja.berserker, Berserker Yautja
-avp:summon.spacejockey, SpaceJockey
-avp:summon.engineer, Engineer
-avp:summon.deaconshark, Deacon Shark
-avp:summon.runner.drone, Xenomorph Runner
-avp:summon.runner.warrior, Xenomorph Runner Warrior
-avp:summon.ultramorph, Ultramorph
-avp:summon.goomutant, Goo Mutant
-avp:summon.aethon, Aethon
-avp:summon.octohugger, Octohugger
-avp:summon.belugaburster, Belugaburster
-avp:summon.belugamorph, Belugamorph
-avp:summon.chestburster.predalien, Predalien Chestburster
-avp:summon.chestburster.queen, Queen Chestburster
-avp:summon.chestburster.runner, Runner Chestburster
 avp:hiveresin, Hive Resin
 avp:hiveresin.standard, Hive Resin (Standard)
 avp:tileovamorphdesign, Ovamorph Hieroglyphics Design
@@ -6511,6 +6354,163 @@ avp:ridge, Reflective Ridge
 avp:pyramid, Reflective Pyramid
 avp:invertedridge, Reflective Inverted Ridge
 avp:invertedpyramid, Relfective Inverted Pyramid
+avp:helm.xeno, Alien Helm
+avp:body.xeno, Alien Chest Armor
+avp:legwear.xeno, Alien Leg Armor
+avp:boots.xeno, Alien Foot Armor
+avp:helm.pressure, Advanced SE Helmet
+avp:body.pressure, Advanced SE Vest
+avp:legwear.pressure, Advanced SE Legwear
+avp:boots.pressure, Advanced SE Boots
+avp:helm.mk50, MK50 Helmet
+avp:body.mk50, MK50 Chest Guard
+avp:legwear.mk50, MK50 Jumpsuit
+avp:boots.mk50, MK50 Boots
+avp:helm.tactical, Tactical Helmet
+avp:body.tactical, Tactical Vest
+avp:legwear.tactical, Tactical Legwear
+avp:boots.tactical, Tactical Boots
+avp:helm.celtic, Biomask
+avp:body.celtic, Celtic Chest Armor
+avp:legwear.celtic, Celtic Leg Armor
+avp:boots.celtic, Celtic Foot Armor
+avp:tool.celtic.shovel, Celtic Shovel
+avp:tool.celtic.pick, Celtic Pickaxe
+avp:tool.celtic.axe, Celtic Axe
+avp:tool.celtic.sword, Celtic Sword
+avp:tool.celtic.hoe, Celtic Hoe
+avp:tool.celtic.spear, Celtic Spear
+avp:wristblade, Wristbracer
+avp:wristbracer.blades, Wristbracer Blades
+avp:stun.baton, Stun Baton
+avp:plasmacannon, Plasma Caster
+avp:mine.laser, Laser Mine
+avp:smartdisc, Smart Disc
+avp:shuriken, Shuriken
+avp:grenade.m40, M40 Grenade
+avp:grenade.incindiary, M40 Incendiary Grenade
+avp:ammo.pistol, Pistol Rounds
+avp:ammo.ar, Assault Rifle Rounds
+avp:ammo.smg, Sub Machine-Gun Rounds
+avp:ammo.sniper, Sniper Rounds
+avp:ammo.flamethrower, Flamethrower Fuel
+avp:gun.m240icu, M240 Incinerator Unit
+avp:gun.flamethrower.nostromo, Incenerator Unit
+avp:gun.pistol, 88Mod4
+avp:gun.m4, M4 Carbine
+avp:gun.sniper, Semi-Automatic Sniper Rifle
+avp:gun.m41a, M41A Pulse Rifle
+avp:gun.m56sg, M56 SmartGun
+avp:gun.ak47, AK47 Assault Rifle
+avp:part.pistol.stock, 88Mod4 Stock
+avp:part.pistol.barrel, 88Mod4 Barrel
+avp:part.pistol.action, 88Mod4 Action
+avp:part.m4.stock, M4 Stock
+avp:part.m4.barrel, M4 Barrel
+avp:part.m4.action, M4 Action
+avp:part.sniper.stock, Sniper Stock
+avp:part.sniper.barrel, Sniper Barrel
+avp:part.sniper.action, Sniper Action
+avp:part.sniper.scope, Sniper Peripherals
+avp:part.sniper.peripherals, Sniper Peripherals
+avp:part.m41a.stock, M41A Stock
+avp:part.m41a.barrel, M41A Barrel
+avp:part.m41a.action, M41A Action
+avp:part.m41a.peripherals, M41A Peripherals
+avp:part.m56sg.stock, M56SG Stock
+avp:part.m56sg.barrel, M56SG Barrel
+avp:part.m56sg.action, M56SG Action
+avp:part.m56sg.supportframe, M56SG Support Frame
+avp:part.m56sg.aimingmodule, M56SG Aiming Module
+avp:part.ak47.stock, AK-47 Stock
+avp:part.ak47.barrel, AK-47 Barrel
+avp:part.ak47.action, AK-47 Action
+avp:food.doritos, Doritos
+avp:food.doritos.coolranch, Doritos (Cool Ranch)
+avp:food.raw.tentacle, Raw Tentacle
+avp:food.trilo.bite, Trilo Bite
+avp:device.nbtdrive, NBT Drive
+avp:part.capacitor, Capacitor
+avp:part.transistor, Transistor
+avp:part.ram, Random Access Memory
+avp:part.resistor, Resistor
+avp:artifact.tech, Yautja Artifact
+avp:part.processor, Microprocessor
+avp:part.solidstatedrive, Solid State Drive
+avp:part.diode, Diode
+avp:part.motherboard, Motherboard
+avp:part.powersupply, Power Supply
+avp:part.led.display, 7 Segment LED Display
+avp:part.regulator, Regulator
+avp:part.led, Light Emitting Diode (LED)
+avp:part.ic, Integrated Circuit
+avp:device.supplychute, Weyland-Yutani Supply Chute
+avp:device.supplychute.marines, USCM Supply Chute
+avp:device.supplychute.seegson, Seegson Supply Chute
+avp:apc, APC
+avp:carbon, Carbon
+avp:cobalt, Cobalt
+avp:neodymium, Neodymium
+avp:neodymium.magnet, item.avp:neodymium.magnet.name
+avp:silicon, Silicon
+avp:ingot.aluminum, Aluminum Ingot
+avp:ingot.copper, Copper Ingot
+avp:polycarbonate, Polycarbonate
+avp:ingot.lithium, Lithium Ingot
+avp:motiontracker, F.E.M.S 5.547.60 Motion Tracker
+avp:royaljelly, Royal Jelly
+avp:blackgoo.item, Black Goo
+avp:phial.goo, Ampule of Goo
+avp:phial.empty, Ampule
+avp:chargepack, Charge Pack
+avp:tool.maintenancejack, Maintenance Jack
+avp:bucket.blackgoo, Bucket of Black Goo
+avp:bucket.mist, Bucket of Reactive Mist
+avp:tool.securitytuner, Security Access Tuner
+avp:rackmodule1, Rack Module 1
+avp:rackmodule2, Rack Module 2
+avp:rackmodule3, Rack Module 3
+avp:rackmodule4, Rack Module 4
+avp:rackmodule5, Rack Module 5
+avp:rackmodule6, Rack Module 6
+avp:rackmodule7, Rack Module 7
+avp:rackmodule8, Rack Module 8
+avp:sporepod, item.avp:sporepod.name
+avp:summon.drone, Xenomorph Drone
+avp:summon.aqua, Nauticomorph
+avp:summon.warrior, Xenomorph Warrior
+avp:summon.crusher, Xenomorph Crusher
+avp:summon.spitter, Xenomorph Spitter
+avp:summon.praetorian, Xenomorph Praetorian
+avp:summon.queen, Xenomorph Queen
+avp:summon.chestburster, Chestburster
+avp:summon.facehugger, Facehugger
+avp:summon.marine, Marine
+avp:summon.ovamorph, Ovamorph (Egg)
+avp:summon.ovamorph.giger, Ovamorph (Egg, Giger)
+avp:summon.royalfacehugger, Royal Facehugger
+avp:summon.yautja.warrior, Yautja (Predator)
+avp:summon.predalien, Predalien
+avp:summon.synthetic.combat, Combat Synthetic
+avp:summon.deacon, Deacon
+avp:summon.deacon.adult, Adult Common Deacon
+avp:summon.hammerpede, Hammerpede
+avp:summon.trilobite, Trilobite
+avp:summon.yautja.berserker, Berserker Yautja
+avp:summon.spacejockey, SpaceJockey
+avp:summon.engineer, Engineer
+avp:summon.deaconshark, Deacon Shark
+avp:summon.runner.drone, Xenomorph Runner
+avp:summon.runner.warrior, Xenomorph Runner Warrior
+avp:summon.ultramorph, Ultramorph
+avp:summon.goomutant, Goo Mutant
+avp:summon.aethon, Aethon
+avp:summon.octohugger, Octohugger
+avp:summon.belugaburster, Belugaburster
+avp:summon.belugamorph, Belugamorph
+avp:summon.chestburster.predalien, Predalien Chestburster
+avp:summon.chestburster.queen, Queen Chestburster
+avp:summon.chestburster.runner, Runner Chestburster
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -9304,10 +9304,10 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -10449,8 +10449,6 @@ cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 craftingstation:crafting_station, Crafting Station
-doggytalents:dog_bath, Dog Bath
-doggytalents:food_bowl, Food Bowl
 doggytalents:throw_bone, Throw Bone
 doggytalents:throw_bone_wet, Drool Throw Bone
 doggytalents:throw_stick, Throw Stick
@@ -10479,6 +10477,26 @@ doggytalents:leather_jacket, Leather Jacket
 doggytalents:tiny_bone, Tiny Bone
 doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
+doggytalents:dog_bath, Dog Bath
+doggytalents:food_bowl, Food Bowl
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -10599,24 +10617,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironjetpacks:strap, Leather Strap
 ironjetpacks:basic_coil, Basic Coil
 ironjetpacks:advanced_coil, Advanced Coil
@@ -10729,48 +10729,40 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:data_block, Data Block
 opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:alarm, Alarm
-opensecurity:keypad, Keypad
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:entity_detector, Entity Detector
-opensecurity:nanofog_terminal, NanoFog Terminal
 opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:card_writer, Card Writer
-opensecurity:energy_turret, Energy Turret
 opensecurity:rfid_reader, RFID Reader
 opensecurity:security_terminal, Security Terminal
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:entity_detector, Entity Detector
+opensecurity:alarm, Alarm
+opensecurity:energy_turret, Energy Turret
+opensecurity:data_block, Data Block
+opensecurity:card_writer, Card Writer
+opensecurity:keypad, Keypad
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:door_controller, Door Controller
-opensecurity:rolldoor, Rolldoor
 opensecurity:rolldoor_controller, Rolldoor Controller
 opensecurity:nanofog, NanoFog
-opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:nanodna, NanoDNA
+opensecurity:rolldoor, Rolldoor
+opensecurity:door_controller, Door Controller
+opensecurity:damage_upgrade, Damage Upgrade
 opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:nanodna, NanoDNA
+opensecurity:cooldown_upgrade, Cooldown Upgrade
 opensecurity:energy_upgrade, Energy Upgrade
 opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:rfid_card, RFID Card
-opensecurity:damage_upgrade, Damage Upgrade
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
-pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lpg, LPG
 pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.fuel, Gasoline
 pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.oil, Oil
 pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.etchacid, Etching Acid
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10929,6 +10921,14 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -13922,9 +13922,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Honeycomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Black Goo
@@ -15474,19 +15474,19 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-retrocomputers:computer, Computer
-retrocomputers:retinal_scanner, Retinal Scanner
-retrocomputers:terminal, Terminal
-retrocomputers:memory, 8K RAM Module
 quacklib:multiblock_test, tile.quacklib:multiblock_test.name
-retrocomputers:radio, Wireless Transceiver
-retrocomputers:ribbon_cable, Ribbon Cable
-retrocomputers:redstone_port_analog, Analog Redstone Port
-retrocomputers:backplane, Backplane
 retrocomputers:disk_drive, Disk Drive
+retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:redstone_port_analog, Analog Redstone Port
+retrocomputers:memory, 8K RAM Module
+retrocomputers:computer, Computer
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:backplane, Backplane
+retrocomputers:terminal, Terminal
+retrocomputers:ribbon_cable, Ribbon Cable
+retrocomputers:debug, Debug Item
 retrocomputers:screwdriver, Screwdriver
 quacklib:wrench, Wrench
-retrocomputers:debug, Debug Item
 retrocomputers:writable_disk, Floppy Disk
 retrocomputers:cpu, XC8010 CPU
 retrocomputers:disk:0, Minimal FORTH Boot Disk
@@ -15515,8 +15515,14 @@ storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
-zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:rfmeterblock, FU Meter
+zettaindustries:nfcprogrammer, NFC Programmer
+zettaindustries:nfcreader, NFC Reader
+zettaindustries:itemcardnfc, NFC Card
+zettaindustries:itemprivatecardnfc, Private NFC Card
+zettaindustries:smartcard, Smart Card [WIP]
+zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -15526,14 +15532,8 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
-zettaindustries:nfcprogrammer, NFC Programmer
-zettaindustries:nfcreader, NFC Reader
-zettaindustries:itemcardnfc, NFC Card
-zettaindustries:itemprivatecardnfc, Private NFC Card
-zettaindustries:smartcard, Smart Card [WIP]
-zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
+zettaindustries:rfmeterblock, FU Meter
+zettaindustries:charcoalblock, Block of Charcoal
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
