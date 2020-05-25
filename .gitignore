@@ -4,7 +4,6 @@ backups
 crash-reports
 downloads
 fonts
-local
 logs
 models
 patchouli_books
@@ -13,6 +12,10 @@ saves
 schematics
 screenshots
 zettaindustries
+
+world*
+tmp
+
 .curseclient
 crafttweaker.log
 manifest.json
@@ -28,3 +31,6 @@ usernamecache.json
 WailaErrorOutput.txt
 mods/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar
 config/FastAsyncWorldEdit
+ForgeEssentials/playerlogger.h2.db
+ForgeEssentials/playerlogger.trace.db
+ForgeEssentials/ChatLog
