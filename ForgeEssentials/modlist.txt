@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 5-5-2020 (Server time)
+# Generated: 6-5-2020 (Server time)
 # Build: 82
 # Change the location of this file in main.cfg
 
@@ -64,6 +64,7 @@ Fast Leaf Decay;v14;FastLeafDecay-v14.jar;http://minecraft.curseforge.com/projec
 FoamFix;0.10.10-1.12.2;foamfix-0.10.10-1.12.2.jar;http://asie.pl/Projects/Minecraft/Mods/FoamFix
 Forge Endertech;1.12.2-4.5.2.0;ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar;https://www.curseforge.com/minecraft/mc-mods/forgeendertech
 ForgeEssentials Client Addon;12.3;forgeessentials-1.12.2-12.3.82-client.jar;
+Corail Tombstone;3.7.4;tombstone-3.7.4-1.12.2.jar;https://www.curseforge.com/minecraft/mc-mods/corail-tombstone
 WorldEdit;6.1.10;worldedit-forge-mc1.12.2-6.1.10-dist.jar;http://wiki.sk89q.com/wiki/WorldEdit
 Forge Essentials;12.3;forgeessentials-1.12.2-12.3.82-server.jar;
 Forge Multipart CBE;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart

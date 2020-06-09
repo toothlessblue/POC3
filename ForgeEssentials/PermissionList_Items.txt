@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 05.06 15:02 ------------ \\#
-#// ----------- Total amount: 21615 --------- \\#
+#// --------------- 06.06 08:58 ------------ \\#
+#// ----------- Total amount: 21732 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.alchemistry.compound.*                                             # (default: true) CRAFT Cellulose
@@ -2373,7 +2373,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                           # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                          # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                               # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §cDebug Item
+fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §9Debug Item
 fe.protection.craft.retrocomputers.disk.*                                              # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                       # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                     # (default: true) CRAFT Floppy Disk
@@ -2650,6 +2650,24 @@ fe.protection.craft.thermalfoundation.tool.sword_steel.*                        
 fe.protection.craft.thermalfoundation.tool.sword_tin.*                                 # (default: true) CRAFT Tin Sword
 fe.protection.craft.thermalfoundation.upgrade.*                                        # (default: true) CRAFT Hardened Upgrade Kit
 fe.protection.craft.thermalfoundation.wrench.*                                         # (default: true) CRAFT Crescent Hammer
+fe.protection.craft.tombstone.advancement.*                                            # (default: true) CRAFT item.null.name
+fe.protection.craft.tombstone.ankh_of_pray.*                                           # (default: true) CRAFT §6Ânkh of Pray
+fe.protection.craft.tombstone.book_of_disenchantment.*                                 # (default: true) CRAFT §6Book of Disenchantment
+fe.protection.craft.tombstone.crafting_ingredient.*                                    # (default: true) CRAFT Strange Scroll
+fe.protection.craft.tombstone.dust_of_vanishing.*                                      # (default: true) CRAFT §6Dust of Vanishing
+fe.protection.craft.tombstone.familiar_receptacle.*                                    # (default: true) CRAFT §6Familiar Receptacle
+fe.protection.craft.tombstone.fishing_rod_of_misadventure.*                            # (default: true) CRAFT §6Fishing Rod of Misadventure
+fe.protection.craft.tombstone.grave_key.*                                              # (default: true) CRAFT §6Grave's Key
+fe.protection.craft.tombstone.lollypop.*                                               # (default: true) CRAFT Halloween Lollipop
+fe.protection.craft.tombstone.lost_tablet.*                                            # (default: true) CRAFT §6Lost Tablet
+fe.protection.craft.tombstone.scroll_buff.*                                            # (default: true) CRAFT §6Scroll of Preservation
+fe.protection.craft.tombstone.scroll_of_knowledge.*                                    # (default: true) CRAFT §6Scroll of Knowledge
+fe.protection.craft.tombstone.soul_receptacle.*                                        # (default: true) CRAFT §6Soul Receptacle
+fe.protection.craft.tombstone.tablet_of_assistance.*                                   # (default: true) CRAFT Tablet of Assistance
+fe.protection.craft.tombstone.tablet_of_cupidity.*                                     # (default: true) CRAFT §6Tablet of Cupidity
+fe.protection.craft.tombstone.tablet_of_home.*                                         # (default: true) CRAFT §6Tablet of Home
+fe.protection.craft.tombstone.tablet_of_recall.*                                       # (default: true) CRAFT §6Tablet of Recall
+fe.protection.craft.tombstone.voodoo_poppet.*                                          # (default: true) CRAFT §6Voodoo Poppet
 fe.protection.craft.zettaindustries.itemcardnfc.*                                      # (default: true) CRAFT NFC Card
 fe.protection.craft.zettaindustries.itemprivatecardnfc.*                               # (default: true) CRAFT Private NFC Card
 fe.protection.craft.zettaindustries.logo.*                                             # (default: true) CRAFT Zetta Industries
@@ -5026,7 +5044,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                           # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                          # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                               # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §cDebug Item
+fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §9Debug Item
 fe.protection.exist.retrocomputers.disk.*                                              # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                       # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                     # (default: true) EXIST Floppy Disk
@@ -5303,6 +5321,24 @@ fe.protection.exist.thermalfoundation.tool.sword_steel.*                        
 fe.protection.exist.thermalfoundation.tool.sword_tin.*                                 # (default: true) EXIST Tin Sword
 fe.protection.exist.thermalfoundation.upgrade.*                                        # (default: true) EXIST Hardened Upgrade Kit
 fe.protection.exist.thermalfoundation.wrench.*                                         # (default: true) EXIST Crescent Hammer
+fe.protection.exist.tombstone.advancement.*                                            # (default: true) EXIST item.null.name
+fe.protection.exist.tombstone.ankh_of_pray.*                                           # (default: true) EXIST §6Ânkh of Pray
+fe.protection.exist.tombstone.book_of_disenchantment.*                                 # (default: true) EXIST §6Book of Disenchantment
+fe.protection.exist.tombstone.crafting_ingredient.*                                    # (default: true) EXIST Strange Scroll
+fe.protection.exist.tombstone.dust_of_vanishing.*                                      # (default: true) EXIST §6Dust of Vanishing
+fe.protection.exist.tombstone.familiar_receptacle.*                                    # (default: true) EXIST §6Familiar Receptacle
+fe.protection.exist.tombstone.fishing_rod_of_misadventure.*                            # (default: true) EXIST §6Fishing Rod of Misadventure
+fe.protection.exist.tombstone.grave_key.*                                              # (default: true) EXIST §6Grave's Key
+fe.protection.exist.tombstone.lollypop.*                                               # (default: true) EXIST Halloween Lollipop
+fe.protection.exist.tombstone.lost_tablet.*                                            # (default: true) EXIST §6Lost Tablet
+fe.protection.exist.tombstone.scroll_buff.*                                            # (default: true) EXIST §6Scroll of Preservation
+fe.protection.exist.tombstone.scroll_of_knowledge.*                                    # (default: true) EXIST §6Scroll of Knowledge
+fe.protection.exist.tombstone.soul_receptacle.*                                        # (default: true) EXIST §6Soul Receptacle
+fe.protection.exist.tombstone.tablet_of_assistance.*                                   # (default: true) EXIST Tablet of Assistance
+fe.protection.exist.tombstone.tablet_of_cupidity.*                                     # (default: true) EXIST §6Tablet of Cupidity
+fe.protection.exist.tombstone.tablet_of_home.*                                         # (default: true) EXIST §6Tablet of Home
+fe.protection.exist.tombstone.tablet_of_recall.*                                       # (default: true) EXIST §6Tablet of Recall
+fe.protection.exist.tombstone.voodoo_poppet.*                                          # (default: true) EXIST §6Voodoo Poppet
 fe.protection.exist.zettaindustries.itemcardnfc.*                                      # (default: true) EXIST NFC Card
 fe.protection.exist.zettaindustries.itemprivatecardnfc.*                               # (default: true) EXIST Private NFC Card
 fe.protection.exist.zettaindustries.logo.*                                             # (default: true) EXIST Zetta Industries
@@ -7679,7 +7715,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                       # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                      # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                           # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §cDebug Item
+fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §9Debug Item
 fe.protection.inventory.retrocomputers.disk.*                                          # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                   # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                 # (default: true) INVENTORY Floppy Disk
@@ -7956,6 +7992,24 @@ fe.protection.inventory.thermalfoundation.tool.sword_steel.*                    
 fe.protection.inventory.thermalfoundation.tool.sword_tin.*                             # (default: true) INVENTORY Tin Sword
 fe.protection.inventory.thermalfoundation.upgrade.*                                    # (default: true) INVENTORY Hardened Upgrade Kit
 fe.protection.inventory.thermalfoundation.wrench.*                                     # (default: true) INVENTORY Crescent Hammer
+fe.protection.inventory.tombstone.advancement.*                                        # (default: true) INVENTORY item.null.name
+fe.protection.inventory.tombstone.ankh_of_pray.*                                       # (default: true) INVENTORY §6Ânkh of Pray
+fe.protection.inventory.tombstone.book_of_disenchantment.*                             # (default: true) INVENTORY §6Book of Disenchantment
+fe.protection.inventory.tombstone.crafting_ingredient.*                                # (default: true) INVENTORY Strange Scroll
+fe.protection.inventory.tombstone.dust_of_vanishing.*                                  # (default: true) INVENTORY §6Dust of Vanishing
+fe.protection.inventory.tombstone.familiar_receptacle.*                                # (default: true) INVENTORY §6Familiar Receptacle
+fe.protection.inventory.tombstone.fishing_rod_of_misadventure.*                        # (default: true) INVENTORY §6Fishing Rod of Misadventure
+fe.protection.inventory.tombstone.grave_key.*                                          # (default: true) INVENTORY §6Grave's Key
+fe.protection.inventory.tombstone.lollypop.*                                           # (default: true) INVENTORY Halloween Lollipop
+fe.protection.inventory.tombstone.lost_tablet.*                                        # (default: true) INVENTORY §6Lost Tablet
+fe.protection.inventory.tombstone.scroll_buff.*                                        # (default: true) INVENTORY §6Scroll of Preservation
+fe.protection.inventory.tombstone.scroll_of_knowledge.*                                # (default: true) INVENTORY §6Scroll of Knowledge
+fe.protection.inventory.tombstone.soul_receptacle.*                                    # (default: true) INVENTORY §6Soul Receptacle
+fe.protection.inventory.tombstone.tablet_of_assistance.*                               # (default: true) INVENTORY Tablet of Assistance
+fe.protection.inventory.tombstone.tablet_of_cupidity.*                                 # (default: true) INVENTORY §6Tablet of Cupidity
+fe.protection.inventory.tombstone.tablet_of_home.*                                     # (default: true) INVENTORY §6Tablet of Home
+fe.protection.inventory.tombstone.tablet_of_recall.*                                   # (default: true) INVENTORY §6Tablet of Recall
+fe.protection.inventory.tombstone.voodoo_poppet.*                                      # (default: true) INVENTORY §6Voodoo Poppet
 fe.protection.inventory.zettaindustries.itemcardnfc.*                                  # (default: true) INVENTORY NFC Card
 fe.protection.inventory.zettaindustries.itemprivatecardnfc.*                           # (default: true) INVENTORY Private NFC Card
 fe.protection.inventory.zettaindustries.logo.*                                         # (default: true) INVENTORY Zetta Industries
@@ -10333,7 +10387,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                             # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                            # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                 # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §cDebug Item
+fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §9Debug Item
 fe.protection.use.retrocomputers.disk.*                                                # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                         # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                       # (default: true) USE Floppy Disk
@@ -10610,6 +10664,24 @@ fe.protection.use.thermalfoundation.tool.sword_steel.*                          
 fe.protection.use.thermalfoundation.tool.sword_tin.*                                   # (default: true) USE Tin Sword
 fe.protection.use.thermalfoundation.upgrade.*                                          # (default: true) USE Hardened Upgrade Kit
 fe.protection.use.thermalfoundation.wrench.*                                           # (default: true) USE Crescent Hammer
+fe.protection.use.tombstone.advancement.*                                              # (default: true) USE item.null.name
+fe.protection.use.tombstone.ankh_of_pray.*                                             # (default: true) USE §6Ânkh of Pray
+fe.protection.use.tombstone.book_of_disenchantment.*                                   # (default: true) USE §6Book of Disenchantment
+fe.protection.use.tombstone.crafting_ingredient.*                                      # (default: true) USE Strange Scroll
+fe.protection.use.tombstone.dust_of_vanishing.*                                        # (default: true) USE §6Dust of Vanishing
+fe.protection.use.tombstone.familiar_receptacle.*                                      # (default: true) USE §6Familiar Receptacle
+fe.protection.use.tombstone.fishing_rod_of_misadventure.*                              # (default: true) USE §6Fishing Rod of Misadventure
+fe.protection.use.tombstone.grave_key.*                                                # (default: true) USE §6Grave's Key
+fe.protection.use.tombstone.lollypop.*                                                 # (default: true) USE Halloween Lollipop
+fe.protection.use.tombstone.lost_tablet.*                                              # (default: true) USE §6Lost Tablet
+fe.protection.use.tombstone.scroll_buff.*                                              # (default: true) USE §6Scroll of Preservation
+fe.protection.use.tombstone.scroll_of_knowledge.*                                      # (default: true) USE §6Scroll of Knowledge
+fe.protection.use.tombstone.soul_receptacle.*                                          # (default: true) USE §6Soul Receptacle
+fe.protection.use.tombstone.tablet_of_assistance.*                                     # (default: true) USE Tablet of Assistance
+fe.protection.use.tombstone.tablet_of_cupidity.*                                       # (default: true) USE §6Tablet of Cupidity
+fe.protection.use.tombstone.tablet_of_home.*                                           # (default: true) USE §6Tablet of Home
+fe.protection.use.tombstone.tablet_of_recall.*                                         # (default: true) USE §6Tablet of Recall
+fe.protection.use.tombstone.voodoo_poppet.*                                            # (default: true) USE §6Voodoo Poppet
 fe.protection.use.zettaindustries.itemcardnfc.*                                        # (default: true) USE NFC Card
 fe.protection.use.zettaindustries.itemprivatecardnfc.*                                 # (default: true) USE Private NFC Card
 fe.protection.use.zettaindustries.logo.*                                               # (default: true) USE Zetta Industries

@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 05.06 15:02 ------------ \\#
-#// ----------- Total amount: 21615 --------- \\#
+#// --------------- 06.06 08:58 ------------ \\#
+#// ----------- Total amount: 21732 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                  # (default: true) Allow breaking blocks
 fe.protection.break.alchemistry.argon_light.*                                          # (default: true) BREAK Argon Light
@@ -2081,6 +2081,15 @@ fe.protection.break.thermalfoundation.rockwool.*                                
 fe.protection.break.thermalfoundation.storage.*                                        # (default: true) BREAK tile.thermalfoundation.storage.name
 fe.protection.break.thermalfoundation.storage_alloy.*                                  # (default: true) BREAK tile.thermalfoundation.storage.name
 fe.protection.break.thermalfoundation.storage_resource.*                               # (default: true) BREAK tile.thermalfoundation.storage.name
+fe.protection.break.tombstone.dark_marble.*                                            # (default: true) BREAK Dark Marble
+fe.protection.break.tombstone.decorative_grave_cross.*                                 # (default: true) BREAK Cross Grave
+fe.protection.break.tombstone.decorative_grave_normal.*                                # (default: true) BREAK Normal Grave
+fe.protection.break.tombstone.decorative_grave_simple.*                                # (default: true) BREAK Simple Grave
+fe.protection.break.tombstone.decorative_tombstone.*                                   # (default: true) BREAK Tombstone
+fe.protection.break.tombstone.grave_cross.*                                            # (default: true) BREAK Cross Grave
+fe.protection.break.tombstone.grave_normal.*                                           # (default: true) BREAK Normal Grave
+fe.protection.break.tombstone.grave_simple.*                                           # (default: true) BREAK Simple Grave
+fe.protection.break.tombstone.tombstone.*                                              # (default: true) BREAK Tombstone
 fe.protection.break.zettaindustries.batterycomputerport.*                              # (default: true) BREAK Battery Computer Port
 fe.protection.break.zettaindustries.batterycontroller.*                                # (default: true) BREAK Battery Controller
 fe.protection.break.zettaindustries.batteryelectrode.*                                 # (default: true) BREAK Battery Electrode
@@ -4175,6 +4184,15 @@ fe.protection.explode.thermalfoundation.rockwool.*                              
 fe.protection.explode.thermalfoundation.storage.*                                      # (default: true) EXPLODE tile.thermalfoundation.storage.name
 fe.protection.explode.thermalfoundation.storage_alloy.*                                # (default: true) EXPLODE tile.thermalfoundation.storage.name
 fe.protection.explode.thermalfoundation.storage_resource.*                             # (default: true) EXPLODE tile.thermalfoundation.storage.name
+fe.protection.explode.tombstone.dark_marble.*                                          # (default: true) EXPLODE Dark Marble
+fe.protection.explode.tombstone.decorative_grave_cross.*                               # (default: true) EXPLODE Cross Grave
+fe.protection.explode.tombstone.decorative_grave_normal.*                              # (default: true) EXPLODE Normal Grave
+fe.protection.explode.tombstone.decorative_grave_simple.*                              # (default: true) EXPLODE Simple Grave
+fe.protection.explode.tombstone.decorative_tombstone.*                                 # (default: true) EXPLODE Tombstone
+fe.protection.explode.tombstone.grave_cross.*                                          # (default: true) EXPLODE Cross Grave
+fe.protection.explode.tombstone.grave_normal.*                                         # (default: true) EXPLODE Normal Grave
+fe.protection.explode.tombstone.grave_simple.*                                         # (default: true) EXPLODE Simple Grave
+fe.protection.explode.tombstone.tombstone.*                                            # (default: true) EXPLODE Tombstone
 fe.protection.explode.zettaindustries.batterycomputerport.*                            # (default: true) EXPLODE Battery Computer Port
 fe.protection.explode.zettaindustries.batterycontroller.*                              # (default: true) EXPLODE Battery Controller
 fe.protection.explode.zettaindustries.batteryelectrode.*                               # (default: true) EXPLODE Battery Electrode
@@ -6270,6 +6288,15 @@ fe.protection.interact.thermalfoundation.rockwool.*                             
 fe.protection.interact.thermalfoundation.storage.*                                     # (default: true) INTERACT tile.thermalfoundation.storage.name
 fe.protection.interact.thermalfoundation.storage_alloy.*                               # (default: true) INTERACT tile.thermalfoundation.storage.name
 fe.protection.interact.thermalfoundation.storage_resource.*                            # (default: true) INTERACT tile.thermalfoundation.storage.name
+fe.protection.interact.tombstone.dark_marble.*                                         # (default: true) INTERACT Dark Marble
+fe.protection.interact.tombstone.decorative_grave_cross.*                              # (default: true) INTERACT Cross Grave
+fe.protection.interact.tombstone.decorative_grave_normal.*                             # (default: true) INTERACT Normal Grave
+fe.protection.interact.tombstone.decorative_grave_simple.*                             # (default: true) INTERACT Simple Grave
+fe.protection.interact.tombstone.decorative_tombstone.*                                # (default: true) INTERACT Tombstone
+fe.protection.interact.tombstone.grave_cross.*                                         # (default: true) INTERACT Cross Grave
+fe.protection.interact.tombstone.grave_normal.*                                        # (default: true) INTERACT Normal Grave
+fe.protection.interact.tombstone.grave_simple.*                                        # (default: true) INTERACT Simple Grave
+fe.protection.interact.tombstone.tombstone.*                                           # (default: true) INTERACT Tombstone
 fe.protection.interact.zettaindustries.batterycomputerport.*                           # (default: true) INTERACT Battery Computer Port
 fe.protection.interact.zettaindustries.batterycontroller.*                             # (default: true) INTERACT Battery Controller
 fe.protection.interact.zettaindustries.batteryelectrode.*                              # (default: true) INTERACT Battery Electrode
@@ -8364,6 +8391,15 @@ fe.protection.place.thermalfoundation.rockwool.*                                
 fe.protection.place.thermalfoundation.storage.*                                        # (default: true) PLACE tile.thermalfoundation.storage.name
 fe.protection.place.thermalfoundation.storage_alloy.*                                  # (default: true) PLACE tile.thermalfoundation.storage.name
 fe.protection.place.thermalfoundation.storage_resource.*                               # (default: true) PLACE tile.thermalfoundation.storage.name
+fe.protection.place.tombstone.dark_marble.*                                            # (default: true) PLACE Dark Marble
+fe.protection.place.tombstone.decorative_grave_cross.*                                 # (default: true) PLACE Cross Grave
+fe.protection.place.tombstone.decorative_grave_normal.*                                # (default: true) PLACE Normal Grave
+fe.protection.place.tombstone.decorative_grave_simple.*                                # (default: true) PLACE Simple Grave
+fe.protection.place.tombstone.decorative_tombstone.*                                   # (default: true) PLACE Tombstone
+fe.protection.place.tombstone.grave_cross.*                                            # (default: true) PLACE Cross Grave
+fe.protection.place.tombstone.grave_normal.*                                           # (default: true) PLACE Normal Grave
+fe.protection.place.tombstone.grave_simple.*                                           # (default: true) PLACE Simple Grave
+fe.protection.place.tombstone.tombstone.*                                              # (default: true) PLACE Tombstone
 fe.protection.place.zettaindustries.batterycomputerport.*                              # (default: true) PLACE Battery Computer Port
 fe.protection.place.zettaindustries.batterycontroller.*                                # (default: true) PLACE Battery Controller
 fe.protection.place.zettaindustries.batteryelectrode.*                                 # (default: true) PLACE Battery Electrode
@@ -10458,6 +10494,15 @@ fe.protection.trample.thermalfoundation.rockwool.*                              
 fe.protection.trample.thermalfoundation.storage.*                                      # (default: true) PLACE tile.thermalfoundation.storage.name
 fe.protection.trample.thermalfoundation.storage_alloy.*                                # (default: true) PLACE tile.thermalfoundation.storage.name
 fe.protection.trample.thermalfoundation.storage_resource.*                             # (default: true) PLACE tile.thermalfoundation.storage.name
+fe.protection.trample.tombstone.dark_marble.*                                          # (default: true) PLACE Dark Marble
+fe.protection.trample.tombstone.decorative_grave_cross.*                               # (default: true) PLACE Cross Grave
+fe.protection.trample.tombstone.decorative_grave_normal.*                              # (default: true) PLACE Normal Grave
+fe.protection.trample.tombstone.decorative_grave_simple.*                              # (default: true) PLACE Simple Grave
+fe.protection.trample.tombstone.decorative_tombstone.*                                 # (default: true) PLACE Tombstone
+fe.protection.trample.tombstone.grave_cross.*                                          # (default: true) PLACE Cross Grave
+fe.protection.trample.tombstone.grave_normal.*                                         # (default: true) PLACE Normal Grave
+fe.protection.trample.tombstone.grave_simple.*                                         # (default: true) PLACE Simple Grave
+fe.protection.trample.tombstone.tombstone.*                                            # (default: true) PLACE Tombstone
 fe.protection.trample.zettaindustries.batterycomputerport.*                            # (default: true) PLACE Battery Computer Port
 fe.protection.trample.zettaindustries.batterycontroller.*                              # (default: true) PLACE Battery Controller
 fe.protection.trample.zettaindustries.batteryelectrode.*                               # (default: true) PLACE Battery Electrode

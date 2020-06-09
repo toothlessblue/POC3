@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 05.06 15:02 ------------ \\#
-#// ----------- Total amount: 21615 --------- \\#
+#// --------------- 06.06 08:58 ------------ \\#
+#// ----------- Total amount: 21732 --------- \\#
 #// ---------------------------------------- \\#
 fe.backup.notify                                                                       # (OP only: true) Backup notification permission
 fe.chat                                                                                # Chat permissions

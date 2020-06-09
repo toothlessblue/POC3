@@ -9245,6 +9245,7 @@ appliedenergistics2:facade:0, Cable Facade - Ender Charge
 appliedenergistics2:facade:0, Cable Facade - Crude Steel Block
 appliedenergistics2:facade:0, Cable Facade - Wireless Charging Antenna Extension
 appliedenergistics2:facade:0, Cable Facade - Kitchen Floor
+appliedenergistics2:facade:0, Cable Facade - Dark Marble
 appliedenergistics2:facade:0, Cable Facade - Colored Block Clean
 appliedenergistics2:facade:0, Cable Facade - Colored Block Floor
 appliedenergistics2:facade:0, Cable Facade - Colored Block Grainy Big
@@ -9304,10 +9305,10 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -10479,6 +10480,47 @@ doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
 doggytalents:dog_bath, Dog Bath
 doggytalents:food_bowl, Food Bowl
+tombstone:decorative_grave_simple, Simple Grave
+tombstone:decorative_grave_normal, Normal Grave
+tombstone:decorative_grave_cross, Cross Grave
+tombstone:decorative_tombstone, Tombstone
+tombstone:dark_marble, Dark Marble
+tombstone:grave_key, Grave's Key
+tombstone:scroll_of_knowledge, Scroll of Knowledge
+tombstone:scroll_buff:0, §6Scroll of Preservation
+tombstone:scroll_buff:1, §6Scroll of Unstable Intangibility
+tombstone:scroll_buff:2, §6Scroll of Feather Falling
+tombstone:scroll_buff:3, §6Scroll of Purification
+tombstone:scroll_buff:4, §6Scroll of True Sight
+tombstone:scroll_buff:5, §6Scroll of Reach
+tombstone:tablet_of_recall, Tablet of Recall
+tombstone:tablet_of_home, Tablet of Home
+tombstone:tablet_of_assistance, Tablet of Assistance
+tombstone:tablet_of_cupidity, Tablet of Cupidity
+tombstone:fishing_rod_of_misadventure, Fishing Rod of Misadventure
+tombstone:lost_tablet, Lost Tablet
+tombstone:dust_of_vanishing, Dust of Vanishing
+tombstone:soul_receptacle, Soul Receptacle
+tombstone:familiar_receptacle, Familiar Receptacle
+tombstone:voodoo_poppet, Voodoo Poppet
+tombstone:book_of_disenchantment, Book of Disenchantment
+tombstone:ankh_of_pray, Ânkh of Pray
+tombstone:lollypop:0, Halloween Lollipop
+tombstone:lollypop:1, Halloween Lollipop
+tombstone:lollypop:2, Halloween Lollipop
+tombstone:lollypop:3, Halloween Lollipop
+tombstone:lollypop:4, Halloween Lollipop
+tombstone:advancement:0, item.null.name
+tombstone:advancement:1, item.null.name
+tombstone:advancement:2, item.null.name
+tombstone:advancement:3, item.null.name
+tombstone:advancement:4, item.null.name
+tombstone:advancement:5, item.null.name
+tombstone:advancement:6, item.null.name
+tombstone:crafting_ingredient:0, Strange Scroll
+tombstone:crafting_ingredient:1, Strange Tablet
+tombstone:crafting_ingredient:2, Impregnated Diamond
+tombstone:crafting_ingredient:3, Grave's Dust
 ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
 ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
 ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
@@ -10729,40 +10771,32 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:rfid_reader, RFID Reader
-opensecurity:security_terminal, Security Terminal
 opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:security_terminal, Security Terminal
+opensecurity:rfid_reader, RFID Reader
+opensecurity:data_block, Data Block
 opensecurity:entity_detector, Entity Detector
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:card_writer, Card Writer
 opensecurity:alarm, Alarm
 opensecurity:energy_turret, Energy Turret
-opensecurity:data_block, Data Block
-opensecurity:card_writer, Card Writer
-opensecurity:keypad, Keypad
 opensecurity:biometric_reader, Biometric Reader
+opensecurity:keypad, Keypad
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:nanofog, NanoFog
 opensecurity:rolldoor, Rolldoor
+opensecurity:nanofog, NanoFog
 opensecurity:door_controller, Door Controller
 opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:mag_card, Magnetic Strip Card
 opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:nanodna, NanoDNA
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rfid_card, RFID Card
 opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:nanodna, NanoDNA
 opensecurity:energy_upgrade, Energy Upgrade
 opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:rfid_card, RFID Card
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.etchacid, Etching Acid
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -10912,6 +10946,22 @@ pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
 pneumaticcraft:fake_ice, tile.fake_ice.name
 pneumaticcraft:thermal_compressor, Thermal Compressor
 pneumaticcraft:drone_interface, Drone Interface
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
 pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
 pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
@@ -10921,14 +10971,6 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
 rsgauges:bistableswitch2, Industrial Contact Lever
 rsgauges:bistableswitch8, Industrial Lever
 rsgauges:bistableswitch7, Industrial Rotary Lever
@@ -13893,6 +13935,7 @@ chiselsandbits:block_bit:0, Chiseled Bit - Crystalline Pink Slime Block
 chiselsandbits:block_bit:0, Chiseled Bit - Energetic Silver Block
 chiselsandbits:block_bit:0, Chiseled Bit - Vivid Alloy Block
 chiselsandbits:block_bit:0, Chiseled Bit - Kitchen Floor
+chiselsandbits:block_bit:0, Chiseled Bit - Dark Marble
 chiselsandbits:block_bit:0, Chiseled Bit - Little Storage Block
 chiselsandbits:block_bit:0, Chiseled Bit - Colored Block Clean
 chiselsandbits:block_bit:0, Chiseled Bit - Colored Block Floor
@@ -13922,9 +13965,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Honeycomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
+chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Black Goo
@@ -15474,21 +15517,21 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-quacklib:multiblock_test, tile.quacklib:multiblock_test.name
-retrocomputers:disk_drive, Disk Drive
-retrocomputers:retinal_scanner, Retinal Scanner
-retrocomputers:redstone_port_analog, Analog Redstone Port
-retrocomputers:memory, 8K RAM Module
-retrocomputers:computer, Computer
-retrocomputers:radio, Wireless Transceiver
 retrocomputers:backplane, Backplane
-retrocomputers:terminal, Terminal
 retrocomputers:ribbon_cable, Ribbon Cable
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:redstone_port_analog, Analog Redstone Port
+quacklib:multiblock_test, tile.quacklib:multiblock_test.name
+retrocomputers:terminal, Terminal
+retrocomputers:disk_drive, Disk Drive
+retrocomputers:computer, Computer
+retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:memory, 8K RAM Module
 retrocomputers:debug, Debug Item
-retrocomputers:screwdriver, Screwdriver
 quacklib:wrench, Wrench
-retrocomputers:writable_disk, Floppy Disk
 retrocomputers:cpu, XC8010 CPU
+retrocomputers:screwdriver, Screwdriver
+retrocomputers:writable_disk, Floppy Disk
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
 retrocomputers:disk:2, Extended FORTH Boot Disk
@@ -15515,6 +15558,7 @@ storagenetwork:remote:0, Storage Remote
 storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
+zettaindustries:charcoalblock, Block of Charcoal
 zettaindustries:nfcprogrammer, NFC Programmer
 zettaindustries:nfcreader, NFC Reader
 zettaindustries:itemcardnfc, NFC Card
@@ -15522,7 +15566,7 @@ zettaindustries:itemprivatecardnfc, Private NFC Card
 zettaindustries:smartcard, Smart Card [WIP]
 zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
 zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
+zettaindustries:rfmeterblock, FU Meter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -15532,8 +15576,7 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
-zettaindustries:rfmeterblock, FU Meter
-zettaindustries:charcoalblock, Block of Charcoal
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
