@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 06.06 08:58 ------------ \\#
-#// ----------- Total amount: 21732 --------- \\#
+#// --------------- 17.06 12:49 ------------ \\#
+#// ----------- Total amount: 21779 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                  # (default: true) Allow breaking blocks
 fe.protection.break.alchemistry.argon_light.*                                          # (default: true) BREAK Argon Light
@@ -876,6 +876,14 @@ fe.protection.break.enderio.block_wireless_charger.*                            
 fe.protection.break.enderio.block_wireless_charger_extension.*                         # (default: true) BREAK Wireless Charging Antenna Extension
 fe.protection.break.enderio.block_xp_vacuum.*                                          # (default: true) BREAK XP Vacuum
 fe.protection.break.enderio.block_zombie_generator.*                                   # (default: true) BREAK Zombie Generator
+fe.protection.break.farmingforblockheads.chicken_nest.*                                # (default: true) BREAK Chicken Nest
+fe.protection.break.farmingforblockheads.feeding_trough.*                              # (default: true) BREAK Feeding Trough
+fe.protection.break.farmingforblockheads.fertilized_farmland_healthy.*                 # (default: true) BREAK Fertilized Farmland
+fe.protection.break.farmingforblockheads.fertilized_farmland_healthy_stable.*          # (default: true) BREAK Fertilized Farmland
+fe.protection.break.farmingforblockheads.fertilized_farmland_rich.*                    # (default: true) BREAK Fertilized Farmland
+fe.protection.break.farmingforblockheads.fertilized_farmland_rich_stable.*             # (default: true) BREAK Fertilized Farmland
+fe.protection.break.farmingforblockheads.fertilized_farmland_stable.*                  # (default: true) BREAK Fertilized Farmland
+fe.protection.break.farmingforblockheads.market.*                                      # (default: true) BREAK Market
 fe.protection.break.forgemultipartcbe.multipart_block.*                                # (default: true) BREAK tile.null.name
 fe.protection.break.harvestcraft.almond_sapling.*                                      # (default: true) BREAK Almond Sapling
 fe.protection.break.harvestcraft.apiary.*                                              # (default: true) BREAK Apiary
@@ -2979,6 +2987,14 @@ fe.protection.explode.enderio.block_wireless_charger.*                          
 fe.protection.explode.enderio.block_wireless_charger_extension.*                       # (default: true) EXPLODE Wireless Charging Antenna Extension
 fe.protection.explode.enderio.block_xp_vacuum.*                                        # (default: true) EXPLODE XP Vacuum
 fe.protection.explode.enderio.block_zombie_generator.*                                 # (default: true) EXPLODE Zombie Generator
+fe.protection.explode.farmingforblockheads.chicken_nest.*                              # (default: true) EXPLODE Chicken Nest
+fe.protection.explode.farmingforblockheads.feeding_trough.*                            # (default: true) EXPLODE Feeding Trough
+fe.protection.explode.farmingforblockheads.fertilized_farmland_healthy.*               # (default: true) EXPLODE Fertilized Farmland
+fe.protection.explode.farmingforblockheads.fertilized_farmland_healthy_stable.*        # (default: true) EXPLODE Fertilized Farmland
+fe.protection.explode.farmingforblockheads.fertilized_farmland_rich.*                  # (default: true) EXPLODE Fertilized Farmland
+fe.protection.explode.farmingforblockheads.fertilized_farmland_rich_stable.*           # (default: true) EXPLODE Fertilized Farmland
+fe.protection.explode.farmingforblockheads.fertilized_farmland_stable.*                # (default: true) EXPLODE Fertilized Farmland
+fe.protection.explode.farmingforblockheads.market.*                                    # (default: true) EXPLODE Market
 fe.protection.explode.forgemultipartcbe.multipart_block.*                              # (default: true) EXPLODE tile.null.name
 fe.protection.explode.harvestcraft.almond_sapling.*                                    # (default: true) EXPLODE Almond Sapling
 fe.protection.explode.harvestcraft.apiary.*                                            # (default: true) EXPLODE Apiary
@@ -5083,6 +5099,14 @@ fe.protection.interact.enderio.block_wireless_charger_extension.*               
 fe.protection.interact.enderio.block_xp_vacuum.*                                       # (default: true) INTERACT XP Vacuum
 fe.protection.interact.enderio.block_zombie_generator.*                                # (default: true) INTERACT Zombie Generator
 fe.protection.interact.entity                                                          # (default: true) Allow interacting with entities (villagers, dogs, horses)
+fe.protection.interact.farmingforblockheads.chicken_nest.*                             # (default: true) INTERACT Chicken Nest
+fe.protection.interact.farmingforblockheads.feeding_trough.*                           # (default: true) INTERACT Feeding Trough
+fe.protection.interact.farmingforblockheads.fertilized_farmland_healthy.*              # (default: true) INTERACT Fertilized Farmland
+fe.protection.interact.farmingforblockheads.fertilized_farmland_healthy_stable.*       # (default: true) INTERACT Fertilized Farmland
+fe.protection.interact.farmingforblockheads.fertilized_farmland_rich.*                 # (default: true) INTERACT Fertilized Farmland
+fe.protection.interact.farmingforblockheads.fertilized_farmland_rich_stable.*          # (default: true) INTERACT Fertilized Farmland
+fe.protection.interact.farmingforblockheads.fertilized_farmland_stable.*               # (default: true) INTERACT Fertilized Farmland
+fe.protection.interact.farmingforblockheads.market.*                                   # (default: true) INTERACT Market
 fe.protection.interact.forgemultipartcbe.multipart_block.*                             # (default: true) INTERACT tile.null.name
 fe.protection.interact.harvestcraft.almond_sapling.*                                   # (default: true) INTERACT Almond Sapling
 fe.protection.interact.harvestcraft.apiary.*                                           # (default: true) INTERACT Apiary
@@ -7186,6 +7210,14 @@ fe.protection.place.enderio.block_wireless_charger.*                            
 fe.protection.place.enderio.block_wireless_charger_extension.*                         # (default: true) PLACE Wireless Charging Antenna Extension
 fe.protection.place.enderio.block_xp_vacuum.*                                          # (default: true) PLACE XP Vacuum
 fe.protection.place.enderio.block_zombie_generator.*                                   # (default: true) PLACE Zombie Generator
+fe.protection.place.farmingforblockheads.chicken_nest.*                                # (default: true) PLACE Chicken Nest
+fe.protection.place.farmingforblockheads.feeding_trough.*                              # (default: true) PLACE Feeding Trough
+fe.protection.place.farmingforblockheads.fertilized_farmland_healthy.*                 # (default: true) PLACE Fertilized Farmland
+fe.protection.place.farmingforblockheads.fertilized_farmland_healthy_stable.*          # (default: true) PLACE Fertilized Farmland
+fe.protection.place.farmingforblockheads.fertilized_farmland_rich.*                    # (default: true) PLACE Fertilized Farmland
+fe.protection.place.farmingforblockheads.fertilized_farmland_rich_stable.*             # (default: true) PLACE Fertilized Farmland
+fe.protection.place.farmingforblockheads.fertilized_farmland_stable.*                  # (default: true) PLACE Fertilized Farmland
+fe.protection.place.farmingforblockheads.market.*                                      # (default: true) PLACE Market
 fe.protection.place.forgemultipartcbe.multipart_block.*                                # (default: true) PLACE tile.null.name
 fe.protection.place.harvestcraft.almond_sapling.*                                      # (default: true) PLACE Almond Sapling
 fe.protection.place.harvestcraft.apiary.*                                              # (default: true) PLACE Apiary
@@ -9289,6 +9321,14 @@ fe.protection.trample.enderio.block_wireless_charger.*                          
 fe.protection.trample.enderio.block_wireless_charger_extension.*                       # (default: true) PLACE Wireless Charging Antenna Extension
 fe.protection.trample.enderio.block_xp_vacuum.*                                        # (default: true) PLACE XP Vacuum
 fe.protection.trample.enderio.block_zombie_generator.*                                 # (default: true) PLACE Zombie Generator
+fe.protection.trample.farmingforblockheads.chicken_nest.*                              # (default: true) PLACE Chicken Nest
+fe.protection.trample.farmingforblockheads.feeding_trough.*                            # (default: true) PLACE Feeding Trough
+fe.protection.trample.farmingforblockheads.fertilized_farmland_healthy.*               # (default: true) PLACE Fertilized Farmland
+fe.protection.trample.farmingforblockheads.fertilized_farmland_healthy_stable.*        # (default: true) PLACE Fertilized Farmland
+fe.protection.trample.farmingforblockheads.fertilized_farmland_rich.*                  # (default: true) PLACE Fertilized Farmland
+fe.protection.trample.farmingforblockheads.fertilized_farmland_rich_stable.*           # (default: true) PLACE Fertilized Farmland
+fe.protection.trample.farmingforblockheads.fertilized_farmland_stable.*                # (default: true) PLACE Fertilized Farmland
+fe.protection.trample.farmingforblockheads.market.*                                    # (default: true) PLACE Market
 fe.protection.trample.forgemultipartcbe.multipart_block.*                              # (default: true) PLACE tile.null.name
 fe.protection.trample.harvestcraft.almond_sapling.*                                    # (default: true) PLACE Almond Sapling
 fe.protection.trample.harvestcraft.apiary.*                                            # (default: true) PLACE Apiary

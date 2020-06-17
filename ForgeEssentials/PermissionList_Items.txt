@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 06.06 08:58 ------------ \\#
-#// ----------- Total amount: 21732 --------- \\#
+#// --------------- 17.06 12:49 ------------ \\#
+#// ----------- Total amount: 21779 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.alchemistry.compound.*                                             # (default: true) CRAFT Cellulose
@@ -447,6 +447,7 @@ fe.protection.craft.enderio.item_staff_of_levity.*                              
 fe.protection.craft.enderio.item_travel_staff.*                                        # (default: true) CRAFT Staff of Traveling
 fe.protection.craft.enderio.item_xp_transfer.*                                         # (default: true) CRAFT Experience Rod
 fe.protection.craft.enderio.item_yeta_wrench.*                                         # (default: true) CRAFT Yeta Wrench
+fe.protection.craft.farmingforblockheads.fertilizer.*                                  # (default: true) CRAFT Red Fertilizer
 fe.protection.craft.forge.bucketfilled.*                                               # (default: true) CRAFT Bucket
 fe.protection.craft.harvestcraft.agaveitem.*                                           # (default: true) CRAFT Agave
 fe.protection.craft.harvestcraft.agaveseeditem.*                                       # (default: true) CRAFT Agave Seed
@@ -2373,7 +2374,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                           # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                          # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                               # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §9Debug Item
+fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §dDebug Item
 fe.protection.craft.retrocomputers.disk.*                                              # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                       # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                     # (default: true) CRAFT Floppy Disk
@@ -3118,6 +3119,7 @@ fe.protection.exist.enderio.item_staff_of_levity.*                              
 fe.protection.exist.enderio.item_travel_staff.*                                        # (default: true) EXIST Staff of Traveling
 fe.protection.exist.enderio.item_xp_transfer.*                                         # (default: true) EXIST Experience Rod
 fe.protection.exist.enderio.item_yeta_wrench.*                                         # (default: true) EXIST Yeta Wrench
+fe.protection.exist.farmingforblockheads.fertilizer.*                                  # (default: true) EXIST Red Fertilizer
 fe.protection.exist.forge.bucketfilled.*                                               # (default: true) EXIST Bucket
 fe.protection.exist.harvestcraft.agaveitem.*                                           # (default: true) EXIST Agave
 fe.protection.exist.harvestcraft.agaveseeditem.*                                       # (default: true) EXIST Agave Seed
@@ -5044,7 +5046,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                           # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                          # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                               # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §9Debug Item
+fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §dDebug Item
 fe.protection.exist.retrocomputers.disk.*                                              # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                       # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                     # (default: true) EXIST Floppy Disk
@@ -5789,6 +5791,7 @@ fe.protection.inventory.enderio.item_staff_of_levity.*                          
 fe.protection.inventory.enderio.item_travel_staff.*                                    # (default: true) INVENTORY Staff of Traveling
 fe.protection.inventory.enderio.item_xp_transfer.*                                     # (default: true) INVENTORY Experience Rod
 fe.protection.inventory.enderio.item_yeta_wrench.*                                     # (default: true) INVENTORY Yeta Wrench
+fe.protection.inventory.farmingforblockheads.fertilizer.*                              # (default: true) INVENTORY Red Fertilizer
 fe.protection.inventory.forge.bucketfilled.*                                           # (default: true) INVENTORY Bucket
 fe.protection.inventory.harvestcraft.agaveitem.*                                       # (default: true) INVENTORY Agave
 fe.protection.inventory.harvestcraft.agaveseeditem.*                                   # (default: true) INVENTORY Agave Seed
@@ -7715,7 +7718,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                       # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                      # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                           # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §9Debug Item
+fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §dDebug Item
 fe.protection.inventory.retrocomputers.disk.*                                          # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                   # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                 # (default: true) INVENTORY Floppy Disk
@@ -8461,6 +8464,7 @@ fe.protection.use.enderio.item_staff_of_levity.*                                
 fe.protection.use.enderio.item_travel_staff.*                                          # (default: true) USE Staff of Traveling
 fe.protection.use.enderio.item_xp_transfer.*                                           # (default: true) USE Experience Rod
 fe.protection.use.enderio.item_yeta_wrench.*                                           # (default: true) USE Yeta Wrench
+fe.protection.use.farmingforblockheads.fertilizer.*                                    # (default: true) USE Red Fertilizer
 fe.protection.use.forge.bucketfilled.*                                                 # (default: true) USE Bucket
 fe.protection.use.harvestcraft.agaveitem.*                                             # (default: true) USE Agave
 fe.protection.use.harvestcraft.agaveseeditem.*                                         # (default: true) USE Agave Seed
@@ -10387,7 +10391,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                             # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                            # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                 # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §9Debug Item
+fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §dDebug Item
 fe.protection.use.retrocomputers.disk.*                                                # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                         # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                       # (default: true) USE Floppy Disk
