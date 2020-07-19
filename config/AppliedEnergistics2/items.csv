@@ -1756,6 +1756,7 @@ opencomputers:upgrade:19, Navigation Upgrade
 opencomputers:upgrade:20, Piston Upgrade
 opencomputers:upgrade:21, Sign I/O Upgrade
 opencomputers:upgrade:22, Solar Generator Upgrade
+opencomputers:upgrade:33, Sticky Piston Upgrade
 opencomputers:upgrade:23, Tank Upgrade
 opencomputers:upgrade:24, Tank Controller Upgrade
 opencomputers:upgrade:25, Tractor Beam Upgrade
@@ -9306,9 +9307,9 @@ appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
 appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -10450,8 +10451,6 @@ cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
 craftingstation:crafting_station, Crafting Station
-doggytalents:dog_bath, Dog Bath
-doggytalents:food_bowl, Food Bowl
 doggytalents:throw_bone, Throw Bone
 doggytalents:throw_bone_wet, Drool Throw Bone
 doggytalents:throw_stick, Throw Stick
@@ -10480,6 +10479,8 @@ doggytalents:leather_jacket, Leather Jacket
 doggytalents:tiny_bone, Tiny Bone
 doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
+doggytalents:dog_bath, Dog Bath
+doggytalents:food_bowl, Food Bowl
 farmingforblockheads:market, Market
 farmingforblockheads:chicken_nest, Chicken Nest
 farmingforblockheads:feeding_trough, Feeding Trough
@@ -10782,40 +10783,40 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:mag_reader, Magnetic Card Reader
 opensecurity:alarm, Alarm
-opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:entity_detector, Entity Detector
-opensecurity:energy_turret, Energy Turret
-opensecurity:rfid_reader, RFID Reader
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:keypad, Keypad
 opensecurity:biometric_reader, Biometric Reader
-opensecurity:card_writer, Card Writer
+opensecurity:rolldoor_element, Rolldoor Element
+opensecurity:rfid_reader, RFID Reader
 opensecurity:security_terminal, Security Terminal
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:entity_detector, Entity Detector
 opensecurity:data_block, Data Block
-opensecurity:secure_door, Security Door
+opensecurity:card_writer, Card Writer
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:keypad, Keypad
+opensecurity:energy_turret, Energy Turret
 opensecurity:private_secure_door, Private Security Door
-opensecurity:rolldoor, Rolldoor
+opensecurity:secure_door, Security Door
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:nanofog, NanoFog
 opensecurity:door_controller, Door Controller
-opensecurity:damage_upgrade, Damage Upgrade
-opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rolldoor, Rolldoor
+opensecurity:nanofog, NanoFog
 opensecurity:cooldown_upgrade, Cooldown Upgrade
-opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:nanodna, NanoDNA
-opensecurity:mag_card, Magnetic Strip Card
+opensecurity:damage_upgrade, Damage Upgrade
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:rfid_reader_card, RFID Reader Card
 opensecurity:rfid_card, RFID Card
-pneumaticcraft:safety_tube_module, Safety Tube Module
-pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
-pneumaticcraft:flow_detector_module, Flow Detector Tube Module
-pneumaticcraft:air_grate_module, Air Grate Tube Module
-pneumaticcraft:regulator_tube_module, Regulator Tube Module
-pneumaticcraft:charging_module, Charging Module
-pneumaticcraft:logistics_module, Logistics Module
-pneumaticcraft:redstone_module, Redstone Module
+opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:mag_card, Magnetic Strip Card
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.kerosene, Kerosene
 pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
 pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
 pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
@@ -10825,14 +10826,14 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.diesel, Diesel
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -13977,8 +13978,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
-chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
+chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit - Black Goo
@@ -15528,21 +15529,21 @@ quacklib:component:26, Copper Coil
 quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
-quacklib:multiblock_test, tile.quacklib:multiblock_test.name
-retrocomputers:ribbon_cable, Ribbon Cable
-retrocomputers:computer, Computer
-retrocomputers:redstone_port_analog, Analog Redstone Port
-retrocomputers:disk_drive, Disk Drive
+retrocomputers:backplane, Backplane
+retrocomputers:retinal_scanner, Retinal Scanner
 retrocomputers:radio, Wireless Transceiver
 retrocomputers:memory, 8K RAM Module
-retrocomputers:backplane, Backplane
+retrocomputers:ribbon_cable, Ribbon Cable
+quacklib:multiblock_test, tile.quacklib:multiblock_test.name
 retrocomputers:terminal, Terminal
-retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:disk_drive, Disk Drive
+retrocomputers:computer, Computer
+retrocomputers:redstone_port_analog, Analog Redstone Port
 quacklib:wrench, Wrench
-retrocomputers:debug, Debug Item
 retrocomputers:screwdriver, Screwdriver
-retrocomputers:cpu, XC8010 CPU
+retrocomputers:debug, Debug Item
 retrocomputers:writable_disk, Floppy Disk
+retrocomputers:cpu, XC8010 CPU
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
 retrocomputers:disk:2, Extended FORTH Boot Disk
@@ -15570,8 +15571,6 @@ storagenetwork:remote:1, Advanced Storage Remote
 storagenetwork:remote:2, Upgraded Storage Remote
 storagenetwork:remote:3, Simple Storage Remote
 zettaindustries:variableredstoneemitter, Variable Redstone Emitter
-zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:rfmeterblock, FU Meter
 zettaindustries:nfcprogrammer, NFC Programmer
 zettaindustries:nfcreader, NFC Reader
 zettaindustries:itemcardnfc, NFC Card
@@ -15588,6 +15587,8 @@ zettaindustries:batterypowertap,  Battery Power Tap
 zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
+zettaindustries:rfmeterblock, FU Meter
+zettaindustries:charcoalblock, Block of Charcoal
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
@@ -15617,7 +15618,7 @@ openentity:upgradeendertank, Upgrade Ender Tank
 openentity:upgraderange, Upgrade Range
 openentity:upgradecapacity_fe, Upgrade Capacity (FE/RF)
 openentity:upgradetransferrate_fe, Upgrade Transferrate (FE/RF)
+openglasses:openglassesterminal, Glasses Terminal
 openglasses:openglasses:0, AR Glasses
 openglasses:openglasses:0, AR Glasses
 openglasses:openglasses_card, Glasses Terminal Card
-openglasses:openglassesterminal, Glasses Terminal
