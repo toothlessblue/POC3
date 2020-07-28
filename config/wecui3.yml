@@ -86,7 +86,7 @@ cui:
 # Chunk renderer
 chunk:
   enable: false
-  mode: 'OFF'
+  mode: SURROUND
   chunk:
     color: '0x80_FF_00_00'
     width: 1.0

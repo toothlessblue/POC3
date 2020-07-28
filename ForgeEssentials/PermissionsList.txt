@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 25.05 20:54 ------------ \\#
-#// ----------- Total amount: 21615 --------- \\#
+#// --------------- 19.07 11:51 ------------ \\#
+#// ----------- Total amount: 21779 --------- \\#
 #// ---------------------------------------- \\#
 fe.backup.notify                                                                       # (OP only: true) Backup notification permission
 fe.chat                                                                                # Chat permissions
@@ -68,6 +68,7 @@ fe.economy.bounty.avp:yautja                                                    
 fe.economy.bounty.avp:yautjaberserker                                                  # (default: 0) 
 fe.economy.bounty.biomesoplenty:wasp                                                   # (default: 0) 
 fe.economy.bounty.doggytalents:dog                                                     # (default: 0) 
+fe.economy.bounty.farmingforblockheads:merchant                                        # (default: 0) 
 fe.economy.bounty.message                                                              # (default: true) Whether to show a message if a bounty is given
 fe.economy.bounty.minecraft:bat                                                        # (default: 0) 
 fe.economy.bounty.minecraft:blaze                                                      # (default: 0) 
@@ -333,6 +334,7 @@ fe.protection.mobspawn.forced.avp:yautja                                        
 fe.protection.mobspawn.forced.avp:yautjaberserker                                      # (default: true) 
 fe.protection.mobspawn.forced.biomesoplenty:wasp                                       # (default: true) 
 fe.protection.mobspawn.forced.doggytalents:dog                                         # (default: true) 
+fe.protection.mobspawn.forced.farmingforblockheads:merchant                            # (default: true) 
 fe.protection.mobspawn.forced.minecraft:bat                                            # (default: true) 
 fe.protection.mobspawn.forced.minecraft:blaze                                          # (default: true) 
 fe.protection.mobspawn.forced.minecraft:cave_spider                                    # (default: true) 
@@ -438,6 +440,7 @@ fe.protection.mobspawn.natural.avp:yautja                                       
 fe.protection.mobspawn.natural.avp:yautjaberserker                                     # (default: true) 
 fe.protection.mobspawn.natural.biomesoplenty:wasp                                      # (default: true) 
 fe.protection.mobspawn.natural.doggytalents:dog                                        # (default: true) 
+fe.protection.mobspawn.natural.farmingforblockheads:merchant                           # (default: true) 
 fe.protection.mobspawn.natural.minecraft:bat                                           # (default: true) 
 fe.protection.mobspawn.natural.minecraft:blaze                                         # (default: true) 
 fe.protection.mobspawn.natural.minecraft:cave_spider                                   # (default: true) 
@@ -521,7 +524,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                                    # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                                   # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                                    # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                      # (OP only: true) Allows to run commands remotely
+fe.remote.command                                                                      # (default: true) Allows to run commands remotely
 fe.remote.control                                                                      # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                          # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                               # (OP only: true) Allows to change permissions
