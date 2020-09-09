@@ -1,13 +1,17 @@
 # ProjectOC 3
-ProjectOC 3 is a Minecraft modpack with focus on OpenComputers.  
-The pack is designed for our public server, but can be used standalone too.
+ProjectOC 3 is a little server with focus on OpenComputers.  
+The pack is designed for our server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
+
+We are also open to do some events like game jams if the interest is these.  
+As well as any suggestions of course.
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
 MC server: poc.bloodcoffeegames.com  
 Discord server: https://discord.gg/v927kk7  
+GitHub: https://github.com/toothlessblue/POC3  
 Technic Pack: https://www.technicpack.net/modpack/projectoc-reboot.1745971
 
 # The modpack:

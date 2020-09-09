@@ -1,9 +1,4 @@
 POC3 launch:	
-	(toothless) add mod: chest transporter.
-	(toothless) remove mod: SSN
-	
-	(toothless) change conf: update the version value in the packs manifest.json.
-	
 	launch POC3:
 		(NoName) server:
 			update pack.
