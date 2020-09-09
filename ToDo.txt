@@ -1,0 +1,18 @@
+POC3 launch:	
+	(toothless) add mod: chest transporter.
+	(toothless) remove mod: SSN
+	
+	(toothless) change conf: update the version value in the packs manifest.json.
+	
+	launch POC3:
+		(NoName) server:
+			update pack.
+			disable whitelist.
+			
+		(NoName) DC: send launch msg.
+		(NoName) OC forum: open POC3 thread.
+
+		
+(NoName) upload POC2 map.
+
+find easy way to move inventory from server to server.
