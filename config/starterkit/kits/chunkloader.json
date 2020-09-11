@@ -1,0 +1,16 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Chunkloader",
+  "stacks": [
+    {
+      "item": "opencomputers:upgrade:4",
+      "count": 10
+    }
+  ],
+  "r": 180,
+  "g": 180,
+  "b": 180,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}

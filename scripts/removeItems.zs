@@ -1,0 +1,1 @@
+recipes.remove(<opencomputers:upgrade:4>);
