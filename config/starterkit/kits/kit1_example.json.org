@@ -1,0 +1,56 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Sample Kit 1",
+  "stacks": [
+    {
+      "item": "minecraft:wooden_sword",
+      "count": 1,
+      "nbt": {
+        "display": {
+          "Lore": [
+            "Sharp and dangerous",
+            "Could give you splinters!!!"
+          ],
+          "Name": "Pointy Stick"
+        },
+        "AttributeModifiers": [
+          {
+            "UUIDMost": 21637,
+            "UUIDLeast": 961471,
+            "Amount": 4,
+            "AttributeName": "generic.maxHealth",
+            "Operation": 0,
+            "Name": "generic.maxHealth"
+          },
+          {
+            "UUIDMost": 216367,
+            "UUIDLeast": 961473,
+            "Amount": 10,
+            "AttributeName": "generic.attackDamage",
+            "Operation": 0,
+            "Name": "generic.attackDamage"
+          }
+        ]
+      }
+    },
+    {
+      "item": "minecraft:stone_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "minecraft:torch",
+      "count": 16
+    }
+  ],
+  "commands": [
+    "/gamemode 1 %PLAYER_NAME%",
+    "/say I AM SO CREATIVE IT AINT EVEN FUNNY",
+    "/say My UUID is %PLAYER_UUID%"
+  ],
+  "r": 180,
+  "g": 180,
+  "b": 180,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}

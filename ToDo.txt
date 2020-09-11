@@ -1,11 +1,11 @@
 POC3 launch:	
 	launch POC3:
-		(NoName) server:
+		server:
 			update pack.
 			disable whitelist.
 			
-		(NoName) DC: send launch msg.
-		(NoName) OC forum: open POC3 thread.
+		DC: send launch msg.
+		OC forum: open POC3 thread.
 
 		
 (NoName) upload POC2 map.
