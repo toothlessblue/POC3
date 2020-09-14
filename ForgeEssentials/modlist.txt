@@ -1,150 +1,119 @@
 # --- ModList ---
-# Generated: 13-8-2020 (Server time)
-# Build: 82
+# Generated: 11-8-2020 (Server time)
+# Build: 73
 # Change the location of this file in main.cfg
 
 Minecraft;1.12.2;minecraft.jar;
 Minecraft Coder Pack;9.42;minecraft.jar;http://www.modcoderpack.com/website/
 Sampling Performance Profiler;1.84;sampler-1.84.jar;
-Forge Mod Loader;8.0.99.99;forge-1.12.2-14.23.5.2854.jar;https://github.com/MinecraftForge/FML/wiki
-Minecraft Forge;14.23.5.2854;forge-1.12.2-14.23.5.2854.jar;http://minecraftforge.net
-CreativeCoreDummy;1.0.0;minecraft.jar;
-LittleTilesCore;1.0.0;minecraft.jar;
-Multi-Hotbar Core;1.12.2-1.0.1-build-T22;minecraft.jar;https://github.com/rolandoislas/multi-hotbar-core
+Forge Mod Loader;8.0.99.99;forge-1.12.2-14.23.5.2847-universal.jar;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;14.23.5.2847;forge-1.12.2-14.23.5.2847-universal.jar;http://minecraftforge.net
 FoamFixCore;7.7.4;minecraft.jar;
-OpenComputers (Core);1.7.5.212;minecraft.jar;https://oc.cil.li/
-TickCentral;2.6;TickCentral-2.6.jar;
-CTM;MC1.12.2-1.0.2.31;CTM-MC1.12.2-1.0.2.31.jar;https://minecraft.curseforge.com/projects/ctm
+OpenComputers (Core);1.7.5.192;minecraft.jar;https://oc.cil.li/
+Gotta Go Fast;1.1;gottagofast-1.1.jar;
 Applied Energistics 2;rv6-stable-7;appliedenergistics2-rv6-stable-7.jar;http://ae2.ae-mod.info
 BD Lib;1.14.3.12;bdlib-1.14.3.12-mc1.12.2.jar;bdew.net/mods/
 AE2 Stuff;0.7.0.4;ae2stuff-0.7.0.4-mc1.12.2.jar;bdew.net
-AI Improvements;0.0.1.3;AIImprovements-1.12-0.0.1b3.jar;
+EnderCore;1.12.2-0.5.73;EnderCore-1.12.2-0.5.73.jar;http://enderio.com
 Shadowfacts' Forgelin;1.8.4;Forgelin-1.8.4.jar;https://github.com/shadowfacts/Forgelin
 A Lib;1.0.12;alib-1.0.12.jar;
-CraftTweaker2;4.1.20;CraftTweaker2-1.12-4.1.20.574.jar;http://minetweaker3.powerofbytes.com
-Alchemistry;1.12.2-40;alchemistry-1.12.2-41.jar;
-MDXLib;3.0.0.25;mdxlib-3.0.0.25.jar;http://arisux.com/dev/java/minecraft/mdxlib/
-Redstone Flux;2.1.1;RedstoneFlux-1.12-2.1.1.1-universal.jar;http://www.teamcofh.com
-AliensVsPredator;6.0.0.55;aliensvspredator-6.0.0.55.jar;https://aliensvspredator.org/
-MTLib;3.0.6;MTLib-3.0.6.jar;
-Mod Tweaker;4.0.18;modtweaker-4.0.18.jar;https://minecraft.curseforge.com/projects/ModTweaker
-Just Enough Items;4.15.0.291;jei_1.12.2-4.15.0.291.jar;https://github.com/mezz/JustEnoughItems
-AppleSkin;1.0.9;AppleSkin-mc1.12-1.0.9.jar;
-ArchitectureCraft;@VERSION@;architecturecraft-1.12-3.98.jar;https://github.com/elytra/ArchitectureCraft
+CraftTweaker2;4.1.20;CraftTweaker2-1.12-4.1.20.jar;http://minetweaker3.powerofbytes.com
+Alchemistry;1.0.36;alchemistry-1.0.36.jar;
+Just Enough Items;4.15.0.293;jei_1.12.2-4.15.0.293.jar;https://github.com/mezz/JustEnoughItems
+Ender IO;5.1.52;EnderIO-base-1.12.2-5.1.52.jar;http://enderio.com
+Mantle;1.12-1.3.3.55;Mantle-1.12-1.3.3.55.jar;https://github.com/SlimeKnights/Mantle
+Chisel;MC1.12.2-1.0.1.44;Chisel-MC1.12.2-1.0.1.44.jar;https://minecraft.curseforge.com/projects/chisel
+Ender IO Integration with Tinkers' Construct;5.1.52;EnderIO-integration-tic-1.12.2-5.1.52.jar;http://enderio.com
+Tinkers' Construct;1.12.2-2.12.0.157;TConstruct-1.12.2-2.12.0.157.jar;https://github.com/SlimeKnights/TinkersConstruct
+p455w0rd's Library;2.3.161;p455w0rdslib-1.12.2-2.3.161.jar;
+AE2 Wireless Terminals (AE2WTLib);1.0.34;AE2WTLib-1.12.2-1.0.34.jar;
+Akashic Tome;1.2-12;AkashicTome-1.2-12.jar;http://www.vazkii.us
 Morph-o-Tool;1.2-21;Morph-o-Tool-1.2-21.jar;http://www.vazkii.us
 AutoRegLib;1.3-32;AutoRegLib-1.3-32.jar;http://www.vazkii.us
-BiblioCraft;2.4.5;BiblioCraft[v2.4.5][MC1.12.2].jar;http://www.bibliocraftmod.com
-Biomes O' Plenty;7.0.1.2441;BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar;http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty
+Backpacks!;3.5.8;backpacks 1.12.2 - 3.5.8.jar;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291844-backpacks-by-brad16840
 Bookshelf;2.3.590;Bookshelf-1.12.2-2.3.590.jar;http://minecraft.curseforge.com/projects/bookshelf
+Chameleon;1.12-4.1.3;Chameleon-1.12-4.1.3.jar;http://www.jaquadro.com/
 Chest Transporter;2.8.8;ChestTransporter-1.12.2-2.8.8.jar;http://www.minecraftforum.net/topic/506109-
-Chisel;MC1.12.2-1.0.2.45;Chisel-MC1.12.2-1.0.2.45.jar;https://minecraft.curseforge.com/projects/chisel
 Chisels & Bits;14.33;chiselsandbits-14.33.jar;http://minecraft.curseforge.com/projects/chisels-bits
-Chunk Animator;1.2;ChunkAnimator-MC1.12-1.2.jar;
 ShadowMC;3.8.0;ShadowMC-1.12-3.8.0.jar;http://github.com/shadowfacts/ShadowMC
 Clipboard;@VERSION@;Clipboard-1.12-1.3.0.jar;https://rtfm.shadowfacts.net/clipboard/
 CodeChicken Lib;3.2.3.358;CodeChickenLib-1.12.2-3.2.3.358-universal.jar;http://chickenbones.net/Pages/links.html
-CoFH Core;4.6.6;CoFHCore-1.12.2-4.6.6.1-universal.jar;http://www.teamcofh.com
-CoFH World;1.4.0;CoFHWorld-1.12.2-1.4.0.1-universal.jar;http://www.teamcofh.com
 Morpheus;1.12.2-3.5.106;Morpheus-1.12.2-3.5.106.jar;http://www.curse.com/mc-mods/Minecraft/morpheus
 Comforts;1.4.1.2;comforts-1.12.2-1.4.1.2.jar;
-asielib;1.0.0;Computronics-1.12.2-1.6.6.jar;
-EnderCore;1.12.2-0.5.73;EnderCore-1.12.2-0.5.73.jar;http://enderio.com
-Thermal Foundation;2.6.7;ThermalFoundation-1.12.2-2.6.7.1-universal.jar;http://www.teamcofh.com
-Thermal Expansion;5.5.7;ThermalExpansion-1.12.2-5.5.7.1-universal.jar;http://www.teamcofh.com
-Ender IO;5.1.55;EnderIO-base-1.12.2-5.1.55.jar;http://enderio.com
+asielib;1.0.0;Computronics-1.12.1-1.6.5.jar;
 Waila;1.8.26;Hwyla-1.8.26-B41_1.12.2.jar;
-OpenComputers;1.7.5.212;OpenComputers-MC1.12.2-1.7.5.212.jar;http://oc.cil.li/
+OpenComputers;1.7.5.192;OpenComputers-MC1.12.2-1.7.5.192.jar;http://oc.cil.li/
 Railcraft;12.0.0;railcraft-12.0.0.jar;http://railcraft.info/
-Computronics;1.6.6;Computronics-1.12.2-1.6.6.jar;
-Controlling;3.0.10;Controlling-3.0.10.jar;
-Cooking for Blockheads;6.5.0;CookingForBlockheads_1.12.2-6.5.0.jar;
-Crafting Station;@VERSION@;craftingstation-0.1.7c.jar;
-CT-GUI;1.0.0;CraftTweaker2-1.12-4.1.20.574.jar;
-CraftTweaker JEI Support;2.0.3;CraftTweaker2-1.12-4.1.20.574.jar;
-CreativeCore;1.10.0;CreativeCore_v1.10.13_mc1.12.2.jar;https://www.curseforge.com/minecraft/mc-mods/creativecore
-Cucumber Library;1.1.3;Cucumber-1.12.2-1.1.3.jar;https://minecraft.curseforge.com/projects/cucumber
-Doggy Talents;1.15.1.5;DoggyTalents-1.12.2-1.15.1.5.jar;https://minecraft.curseforge.com/projects/doggy-talents/
+MCMultiPart;2.5.3;MCMultiPart-2.5.3.jar;
+Mekanism;1.12.2-9.8.3.390;Mekanism-1.12.2-9.8.3.390.jar;
+Computronics;1.6.5;Computronics-1.12.1-1.6.5.jar;
+CraftTweaker JEI Support;2.0.3;CraftTweaker2-1.12-4.1.20.jar;
+Dimension Rules;1.1;DimensionRules-MC1.12-1.1.jar;
+Elevator Mod;1.3.14;ElevatorMod-1.12.2-1.3.14.jar;https://minecraft.curseforge.com/projects/openblocks-elevator
 Enchanting Plus;5.0.176;EnchantingPlus-1.12.2-5.0.176.jar;
-Ender IO Base;5.1.55;EnderIO-base-1.12.2-5.1.55.jar;http://enderio.com
-Ender IO Conduits;5.1.55;EnderIO-conduits-1.12.2-5.1.55.jar;http://enderio.com
-Ender IO Powertools;5.1.55;EnderIO-conduits-1.12.2-5.1.55.jar;http://enderio.com
-Ender IO Open Computers Conduits;5.1.55;EnderIO-conduits-opencomputers-1.12.2-5.1.55.jar;http://enderio.com
-FTB Library;5.4.7.0;FTBLib-5.4.7.0.jar;http://minecraft.curseforge.com/projects/ftblib
-Ender IO Machines;5.1.55;EnderIO-machines-1.12.2-5.1.55.jar;http://enderio.com
-Farming for Blockheads;3.1.28;FarmingForBlockheads_1.12.2-3.1.28.jar;
+Ender IO Base;5.1.52;EnderIO-base-1.12.2-5.1.52.jar;http://enderio.com
+Ender IO Conduits;5.1.52;EnderIO-conduits-1.12.2-5.1.52.jar;http://enderio.com
+Ender IO Powertools;5.1.52;EnderIO-conduits-1.12.2-5.1.52.jar;http://enderio.com
+Ender IO Applied Energistics Conduits;5.1.52;EnderIO-conduits-appliedenergistics-1.12.2-5.1.52.jar;http://enderio.com
+Ender IO Open Computers Conduits;5.1.52;EnderIO-conduits-opencomputers-1.12.2-5.1.52.jar;http://enderio.com
+Ender IO Integration with Tinkers' Construct;5.1.52;EnderIO-integration-tic-1.12.2-5.1.52.jar;http://enderio.com
+EnderStorage;2.4.6.137;EnderStorage-1.12.2-2.4.6.137-universal.jar;http://www.minecraftforum.net/topic/909223
+EqualDragons;1.1;EqualDragons-1.1.jar;
+FastAsyncWorldEdit;3.5.1;FastAsyncWorldEdit-forge112-19.05.02-d89cb44-1274-22.2.0.jar;
 Fast Leaf Decay;v14;FastLeafDecay-v14.jar;http://minecraft.curseforge.com/projects/fastleafdecay
 FoamFix;0.10.10-1.12.2;foamfix-0.10.10-1.12.2.jar;http://asie.pl/Projects/Minecraft/Mods/FoamFix
-Forge Endertech;1.12.2-4.5.2.0;ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar;https://www.curseforge.com/minecraft/mc-mods/forgeendertech
-ForgeEssentials Client Addon;12.3;forgeessentials-1.12.2-12.3.82-client.jar;
-WorldEdit;6.1.10;worldedit-forge-mc1.12.2-6.1.10-dist.jar;http://wiki.sk89q.com/wiki/WorldEdit
-Forge Essentials;12.3;forgeessentials-1.12.2-12.3.82-server.jar;
+FTB Library;5.4.4.5;FTBLib-5.4.4.5.jar;http://minecraft.curseforge.com/projects/ftblib
+WorldEdit;6.1.8;worldedit-forge-mc1.12-6.1.8-dist.jar;http://wiki.sk89q.com/wiki/WorldEdit
+Forge Essentials;12.3;forgeessentials-1.12.2-12.3.73-server.jar;
 Forge Multipart CBE;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
 Forge Microblocks;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
 Minecraft Multipart Plugin;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
-FTB Backups;1.1.0.1;FTBBackups-1.1.0.1.jar;https://www.curseforge.com/minecraft/mc-mods/ftb-backups
 FTB Utilities;5.4.0.124;FTBUtilities-5.4.0.124.jar;http://minecraft.curseforge.com/projects/ftb-utilities
+FTB Utilities: Backups;0.0.0.ftbbackups;FTBUtilitiesBackups-1.0.0.2.jar;http://minecraft.curseforge.com/projects/ftb-utilities-backups
 Gravestone Mod;1.10.3;gravestone-1.10.3.jar;https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/
-InControl;3.9.16;incontrol-1.12-3.9.16.jar;
+Immersive Engineering;0.12-92;ImmersiveEngineering-0.12-92.jar;https://github.com/BluSunrize/ImmersiveEngineering
+Immersive Petroleum;1.1.9;immersivepetroleum-1.12.2-1.1.9.jar;https://github.com/Flaxbeard/ImmersivePetroleum
+Immersive Tech;1.3.10;immersivetech-1.12-1.3.10.jar;https://github.com/FerroO2000/Immersive-Tech
 Inventory Tweaks;1.63+release.109.220f184;InventoryTweaks-1.63.jar;https://github.com/Kobata/inventory-tweaks
 Iron Chest;1.12.2-7.0.67.844;ironchest-1.12.2-7.0.72.847.jar;http://www.minecraftforum.net/topic/981855-
-Iron Jetpacks;1.1.0;IronJetpacks-1.12-2-1.1.0.jar;https://minecraft.curseforge.com/projects/iron-jetpacks
-JEI Integration;1.5.1.36;jeiintegration_1.12.2-1.5.1.36.jar;https://minecraft.curseforge.com/projects/jei-integration
-LagGoggles;1.12.2-5.8-132;LagGoggles-1.12.2-5.8-132.jar;https://minecraft.curseforge.com/projects/laggoggles
-LittleTiles;1.5.0;LittleTiles_v1.5.0-pre199_26_mc1.12.2.jar;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408680
-Light Level Overlay Reloaded;1.1.6-mc1.12.2;LLOverlayReloaded-1.1.6-mc1.12.2.jar;www.mmyzd.com
+LagGoggles;FAT-1.12.2-4.9;LagGoggles-FAT-1.12.2-4.9.jar;https://minecraft.curseforge.com/projects/laggoggles
 MalisisCore;1.12.2-6.5.1-SNAPSHOT;malisiscore-1.12.2-6.5.1.jar;http://github.com/Ordinastie/MalisisCore
 MalisisDoors;1.12.2-7.3.0;malisisdoors-1.12.2-7.3.0.jar;http://github.com/Ordinastie/MalisisDoors
-MCMultiPart;2.5.3;MCMultiPart-2.5.3.jar;
-MmmMmmMmmMmm;1.12;MmmMmmMmmMmm-1.12-1.14.jar;
+Mekanism: Generators;1.12.2-9.8.3.390;MekanismGenerators-1.12.2-9.8.3.390.jar;
+MineTweakerRecipeMaker;1.2.2.30;MineTweakerRecipeMaker-1.12.2-1.2.2.30.jar;http://doubledoordev.net/
 Modern Lights;1.0.3;ModernLights-1.0.3_1.12.jar;
-Mouse Tweaks;2.10;MouseTweaks-2.10-mc1.12.2.jar;http://www.minecraftforum.net/topic/1518185-
 MrTJPCore;2.1.4.43;MrTJPCore-1.12.2-2.1.4.43-universal.jar;...
-Multi-Hotbar;1.12.2-4.0.1-build-T116;multihotbar-1.12.2-4.0.1-build-T116.jar;https://github.com/rolandoislas/multi-hotbar
-NuclearCraft;2.18r;NuclearCraft-2.18r-1.12.2.jar;https://minecraft.curseforge.com/projects/nuclearcraft-mod
-OMLib;3.1.4-249;omlib-1.12.2-3.1.4-249.jar;
+NuclearCraft;2.18n;NuclearCraft-2.18n-1.12.2.jar;https://minecraft.curseforge.com/projects/nuclearcraft-mod
+OMLib;3.1.3-246;omlib-1.12.2-3.1.3-246.jar;
 OpenFM;0.1.0.19;OpenFM-1.12.2-0.1.0.19.jar;http://minecraft.curseforge.com/projects/openfm
-Open Modular Turrets;3.1.9-370;openmodularturrets-1.12.2-3.1.9-370.jar;
+OpenLights;0.1.0.8;OpenLights-MC1.12.2-0.1.0.8.jar;
+Open Modular Turrets;3.1.4-356;openmodularturrets-1.12.2-3.1.4-356.jar;
 OpenPrinter;0.1.0.9;OpenPrinter-1.12.2-0.1.0.9.jar;https://github.com/PC-Logix/OpenPrinter
 OpenPython;1.0.1;OpenPython-MC1.12.2-OC1.7-1.0.1.jar;
 OpenScreens;1.0.1;openscreens-1.12.2-1.0.1.jar;https://minecraft.curseforge.com/projects/openscreens
-OpenSecurity;1.0-41;OpenSecurity-1.12.2-1.0-41.jar;
-Pam's HarvestCraft;1.12.2zb;Pam's HarvestCraft 1.12.2zg.jar;http://minecraft.curseforge.com/members/MatrexsVigil/projects
-Patchouli;1.0-20;Patchouli-1.0-20.jar;http://www.vazkii.us
-PneumaticCraft: Repressurized;1.12.2-0.11.14-395;pneumaticcraft-repressurized-1.12.2-0.11.14-395.jar;https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
+OpenSecurity;1.0-39;OpenSecurity-1.12.2-1.0-39.jar;
 ProjectRed Core;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-Base.jar;http://projectredwiki.com
 projectred-compat;1.0;ProjectRed-1.12.2-4.9.4.120-compat.jar;
 ProjectRed Integration;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-integration.jar;
 ProjectRed Transmission;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-integration.jar;
 ProjectRed Fabrication;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-fabrication.jar;
 ProjectRed Illumination;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-lighting.jar;
-ProjectRed Expansion;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-mechanical.jar;
-ProjectRed Relocation;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-mechanical.jar;
-ProjectRed Transportation;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-mechanical.jar;
-ProjectRed Exploration;4.9.4.120;ProjectRed-1.12.2-4.9.4.120-world.jar;
-QuackLib;2.2.5;quacklib-2.2.5.jar;https://gitlab.com/the_real_farfetchd/QuackLib
-retrocomputers;1.0;retrocomputers-3.0.2.jar;
-Gauges and Switches;1.2.2;rsgauges-1.12.2-1.2.2.jar;https://github.com/stfwi/rsgauges/
-SG Craft;2.0.3;SGCraft-2.0.4.jar;
+Redstone Gauges and Switches;1.1.9;rsgauges-1.12.2-1.1.9.jar;https://github.com/stfwi/rsgauges/
 Simple Fluid Tanks;1.12.2-1.7.1.3;simplefluidtanks-1.12.2-1.7.1.3.jar;http://minecraft.curseforge.com/mc-mods/simplefluidtanks/
-Sound Filters;0.12_for_1.12;SoundFilters-0.12_for_1.12.jar;
-Valkyrie Lib;1.12.2-2.0.20.1;valkyrielib-1.12.2-2.0.20.1.jar;http://minecraft.curseforge.com/projects/valkyrielib
-Starter Kit;1.12.2-1.0.20.1;starterkit-1.12.2-1.0.20.1.jar;http://minecraft.curseforge.com/projects/starter-kit
+Simple Storage Network;1.7.8;SimpleStorageNetwork-1.12.2-1.7.8.jar;https://minecraft.curseforge.com/projects/simple-storage-network
 Surge;2.0.77;Surge-1.12.2-2.0.77.jar;
-Thut Core;5.21.0;thutcore-1.12.2-5.21.0.jar;
-ThutCore Compat;1.0;thutcore-1.12.2-5.21.0.jar;
-Thut's Elevators;6.1.6;thuttech-1.12.2-6.1.6.jar;
-Tick Dynamic;1.0.2;TickDynamic-1.12.2-1.0.2.jar;https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic
-Universal Modifiers;1.12.2-1.0.16.1;valkyrielib-1.12.2-2.0.20.1.jar;
+Tick Dynamic;1.0.1;TickDynamic-1.12.2-1.0.1.jar;https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic
+Tinkers Construct OpenComputers Driver;0.6;tinkersoc-0.6.jar;
+Tinkers Tool Leveling;1.12.2-1.1.0.DEV.b23e769;TinkerToolLeveling-1.12.2-1.1.0.jar;https://github.com/SlimeKnights/TinkersToolLeveling
 Vein Miner;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
 Mod Support;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
-WanionLib;1.12.2-2.4;WanionLib-1.12.2-2.4.jar;http://minecraft.curseforge.com/projects/wanionlib
-What Are We Looking At;2.6.275;Wawla-1.12.2-2.6.275.jar;https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at
-WorldEdit CUI Forge Edition 3;3.0.4;WorldEdit-CUI-FE3-1.12.2-3.0.4.jar;http://github.com/hexomod/WorldEditCUI-Forge-Edition-3
+Wireless Crafting Terminal 2;3.12.97;WirelessCraftingTerminal-1.12.2-3.12.97.jar;
 Zetta Industries;1.3;zettaindustries-1.3-1.12.2-161.jar;http://www.zi.bymarcin.com
+Industrial Wires;1.7-36;IndustrialWires-1.7-36.jar;
+MatterOverdrive: Legacy Edition;0.7.0.0;MatterOverdrive-1.12.2-0.7.1.0-universal.jar;https://hrzn.studio/p/mo
 renderToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/renderToolkit
 guiToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/guiToolkit
 commons0815;1.3.7;Commons0815-1.12.2-1.3.7.jar;
-OpenEntity;1.0.0-alpha_20191016;OpenEntity-1.0.0-alpha_20191016.jar;https://github.com/ben-mkiv/OpenEntity
+OCDevices;1.0.0-44;ocdevices-MC1.12.2-1.0.0-44.jar;https://minecraft.curseforge.com/projects/ocdevices
 OpenGlasses;@VERSION@-50;OpenGlasses-MC1.12.2-2.2-50.jar;https://github.com/StarChasers/OCGlasses
 OpenComputers Sensors;1.0.4;ocsensors-1.0.4-b23.jar;
-UniDict;1.12.2-2.9.6;UniDict-1.12.2-2.9.6.jar;http://minecraft.curseforge.com/projects/unidict
