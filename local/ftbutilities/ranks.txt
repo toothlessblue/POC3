@@ -1,22 +1,33 @@
 // For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
 
 [player]
-default_player_rank: true
 power: 1
-example.permission: true
-example.other_permission: false
-example.permission_with_value: 0
+default_player_rank: true
+ftbutilities.claims.max_chunks: 100
+ftbutilities.chunkloader.max_chunks: 0
+command.tpa: true
+command.trade: true
+command.yes: true
+command.no: true
+command.wallet: true
+command.tickdynamic: true
+ftbutilities.homes.max: 3
+ftbutilities.homes.warmup: 0
+ftbutilities.homes.cooldown: 0
 
-[vip]
-parent: player
-power: 20
-ftbutilities.chat.name_format: <&bVIP {name}&r>
-example.other_permission: true
-example.permission_with_value: 15
+[op]
+power: 2
+ftbutilities.claims.max_chunks: 300
+ftbutilities.chunkloader.max_chunks: 1
+ftbutilities.chat.name_format: <&2Admin &l{name}&r>
+ftbutilities.chat.text.italic: true
 
 [admin]
-parent: vip
+power: 3
 default_op_rank: true
-power: 100
-ftbutilities.chat.name_format: <&2{name}&r>
-example.permission_with_value: 100
+example.other_permission: true
+ftbutilities.chunkloader.max_chunks: 0
+
+[oc]
+power: 4
+command.say: true
