@@ -6,7 +6,7 @@ mods.thermalexpansion.RedstoneFurnace.addRecipe(<enderio:block_fused_glass>, <mi
 val binder = <enderio:item_material:4>;
 val rAlloy = <projectred-core:resource_item:103>;
 
-recipes.addShaped("CT Energy Conduit",<enderio:item_power_conduit>,
+recipes.addShaped("CT Energy Conduit",<enderio:item_power_conduit> * 8,
     [[binder,binder,binder],
      [rAlloy,rAlloy,rAlloy],
      [binder,binder,binder]]
