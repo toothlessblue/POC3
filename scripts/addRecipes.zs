@@ -1,3 +1,13 @@
 mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:block_fused_quartz>,<minecraft:quartz>*4,<minecraft:sand>,4000);
 mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:item_alloy_ingot:1>,<nuclearcraft:compound:2>*2,<minecraft:gold_ingot>,6000);
-mods.thermalexpansion.InductionSmelter.addRecipe(<enderio:block_fused_glass>,<minecraft:glass>,<minecraft:glass>,2500);
+furnace.addRecipe(<enderio:block_fused_glass>, <minecraft:glass>);
+mods.thermalexpansion.RedstoneFurnace.addRecipe(<enderio:block_fused_glass>, <minecraft:glass>, 2500);
+
+val binder = <enderio:item_material:4>;
+val rAlloy = <projectred-core:resource_item:103>;
+
+recipes.addShaped("CT Energy Conduit",<enderio:item_power_conduit>,
+    [[binder,binder,binder],
+     [rAlloy,rAlloy,rAlloy],
+     [binder,binder,binder]]
+ );
