@@ -34,3 +34,8 @@ config/FastAsyncWorldEdit
 ForgeEssentials/playerlogger.h2.db
 ForgeEssentials/playerlogger.trace.db
 ForgeEssentials/ChatLog
+ForgeEssentials/ItemList.txt
+ForgeEssentials/PermissionList_Blocks.txt
+ForgeEssentials/PermissionList_Items.txt
+ForgeEssentials/PermissionsList.txt
+ForgeEssentials/modlist.txt
