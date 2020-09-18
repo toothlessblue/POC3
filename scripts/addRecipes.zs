@@ -13,3 +13,13 @@ recipes.addShaped("CT Energy Conduit",<enderio:item_power_conduit> * 8,
      [binder,binder,binder]]
  );
 
+val lapis = <enderio:item_material:32>;
+val green = <minecraft:dye:2>;
+val quartzDust = <nuclearcraft:gem_dust:2>;
+val inkSac = <minecraft:dye>;
+
+recipes.addShaped("CT Industrial Blend",<enderio:item_material:51> * 6,
+    [[lapis,quartzDust,green],
+     [quartzDust,inkSac,quartzDust],
+     [green,quartzDust,lapis]]
+ );
