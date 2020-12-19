@@ -1,5 +1,5 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 15.09 09:20 ------------ \\#
+#// --------------- 17.12 20:30 ------------ \\#
 #// ----------- Total amount: 22057 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
@@ -2386,7 +2386,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                           # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                          # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                               # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §bDebug Item
+fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §5Debug Item
 fe.protection.craft.retrocomputers.disk.*                                              # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                       # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                     # (default: true) CRAFT Floppy Disk
@@ -5053,7 +5053,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                           # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                          # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                               # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §bDebug Item
+fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §5Debug Item
 fe.protection.exist.retrocomputers.disk.*                                              # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                       # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                     # (default: true) EXIST Floppy Disk
@@ -7720,7 +7720,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                       # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                      # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                           # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §bDebug Item
+fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §5Debug Item
 fe.protection.inventory.retrocomputers.disk.*                                          # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                   # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                 # (default: true) INVENTORY Floppy Disk
@@ -10388,7 +10388,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                             # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                            # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                 # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §bDebug Item
+fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §5Debug Item
 fe.protection.use.retrocomputers.disk.*                                                # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                         # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                       # (default: true) USE Floppy Disk

@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 15-8-2020 (Server time)
+# Generated: 17-11-2020 (Server time)
 # Build: 82
 # Change the location of this file in main.cfg
 
@@ -11,6 +11,8 @@ Minecraft Forge;14.23.5.2847;forge-1.12.2-14.23.5.2847-universal.jar;http://mine
 CreativeCoreDummy;1.0.0;minecraft.jar;
 LittleTilesCore;1.0.0;minecraft.jar;
 Multi-Hotbar Core;1.12.2-1.0.1-build-T22;minecraft.jar;https://github.com/rolandoislas/multi-hotbar-core
+XaeroMinimapCore;1.12.2-1.0;minecraft.jar;
+XaeroWorldMapCore;1.12.2-1.0;minecraft.jar;
 FoamFixCore;7.7.4;minecraft.jar;
 OpenComputers (Core);1.7.5.212;minecraft.jar;https://oc.cil.li/
 TickCentral;2.6;TickCentral-2.6.jar;
@@ -72,7 +74,6 @@ FastAsyncWorldEdit;3.5.1;FastAsyncWorldEdit-forge112-19.05.02-d89cb44-1274-22.2.
 Fast Leaf Decay;v14;FastLeafDecay-v14.jar;http://minecraft.curseforge.com/projects/fastleafdecay
 FoamFix;0.10.10-1.12.2;foamfix-0.10.10-1.12.2.jar;http://asie.pl/Projects/Minecraft/Mods/FoamFix
 Forge Endertech;1.12.2-4.5.2.0;ForgeEndertech-1.12.2-4.5.2.0-build.0459.jar;https://www.curseforge.com/minecraft/mc-mods/forgeendertech
-ForgeEssentials Client Addon;12.3;forgeessentials-1.12.2-12.3.82-client.jar;
 WorldEdit;6.1.10;worldedit-forge-mc1.12.2-6.1.10-dist.jar;http://wiki.sk89q.com/wiki/WorldEdit
 Forge Essentials;12.3;forgeessentials-1.12.2-12.3.82-server.jar;
 Forge Multipart CBE;2.6.2.83;ForgeMultipart-1.12.2-2.6.2.83-universal.jar;https://github.com/Chicken-Bones/ForgeMultipart
@@ -102,6 +103,7 @@ OpenPrinter;0.1.0.9;OpenPrinter-1.12.2-0.1.0.9.jar;https://github.com/PC-Logix/O
 OpenPython;1.0.1;OpenPython-MC1.12.2-OC1.7-1.0.1.jar;
 OpenScreens;1.0.1;openscreens-1.12.2-1.0.1.jar;https://minecraft.curseforge.com/projects/openscreens
 OpenSecurity;1.0-41;OpenSecurity-1.12.2-1.0-41.jar;
+Oversaturation;1.0;Oversaturation-1.12.2-1.0.jar;
 Pam's HarvestCraft;1.12.2zb;Pam's HarvestCraft 1.12.2zg.jar;http://minecraft.curseforge.com/members/MatrexsVigil/projects
 Patchouli;1.0-20;Patchouli-1.0-20.jar;http://www.vazkii.us
 PneumaticCraft: Repressurized;1.12.2-0.11.14-395;pneumaticcraft-repressurized-1.12.2-0.11.14-395.jar;https://minecraft.curseforge.com/projects/pneumaticcraft-repressurized
@@ -132,6 +134,8 @@ Vein Miner;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.cursefo
 Mod Support;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
 WanionLib;1.12.2-2.4;WanionLib-1.12.2-2.4.jar;http://minecraft.curseforge.com/projects/wanionlib
 What Are We Looking At;2.6.275;Wawla-1.12.2-2.6.275.jar;https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at
+Xaero's Minimap;20.22.0;Xaeros_Minimap_20.22.0_Forge_1.12.jar;
+Xaero's World Map;1.10.3;XaerosWorldMap_1.10.3_Forge_1.12.jar;
 Zetta Industries;1.3;zettaindustries-1.3-1.12.2-161.jar;http://www.zi.bymarcin.com
 renderToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/renderToolkit
 guiToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/guiToolkit
