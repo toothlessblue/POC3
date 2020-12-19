@@ -2,8 +2,7 @@
 	{
 		"mod" : "EnderStorage",
 		"supporters": [
-			"Blkdragon112",
-			"Pyrodogg"
+			"Blkdragon112"
 		]
 	},
 	{
@@ -23,11 +22,7 @@
 			"Ninja 5tyl3",
 			"Disalot",
 			"Gamer2313",
-			"Majorangejuice",
-			"Kadah",
-			"adeilt",
-			"Terkanil",
-			"Pandemonia",
+			"Majorangejuice"
 		]
 	},
 	{
@@ -39,14 +34,12 @@
 	{
 		"mod" : "Translocators",
 		"supporters": [
-			"Boyd Stephen Smith Jr."
 		]
 	}, 
 	{
 		"mod" : "ProjectRed",
 		"supporters" : [
-			"Jacob M",
-			"Darker Light"
+			"Jacob M"
 		]
 	}
 ]
