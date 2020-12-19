@@ -1,2 +1,0 @@
-multiworldType:1
-ignoreServerLevelId:false

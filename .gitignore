@@ -15,6 +15,9 @@ zettaindustries
 
 world*
 tmp
+XaeroWorldMap
+XaeroWaypoints*
+
 
 .curseclient
 crafttweaker.log
