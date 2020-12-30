@@ -45,8 +45,8 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; ArchitectureCraft  
 &emsp; AE2Stuff  
 &emsp; BetterFPS  
-&emsp; BiomesOPlenty
-&emsp; ChestTransporter
+&emsp; BiomesOPlenty  
+&emsp; ChestTransporter  
 &emsp; Chisel  
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
