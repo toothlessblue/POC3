@@ -40,9 +40,9 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 
 **Some mods to round off the pack:**  
 &emsp; Alchemistry  
-&emsp; AliensVsPredator 
+&emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
-&emsp; ArchitectureCraft
+&emsp; ArchitectureCraft  
 &emsp; AE2Stuff  
 &emsp; BetterFPS  
 &emsp; BiomesOPlenty
@@ -51,6 +51,7 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
 &emsp; Comforts  
+&emsp; Controlling  
 &emsp; DoggyTalents  
 &emsp; EnchantingPlus  
 &emsp; EnderIO  
@@ -81,11 +82,11 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; RSGauges  
 &emsp; SimpleFluidTanks  
 &emsp; ThermalExpansion  
-&emsp; Thut'sElevators
-&emsp; Tinkers'Construct
-&emsp; Tinkers'ToolLeveling
+&emsp; Thut'sElevators  
+&emsp; Tinkers'Construct  
+&emsp; Tinkers'ToolLeveling  
 &emsp; VeinMiner  
-&emsp; and some requirement mods/libarys as well as background mods like BetterFPS.
+&emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
 
 **optional:**  
 &emsp; ChunkAnimator  
