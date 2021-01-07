@@ -19,6 +19,7 @@ tmp
 XaeroWorldMap
 XaeroWaypoints*
 
+server.properties
 
 .curseclient
 crafttweaker.log
