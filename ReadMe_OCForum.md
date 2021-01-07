@@ -52,6 +52,7 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; Clipboard  
 &emsp; Comforts  
 &emsp; Controlling  
+&emsp; CompressedBlocks    
 &emsp; DoggyTalents  
 &emsp; EnchantingPlus  
 &emsp; EnderIO  
@@ -82,17 +83,19 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; RSGauges  
 &emsp; SimpleFluidTanks  
 &emsp; ThermalExpansion  
+&emsp; ThermalDynamics  
 &emsp; Thut'sElevators  
 &emsp; Tinkers'Construct  
 &emsp; Tinkers'ToolLeveling  
 &emsp; VeinMiner  
+&emsp; WirelessCraftingTerminal  
 &emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
 
 **optional:**  
 &emsp; ChunkAnimator  
 &emsp; Jei (of course)  
 &emsp; SoundFilters  
-&emsp; Hwyla  
+&emsp; TheOneProbe  
 &emsp; InventoryTweaks  
 
 We hope you like that project, and we see you on the server :).
