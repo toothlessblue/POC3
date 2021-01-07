@@ -43,383 +43,10 @@ general {
 }
 
 
-##########################################################################################################
-# groups
-#--------------------------------------------------------------------------------------------------------#
-# Groups define a list of Entities and/or TileEntities and the configuration for them.
-# You can define the groups here, and they will automatically be part of every world.
-# 
-# If you wish to override the settings for a group in a specific world, you can simply include a group with the same name in the world,
-# and then provide the new values. Any value you do not define will be read from the global group.
-# So you can for example define a group for all Animal mobs, and define them to get less time than other Entities in all worlds,
-# but then define them to get even less time in a certain world without having to re-define the list of Entities.
-# 
-# Note that the groups 'entity' and 'tileentity' are special groups. Any TileEntity or Entity which are not included in any other group,
-# will be automatically included in these two groups.
-##########################################################################################################
-
 groups {
 
-    entity {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=Entity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            opencomputers
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    tileentity {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=200
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            immersiveengineering
-            opencomputers
-            mekanism
-            minecraft
-            appliedenergistics2
-            tconstruct
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    ie {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityFluidPump
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityAssembler
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorLV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorMV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorHV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayLV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayMV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayHV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorLV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorMV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorHV
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntitySqueezer
-            blusunrize.immersiveengineering.common.blocks.metal.TileEntitySheetmetalTank
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=10
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            ironchest
-            minecraft
-            tconstruct
-            matteroverdrive
-            railcraft
-            chisel
-            chiselsandbits
-            opencomputers
-            mekanism
-            appliedenergistics2
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    oc {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            li.cil.oc.common.tileentity.Case
-            li.cil.oc.common.tileentity.Screen
-            li.cil.oc.common.tileentity.Robot
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=10000000
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=20.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            immersiveengineering
-            ironchest
-            minecraft
-            tconstruct
-            matteroverdrive
-            railcraft
-            chisel
-            chiselsandbits
-            mekanism
-            appliedenergistics2
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=0
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    oce {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            li.cil.oc.common.entity.Drone
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=Entity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=10000000
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=20.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            immersiveengineering
-            ironchest
-            minecraft
-            tconstruct
-            matteroverdrive
-            railcraft
-            chisel
-            chiselsandbits
-            mekanism
-            appliedenergistics2
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=0
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    players {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            net.minecraft.entity.player.EntityPlayer
-            net.minecraft.entity.player.EntityPlayerMP
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=Entity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            immersiveengineering
-            ironchest
-            minecraft
-            tconstruct
-            matteroverdrive
-            railcraft
-            chisel
-            chiselsandbits
-            opencomputers
-            mekanism
-            appliedenergistics2
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=0
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
-    animals {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
-        B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
-        S:entityClassNames <
-            net.minecraft.entity.passive.EntityChicken
-            net.minecraft.entity.passive.EntityCow
-            net.minecraft.entity.passive.EntityPig
-            net.minecraft.entity.passive.EntityWolf
-            net.minecraft.entity.passive.EntitySheep
-            net.minecraft.entity.passive.EntityDonkey
-            net.minecraft.entity.passive.EntityLlama
-            net.minecraft.entity.passive.EntityMule
-            net.minecraft.entity.passive.EntityOcelot
-            net.minecraft.entity.passive.EntityRabbit
-            net.minecraft.entity.passive.EntityVillager
-            net.minecraft.entity.passive.EntitySquid
-            net.minecraft.entity.passive.EntityMooshroom
-            net.minecraft.entity.passive.EntityParrot
-            net.minecraft.entity.passive.EntityZombieHorse
-            net.minecraft.entity.passive.EntitySkeletonHorse
-         >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
-        S:entityNames <
-            
-         >
-
-        # Entity or TileEntity group
-        S:groupType=Entity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
-        I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
-        D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
-        D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
-        S:modId <
-            immersiveengineering
-            ironchest
-            minecraft
-            tconstruct
-            matteroverdrive
-            railcraft
-            chisel
-            chiselsandbits
-            opencomputers
-            mekanism
-            appliedenergistics2
-         >
-
-        # The number of slices given to this Group
-        I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
-        B:useCorrectedTime=true
-    }
-
     mobs {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             net.minecraft.entity.monster.EntityZombie
             net.minecraft.entity.monster.EntityCreeper
@@ -449,26 +76,13 @@ groups {
             net.minecraft.entity.monster.EntityWitch
             net.minecraft.entity.monster.EntityWitherSkeleton
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=Entity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=300
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=20.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -482,42 +96,237 @@ groups {
             mekanism
             appliedenergistics2
          >
-
-        # The number of slices given to this Group
         I:slicesMax=1000
+        B:useCorrectedTime=true
+    }
 
-        # Set the World time to the correct time for the TPS of this group.
+    entity {
+        B:enabled=true
+        S:entityClassNames <
+            
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=Entity
+        I:minimumObjects=100
+        D:minimumTPS=0.0
+        D:minimumTime=0.0
+        S:modId <
+            opencomputers
+         >
+        I:slicesMax=100
+        B:useCorrectedTime=true
+    }
+
+    tileentity {
+        B:enabled=true
+        S:entityClassNames <
+            
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=TileEntity
+        I:minimumObjects=200
+        D:minimumTPS=0.0
+        D:minimumTime=0.0
+        S:modId <
+            immersiveengineering
+            opencomputers
+            mekanism
+            minecraft
+            appliedenergistics2
+            tconstruct
+         >
+        I:slicesMax=100
+        B:useCorrectedTime=true
+    }
+
+    ie {
+        B:enabled=true
+        S:entityClassNames <
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityFluidPump
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityAssembler
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorLV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorMV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityConnectorHV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayLV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayMV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityRelayHV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorLV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorMV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntityCapacitorHV
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntitySqueezer
+            blusunrize.immersiveengineering.common.blocks.metal.TileEntitySheetmetalTank
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=TileEntity
+        I:minimumObjects=10
+        D:minimumTPS=0.0
+        D:minimumTime=0.0
+        S:modId <
+            ironchest
+            minecraft
+            tconstruct
+            matteroverdrive
+            railcraft
+            chisel
+            chiselsandbits
+            opencomputers
+            mekanism
+            appliedenergistics2
+         >
+        I:slicesMax=100
+        B:useCorrectedTime=true
+    }
+
+    oc {
+        B:enabled=true
+        S:entityClassNames <
+            li.cil.oc.common.tileentity.Case
+            li.cil.oc.common.tileentity.Screen
+            li.cil.oc.common.tileentity.Robot
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=TileEntity
+        I:minimumObjects=10000000
+        D:minimumTPS=20.0
+        D:minimumTime=0.0
+        S:modId <
+            immersiveengineering
+            ironchest
+            minecraft
+            tconstruct
+            matteroverdrive
+            railcraft
+            chisel
+            chiselsandbits
+            mekanism
+            appliedenergistics2
+         >
+        I:slicesMax=0
+        B:useCorrectedTime=true
+    }
+
+    oce {
+        B:enabled=true
+        S:entityClassNames <
+            li.cil.oc.common.entity.Drone
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=Entity
+        I:minimumObjects=10000000
+        D:minimumTPS=20.0
+        D:minimumTime=0.0
+        S:modId <
+            immersiveengineering
+            ironchest
+            minecraft
+            tconstruct
+            matteroverdrive
+            railcraft
+            chisel
+            chiselsandbits
+            mekanism
+            appliedenergistics2
+         >
+        I:slicesMax=0
+        B:useCorrectedTime=true
+    }
+
+    players {
+        B:enabled=true
+        S:entityClassNames <
+            net.minecraft.entity.player.EntityPlayer
+            net.minecraft.entity.player.EntityPlayerMP
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=Entity
+        I:minimumObjects=100
+        D:minimumTPS=0.0
+        D:minimumTime=0.0
+        S:modId <
+            immersiveengineering
+            ironchest
+            minecraft
+            tconstruct
+            matteroverdrive
+            railcraft
+            chisel
+            chiselsandbits
+            opencomputers
+            mekanism
+            appliedenergistics2
+         >
+        I:slicesMax=0
+        B:useCorrectedTime=true
+    }
+
+    animals {
+        B:enabled=true
+        S:entityClassNames <
+            net.minecraft.entity.passive.EntityChicken
+            net.minecraft.entity.passive.EntityCow
+            net.minecraft.entity.passive.EntityPig
+            net.minecraft.entity.passive.EntityWolf
+            net.minecraft.entity.passive.EntitySheep
+            net.minecraft.entity.passive.EntityDonkey
+            net.minecraft.entity.passive.EntityLlama
+            net.minecraft.entity.passive.EntityMule
+            net.minecraft.entity.passive.EntityOcelot
+            net.minecraft.entity.passive.EntityRabbit
+            net.minecraft.entity.passive.EntityVillager
+            net.minecraft.entity.passive.EntitySquid
+            net.minecraft.entity.passive.EntityMooshroom
+            net.minecraft.entity.passive.EntityParrot
+            net.minecraft.entity.passive.EntityZombieHorse
+            net.minecraft.entity.passive.EntitySkeletonHorse
+         >
+        S:entityNames <
+            
+         >
+        S:groupType=Entity
+        I:minimumObjects=100
+        D:minimumTPS=0.0
+        D:minimumTime=0.0
+        S:modId <
+            immersiveengineering
+            ironchest
+            minecraft
+            tconstruct
+            matteroverdrive
+            railcraft
+            chisel
+            chiselsandbits
+            opencomputers
+            mekanism
+            appliedenergistics2
+         >
+        I:slicesMax=100
         B:useCorrectedTime=true
     }
 
     slowed {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             net.minecraft.tileentity.TileEntityChest
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=200
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -530,43 +339,23 @@ groups {
             minecraft
             appliedenergistics2
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
     pte {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             slimeknights.tconstruct.smeltery.tileentity.TileSmeltery
             net.minecraft.tileentity.TileEntityFurnace
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=200
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -580,42 +369,22 @@ groups {
             appliedenergistics2
             tconstruct
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
     mc {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -628,42 +397,22 @@ groups {
             opencomputers
             appliedenergistics2
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
     ae {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -675,42 +424,22 @@ groups {
             mekanism
             opencomputers
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
     chiselsandbits {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -722,42 +451,22 @@ groups {
             opencomputers
             appliedenergistics2
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
     tconstruct {
-        # Whether this group is enabled or not. If not, no Entity/TileEntity will be added to it.
         B:enabled=true
-
-        # List of Entity/TileEntity class names(Ex: net.minecraft.tileentity.TileEntityDropper), for Entities that are to be included in this group.
         S:entityClassNames <
             
          >
-
-        # List of Entity/Block names(Ex: Sheep / minecraft:furnace) who are to be included in this group.
         S:entityNames <
             
          >
-
-        # Entity or TileEntity group
         S:groupType=TileEntity
-
-        # Minimum number of objects to tick, independent of slices. Set to 0 to disable.
         I:minimumObjects=100
-
-        # Minimum TPS to keep, independent of slices. Set to 0 to disable.
         D:minimumTPS=0.0
-
-        # Minimum Time to keep(In milliseconds), independent of slices. Set to 0 to disable.
         D:minimumTime=0.0
-
-        # List of mods to exclude. Will exclude every Entity or TileEntity from the specific mod, independent of 'entityClassNames' and 'entityNames'
-        # 
         S:modId <
             immersiveengineering
             ironchest
@@ -768,11 +477,7 @@ groups {
             opencomputers
             appliedenergistics2
          >
-
-        # The number of slices given to this Group
         I:slicesMax=100
-
-        # Set the World time to the correct time for the TPS of this group.
         B:useCorrectedTime=true
     }
 
@@ -785,99 +490,72 @@ worlds {
     # You can set this to less than 50ms if you want to leave a bit of buffer time for other things, or don't want to use 100% cpu.
     I:tickTime=50
 
-    ##########################################################################################################
-    # dim0
-    #--------------------------------------------------------------------------------------------------------#
-    # overworld
-    ##########################################################################################################
-
     dim0 {
         I:slicesMax=100
 
         entity {
-            # Entity or TileEntity group
             S:groupType=Entity
-
-            # The number of slices given to this Group
             I:slicesMax=100
         }
 
         tileentity {
-            # Entity or TileEntity group
             S:groupType=TileEntity
-
-            # The number of slices given to this Group
             I:slicesMax=200
         }
 
     }
-
-    ##########################################################################################################
-    # dim-1
-    #--------------------------------------------------------------------------------------------------------#
-    # the_nether
-    ##########################################################################################################
 
     dim-1 {
         I:slicesMax=200
 
         entity {
-            # Entity or TileEntity group
             S:groupType=Entity
-
-            # The number of slices given to this Group
             I:slicesMax=200
         }
 
     }
 
-    ##########################################################################################################
-    # dim2
-    #--------------------------------------------------------------------------------------------------------#
-    # Storage Cell
-    ##########################################################################################################
-
     dim2 {
         I:slicesMax=100
     }
-
-    ##########################################################################################################
-    # dim11
-    #--------------------------------------------------------------------------------------------------------#
-    # overworld
-    ##########################################################################################################
 
     dim11 {
         I:slicesMax=100
     }
 
-    ##########################################################################################################
-    # dim4598
-    #--------------------------------------------------------------------------------------------------------#
-    # nc_wasteland
-    ##########################################################################################################
-
     dim4598 {
         I:slicesMax=100
     }
-
-    ##########################################################################################################
-    # dim1
-    #--------------------------------------------------------------------------------------------------------#
-    # the_end
-    ##########################################################################################################
 
     dim1 {
         I:slicesMax=100
     }
 
-    ##########################################################################################################
-    # dim10
-    #--------------------------------------------------------------------------------------------------------#
-    # overworld
-    ##########################################################################################################
-
     dim10 {
+        I:slicesMax=100
+    }
+
+    dim3 {
+        I:slicesMax=100
+    }
+
+    dim4 {
+        I:slicesMax=100
+    }
+
+    dim12 {
+        I:slicesMax=100
+    }
+
+    dim13 {
+        I:slicesMax=100
+    }
+
+    dim14 {
+        I:slicesMax=100
+    }
+
+    dim15 {
         I:slicesMax=100
     }
 

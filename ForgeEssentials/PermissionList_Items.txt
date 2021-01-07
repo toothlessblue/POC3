@@ -1,10 +1,11 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 17.12 20:30 ------------ \\#
-#// ----------- Total amount: 22057 --------- \\#
+#// --------------- 01.01 14:50 ------------ \\#
+#// ----------- Total amount: 23804 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.ae2stuff.visualiser.*                                              # (default: true) CRAFT Network Visualisation Tool
 fe.protection.craft.ae2stuff.wireless_kit.*                                            # (default: true) CRAFT Wireless Setup Kit
+fe.protection.craft.akashictome.tome.*                                                 # (default: true) CRAFT Akashic Tome
 fe.protection.craft.alchemistry.compound.*                                             # (default: true) CRAFT Cellulose
 fe.protection.craft.alchemistry.condensed_milk.*                                       # (default: true) CRAFT Condensed Milk
 fe.protection.craft.alchemistry.element.*                                              # (default: true) CRAFT Hydrogen
@@ -2386,7 +2387,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                           # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                          # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                               # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §5Debug Item
+fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §7Debug Item
 fe.protection.craft.retrocomputers.disk.*                                              # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                       # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                     # (default: true) CRAFT Floppy Disk
@@ -2406,6 +2407,186 @@ fe.protection.craft.sgcraft.tollan_phase_shift_device.*                         
 fe.protection.craft.sgcraft.zpm.*                                                      # (default: true) CRAFT Zero Point Module
 fe.protection.craft.simplefluidtanks.wrench.*                                          # (default: true) CRAFT Wrench
 fe.protection.craft.starterkit.starterkit.*                                            # (default: true) CRAFT Starter Kit
+fe.protection.craft.taiga.abyssum_dust.*                                               # (default: true) CRAFT Abyssum Dust
+fe.protection.craft.taiga.abyssum_ingot.*                                              # (default: true) CRAFT Abyssum Ingot
+fe.protection.craft.taiga.abyssum_nugget.*                                             # (default: true) CRAFT Abyssum Nugget
+fe.protection.craft.taiga.adamant_dust.*                                               # (default: true) CRAFT Adamant Dust
+fe.protection.craft.taiga.adamant_ingot.*                                              # (default: true) CRAFT Adamant Ingot
+fe.protection.craft.taiga.adamant_nugget.*                                             # (default: true) CRAFT Adamant Nugget
+fe.protection.craft.taiga.astrium_dust.*                                               # (default: true) CRAFT Astrium Dust
+fe.protection.craft.taiga.astrium_ingot.*                                              # (default: true) CRAFT Astrium Ingot
+fe.protection.craft.taiga.astrium_nugget.*                                             # (default: true) CRAFT Astrium Nugget
+fe.protection.craft.taiga.aurorium_dust.*                                              # (default: true) CRAFT Aurorium Dust
+fe.protection.craft.taiga.aurorium_ingot.*                                             # (default: true) CRAFT Aurorium Ingot
+fe.protection.craft.taiga.aurorium_nugget.*                                            # (default: true) CRAFT Aurorium Nugget
+fe.protection.craft.taiga.basalt_dust.*                                                # (default: true) CRAFT Basalt Dust
+fe.protection.craft.taiga.basalt_ingot.*                                               # (default: true) CRAFT Basalt Ingot
+fe.protection.craft.taiga.basalt_nugget.*                                              # (default: true) CRAFT Basalt Nugget
+fe.protection.craft.taiga.dilithium_crystal.*                                          # (default: true) CRAFT Dilithium Crystal
+fe.protection.craft.taiga.dilithium_dust.*                                             # (default: true) CRAFT Dilithium Dust
+fe.protection.craft.taiga.dilithium_ingot.*                                            # (default: true) CRAFT Dilithium Ingot
+fe.protection.craft.taiga.dilithium_nugget.*                                           # (default: true) CRAFT Dilithium Nugget
+fe.protection.craft.taiga.duranite_dust.*                                              # (default: true) CRAFT Duranite Dust
+fe.protection.craft.taiga.duranite_ingot.*                                             # (default: true) CRAFT Duranite Ingot
+fe.protection.craft.taiga.duranite_nugget.*                                            # (default: true) CRAFT Duranite Nugget
+fe.protection.craft.taiga.dyonite_dust.*                                               # (default: true) CRAFT Dyonite Dust
+fe.protection.craft.taiga.dyonite_ingot.*                                              # (default: true) CRAFT Dyonite Ingot
+fe.protection.craft.taiga.dyonite_nugget.*                                             # (default: true) CRAFT Dyonite Nugget
+fe.protection.craft.taiga.eezo_dust.*                                                  # (default: true) CRAFT Eezo Dust
+fe.protection.craft.taiga.eezo_ingot.*                                                 # (default: true) CRAFT Eezo Ingot
+fe.protection.craft.taiga.eezo_nugget.*                                                # (default: true) CRAFT Eezo Nugget
+fe.protection.craft.taiga.fractum_dust.*                                               # (default: true) CRAFT Fractum Dust
+fe.protection.craft.taiga.fractum_ingot.*                                              # (default: true) CRAFT Fractum Ingot
+fe.protection.craft.taiga.fractum_nugget.*                                             # (default: true) CRAFT Fractum Nugget
+fe.protection.craft.taiga.ignitz_dust.*                                                # (default: true) CRAFT Ignitz Dust
+fe.protection.craft.taiga.ignitz_ingot.*                                               # (default: true) CRAFT Ignitz Ingot
+fe.protection.craft.taiga.ignitz_nugget.*                                              # (default: true) CRAFT Ignitz Nugget
+fe.protection.craft.taiga.imperomite_dust.*                                            # (default: true) CRAFT Imperomite Dust
+fe.protection.craft.taiga.imperomite_ingot.*                                           # (default: true) CRAFT Imperomite Ingot
+fe.protection.craft.taiga.imperomite_nugget.*                                          # (default: true) CRAFT Imperomite Nugget
+fe.protection.craft.taiga.iox_dust.*                                                   # (default: true) CRAFT Iox Dust
+fe.protection.craft.taiga.iox_ingot.*                                                  # (default: true) CRAFT Iox Ingot
+fe.protection.craft.taiga.iox_nugget.*                                                 # (default: true) CRAFT Iox Nugget
+fe.protection.craft.taiga.jauxum_dust.*                                                # (default: true) CRAFT Jauxum Dust
+fe.protection.craft.taiga.jauxum_ingot.*                                               # (default: true) CRAFT Jauxum Ingot
+fe.protection.craft.taiga.jauxum_nugget.*                                              # (default: true) CRAFT Jauxum Nugget
+fe.protection.craft.taiga.karmesine_dust.*                                             # (default: true) CRAFT Karmesine Dust
+fe.protection.craft.taiga.karmesine_ingot.*                                            # (default: true) CRAFT Karmesine Ingot
+fe.protection.craft.taiga.karmesine_nugget.*                                           # (default: true) CRAFT Karmesine Nugget
+fe.protection.craft.taiga.lumix_dust.*                                                 # (default: true) CRAFT Lumix Dust
+fe.protection.craft.taiga.lumix_ingot.*                                                # (default: true) CRAFT Lumix Ingot
+fe.protection.craft.taiga.lumix_nugget.*                                               # (default: true) CRAFT Lumix Nugget
+fe.protection.craft.taiga.meteorite_dust.*                                             # (default: true) CRAFT Meteorite Dust
+fe.protection.craft.taiga.meteorite_ingot.*                                            # (default: true) CRAFT Meteorite Ingot
+fe.protection.craft.taiga.meteorite_nugget.*                                           # (default: true) CRAFT Meteorite Nugget
+fe.protection.craft.taiga.nihilite_dust.*                                              # (default: true) CRAFT Nihilite Dust
+fe.protection.craft.taiga.nihilite_ingot.*                                             # (default: true) CRAFT Nihilite Ingot
+fe.protection.craft.taiga.nihilite_nugget.*                                            # (default: true) CRAFT Nihilite Nugget
+fe.protection.craft.taiga.niob_dust.*                                                  # (default: true) CRAFT Niob Dust
+fe.protection.craft.taiga.niob_ingot.*                                                 # (default: true) CRAFT Niob Ingot
+fe.protection.craft.taiga.niob_nugget.*                                                # (default: true) CRAFT Niob Nugget
+fe.protection.craft.taiga.nucleum_dust.*                                               # (default: true) CRAFT Nucleum Dust
+fe.protection.craft.taiga.nucleum_ingot.*                                              # (default: true) CRAFT Nucleum Ingot
+fe.protection.craft.taiga.nucleum_nugget.*                                             # (default: true) CRAFT Nucleum Nugget
+fe.protection.craft.taiga.obsidiorite_dust.*                                           # (default: true) CRAFT Obsidiorite Dust
+fe.protection.craft.taiga.obsidiorite_ingot.*                                          # (default: true) CRAFT Obsidiorite Ingot
+fe.protection.craft.taiga.obsidiorite_nugget.*                                         # (default: true) CRAFT Obsidiorite Nugget
+fe.protection.craft.taiga.osram_dust.*                                                 # (default: true) CRAFT Osram Dust
+fe.protection.craft.taiga.osram_ingot.*                                                # (default: true) CRAFT Osram Ingot
+fe.protection.craft.taiga.osram_nugget.*                                               # (default: true) CRAFT Osram Nugget
+fe.protection.craft.taiga.ovium_dust.*                                                 # (default: true) CRAFT Ovium Dust
+fe.protection.craft.taiga.ovium_ingot.*                                                # (default: true) CRAFT Ovium Ingot
+fe.protection.craft.taiga.ovium_nugget.*                                               # (default: true) CRAFT Ovium Nugget
+fe.protection.craft.taiga.palladium_dust.*                                             # (default: true) CRAFT Palladium Dust
+fe.protection.craft.taiga.palladium_ingot.*                                            # (default: true) CRAFT Palladium Ingot
+fe.protection.craft.taiga.palladium_nugget.*                                           # (default: true) CRAFT Palladium Nugget
+fe.protection.craft.taiga.prometheum_dust.*                                            # (default: true) CRAFT Prometheum Dust
+fe.protection.craft.taiga.prometheum_ingot.*                                           # (default: true) CRAFT Prometheum Ingot
+fe.protection.craft.taiga.prometheum_nugget.*                                          # (default: true) CRAFT Prometheum Nugget
+fe.protection.craft.taiga.proxii_dust.*                                                # (default: true) CRAFT Proxii Dust
+fe.protection.craft.taiga.proxii_ingot.*                                               # (default: true) CRAFT Proxii Ingot
+fe.protection.craft.taiga.proxii_nugget.*                                              # (default: true) CRAFT Proxii Nugget
+fe.protection.craft.taiga.seismum_dust.*                                               # (default: true) CRAFT Seismum Dust
+fe.protection.craft.taiga.seismum_ingot.*                                              # (default: true) CRAFT Seismum Ingot
+fe.protection.craft.taiga.seismum_nugget.*                                             # (default: true) CRAFT Seismum Nugget
+fe.protection.craft.taiga.solarium_dust.*                                              # (default: true) CRAFT Solarium Dust
+fe.protection.craft.taiga.solarium_ingot.*                                             # (default: true) CRAFT Solarium Ingot
+fe.protection.craft.taiga.solarium_nugget.*                                            # (default: true) CRAFT Solarium Nugget
+fe.protection.craft.taiga.terrax_dust.*                                                # (default: true) CRAFT Terrax Dust
+fe.protection.craft.taiga.terrax_ingot.*                                               # (default: true) CRAFT Terrax Ingot
+fe.protection.craft.taiga.terrax_nugget.*                                              # (default: true) CRAFT Terrax Nugget
+fe.protection.craft.taiga.tiberium_crystal.*                                           # (default: true) CRAFT Tiberium Crystal
+fe.protection.craft.taiga.tiberium_dust.*                                              # (default: true) CRAFT Tiberium Dust
+fe.protection.craft.taiga.tiberium_ingot.*                                             # (default: true) CRAFT Tiberium Ingot
+fe.protection.craft.taiga.tiberium_nugget.*                                            # (default: true) CRAFT Tiberium Nugget
+fe.protection.craft.taiga.triberium_dust.*                                             # (default: true) CRAFT Triberium Dust
+fe.protection.craft.taiga.triberium_ingot.*                                            # (default: true) CRAFT Triberium Ingot
+fe.protection.craft.taiga.triberium_nugget.*                                           # (default: true) CRAFT Triberium Nugget
+fe.protection.craft.taiga.tritonite_dust.*                                             # (default: true) CRAFT Tritonite Dust
+fe.protection.craft.taiga.tritonite_ingot.*                                            # (default: true) CRAFT Tritonite Ingot
+fe.protection.craft.taiga.tritonite_nugget.*                                           # (default: true) CRAFT Tritonite Nugget
+fe.protection.craft.taiga.uru_dust.*                                                   # (default: true) CRAFT Uru Dust
+fe.protection.craft.taiga.uru_ingot.*                                                  # (default: true) CRAFT Uru Ingot
+fe.protection.craft.taiga.uru_nugget.*                                                 # (default: true) CRAFT Uru Nugget
+fe.protection.craft.taiga.valyrium_dust.*                                              # (default: true) CRAFT Valyrium Dust
+fe.protection.craft.taiga.valyrium_ingot.*                                             # (default: true) CRAFT Valyrium Ingot
+fe.protection.craft.taiga.valyrium_nugget.*                                            # (default: true) CRAFT Valyrium Nugget
+fe.protection.craft.taiga.vibranium_dust.*                                             # (default: true) CRAFT Vibranium Dust
+fe.protection.craft.taiga.vibranium_ingot.*                                            # (default: true) CRAFT Vibranium Ingot
+fe.protection.craft.taiga.vibranium_nugget.*                                           # (default: true) CRAFT Vibranium Nugget
+fe.protection.craft.taiga.violium_dust.*                                               # (default: true) CRAFT Violium Dust
+fe.protection.craft.taiga.violium_ingot.*                                              # (default: true) CRAFT Violium Ingot
+fe.protection.craft.taiga.violium_nugget.*                                             # (default: true) CRAFT Violium Nugget
+fe.protection.craft.taiga.yrdeen_dust.*                                                # (default: true) CRAFT Yrdeen Dust
+fe.protection.craft.taiga.yrdeen_ingot.*                                               # (default: true) CRAFT Yrdeen Ingot
+fe.protection.craft.taiga.yrdeen_nugget.*                                              # (default: true) CRAFT Yrdeen Nugget
+fe.protection.craft.tconstruct.arrow.*                                                 # (default: true) CRAFT Arrow
+fe.protection.craft.tconstruct.arrow_head.*                                            # (default: true) CRAFT Arrow Head
+fe.protection.craft.tconstruct.arrow_shaft.*                                           # (default: true) CRAFT Arrow Shaft
+fe.protection.craft.tconstruct.axe_head.*                                              # (default: true) CRAFT Axe Head
+fe.protection.craft.tconstruct.battlesign.*                                            # (default: true) CRAFT Battlesign
+fe.protection.craft.tconstruct.binding.*                                               # (default: true) CRAFT Binding
+fe.protection.craft.tconstruct.bolt.*                                                  # (default: true) CRAFT Bolt
+fe.protection.craft.tconstruct.bolt_core.*                                             # (default: true) CRAFT Bolt Core
+fe.protection.craft.tconstruct.book.*                                                  # (default: true) CRAFT Materials and You
+fe.protection.craft.tconstruct.bow_limb.*                                              # (default: true) CRAFT Bowlimb
+fe.protection.craft.tconstruct.bow_string.*                                            # (default: true) CRAFT Bowstring
+fe.protection.craft.tconstruct.broad_axe_head.*                                        # (default: true) CRAFT Broad Axe Head
+fe.protection.craft.tconstruct.broadsword.*                                            # (default: true) CRAFT Broadsword
+fe.protection.craft.tconstruct.cast.*                                                  # (default: true) CRAFT Blank Cast
+fe.protection.craft.tconstruct.cast_custom.*                                           # (default: true) CRAFT Ingot Cast
+fe.protection.craft.tconstruct.clay_cast.*                                             # (default: true) CRAFT item.tconstruct.clay_cast.blank
+fe.protection.craft.tconstruct.cleaver.*                                               # (default: true) CRAFT Cleaver
+fe.protection.craft.tconstruct.cross_guard.*                                           # (default: true) CRAFT Cross Guard
+fe.protection.craft.tconstruct.crossbow.*                                              # (default: true) CRAFT Crossbow
+fe.protection.craft.tconstruct.edible.*                                                # (default: true) CRAFT Bacon
+fe.protection.craft.tconstruct.excavator.*                                             # (default: true) CRAFT Excavator
+fe.protection.craft.tconstruct.excavator_head.*                                        # (default: true) CRAFT Excavator Head
+fe.protection.craft.tconstruct.fancy_frame.*                                           # (default: true) CRAFT Fancy Item Frame
+fe.protection.craft.tconstruct.fletching.*                                             # (default: true) CRAFT Fletching
+fe.protection.craft.tconstruct.frypan.*                                                # (default: true) CRAFT Frypan
+fe.protection.craft.tconstruct.hammer.*                                                # (default: true) CRAFT Hammer
+fe.protection.craft.tconstruct.hammer_head.*                                           # (default: true) CRAFT Hammer Head
+fe.protection.craft.tconstruct.hand_guard.*                                            # (default: true) CRAFT Hand Guard
+fe.protection.craft.tconstruct.hatchet.*                                               # (default: true) CRAFT Hatchet
+fe.protection.craft.tconstruct.ingots.*                                                # (default: true) CRAFT Cobalt Ingot
+fe.protection.craft.tconstruct.kama.*                                                  # (default: true) CRAFT Kama
+fe.protection.craft.tconstruct.kama_head.*                                             # (default: true) CRAFT Kama Head
+fe.protection.craft.tconstruct.knife_blade.*                                           # (default: true) CRAFT Knife Blade
+fe.protection.craft.tconstruct.large_plate.*                                           # (default: true) CRAFT Large Plate
+fe.protection.craft.tconstruct.large_sword_blade.*                                     # (default: true) CRAFT Large Sword Blade
+fe.protection.craft.tconstruct.longbow.*                                               # (default: true) CRAFT Longbow
+fe.protection.craft.tconstruct.longsword.*                                             # (default: true) CRAFT Longsword
+fe.protection.craft.tconstruct.lumberaxe.*                                             # (default: true) CRAFT Lumberaxe
+fe.protection.craft.tconstruct.materials.*                                             # (default: true) CRAFT Seared Brick
+fe.protection.craft.tconstruct.mattock.*                                               # (default: true) CRAFT Mattock
+fe.protection.craft.tconstruct.moms_spaghetti.*                                        # (default: true) CRAFT Mom's Spaghetti
+fe.protection.craft.tconstruct.nuggets.*                                               # (default: true) CRAFT Cobalt Nugget
+fe.protection.craft.tconstruct.pan_head.*                                              # (default: true) CRAFT Pan
+fe.protection.craft.tconstruct.pattern.*                                               # (default: true) CRAFT Blank Pattern
+fe.protection.craft.tconstruct.pick_head.*                                             # (default: true) CRAFT Pickaxe Head
+fe.protection.craft.tconstruct.pickaxe.*                                               # (default: true) CRAFT Pickaxe
+fe.protection.craft.tconstruct.piggybackpack.*                                         # (default: true) CRAFT Piggybackpack
+fe.protection.craft.tconstruct.rapier.*                                                # (default: true) CRAFT Rapier
+fe.protection.craft.tconstruct.scythe.*                                                # (default: true) CRAFT Scythe
+fe.protection.craft.tconstruct.scythe_head.*                                           # (default: true) CRAFT Scythe Head
+fe.protection.craft.tconstruct.shard.*                                                 # (default: true) CRAFT Shard
+fe.protection.craft.tconstruct.sharpening_kit.*                                        # (default: true) CRAFT Sharpening Kit
+fe.protection.craft.tconstruct.shortbow.*                                              # (default: true) CRAFT Shortbow
+fe.protection.craft.tconstruct.shovel.*                                                # (default: true) CRAFT Shovel
+fe.protection.craft.tconstruct.shovel_head.*                                           # (default: true) CRAFT Shovel Head
+fe.protection.craft.tconstruct.shuriken.*                                              # (default: true) CRAFT Shuriken
+fe.protection.craft.tconstruct.sign_head.*                                             # (default: true) CRAFT Sign Plate
+fe.protection.craft.tconstruct.slime_boots.*                                           # (default: true) CRAFT Slime Boots
+fe.protection.craft.tconstruct.slimesling.*                                            # (default: true) CRAFT Slimesling
+fe.protection.craft.tconstruct.spaghetti.*                                             # (default: true) CRAFT Impossibly Hard Wheat Sticks
+fe.protection.craft.tconstruct.stone_stick.*                                           # (default: true) CRAFT Stone Rod
+fe.protection.craft.tconstruct.sword_blade.*                                           # (default: true) CRAFT Sword Blade
+fe.protection.craft.tconstruct.throwball.*                                             # (default: true) CRAFT Glowball
+fe.protection.craft.tconstruct.tool_rod.*                                              # (default: true) CRAFT Tool Rod
+fe.protection.craft.tconstruct.tough_binding.*                                         # (default: true) CRAFT Tough Binding
+fe.protection.craft.tconstruct.tough_tool_rod.*                                        # (default: true) CRAFT Tough Tool Rod
+fe.protection.craft.tconstruct.wide_guard.*                                            # (default: true) CRAFT Wide Guard
 fe.protection.craft.testdummy.dummy.*                                                  # (default: true) CRAFT Test Dummy
 fe.protection.craft.thermalexpansion.augment.*                                         # (default: true) CRAFT Augment: item.invalid.name
 fe.protection.craft.thermalexpansion.capacitor.*                                       # (default: true) CRAFT Flux Capacitor (Basic)
@@ -2672,6 +2853,7 @@ fe.protection.craft.zettaindustries.smartcardterminal.*                         
 fe.protection.exist.*                                                                  # (default: true) Allow having item in inventory. Item will be destroyed if not allowed.
 fe.protection.exist.ae2stuff.visualiser.*                                              # (default: true) EXIST Network Visualisation Tool
 fe.protection.exist.ae2stuff.wireless_kit.*                                            # (default: true) EXIST Wireless Setup Kit
+fe.protection.exist.akashictome.tome.*                                                 # (default: true) EXIST Akashic Tome
 fe.protection.exist.alchemistry.compound.*                                             # (default: true) EXIST Cellulose
 fe.protection.exist.alchemistry.condensed_milk.*                                       # (default: true) EXIST Condensed Milk
 fe.protection.exist.alchemistry.element.*                                              # (default: true) EXIST Hydrogen
@@ -5053,7 +5235,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                           # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                          # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                               # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §5Debug Item
+fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §7Debug Item
 fe.protection.exist.retrocomputers.disk.*                                              # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                       # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                     # (default: true) EXIST Floppy Disk
@@ -5073,6 +5255,186 @@ fe.protection.exist.sgcraft.tollan_phase_shift_device.*                         
 fe.protection.exist.sgcraft.zpm.*                                                      # (default: true) EXIST Zero Point Module
 fe.protection.exist.simplefluidtanks.wrench.*                                          # (default: true) EXIST Wrench
 fe.protection.exist.starterkit.starterkit.*                                            # (default: true) EXIST Starter Kit
+fe.protection.exist.taiga.abyssum_dust.*                                               # (default: true) EXIST Abyssum Dust
+fe.protection.exist.taiga.abyssum_ingot.*                                              # (default: true) EXIST Abyssum Ingot
+fe.protection.exist.taiga.abyssum_nugget.*                                             # (default: true) EXIST Abyssum Nugget
+fe.protection.exist.taiga.adamant_dust.*                                               # (default: true) EXIST Adamant Dust
+fe.protection.exist.taiga.adamant_ingot.*                                              # (default: true) EXIST Adamant Ingot
+fe.protection.exist.taiga.adamant_nugget.*                                             # (default: true) EXIST Adamant Nugget
+fe.protection.exist.taiga.astrium_dust.*                                               # (default: true) EXIST Astrium Dust
+fe.protection.exist.taiga.astrium_ingot.*                                              # (default: true) EXIST Astrium Ingot
+fe.protection.exist.taiga.astrium_nugget.*                                             # (default: true) EXIST Astrium Nugget
+fe.protection.exist.taiga.aurorium_dust.*                                              # (default: true) EXIST Aurorium Dust
+fe.protection.exist.taiga.aurorium_ingot.*                                             # (default: true) EXIST Aurorium Ingot
+fe.protection.exist.taiga.aurorium_nugget.*                                            # (default: true) EXIST Aurorium Nugget
+fe.protection.exist.taiga.basalt_dust.*                                                # (default: true) EXIST Basalt Dust
+fe.protection.exist.taiga.basalt_ingot.*                                               # (default: true) EXIST Basalt Ingot
+fe.protection.exist.taiga.basalt_nugget.*                                              # (default: true) EXIST Basalt Nugget
+fe.protection.exist.taiga.dilithium_crystal.*                                          # (default: true) EXIST Dilithium Crystal
+fe.protection.exist.taiga.dilithium_dust.*                                             # (default: true) EXIST Dilithium Dust
+fe.protection.exist.taiga.dilithium_ingot.*                                            # (default: true) EXIST Dilithium Ingot
+fe.protection.exist.taiga.dilithium_nugget.*                                           # (default: true) EXIST Dilithium Nugget
+fe.protection.exist.taiga.duranite_dust.*                                              # (default: true) EXIST Duranite Dust
+fe.protection.exist.taiga.duranite_ingot.*                                             # (default: true) EXIST Duranite Ingot
+fe.protection.exist.taiga.duranite_nugget.*                                            # (default: true) EXIST Duranite Nugget
+fe.protection.exist.taiga.dyonite_dust.*                                               # (default: true) EXIST Dyonite Dust
+fe.protection.exist.taiga.dyonite_ingot.*                                              # (default: true) EXIST Dyonite Ingot
+fe.protection.exist.taiga.dyonite_nugget.*                                             # (default: true) EXIST Dyonite Nugget
+fe.protection.exist.taiga.eezo_dust.*                                                  # (default: true) EXIST Eezo Dust
+fe.protection.exist.taiga.eezo_ingot.*                                                 # (default: true) EXIST Eezo Ingot
+fe.protection.exist.taiga.eezo_nugget.*                                                # (default: true) EXIST Eezo Nugget
+fe.protection.exist.taiga.fractum_dust.*                                               # (default: true) EXIST Fractum Dust
+fe.protection.exist.taiga.fractum_ingot.*                                              # (default: true) EXIST Fractum Ingot
+fe.protection.exist.taiga.fractum_nugget.*                                             # (default: true) EXIST Fractum Nugget
+fe.protection.exist.taiga.ignitz_dust.*                                                # (default: true) EXIST Ignitz Dust
+fe.protection.exist.taiga.ignitz_ingot.*                                               # (default: true) EXIST Ignitz Ingot
+fe.protection.exist.taiga.ignitz_nugget.*                                              # (default: true) EXIST Ignitz Nugget
+fe.protection.exist.taiga.imperomite_dust.*                                            # (default: true) EXIST Imperomite Dust
+fe.protection.exist.taiga.imperomite_ingot.*                                           # (default: true) EXIST Imperomite Ingot
+fe.protection.exist.taiga.imperomite_nugget.*                                          # (default: true) EXIST Imperomite Nugget
+fe.protection.exist.taiga.iox_dust.*                                                   # (default: true) EXIST Iox Dust
+fe.protection.exist.taiga.iox_ingot.*                                                  # (default: true) EXIST Iox Ingot
+fe.protection.exist.taiga.iox_nugget.*                                                 # (default: true) EXIST Iox Nugget
+fe.protection.exist.taiga.jauxum_dust.*                                                # (default: true) EXIST Jauxum Dust
+fe.protection.exist.taiga.jauxum_ingot.*                                               # (default: true) EXIST Jauxum Ingot
+fe.protection.exist.taiga.jauxum_nugget.*                                              # (default: true) EXIST Jauxum Nugget
+fe.protection.exist.taiga.karmesine_dust.*                                             # (default: true) EXIST Karmesine Dust
+fe.protection.exist.taiga.karmesine_ingot.*                                            # (default: true) EXIST Karmesine Ingot
+fe.protection.exist.taiga.karmesine_nugget.*                                           # (default: true) EXIST Karmesine Nugget
+fe.protection.exist.taiga.lumix_dust.*                                                 # (default: true) EXIST Lumix Dust
+fe.protection.exist.taiga.lumix_ingot.*                                                # (default: true) EXIST Lumix Ingot
+fe.protection.exist.taiga.lumix_nugget.*                                               # (default: true) EXIST Lumix Nugget
+fe.protection.exist.taiga.meteorite_dust.*                                             # (default: true) EXIST Meteorite Dust
+fe.protection.exist.taiga.meteorite_ingot.*                                            # (default: true) EXIST Meteorite Ingot
+fe.protection.exist.taiga.meteorite_nugget.*                                           # (default: true) EXIST Meteorite Nugget
+fe.protection.exist.taiga.nihilite_dust.*                                              # (default: true) EXIST Nihilite Dust
+fe.protection.exist.taiga.nihilite_ingot.*                                             # (default: true) EXIST Nihilite Ingot
+fe.protection.exist.taiga.nihilite_nugget.*                                            # (default: true) EXIST Nihilite Nugget
+fe.protection.exist.taiga.niob_dust.*                                                  # (default: true) EXIST Niob Dust
+fe.protection.exist.taiga.niob_ingot.*                                                 # (default: true) EXIST Niob Ingot
+fe.protection.exist.taiga.niob_nugget.*                                                # (default: true) EXIST Niob Nugget
+fe.protection.exist.taiga.nucleum_dust.*                                               # (default: true) EXIST Nucleum Dust
+fe.protection.exist.taiga.nucleum_ingot.*                                              # (default: true) EXIST Nucleum Ingot
+fe.protection.exist.taiga.nucleum_nugget.*                                             # (default: true) EXIST Nucleum Nugget
+fe.protection.exist.taiga.obsidiorite_dust.*                                           # (default: true) EXIST Obsidiorite Dust
+fe.protection.exist.taiga.obsidiorite_ingot.*                                          # (default: true) EXIST Obsidiorite Ingot
+fe.protection.exist.taiga.obsidiorite_nugget.*                                         # (default: true) EXIST Obsidiorite Nugget
+fe.protection.exist.taiga.osram_dust.*                                                 # (default: true) EXIST Osram Dust
+fe.protection.exist.taiga.osram_ingot.*                                                # (default: true) EXIST Osram Ingot
+fe.protection.exist.taiga.osram_nugget.*                                               # (default: true) EXIST Osram Nugget
+fe.protection.exist.taiga.ovium_dust.*                                                 # (default: true) EXIST Ovium Dust
+fe.protection.exist.taiga.ovium_ingot.*                                                # (default: true) EXIST Ovium Ingot
+fe.protection.exist.taiga.ovium_nugget.*                                               # (default: true) EXIST Ovium Nugget
+fe.protection.exist.taiga.palladium_dust.*                                             # (default: true) EXIST Palladium Dust
+fe.protection.exist.taiga.palladium_ingot.*                                            # (default: true) EXIST Palladium Ingot
+fe.protection.exist.taiga.palladium_nugget.*                                           # (default: true) EXIST Palladium Nugget
+fe.protection.exist.taiga.prometheum_dust.*                                            # (default: true) EXIST Prometheum Dust
+fe.protection.exist.taiga.prometheum_ingot.*                                           # (default: true) EXIST Prometheum Ingot
+fe.protection.exist.taiga.prometheum_nugget.*                                          # (default: true) EXIST Prometheum Nugget
+fe.protection.exist.taiga.proxii_dust.*                                                # (default: true) EXIST Proxii Dust
+fe.protection.exist.taiga.proxii_ingot.*                                               # (default: true) EXIST Proxii Ingot
+fe.protection.exist.taiga.proxii_nugget.*                                              # (default: true) EXIST Proxii Nugget
+fe.protection.exist.taiga.seismum_dust.*                                               # (default: true) EXIST Seismum Dust
+fe.protection.exist.taiga.seismum_ingot.*                                              # (default: true) EXIST Seismum Ingot
+fe.protection.exist.taiga.seismum_nugget.*                                             # (default: true) EXIST Seismum Nugget
+fe.protection.exist.taiga.solarium_dust.*                                              # (default: true) EXIST Solarium Dust
+fe.protection.exist.taiga.solarium_ingot.*                                             # (default: true) EXIST Solarium Ingot
+fe.protection.exist.taiga.solarium_nugget.*                                            # (default: true) EXIST Solarium Nugget
+fe.protection.exist.taiga.terrax_dust.*                                                # (default: true) EXIST Terrax Dust
+fe.protection.exist.taiga.terrax_ingot.*                                               # (default: true) EXIST Terrax Ingot
+fe.protection.exist.taiga.terrax_nugget.*                                              # (default: true) EXIST Terrax Nugget
+fe.protection.exist.taiga.tiberium_crystal.*                                           # (default: true) EXIST Tiberium Crystal
+fe.protection.exist.taiga.tiberium_dust.*                                              # (default: true) EXIST Tiberium Dust
+fe.protection.exist.taiga.tiberium_ingot.*                                             # (default: true) EXIST Tiberium Ingot
+fe.protection.exist.taiga.tiberium_nugget.*                                            # (default: true) EXIST Tiberium Nugget
+fe.protection.exist.taiga.triberium_dust.*                                             # (default: true) EXIST Triberium Dust
+fe.protection.exist.taiga.triberium_ingot.*                                            # (default: true) EXIST Triberium Ingot
+fe.protection.exist.taiga.triberium_nugget.*                                           # (default: true) EXIST Triberium Nugget
+fe.protection.exist.taiga.tritonite_dust.*                                             # (default: true) EXIST Tritonite Dust
+fe.protection.exist.taiga.tritonite_ingot.*                                            # (default: true) EXIST Tritonite Ingot
+fe.protection.exist.taiga.tritonite_nugget.*                                           # (default: true) EXIST Tritonite Nugget
+fe.protection.exist.taiga.uru_dust.*                                                   # (default: true) EXIST Uru Dust
+fe.protection.exist.taiga.uru_ingot.*                                                  # (default: true) EXIST Uru Ingot
+fe.protection.exist.taiga.uru_nugget.*                                                 # (default: true) EXIST Uru Nugget
+fe.protection.exist.taiga.valyrium_dust.*                                              # (default: true) EXIST Valyrium Dust
+fe.protection.exist.taiga.valyrium_ingot.*                                             # (default: true) EXIST Valyrium Ingot
+fe.protection.exist.taiga.valyrium_nugget.*                                            # (default: true) EXIST Valyrium Nugget
+fe.protection.exist.taiga.vibranium_dust.*                                             # (default: true) EXIST Vibranium Dust
+fe.protection.exist.taiga.vibranium_ingot.*                                            # (default: true) EXIST Vibranium Ingot
+fe.protection.exist.taiga.vibranium_nugget.*                                           # (default: true) EXIST Vibranium Nugget
+fe.protection.exist.taiga.violium_dust.*                                               # (default: true) EXIST Violium Dust
+fe.protection.exist.taiga.violium_ingot.*                                              # (default: true) EXIST Violium Ingot
+fe.protection.exist.taiga.violium_nugget.*                                             # (default: true) EXIST Violium Nugget
+fe.protection.exist.taiga.yrdeen_dust.*                                                # (default: true) EXIST Yrdeen Dust
+fe.protection.exist.taiga.yrdeen_ingot.*                                               # (default: true) EXIST Yrdeen Ingot
+fe.protection.exist.taiga.yrdeen_nugget.*                                              # (default: true) EXIST Yrdeen Nugget
+fe.protection.exist.tconstruct.arrow.*                                                 # (default: true) EXIST Arrow
+fe.protection.exist.tconstruct.arrow_head.*                                            # (default: true) EXIST Arrow Head
+fe.protection.exist.tconstruct.arrow_shaft.*                                           # (default: true) EXIST Arrow Shaft
+fe.protection.exist.tconstruct.axe_head.*                                              # (default: true) EXIST Axe Head
+fe.protection.exist.tconstruct.battlesign.*                                            # (default: true) EXIST Battlesign
+fe.protection.exist.tconstruct.binding.*                                               # (default: true) EXIST Binding
+fe.protection.exist.tconstruct.bolt.*                                                  # (default: true) EXIST Bolt
+fe.protection.exist.tconstruct.bolt_core.*                                             # (default: true) EXIST Bolt Core
+fe.protection.exist.tconstruct.book.*                                                  # (default: true) EXIST Materials and You
+fe.protection.exist.tconstruct.bow_limb.*                                              # (default: true) EXIST Bowlimb
+fe.protection.exist.tconstruct.bow_string.*                                            # (default: true) EXIST Bowstring
+fe.protection.exist.tconstruct.broad_axe_head.*                                        # (default: true) EXIST Broad Axe Head
+fe.protection.exist.tconstruct.broadsword.*                                            # (default: true) EXIST Broadsword
+fe.protection.exist.tconstruct.cast.*                                                  # (default: true) EXIST Blank Cast
+fe.protection.exist.tconstruct.cast_custom.*                                           # (default: true) EXIST Ingot Cast
+fe.protection.exist.tconstruct.clay_cast.*                                             # (default: true) EXIST item.tconstruct.clay_cast.blank
+fe.protection.exist.tconstruct.cleaver.*                                               # (default: true) EXIST Cleaver
+fe.protection.exist.tconstruct.cross_guard.*                                           # (default: true) EXIST Cross Guard
+fe.protection.exist.tconstruct.crossbow.*                                              # (default: true) EXIST Crossbow
+fe.protection.exist.tconstruct.edible.*                                                # (default: true) EXIST Bacon
+fe.protection.exist.tconstruct.excavator.*                                             # (default: true) EXIST Excavator
+fe.protection.exist.tconstruct.excavator_head.*                                        # (default: true) EXIST Excavator Head
+fe.protection.exist.tconstruct.fancy_frame.*                                           # (default: true) EXIST Fancy Item Frame
+fe.protection.exist.tconstruct.fletching.*                                             # (default: true) EXIST Fletching
+fe.protection.exist.tconstruct.frypan.*                                                # (default: true) EXIST Frypan
+fe.protection.exist.tconstruct.hammer.*                                                # (default: true) EXIST Hammer
+fe.protection.exist.tconstruct.hammer_head.*                                           # (default: true) EXIST Hammer Head
+fe.protection.exist.tconstruct.hand_guard.*                                            # (default: true) EXIST Hand Guard
+fe.protection.exist.tconstruct.hatchet.*                                               # (default: true) EXIST Hatchet
+fe.protection.exist.tconstruct.ingots.*                                                # (default: true) EXIST Cobalt Ingot
+fe.protection.exist.tconstruct.kama.*                                                  # (default: true) EXIST Kama
+fe.protection.exist.tconstruct.kama_head.*                                             # (default: true) EXIST Kama Head
+fe.protection.exist.tconstruct.knife_blade.*                                           # (default: true) EXIST Knife Blade
+fe.protection.exist.tconstruct.large_plate.*                                           # (default: true) EXIST Large Plate
+fe.protection.exist.tconstruct.large_sword_blade.*                                     # (default: true) EXIST Large Sword Blade
+fe.protection.exist.tconstruct.longbow.*                                               # (default: true) EXIST Longbow
+fe.protection.exist.tconstruct.longsword.*                                             # (default: true) EXIST Longsword
+fe.protection.exist.tconstruct.lumberaxe.*                                             # (default: true) EXIST Lumberaxe
+fe.protection.exist.tconstruct.materials.*                                             # (default: true) EXIST Seared Brick
+fe.protection.exist.tconstruct.mattock.*                                               # (default: true) EXIST Mattock
+fe.protection.exist.tconstruct.moms_spaghetti.*                                        # (default: true) EXIST Mom's Spaghetti
+fe.protection.exist.tconstruct.nuggets.*                                               # (default: true) EXIST Cobalt Nugget
+fe.protection.exist.tconstruct.pan_head.*                                              # (default: true) EXIST Pan
+fe.protection.exist.tconstruct.pattern.*                                               # (default: true) EXIST Blank Pattern
+fe.protection.exist.tconstruct.pick_head.*                                             # (default: true) EXIST Pickaxe Head
+fe.protection.exist.tconstruct.pickaxe.*                                               # (default: true) EXIST Pickaxe
+fe.protection.exist.tconstruct.piggybackpack.*                                         # (default: true) EXIST Piggybackpack
+fe.protection.exist.tconstruct.rapier.*                                                # (default: true) EXIST Rapier
+fe.protection.exist.tconstruct.scythe.*                                                # (default: true) EXIST Scythe
+fe.protection.exist.tconstruct.scythe_head.*                                           # (default: true) EXIST Scythe Head
+fe.protection.exist.tconstruct.shard.*                                                 # (default: true) EXIST Shard
+fe.protection.exist.tconstruct.sharpening_kit.*                                        # (default: true) EXIST Sharpening Kit
+fe.protection.exist.tconstruct.shortbow.*                                              # (default: true) EXIST Shortbow
+fe.protection.exist.tconstruct.shovel.*                                                # (default: true) EXIST Shovel
+fe.protection.exist.tconstruct.shovel_head.*                                           # (default: true) EXIST Shovel Head
+fe.protection.exist.tconstruct.shuriken.*                                              # (default: true) EXIST Shuriken
+fe.protection.exist.tconstruct.sign_head.*                                             # (default: true) EXIST Sign Plate
+fe.protection.exist.tconstruct.slime_boots.*                                           # (default: true) EXIST Slime Boots
+fe.protection.exist.tconstruct.slimesling.*                                            # (default: true) EXIST Slimesling
+fe.protection.exist.tconstruct.spaghetti.*                                             # (default: true) EXIST Impossibly Hard Wheat Sticks
+fe.protection.exist.tconstruct.stone_stick.*                                           # (default: true) EXIST Stone Rod
+fe.protection.exist.tconstruct.sword_blade.*                                           # (default: true) EXIST Sword Blade
+fe.protection.exist.tconstruct.throwball.*                                             # (default: true) EXIST Glowball
+fe.protection.exist.tconstruct.tool_rod.*                                              # (default: true) EXIST Tool Rod
+fe.protection.exist.tconstruct.tough_binding.*                                         # (default: true) EXIST Tough Binding
+fe.protection.exist.tconstruct.tough_tool_rod.*                                        # (default: true) EXIST Tough Tool Rod
+fe.protection.exist.tconstruct.wide_guard.*                                            # (default: true) EXIST Wide Guard
 fe.protection.exist.testdummy.dummy.*                                                  # (default: true) EXIST Test Dummy
 fe.protection.exist.thermalexpansion.augment.*                                         # (default: true) EXIST Augment: item.invalid.name
 fe.protection.exist.thermalexpansion.capacitor.*                                       # (default: true) EXIST Flux Capacitor (Basic)
@@ -5339,6 +5701,7 @@ fe.protection.exist.zettaindustries.smartcardterminal.*                         
 fe.protection.inventory.*                                                              # (default: true) Allow having item in inventory. Item will be dropped if not allowed.
 fe.protection.inventory.ae2stuff.visualiser.*                                          # (default: true) INVENTORY Network Visualisation Tool
 fe.protection.inventory.ae2stuff.wireless_kit.*                                        # (default: true) INVENTORY Wireless Setup Kit
+fe.protection.inventory.akashictome.tome.*                                             # (default: true) INVENTORY Akashic Tome
 fe.protection.inventory.alchemistry.compound.*                                         # (default: true) INVENTORY Cellulose
 fe.protection.inventory.alchemistry.condensed_milk.*                                   # (default: true) INVENTORY Condensed Milk
 fe.protection.inventory.alchemistry.element.*                                          # (default: true) INVENTORY Hydrogen
@@ -7720,7 +8083,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                       # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                      # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                           # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §5Debug Item
+fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §7Debug Item
 fe.protection.inventory.retrocomputers.disk.*                                          # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                   # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                 # (default: true) INVENTORY Floppy Disk
@@ -7740,6 +8103,186 @@ fe.protection.inventory.sgcraft.tollan_phase_shift_device.*                     
 fe.protection.inventory.sgcraft.zpm.*                                                  # (default: true) INVENTORY Zero Point Module
 fe.protection.inventory.simplefluidtanks.wrench.*                                      # (default: true) INVENTORY Wrench
 fe.protection.inventory.starterkit.starterkit.*                                        # (default: true) INVENTORY Starter Kit
+fe.protection.inventory.taiga.abyssum_dust.*                                           # (default: true) INVENTORY Abyssum Dust
+fe.protection.inventory.taiga.abyssum_ingot.*                                          # (default: true) INVENTORY Abyssum Ingot
+fe.protection.inventory.taiga.abyssum_nugget.*                                         # (default: true) INVENTORY Abyssum Nugget
+fe.protection.inventory.taiga.adamant_dust.*                                           # (default: true) INVENTORY Adamant Dust
+fe.protection.inventory.taiga.adamant_ingot.*                                          # (default: true) INVENTORY Adamant Ingot
+fe.protection.inventory.taiga.adamant_nugget.*                                         # (default: true) INVENTORY Adamant Nugget
+fe.protection.inventory.taiga.astrium_dust.*                                           # (default: true) INVENTORY Astrium Dust
+fe.protection.inventory.taiga.astrium_ingot.*                                          # (default: true) INVENTORY Astrium Ingot
+fe.protection.inventory.taiga.astrium_nugget.*                                         # (default: true) INVENTORY Astrium Nugget
+fe.protection.inventory.taiga.aurorium_dust.*                                          # (default: true) INVENTORY Aurorium Dust
+fe.protection.inventory.taiga.aurorium_ingot.*                                         # (default: true) INVENTORY Aurorium Ingot
+fe.protection.inventory.taiga.aurorium_nugget.*                                        # (default: true) INVENTORY Aurorium Nugget
+fe.protection.inventory.taiga.basalt_dust.*                                            # (default: true) INVENTORY Basalt Dust
+fe.protection.inventory.taiga.basalt_ingot.*                                           # (default: true) INVENTORY Basalt Ingot
+fe.protection.inventory.taiga.basalt_nugget.*                                          # (default: true) INVENTORY Basalt Nugget
+fe.protection.inventory.taiga.dilithium_crystal.*                                      # (default: true) INVENTORY Dilithium Crystal
+fe.protection.inventory.taiga.dilithium_dust.*                                         # (default: true) INVENTORY Dilithium Dust
+fe.protection.inventory.taiga.dilithium_ingot.*                                        # (default: true) INVENTORY Dilithium Ingot
+fe.protection.inventory.taiga.dilithium_nugget.*                                       # (default: true) INVENTORY Dilithium Nugget
+fe.protection.inventory.taiga.duranite_dust.*                                          # (default: true) INVENTORY Duranite Dust
+fe.protection.inventory.taiga.duranite_ingot.*                                         # (default: true) INVENTORY Duranite Ingot
+fe.protection.inventory.taiga.duranite_nugget.*                                        # (default: true) INVENTORY Duranite Nugget
+fe.protection.inventory.taiga.dyonite_dust.*                                           # (default: true) INVENTORY Dyonite Dust
+fe.protection.inventory.taiga.dyonite_ingot.*                                          # (default: true) INVENTORY Dyonite Ingot
+fe.protection.inventory.taiga.dyonite_nugget.*                                         # (default: true) INVENTORY Dyonite Nugget
+fe.protection.inventory.taiga.eezo_dust.*                                              # (default: true) INVENTORY Eezo Dust
+fe.protection.inventory.taiga.eezo_ingot.*                                             # (default: true) INVENTORY Eezo Ingot
+fe.protection.inventory.taiga.eezo_nugget.*                                            # (default: true) INVENTORY Eezo Nugget
+fe.protection.inventory.taiga.fractum_dust.*                                           # (default: true) INVENTORY Fractum Dust
+fe.protection.inventory.taiga.fractum_ingot.*                                          # (default: true) INVENTORY Fractum Ingot
+fe.protection.inventory.taiga.fractum_nugget.*                                         # (default: true) INVENTORY Fractum Nugget
+fe.protection.inventory.taiga.ignitz_dust.*                                            # (default: true) INVENTORY Ignitz Dust
+fe.protection.inventory.taiga.ignitz_ingot.*                                           # (default: true) INVENTORY Ignitz Ingot
+fe.protection.inventory.taiga.ignitz_nugget.*                                          # (default: true) INVENTORY Ignitz Nugget
+fe.protection.inventory.taiga.imperomite_dust.*                                        # (default: true) INVENTORY Imperomite Dust
+fe.protection.inventory.taiga.imperomite_ingot.*                                       # (default: true) INVENTORY Imperomite Ingot
+fe.protection.inventory.taiga.imperomite_nugget.*                                      # (default: true) INVENTORY Imperomite Nugget
+fe.protection.inventory.taiga.iox_dust.*                                               # (default: true) INVENTORY Iox Dust
+fe.protection.inventory.taiga.iox_ingot.*                                              # (default: true) INVENTORY Iox Ingot
+fe.protection.inventory.taiga.iox_nugget.*                                             # (default: true) INVENTORY Iox Nugget
+fe.protection.inventory.taiga.jauxum_dust.*                                            # (default: true) INVENTORY Jauxum Dust
+fe.protection.inventory.taiga.jauxum_ingot.*                                           # (default: true) INVENTORY Jauxum Ingot
+fe.protection.inventory.taiga.jauxum_nugget.*                                          # (default: true) INVENTORY Jauxum Nugget
+fe.protection.inventory.taiga.karmesine_dust.*                                         # (default: true) INVENTORY Karmesine Dust
+fe.protection.inventory.taiga.karmesine_ingot.*                                        # (default: true) INVENTORY Karmesine Ingot
+fe.protection.inventory.taiga.karmesine_nugget.*                                       # (default: true) INVENTORY Karmesine Nugget
+fe.protection.inventory.taiga.lumix_dust.*                                             # (default: true) INVENTORY Lumix Dust
+fe.protection.inventory.taiga.lumix_ingot.*                                            # (default: true) INVENTORY Lumix Ingot
+fe.protection.inventory.taiga.lumix_nugget.*                                           # (default: true) INVENTORY Lumix Nugget
+fe.protection.inventory.taiga.meteorite_dust.*                                         # (default: true) INVENTORY Meteorite Dust
+fe.protection.inventory.taiga.meteorite_ingot.*                                        # (default: true) INVENTORY Meteorite Ingot
+fe.protection.inventory.taiga.meteorite_nugget.*                                       # (default: true) INVENTORY Meteorite Nugget
+fe.protection.inventory.taiga.nihilite_dust.*                                          # (default: true) INVENTORY Nihilite Dust
+fe.protection.inventory.taiga.nihilite_ingot.*                                         # (default: true) INVENTORY Nihilite Ingot
+fe.protection.inventory.taiga.nihilite_nugget.*                                        # (default: true) INVENTORY Nihilite Nugget
+fe.protection.inventory.taiga.niob_dust.*                                              # (default: true) INVENTORY Niob Dust
+fe.protection.inventory.taiga.niob_ingot.*                                             # (default: true) INVENTORY Niob Ingot
+fe.protection.inventory.taiga.niob_nugget.*                                            # (default: true) INVENTORY Niob Nugget
+fe.protection.inventory.taiga.nucleum_dust.*                                           # (default: true) INVENTORY Nucleum Dust
+fe.protection.inventory.taiga.nucleum_ingot.*                                          # (default: true) INVENTORY Nucleum Ingot
+fe.protection.inventory.taiga.nucleum_nugget.*                                         # (default: true) INVENTORY Nucleum Nugget
+fe.protection.inventory.taiga.obsidiorite_dust.*                                       # (default: true) INVENTORY Obsidiorite Dust
+fe.protection.inventory.taiga.obsidiorite_ingot.*                                      # (default: true) INVENTORY Obsidiorite Ingot
+fe.protection.inventory.taiga.obsidiorite_nugget.*                                     # (default: true) INVENTORY Obsidiorite Nugget
+fe.protection.inventory.taiga.osram_dust.*                                             # (default: true) INVENTORY Osram Dust
+fe.protection.inventory.taiga.osram_ingot.*                                            # (default: true) INVENTORY Osram Ingot
+fe.protection.inventory.taiga.osram_nugget.*                                           # (default: true) INVENTORY Osram Nugget
+fe.protection.inventory.taiga.ovium_dust.*                                             # (default: true) INVENTORY Ovium Dust
+fe.protection.inventory.taiga.ovium_ingot.*                                            # (default: true) INVENTORY Ovium Ingot
+fe.protection.inventory.taiga.ovium_nugget.*                                           # (default: true) INVENTORY Ovium Nugget
+fe.protection.inventory.taiga.palladium_dust.*                                         # (default: true) INVENTORY Palladium Dust
+fe.protection.inventory.taiga.palladium_ingot.*                                        # (default: true) INVENTORY Palladium Ingot
+fe.protection.inventory.taiga.palladium_nugget.*                                       # (default: true) INVENTORY Palladium Nugget
+fe.protection.inventory.taiga.prometheum_dust.*                                        # (default: true) INVENTORY Prometheum Dust
+fe.protection.inventory.taiga.prometheum_ingot.*                                       # (default: true) INVENTORY Prometheum Ingot
+fe.protection.inventory.taiga.prometheum_nugget.*                                      # (default: true) INVENTORY Prometheum Nugget
+fe.protection.inventory.taiga.proxii_dust.*                                            # (default: true) INVENTORY Proxii Dust
+fe.protection.inventory.taiga.proxii_ingot.*                                           # (default: true) INVENTORY Proxii Ingot
+fe.protection.inventory.taiga.proxii_nugget.*                                          # (default: true) INVENTORY Proxii Nugget
+fe.protection.inventory.taiga.seismum_dust.*                                           # (default: true) INVENTORY Seismum Dust
+fe.protection.inventory.taiga.seismum_ingot.*                                          # (default: true) INVENTORY Seismum Ingot
+fe.protection.inventory.taiga.seismum_nugget.*                                         # (default: true) INVENTORY Seismum Nugget
+fe.protection.inventory.taiga.solarium_dust.*                                          # (default: true) INVENTORY Solarium Dust
+fe.protection.inventory.taiga.solarium_ingot.*                                         # (default: true) INVENTORY Solarium Ingot
+fe.protection.inventory.taiga.solarium_nugget.*                                        # (default: true) INVENTORY Solarium Nugget
+fe.protection.inventory.taiga.terrax_dust.*                                            # (default: true) INVENTORY Terrax Dust
+fe.protection.inventory.taiga.terrax_ingot.*                                           # (default: true) INVENTORY Terrax Ingot
+fe.protection.inventory.taiga.terrax_nugget.*                                          # (default: true) INVENTORY Terrax Nugget
+fe.protection.inventory.taiga.tiberium_crystal.*                                       # (default: true) INVENTORY Tiberium Crystal
+fe.protection.inventory.taiga.tiberium_dust.*                                          # (default: true) INVENTORY Tiberium Dust
+fe.protection.inventory.taiga.tiberium_ingot.*                                         # (default: true) INVENTORY Tiberium Ingot
+fe.protection.inventory.taiga.tiberium_nugget.*                                        # (default: true) INVENTORY Tiberium Nugget
+fe.protection.inventory.taiga.triberium_dust.*                                         # (default: true) INVENTORY Triberium Dust
+fe.protection.inventory.taiga.triberium_ingot.*                                        # (default: true) INVENTORY Triberium Ingot
+fe.protection.inventory.taiga.triberium_nugget.*                                       # (default: true) INVENTORY Triberium Nugget
+fe.protection.inventory.taiga.tritonite_dust.*                                         # (default: true) INVENTORY Tritonite Dust
+fe.protection.inventory.taiga.tritonite_ingot.*                                        # (default: true) INVENTORY Tritonite Ingot
+fe.protection.inventory.taiga.tritonite_nugget.*                                       # (default: true) INVENTORY Tritonite Nugget
+fe.protection.inventory.taiga.uru_dust.*                                               # (default: true) INVENTORY Uru Dust
+fe.protection.inventory.taiga.uru_ingot.*                                              # (default: true) INVENTORY Uru Ingot
+fe.protection.inventory.taiga.uru_nugget.*                                             # (default: true) INVENTORY Uru Nugget
+fe.protection.inventory.taiga.valyrium_dust.*                                          # (default: true) INVENTORY Valyrium Dust
+fe.protection.inventory.taiga.valyrium_ingot.*                                         # (default: true) INVENTORY Valyrium Ingot
+fe.protection.inventory.taiga.valyrium_nugget.*                                        # (default: true) INVENTORY Valyrium Nugget
+fe.protection.inventory.taiga.vibranium_dust.*                                         # (default: true) INVENTORY Vibranium Dust
+fe.protection.inventory.taiga.vibranium_ingot.*                                        # (default: true) INVENTORY Vibranium Ingot
+fe.protection.inventory.taiga.vibranium_nugget.*                                       # (default: true) INVENTORY Vibranium Nugget
+fe.protection.inventory.taiga.violium_dust.*                                           # (default: true) INVENTORY Violium Dust
+fe.protection.inventory.taiga.violium_ingot.*                                          # (default: true) INVENTORY Violium Ingot
+fe.protection.inventory.taiga.violium_nugget.*                                         # (default: true) INVENTORY Violium Nugget
+fe.protection.inventory.taiga.yrdeen_dust.*                                            # (default: true) INVENTORY Yrdeen Dust
+fe.protection.inventory.taiga.yrdeen_ingot.*                                           # (default: true) INVENTORY Yrdeen Ingot
+fe.protection.inventory.taiga.yrdeen_nugget.*                                          # (default: true) INVENTORY Yrdeen Nugget
+fe.protection.inventory.tconstruct.arrow.*                                             # (default: true) INVENTORY Arrow
+fe.protection.inventory.tconstruct.arrow_head.*                                        # (default: true) INVENTORY Arrow Head
+fe.protection.inventory.tconstruct.arrow_shaft.*                                       # (default: true) INVENTORY Arrow Shaft
+fe.protection.inventory.tconstruct.axe_head.*                                          # (default: true) INVENTORY Axe Head
+fe.protection.inventory.tconstruct.battlesign.*                                        # (default: true) INVENTORY Battlesign
+fe.protection.inventory.tconstruct.binding.*                                           # (default: true) INVENTORY Binding
+fe.protection.inventory.tconstruct.bolt.*                                              # (default: true) INVENTORY Bolt
+fe.protection.inventory.tconstruct.bolt_core.*                                         # (default: true) INVENTORY Bolt Core
+fe.protection.inventory.tconstruct.book.*                                              # (default: true) INVENTORY Materials and You
+fe.protection.inventory.tconstruct.bow_limb.*                                          # (default: true) INVENTORY Bowlimb
+fe.protection.inventory.tconstruct.bow_string.*                                        # (default: true) INVENTORY Bowstring
+fe.protection.inventory.tconstruct.broad_axe_head.*                                    # (default: true) INVENTORY Broad Axe Head
+fe.protection.inventory.tconstruct.broadsword.*                                        # (default: true) INVENTORY Broadsword
+fe.protection.inventory.tconstruct.cast.*                                              # (default: true) INVENTORY Blank Cast
+fe.protection.inventory.tconstruct.cast_custom.*                                       # (default: true) INVENTORY Ingot Cast
+fe.protection.inventory.tconstruct.clay_cast.*                                         # (default: true) INVENTORY item.tconstruct.clay_cast.blank
+fe.protection.inventory.tconstruct.cleaver.*                                           # (default: true) INVENTORY Cleaver
+fe.protection.inventory.tconstruct.cross_guard.*                                       # (default: true) INVENTORY Cross Guard
+fe.protection.inventory.tconstruct.crossbow.*                                          # (default: true) INVENTORY Crossbow
+fe.protection.inventory.tconstruct.edible.*                                            # (default: true) INVENTORY Bacon
+fe.protection.inventory.tconstruct.excavator.*                                         # (default: true) INVENTORY Excavator
+fe.protection.inventory.tconstruct.excavator_head.*                                    # (default: true) INVENTORY Excavator Head
+fe.protection.inventory.tconstruct.fancy_frame.*                                       # (default: true) INVENTORY Fancy Item Frame
+fe.protection.inventory.tconstruct.fletching.*                                         # (default: true) INVENTORY Fletching
+fe.protection.inventory.tconstruct.frypan.*                                            # (default: true) INVENTORY Frypan
+fe.protection.inventory.tconstruct.hammer.*                                            # (default: true) INVENTORY Hammer
+fe.protection.inventory.tconstruct.hammer_head.*                                       # (default: true) INVENTORY Hammer Head
+fe.protection.inventory.tconstruct.hand_guard.*                                        # (default: true) INVENTORY Hand Guard
+fe.protection.inventory.tconstruct.hatchet.*                                           # (default: true) INVENTORY Hatchet
+fe.protection.inventory.tconstruct.ingots.*                                            # (default: true) INVENTORY Cobalt Ingot
+fe.protection.inventory.tconstruct.kama.*                                              # (default: true) INVENTORY Kama
+fe.protection.inventory.tconstruct.kama_head.*                                         # (default: true) INVENTORY Kama Head
+fe.protection.inventory.tconstruct.knife_blade.*                                       # (default: true) INVENTORY Knife Blade
+fe.protection.inventory.tconstruct.large_plate.*                                       # (default: true) INVENTORY Large Plate
+fe.protection.inventory.tconstruct.large_sword_blade.*                                 # (default: true) INVENTORY Large Sword Blade
+fe.protection.inventory.tconstruct.longbow.*                                           # (default: true) INVENTORY Longbow
+fe.protection.inventory.tconstruct.longsword.*                                         # (default: true) INVENTORY Longsword
+fe.protection.inventory.tconstruct.lumberaxe.*                                         # (default: true) INVENTORY Lumberaxe
+fe.protection.inventory.tconstruct.materials.*                                         # (default: true) INVENTORY Seared Brick
+fe.protection.inventory.tconstruct.mattock.*                                           # (default: true) INVENTORY Mattock
+fe.protection.inventory.tconstruct.moms_spaghetti.*                                    # (default: true) INVENTORY Mom's Spaghetti
+fe.protection.inventory.tconstruct.nuggets.*                                           # (default: true) INVENTORY Cobalt Nugget
+fe.protection.inventory.tconstruct.pan_head.*                                          # (default: true) INVENTORY Pan
+fe.protection.inventory.tconstruct.pattern.*                                           # (default: true) INVENTORY Blank Pattern
+fe.protection.inventory.tconstruct.pick_head.*                                         # (default: true) INVENTORY Pickaxe Head
+fe.protection.inventory.tconstruct.pickaxe.*                                           # (default: true) INVENTORY Pickaxe
+fe.protection.inventory.tconstruct.piggybackpack.*                                     # (default: true) INVENTORY Piggybackpack
+fe.protection.inventory.tconstruct.rapier.*                                            # (default: true) INVENTORY Rapier
+fe.protection.inventory.tconstruct.scythe.*                                            # (default: true) INVENTORY Scythe
+fe.protection.inventory.tconstruct.scythe_head.*                                       # (default: true) INVENTORY Scythe Head
+fe.protection.inventory.tconstruct.shard.*                                             # (default: true) INVENTORY Shard
+fe.protection.inventory.tconstruct.sharpening_kit.*                                    # (default: true) INVENTORY Sharpening Kit
+fe.protection.inventory.tconstruct.shortbow.*                                          # (default: true) INVENTORY Shortbow
+fe.protection.inventory.tconstruct.shovel.*                                            # (default: true) INVENTORY Shovel
+fe.protection.inventory.tconstruct.shovel_head.*                                       # (default: true) INVENTORY Shovel Head
+fe.protection.inventory.tconstruct.shuriken.*                                          # (default: true) INVENTORY Shuriken
+fe.protection.inventory.tconstruct.sign_head.*                                         # (default: true) INVENTORY Sign Plate
+fe.protection.inventory.tconstruct.slime_boots.*                                       # (default: true) INVENTORY Slime Boots
+fe.protection.inventory.tconstruct.slimesling.*                                        # (default: true) INVENTORY Slimesling
+fe.protection.inventory.tconstruct.spaghetti.*                                         # (default: true) INVENTORY Impossibly Hard Wheat Sticks
+fe.protection.inventory.tconstruct.stone_stick.*                                       # (default: true) INVENTORY Stone Rod
+fe.protection.inventory.tconstruct.sword_blade.*                                       # (default: true) INVENTORY Sword Blade
+fe.protection.inventory.tconstruct.throwball.*                                         # (default: true) INVENTORY Glowball
+fe.protection.inventory.tconstruct.tool_rod.*                                          # (default: true) INVENTORY Tool Rod
+fe.protection.inventory.tconstruct.tough_binding.*                                     # (default: true) INVENTORY Tough Binding
+fe.protection.inventory.tconstruct.tough_tool_rod.*                                    # (default: true) INVENTORY Tough Tool Rod
+fe.protection.inventory.tconstruct.wide_guard.*                                        # (default: true) INVENTORY Wide Guard
 fe.protection.inventory.testdummy.dummy.*                                              # (default: true) INVENTORY Test Dummy
 fe.protection.inventory.thermalexpansion.augment.*                                     # (default: true) INVENTORY Augment: item.invalid.name
 fe.protection.inventory.thermalexpansion.capacitor.*                                   # (default: true) INVENTORY Flux Capacitor (Basic)
@@ -8007,6 +8550,7 @@ fe.protection.inventorygroup                                                    
 fe.protection.use.*                                                                    # (default: true) Allow using items
 fe.protection.use.ae2stuff.visualiser.*                                                # (default: true) USE Network Visualisation Tool
 fe.protection.use.ae2stuff.wireless_kit.*                                              # (default: true) USE Wireless Setup Kit
+fe.protection.use.akashictome.tome.*                                                   # (default: true) USE Akashic Tome
 fe.protection.use.alchemistry.compound.*                                               # (default: true) USE Cellulose
 fe.protection.use.alchemistry.condensed_milk.*                                         # (default: true) USE Condensed Milk
 fe.protection.use.alchemistry.element.*                                                # (default: true) USE Hydrogen
@@ -10388,7 +10932,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                             # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                            # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                 # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §5Debug Item
+fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §7Debug Item
 fe.protection.use.retrocomputers.disk.*                                                # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                         # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                       # (default: true) USE Floppy Disk
@@ -10408,6 +10952,186 @@ fe.protection.use.sgcraft.tollan_phase_shift_device.*                           
 fe.protection.use.sgcraft.zpm.*                                                        # (default: true) USE Zero Point Module
 fe.protection.use.simplefluidtanks.wrench.*                                            # (default: true) USE Wrench
 fe.protection.use.starterkit.starterkit.*                                              # (default: true) USE Starter Kit
+fe.protection.use.taiga.abyssum_dust.*                                                 # (default: true) USE Abyssum Dust
+fe.protection.use.taiga.abyssum_ingot.*                                                # (default: true) USE Abyssum Ingot
+fe.protection.use.taiga.abyssum_nugget.*                                               # (default: true) USE Abyssum Nugget
+fe.protection.use.taiga.adamant_dust.*                                                 # (default: true) USE Adamant Dust
+fe.protection.use.taiga.adamant_ingot.*                                                # (default: true) USE Adamant Ingot
+fe.protection.use.taiga.adamant_nugget.*                                               # (default: true) USE Adamant Nugget
+fe.protection.use.taiga.astrium_dust.*                                                 # (default: true) USE Astrium Dust
+fe.protection.use.taiga.astrium_ingot.*                                                # (default: true) USE Astrium Ingot
+fe.protection.use.taiga.astrium_nugget.*                                               # (default: true) USE Astrium Nugget
+fe.protection.use.taiga.aurorium_dust.*                                                # (default: true) USE Aurorium Dust
+fe.protection.use.taiga.aurorium_ingot.*                                               # (default: true) USE Aurorium Ingot
+fe.protection.use.taiga.aurorium_nugget.*                                              # (default: true) USE Aurorium Nugget
+fe.protection.use.taiga.basalt_dust.*                                                  # (default: true) USE Basalt Dust
+fe.protection.use.taiga.basalt_ingot.*                                                 # (default: true) USE Basalt Ingot
+fe.protection.use.taiga.basalt_nugget.*                                                # (default: true) USE Basalt Nugget
+fe.protection.use.taiga.dilithium_crystal.*                                            # (default: true) USE Dilithium Crystal
+fe.protection.use.taiga.dilithium_dust.*                                               # (default: true) USE Dilithium Dust
+fe.protection.use.taiga.dilithium_ingot.*                                              # (default: true) USE Dilithium Ingot
+fe.protection.use.taiga.dilithium_nugget.*                                             # (default: true) USE Dilithium Nugget
+fe.protection.use.taiga.duranite_dust.*                                                # (default: true) USE Duranite Dust
+fe.protection.use.taiga.duranite_ingot.*                                               # (default: true) USE Duranite Ingot
+fe.protection.use.taiga.duranite_nugget.*                                              # (default: true) USE Duranite Nugget
+fe.protection.use.taiga.dyonite_dust.*                                                 # (default: true) USE Dyonite Dust
+fe.protection.use.taiga.dyonite_ingot.*                                                # (default: true) USE Dyonite Ingot
+fe.protection.use.taiga.dyonite_nugget.*                                               # (default: true) USE Dyonite Nugget
+fe.protection.use.taiga.eezo_dust.*                                                    # (default: true) USE Eezo Dust
+fe.protection.use.taiga.eezo_ingot.*                                                   # (default: true) USE Eezo Ingot
+fe.protection.use.taiga.eezo_nugget.*                                                  # (default: true) USE Eezo Nugget
+fe.protection.use.taiga.fractum_dust.*                                                 # (default: true) USE Fractum Dust
+fe.protection.use.taiga.fractum_ingot.*                                                # (default: true) USE Fractum Ingot
+fe.protection.use.taiga.fractum_nugget.*                                               # (default: true) USE Fractum Nugget
+fe.protection.use.taiga.ignitz_dust.*                                                  # (default: true) USE Ignitz Dust
+fe.protection.use.taiga.ignitz_ingot.*                                                 # (default: true) USE Ignitz Ingot
+fe.protection.use.taiga.ignitz_nugget.*                                                # (default: true) USE Ignitz Nugget
+fe.protection.use.taiga.imperomite_dust.*                                              # (default: true) USE Imperomite Dust
+fe.protection.use.taiga.imperomite_ingot.*                                             # (default: true) USE Imperomite Ingot
+fe.protection.use.taiga.imperomite_nugget.*                                            # (default: true) USE Imperomite Nugget
+fe.protection.use.taiga.iox_dust.*                                                     # (default: true) USE Iox Dust
+fe.protection.use.taiga.iox_ingot.*                                                    # (default: true) USE Iox Ingot
+fe.protection.use.taiga.iox_nugget.*                                                   # (default: true) USE Iox Nugget
+fe.protection.use.taiga.jauxum_dust.*                                                  # (default: true) USE Jauxum Dust
+fe.protection.use.taiga.jauxum_ingot.*                                                 # (default: true) USE Jauxum Ingot
+fe.protection.use.taiga.jauxum_nugget.*                                                # (default: true) USE Jauxum Nugget
+fe.protection.use.taiga.karmesine_dust.*                                               # (default: true) USE Karmesine Dust
+fe.protection.use.taiga.karmesine_ingot.*                                              # (default: true) USE Karmesine Ingot
+fe.protection.use.taiga.karmesine_nugget.*                                             # (default: true) USE Karmesine Nugget
+fe.protection.use.taiga.lumix_dust.*                                                   # (default: true) USE Lumix Dust
+fe.protection.use.taiga.lumix_ingot.*                                                  # (default: true) USE Lumix Ingot
+fe.protection.use.taiga.lumix_nugget.*                                                 # (default: true) USE Lumix Nugget
+fe.protection.use.taiga.meteorite_dust.*                                               # (default: true) USE Meteorite Dust
+fe.protection.use.taiga.meteorite_ingot.*                                              # (default: true) USE Meteorite Ingot
+fe.protection.use.taiga.meteorite_nugget.*                                             # (default: true) USE Meteorite Nugget
+fe.protection.use.taiga.nihilite_dust.*                                                # (default: true) USE Nihilite Dust
+fe.protection.use.taiga.nihilite_ingot.*                                               # (default: true) USE Nihilite Ingot
+fe.protection.use.taiga.nihilite_nugget.*                                              # (default: true) USE Nihilite Nugget
+fe.protection.use.taiga.niob_dust.*                                                    # (default: true) USE Niob Dust
+fe.protection.use.taiga.niob_ingot.*                                                   # (default: true) USE Niob Ingot
+fe.protection.use.taiga.niob_nugget.*                                                  # (default: true) USE Niob Nugget
+fe.protection.use.taiga.nucleum_dust.*                                                 # (default: true) USE Nucleum Dust
+fe.protection.use.taiga.nucleum_ingot.*                                                # (default: true) USE Nucleum Ingot
+fe.protection.use.taiga.nucleum_nugget.*                                               # (default: true) USE Nucleum Nugget
+fe.protection.use.taiga.obsidiorite_dust.*                                             # (default: true) USE Obsidiorite Dust
+fe.protection.use.taiga.obsidiorite_ingot.*                                            # (default: true) USE Obsidiorite Ingot
+fe.protection.use.taiga.obsidiorite_nugget.*                                           # (default: true) USE Obsidiorite Nugget
+fe.protection.use.taiga.osram_dust.*                                                   # (default: true) USE Osram Dust
+fe.protection.use.taiga.osram_ingot.*                                                  # (default: true) USE Osram Ingot
+fe.protection.use.taiga.osram_nugget.*                                                 # (default: true) USE Osram Nugget
+fe.protection.use.taiga.ovium_dust.*                                                   # (default: true) USE Ovium Dust
+fe.protection.use.taiga.ovium_ingot.*                                                  # (default: true) USE Ovium Ingot
+fe.protection.use.taiga.ovium_nugget.*                                                 # (default: true) USE Ovium Nugget
+fe.protection.use.taiga.palladium_dust.*                                               # (default: true) USE Palladium Dust
+fe.protection.use.taiga.palladium_ingot.*                                              # (default: true) USE Palladium Ingot
+fe.protection.use.taiga.palladium_nugget.*                                             # (default: true) USE Palladium Nugget
+fe.protection.use.taiga.prometheum_dust.*                                              # (default: true) USE Prometheum Dust
+fe.protection.use.taiga.prometheum_ingot.*                                             # (default: true) USE Prometheum Ingot
+fe.protection.use.taiga.prometheum_nugget.*                                            # (default: true) USE Prometheum Nugget
+fe.protection.use.taiga.proxii_dust.*                                                  # (default: true) USE Proxii Dust
+fe.protection.use.taiga.proxii_ingot.*                                                 # (default: true) USE Proxii Ingot
+fe.protection.use.taiga.proxii_nugget.*                                                # (default: true) USE Proxii Nugget
+fe.protection.use.taiga.seismum_dust.*                                                 # (default: true) USE Seismum Dust
+fe.protection.use.taiga.seismum_ingot.*                                                # (default: true) USE Seismum Ingot
+fe.protection.use.taiga.seismum_nugget.*                                               # (default: true) USE Seismum Nugget
+fe.protection.use.taiga.solarium_dust.*                                                # (default: true) USE Solarium Dust
+fe.protection.use.taiga.solarium_ingot.*                                               # (default: true) USE Solarium Ingot
+fe.protection.use.taiga.solarium_nugget.*                                              # (default: true) USE Solarium Nugget
+fe.protection.use.taiga.terrax_dust.*                                                  # (default: true) USE Terrax Dust
+fe.protection.use.taiga.terrax_ingot.*                                                 # (default: true) USE Terrax Ingot
+fe.protection.use.taiga.terrax_nugget.*                                                # (default: true) USE Terrax Nugget
+fe.protection.use.taiga.tiberium_crystal.*                                             # (default: true) USE Tiberium Crystal
+fe.protection.use.taiga.tiberium_dust.*                                                # (default: true) USE Tiberium Dust
+fe.protection.use.taiga.tiberium_ingot.*                                               # (default: true) USE Tiberium Ingot
+fe.protection.use.taiga.tiberium_nugget.*                                              # (default: true) USE Tiberium Nugget
+fe.protection.use.taiga.triberium_dust.*                                               # (default: true) USE Triberium Dust
+fe.protection.use.taiga.triberium_ingot.*                                              # (default: true) USE Triberium Ingot
+fe.protection.use.taiga.triberium_nugget.*                                             # (default: true) USE Triberium Nugget
+fe.protection.use.taiga.tritonite_dust.*                                               # (default: true) USE Tritonite Dust
+fe.protection.use.taiga.tritonite_ingot.*                                              # (default: true) USE Tritonite Ingot
+fe.protection.use.taiga.tritonite_nugget.*                                             # (default: true) USE Tritonite Nugget
+fe.protection.use.taiga.uru_dust.*                                                     # (default: true) USE Uru Dust
+fe.protection.use.taiga.uru_ingot.*                                                    # (default: true) USE Uru Ingot
+fe.protection.use.taiga.uru_nugget.*                                                   # (default: true) USE Uru Nugget
+fe.protection.use.taiga.valyrium_dust.*                                                # (default: true) USE Valyrium Dust
+fe.protection.use.taiga.valyrium_ingot.*                                               # (default: true) USE Valyrium Ingot
+fe.protection.use.taiga.valyrium_nugget.*                                              # (default: true) USE Valyrium Nugget
+fe.protection.use.taiga.vibranium_dust.*                                               # (default: true) USE Vibranium Dust
+fe.protection.use.taiga.vibranium_ingot.*                                              # (default: true) USE Vibranium Ingot
+fe.protection.use.taiga.vibranium_nugget.*                                             # (default: true) USE Vibranium Nugget
+fe.protection.use.taiga.violium_dust.*                                                 # (default: true) USE Violium Dust
+fe.protection.use.taiga.violium_ingot.*                                                # (default: true) USE Violium Ingot
+fe.protection.use.taiga.violium_nugget.*                                               # (default: true) USE Violium Nugget
+fe.protection.use.taiga.yrdeen_dust.*                                                  # (default: true) USE Yrdeen Dust
+fe.protection.use.taiga.yrdeen_ingot.*                                                 # (default: true) USE Yrdeen Ingot
+fe.protection.use.taiga.yrdeen_nugget.*                                                # (default: true) USE Yrdeen Nugget
+fe.protection.use.tconstruct.arrow.*                                                   # (default: true) USE Arrow
+fe.protection.use.tconstruct.arrow_head.*                                              # (default: true) USE Arrow Head
+fe.protection.use.tconstruct.arrow_shaft.*                                             # (default: true) USE Arrow Shaft
+fe.protection.use.tconstruct.axe_head.*                                                # (default: true) USE Axe Head
+fe.protection.use.tconstruct.battlesign.*                                              # (default: true) USE Battlesign
+fe.protection.use.tconstruct.binding.*                                                 # (default: true) USE Binding
+fe.protection.use.tconstruct.bolt.*                                                    # (default: true) USE Bolt
+fe.protection.use.tconstruct.bolt_core.*                                               # (default: true) USE Bolt Core
+fe.protection.use.tconstruct.book.*                                                    # (default: true) USE Materials and You
+fe.protection.use.tconstruct.bow_limb.*                                                # (default: true) USE Bowlimb
+fe.protection.use.tconstruct.bow_string.*                                              # (default: true) USE Bowstring
+fe.protection.use.tconstruct.broad_axe_head.*                                          # (default: true) USE Broad Axe Head
+fe.protection.use.tconstruct.broadsword.*                                              # (default: true) USE Broadsword
+fe.protection.use.tconstruct.cast.*                                                    # (default: true) USE Blank Cast
+fe.protection.use.tconstruct.cast_custom.*                                             # (default: true) USE Ingot Cast
+fe.protection.use.tconstruct.clay_cast.*                                               # (default: true) USE item.tconstruct.clay_cast.blank
+fe.protection.use.tconstruct.cleaver.*                                                 # (default: true) USE Cleaver
+fe.protection.use.tconstruct.cross_guard.*                                             # (default: true) USE Cross Guard
+fe.protection.use.tconstruct.crossbow.*                                                # (default: true) USE Crossbow
+fe.protection.use.tconstruct.edible.*                                                  # (default: true) USE Bacon
+fe.protection.use.tconstruct.excavator.*                                               # (default: true) USE Excavator
+fe.protection.use.tconstruct.excavator_head.*                                          # (default: true) USE Excavator Head
+fe.protection.use.tconstruct.fancy_frame.*                                             # (default: true) USE Fancy Item Frame
+fe.protection.use.tconstruct.fletching.*                                               # (default: true) USE Fletching
+fe.protection.use.tconstruct.frypan.*                                                  # (default: true) USE Frypan
+fe.protection.use.tconstruct.hammer.*                                                  # (default: true) USE Hammer
+fe.protection.use.tconstruct.hammer_head.*                                             # (default: true) USE Hammer Head
+fe.protection.use.tconstruct.hand_guard.*                                              # (default: true) USE Hand Guard
+fe.protection.use.tconstruct.hatchet.*                                                 # (default: true) USE Hatchet
+fe.protection.use.tconstruct.ingots.*                                                  # (default: true) USE Cobalt Ingot
+fe.protection.use.tconstruct.kama.*                                                    # (default: true) USE Kama
+fe.protection.use.tconstruct.kama_head.*                                               # (default: true) USE Kama Head
+fe.protection.use.tconstruct.knife_blade.*                                             # (default: true) USE Knife Blade
+fe.protection.use.tconstruct.large_plate.*                                             # (default: true) USE Large Plate
+fe.protection.use.tconstruct.large_sword_blade.*                                       # (default: true) USE Large Sword Blade
+fe.protection.use.tconstruct.longbow.*                                                 # (default: true) USE Longbow
+fe.protection.use.tconstruct.longsword.*                                               # (default: true) USE Longsword
+fe.protection.use.tconstruct.lumberaxe.*                                               # (default: true) USE Lumberaxe
+fe.protection.use.tconstruct.materials.*                                               # (default: true) USE Seared Brick
+fe.protection.use.tconstruct.mattock.*                                                 # (default: true) USE Mattock
+fe.protection.use.tconstruct.moms_spaghetti.*                                          # (default: true) USE Mom's Spaghetti
+fe.protection.use.tconstruct.nuggets.*                                                 # (default: true) USE Cobalt Nugget
+fe.protection.use.tconstruct.pan_head.*                                                # (default: true) USE Pan
+fe.protection.use.tconstruct.pattern.*                                                 # (default: true) USE Blank Pattern
+fe.protection.use.tconstruct.pick_head.*                                               # (default: true) USE Pickaxe Head
+fe.protection.use.tconstruct.pickaxe.*                                                 # (default: true) USE Pickaxe
+fe.protection.use.tconstruct.piggybackpack.*                                           # (default: true) USE Piggybackpack
+fe.protection.use.tconstruct.rapier.*                                                  # (default: true) USE Rapier
+fe.protection.use.tconstruct.scythe.*                                                  # (default: true) USE Scythe
+fe.protection.use.tconstruct.scythe_head.*                                             # (default: true) USE Scythe Head
+fe.protection.use.tconstruct.shard.*                                                   # (default: true) USE Shard
+fe.protection.use.tconstruct.sharpening_kit.*                                          # (default: true) USE Sharpening Kit
+fe.protection.use.tconstruct.shortbow.*                                                # (default: true) USE Shortbow
+fe.protection.use.tconstruct.shovel.*                                                  # (default: true) USE Shovel
+fe.protection.use.tconstruct.shovel_head.*                                             # (default: true) USE Shovel Head
+fe.protection.use.tconstruct.shuriken.*                                                # (default: true) USE Shuriken
+fe.protection.use.tconstruct.sign_head.*                                               # (default: true) USE Sign Plate
+fe.protection.use.tconstruct.slime_boots.*                                             # (default: true) USE Slime Boots
+fe.protection.use.tconstruct.slimesling.*                                              # (default: true) USE Slimesling
+fe.protection.use.tconstruct.spaghetti.*                                               # (default: true) USE Impossibly Hard Wheat Sticks
+fe.protection.use.tconstruct.stone_stick.*                                             # (default: true) USE Stone Rod
+fe.protection.use.tconstruct.sword_blade.*                                             # (default: true) USE Sword Blade
+fe.protection.use.tconstruct.throwball.*                                               # (default: true) USE Glowball
+fe.protection.use.tconstruct.tool_rod.*                                                # (default: true) USE Tool Rod
+fe.protection.use.tconstruct.tough_binding.*                                           # (default: true) USE Tough Binding
+fe.protection.use.tconstruct.tough_tool_rod.*                                          # (default: true) USE Tough Tool Rod
+fe.protection.use.tconstruct.wide_guard.*                                              # (default: true) USE Wide Guard
 fe.protection.use.testdummy.dummy.*                                                    # (default: true) USE Test Dummy
 fe.protection.use.thermalexpansion.augment.*                                           # (default: true) USE Augment: item.invalid.name
 fe.protection.use.thermalexpansion.capacitor.*                                         # (default: true) USE Flux Capacitor (Basic)

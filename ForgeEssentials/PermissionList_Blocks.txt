@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 17.12 20:30 ------------ \\#
-#// ----------- Total amount: 22057 --------- \\#
+#// --------------- 01.01 14:50 ------------ \\#
+#// ----------- Total amount: 23804 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                  # (default: true) Allow breaking blocks
 fe.protection.break.ae2stuff.encoder.*                                                 # (default: true) BREAK Pattern Encoder
@@ -2120,6 +2120,210 @@ fe.protection.break.storagenetwork.master.*                                     
 fe.protection.break.storagenetwork.process_kabel.*                                     # (default: true) BREAK Air
 fe.protection.break.storagenetwork.request.*                                           # (default: true) BREAK Air
 fe.protection.break.storagenetwork.storage_kabel.*                                     # (default: true) BREAK Air
+fe.protection.break.taiga.abyssum_block.*                                              # (default: true) BREAK Abyssum Block
+fe.protection.break.taiga.abyssum_ore.*                                                # (default: true) BREAK Abyssum Ore
+fe.protection.break.taiga.adamant_block.*                                              # (default: true) BREAK Adamant Block
+fe.protection.break.taiga.astrium_block.*                                              # (default: true) BREAK Astrium Block
+fe.protection.break.taiga.aurorium_block.*                                             # (default: true) BREAK Aurorium Block
+fe.protection.break.taiga.aurorium_ore.*                                               # (default: true) BREAK Aurorium Ore
+fe.protection.break.taiga.basalt_block.*                                               # (default: true) BREAK Basalt Block
+fe.protection.break.taiga.dilithium_block.*                                            # (default: true) BREAK Dilithium Block
+fe.protection.break.taiga.dilithium_ore.*                                              # (default: true) BREAK Dilithium Ore
+fe.protection.break.taiga.duranite_block.*                                             # (default: true) BREAK Duranite Block
+fe.protection.break.taiga.duranite_ore.*                                               # (default: true) BREAK Duranite Ore
+fe.protection.break.taiga.dyonite_block.*                                              # (default: true) BREAK Dyonite Block
+fe.protection.break.taiga.eezo_block.*                                                 # (default: true) BREAK Eezo Block
+fe.protection.break.taiga.eezo_ore.*                                                   # (default: true) BREAK Eezo Ore
+fe.protection.break.taiga.fractum_block.*                                              # (default: true) BREAK Fractum Block
+fe.protection.break.taiga.ignitz_block.*                                               # (default: true) BREAK Ignitz Block
+fe.protection.break.taiga.imperomite_block.*                                           # (default: true) BREAK Imperomite Block
+fe.protection.break.taiga.iox_block.*                                                  # (default: true) BREAK Iox Block
+fe.protection.break.taiga.jauxum_block.*                                               # (default: true) BREAK Jauxum Block
+fe.protection.break.taiga.jauxum_ore.*                                                 # (default: true) BREAK Jauxum Ore
+fe.protection.break.taiga.karmesine_block.*                                            # (default: true) BREAK Karmesine Block
+fe.protection.break.taiga.karmesine_ore.*                                              # (default: true) BREAK Karmesine Ore
+fe.protection.break.taiga.lumix_block.*                                                # (default: true) BREAK Lumix Block
+fe.protection.break.taiga.meteorite_block.*                                            # (default: true) BREAK Meteorite Block
+fe.protection.break.taiga.meteoritecobble_block.*                                      # (default: true) BREAK Meteorite Cobble Block
+fe.protection.break.taiga.molten_abyssum_fluid.*                                       # (default: true) BREAK Abyssum Fluid
+fe.protection.break.taiga.molten_adamant_fluid.*                                       # (default: true) BREAK Adamant Fluid
+fe.protection.break.taiga.molten_astrium_fluid.*                                       # (default: true) BREAK Astrium Fluid
+fe.protection.break.taiga.molten_aurorium_fluid.*                                      # (default: true) BREAK Aurorium Fluid
+fe.protection.break.taiga.molten_basalt_fluid.*                                        # (default: true) BREAK Basalt Fluid
+fe.protection.break.taiga.molten_dilithium_fluid.*                                     # (default: true) BREAK Dilithium Fluid
+fe.protection.break.taiga.molten_duranite_fluid.*                                      # (default: true) BREAK Duranite Fluid
+fe.protection.break.taiga.molten_dyonite_fluid.*                                       # (default: true) BREAK Dyonite Fluid
+fe.protection.break.taiga.molten_eezo_fluid.*                                          # (default: true) BREAK Eezo Fluid
+fe.protection.break.taiga.molten_fractum_fluid.*                                       # (default: true) BREAK Fractum Fluid
+fe.protection.break.taiga.molten_ignitz_fluid.*                                        # (default: true) BREAK Ignitz Fluid
+fe.protection.break.taiga.molten_imperomite_fluid.*                                    # (default: true) BREAK Imperomite Fluid
+fe.protection.break.taiga.molten_iox_fluid.*                                           # (default: true) BREAK Iox Fluid
+fe.protection.break.taiga.molten_jauxum_fluid.*                                        # (default: true) BREAK Jauxum Fluid
+fe.protection.break.taiga.molten_karmesine_fluid.*                                     # (default: true) BREAK Karmesine Fluid
+fe.protection.break.taiga.molten_lumix_fluid.*                                         # (default: true) BREAK Lumix Fluid
+fe.protection.break.taiga.molten_magma_fluid.*                                         # (default: true) BREAK Magma Fluid
+fe.protection.break.taiga.molten_meteorite_fluid.*                                     # (default: true) BREAK Meteorite Fluid
+fe.protection.break.taiga.molten_nihilite_fluid.*                                      # (default: true) BREAK Nihilite Fluid
+fe.protection.break.taiga.molten_niob_fluid.*                                          # (default: true) BREAK Niob Fluid
+fe.protection.break.taiga.molten_nitronite_fluid.*                                     # (default: true) BREAK Nitronite Fluid
+fe.protection.break.taiga.molten_nucleum_fluid.*                                       # (default: true) BREAK Nucleum Fluid
+fe.protection.break.taiga.molten_obsidiorite_fluid.*                                   # (default: true) BREAK Obsidiorite Fluid
+fe.protection.break.taiga.molten_osram_fluid.*                                         # (default: true) BREAK Osram Fluid
+fe.protection.break.taiga.molten_ovium_fluid.*                                         # (default: true) BREAK Ovium Fluid
+fe.protection.break.taiga.molten_palladium_fluid.*                                     # (default: true) BREAK Palladium Fluid
+fe.protection.break.taiga.molten_prometheum_fluid.*                                    # (default: true) BREAK Prometheum Fluid
+fe.protection.break.taiga.molten_proxii_fluid.*                                        # (default: true) BREAK Proxii Fluid
+fe.protection.break.taiga.molten_seismum_fluid.*                                       # (default: true) BREAK Seismum Fluid
+fe.protection.break.taiga.molten_solarium_fluid.*                                      # (default: true) BREAK Solarium Fluid
+fe.protection.break.taiga.molten_terrax_fluid.*                                        # (default: true) BREAK Terrax Fluid
+fe.protection.break.taiga.molten_tiberium_fluid.*                                      # (default: true) BREAK Tiberium Fluid
+fe.protection.break.taiga.molten_triberium_fluid.*                                     # (default: true) BREAK Triberium Fluid
+fe.protection.break.taiga.molten_tritonite_fluid.*                                     # (default: true) BREAK Tritonite Fluid
+fe.protection.break.taiga.molten_uru_fluid.*                                           # (default: true) BREAK Uru Fluid
+fe.protection.break.taiga.molten_valyrium_fluid.*                                      # (default: true) BREAK Valyrium Fluid
+fe.protection.break.taiga.molten_vibranium_fluid.*                                     # (default: true) BREAK Vibranium Fluid
+fe.protection.break.taiga.molten_violium_fluid.*                                       # (default: true) BREAK Violium Fluid
+fe.protection.break.taiga.molten_yrdeen_fluid.*                                        # (default: true) BREAK Yrdeen Fluid
+fe.protection.break.taiga.nihilite_block.*                                             # (default: true) BREAK Nihilite Block
+fe.protection.break.taiga.niob_block.*                                                 # (default: true) BREAK Niob Block
+fe.protection.break.taiga.nucleum_block.*                                              # (default: true) BREAK Nucleum Block
+fe.protection.break.taiga.obsidiorite_block.*                                          # (default: true) BREAK Obsidiorite Block
+fe.protection.break.taiga.obsidioritecobble_block.*                                    # (default: true) BREAK Meteorite Cobble Block
+fe.protection.break.taiga.osram_block.*                                                # (default: true) BREAK Osram Block
+fe.protection.break.taiga.osram_ore.*                                                  # (default: true) BREAK Osram Ore
+fe.protection.break.taiga.ovium_block.*                                                # (default: true) BREAK Ovium Block
+fe.protection.break.taiga.ovium_ore.*                                                  # (default: true) BREAK Ovium Ore
+fe.protection.break.taiga.palladium_block.*                                            # (default: true) BREAK Palladium Block
+fe.protection.break.taiga.palladium_ore.*                                              # (default: true) BREAK Palladium Ore
+fe.protection.break.taiga.prometheum_block.*                                           # (default: true) BREAK Prometheum Block
+fe.protection.break.taiga.prometheum_ore.*                                             # (default: true) BREAK Prometheum Ore
+fe.protection.break.taiga.proxii_block.*                                               # (default: true) BREAK Proxii Block
+fe.protection.break.taiga.seismum_block.*                                              # (default: true) BREAK Seismum Block
+fe.protection.break.taiga.solarium_block.*                                             # (default: true) BREAK Solarium Block
+fe.protection.break.taiga.terrax_block.*                                               # (default: true) BREAK Terrax Block
+fe.protection.break.taiga.tiberium_block.*                                             # (default: true) BREAK Tiberium Block
+fe.protection.break.taiga.tiberium_ore.*                                               # (default: true) BREAK Tiberium Ore
+fe.protection.break.taiga.triberium_block.*                                            # (default: true) BREAK Triberium Block
+fe.protection.break.taiga.tritonite_block.*                                            # (default: true) BREAK Tritonite Block
+fe.protection.break.taiga.uru_block.*                                                  # (default: true) BREAK Uru Block
+fe.protection.break.taiga.uru_ore.*                                                    # (default: true) BREAK Uru Ore
+fe.protection.break.taiga.valyrium_block.*                                             # (default: true) BREAK Valyrium Block
+fe.protection.break.taiga.valyrium_ore.*                                               # (default: true) BREAK Valyrium Ore
+fe.protection.break.taiga.vibranium_block.*                                            # (default: true) BREAK Vibranium Block
+fe.protection.break.taiga.vibranium_ore.*                                              # (default: true) BREAK Vibranium Ore
+fe.protection.break.taiga.violium_block.*                                              # (default: true) BREAK Violium Block
+fe.protection.break.taiga.yrdeen_block.*                                               # (default: true) BREAK Yrdeen Block
+fe.protection.break.tconstruct.blood.*                                                 # (default: true) BREAK fluid.blood.name
+fe.protection.break.tconstruct.blueslime.*                                             # (default: true) BREAK Liquid Blue Slime
+fe.protection.break.tconstruct.brownstone.*                                            # (default: true) BREAK tile.tconstruct.brownstone.name
+fe.protection.break.tconstruct.brownstone_slab.*                                       # (default: true) BREAK tile.tconstruct.brownstone_slab.name
+fe.protection.break.tconstruct.brownstone_slab2.*                                      # (default: true) BREAK tile.tconstruct.brownstone_slab2.name
+fe.protection.break.tconstruct.brownstone_stairs_brick.*                               # (default: true) BREAK Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_brick_cracked.*                       # (default: true) BREAK Cracked Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_brick_fancy.*                         # (default: true) BREAK Fancy Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_brick_small.*                         # (default: true) BREAK Small Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_brick_square.*                        # (default: true) BREAK Square Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_brick_triangle.*                      # (default: true) BREAK Triangle Brownstone Bricks Stairs
+fe.protection.break.tconstruct.brownstone_stairs_creeper.*                             # (default: true) BREAK Brownstone Creeperface Stairs
+fe.protection.break.tconstruct.brownstone_stairs_paver.*                               # (default: true) BREAK Brownstone Paver Stairs
+fe.protection.break.tconstruct.brownstone_stairs_road.*                                # (default: true) BREAK Brownstone Road Stairs
+fe.protection.break.tconstruct.brownstone_stairs_rough.*                               # (default: true) BREAK Rough Brownstone Stairs
+fe.protection.break.tconstruct.brownstone_stairs_smooth.*                              # (default: true) BREAK Smooth Brownstone Stairs
+fe.protection.break.tconstruct.brownstone_stairs_tile.*                                # (default: true) BREAK Brownstone Tile Stairs
+fe.protection.break.tconstruct.casting.*                                               # (default: true) BREAK tile.tconstruct.casting.name
+fe.protection.break.tconstruct.channel.*                                               # (default: true) BREAK Casting Channel
+fe.protection.break.tconstruct.clear_glass.*                                           # (default: true) BREAK Clear Glass
+fe.protection.break.tconstruct.clear_stained_glass.*                                   # (default: true) BREAK tile.tconstruct.clear_stained_glass.name
+fe.protection.break.tconstruct.deco_ground.*                                           # (default: true) BREAK tile.tconstruct.deco_ground.name
+fe.protection.break.tconstruct.deco_ground_slab.*                                      # (default: true) BREAK tile.tconstruct.deco_ground_slab.name
+fe.protection.break.tconstruct.dried_brick_stairs.*                                    # (default: true) BREAK Dried Bricks Stairs
+fe.protection.break.tconstruct.dried_clay.*                                            # (default: true) BREAK tile.tconstruct.dried_clay.name
+fe.protection.break.tconstruct.dried_clay_slab.*                                       # (default: true) BREAK tile.tconstruct.dried_clay_slab.name
+fe.protection.break.tconstruct.dried_clay_stairs.*                                     # (default: true) BREAK Dried Clay Stairs
+fe.protection.break.tconstruct.faucet.*                                                # (default: true) BREAK Seared Faucet
+fe.protection.break.tconstruct.firewood.*                                              # (default: true) BREAK tile.tconstruct.firewood.name
+fe.protection.break.tconstruct.firewood_slab.*                                         # (default: true) BREAK tile.tconstruct.firewood_slab.name
+fe.protection.break.tconstruct.firewood_stairs.*                                       # (default: true) BREAK Firewood Stairs
+fe.protection.break.tconstruct.glow.*                                                  # (default: true) BREAK Glow
+fe.protection.break.tconstruct.lavawood_stairs.*                                       # (default: true) BREAK Lavawood Stairs
+fe.protection.break.tconstruct.metal.*                                                 # (default: true) BREAK tile.tconstruct.metal.name
+fe.protection.break.tconstruct.milk.*                                                  # (default: true) BREAK fluid.milk.name
+fe.protection.break.tconstruct.molten_alubrass.*                                       # (default: true) BREAK Molten Aluminum Brass
+fe.protection.break.tconstruct.molten_aluminum.*                                       # (default: true) BREAK fluid.aluminum.name
+fe.protection.break.tconstruct.molten_ardite.*                                         # (default: true) BREAK Molten Ardite
+fe.protection.break.tconstruct.molten_brass.*                                          # (default: true) BREAK Molten Brass
+fe.protection.break.tconstruct.molten_bronze.*                                         # (default: true) BREAK Molten Bronze
+fe.protection.break.tconstruct.molten_clay.*                                           # (default: true) BREAK Molten Clay
+fe.protection.break.tconstruct.molten_cobalt.*                                         # (default: true) BREAK Molten Cobalt
+fe.protection.break.tconstruct.molten_copper.*                                         # (default: true) BREAK fluid.copper.name
+fe.protection.break.tconstruct.molten_dirt.*                                           # (default: true) BREAK Liquid Dirt
+fe.protection.break.tconstruct.molten_electrum.*                                       # (default: true) BREAK Molten Electrum
+fe.protection.break.tconstruct.molten_emerald.*                                        # (default: true) BREAK fluid.emerald.name
+fe.protection.break.tconstruct.molten_glass.*                                          # (default: true) BREAK Molten Glass
+fe.protection.break.tconstruct.molten_gold.*                                           # (default: true) BREAK fluid.gold.name
+fe.protection.break.tconstruct.molten_iron.*                                           # (default: true) BREAK fluid.iron.name
+fe.protection.break.tconstruct.molten_knightslime.*                                    # (default: true) BREAK Molten Knightslime
+fe.protection.break.tconstruct.molten_lead.*                                           # (default: true) BREAK Molten Lead
+fe.protection.break.tconstruct.molten_magnesium.*                                      # (default: true) BREAK fluid.magnesium.name
+fe.protection.break.tconstruct.molten_manyullyn.*                                      # (default: true) BREAK Molten Manyullyn
+fe.protection.break.tconstruct.molten_nickel.*                                         # (default: true) BREAK Molten Nickel
+fe.protection.break.tconstruct.molten_obsidian.*                                       # (default: true) BREAK Molten Obsidian
+fe.protection.break.tconstruct.molten_pigiron.*                                        # (default: true) BREAK Molten Pigiron
+fe.protection.break.tconstruct.molten_silver.*                                         # (default: true) BREAK fluid.silver.name
+fe.protection.break.tconstruct.molten_steel.*                                          # (default: true) BREAK Molten Steel
+fe.protection.break.tconstruct.molten_stone.*                                          # (default: true) BREAK Seared Stone
+fe.protection.break.tconstruct.molten_thorium.*                                        # (default: true) BREAK fluid.thorium.name
+fe.protection.break.tconstruct.molten_tin.*                                            # (default: true) BREAK fluid.tin.name
+fe.protection.break.tconstruct.molten_uranium.*                                        # (default: true) BREAK fluid.uranium.name
+fe.protection.break.tconstruct.molten_zinc.*                                           # (default: true) BREAK Molten Zinc
+fe.protection.break.tconstruct.mudbrick_stairs.*                                       # (default: true) BREAK Mud Bricks Stairs
+fe.protection.break.tconstruct.ore.*                                                   # (default: true) BREAK tile.tconstruct.ore.name
+fe.protection.break.tconstruct.punji.*                                                 # (default: true) BREAK Punji Sticks
+fe.protection.break.tconstruct.purpleslime.*                                           # (default: true) BREAK Liquid Purple Slime
+fe.protection.break.tconstruct.rack.*                                                  # (default: true) BREAK tile.tconstruct.rack.name
+fe.protection.break.tconstruct.seared.*                                                # (default: true) BREAK tile.tconstruct.seared.name
+fe.protection.break.tconstruct.seared_furnace_controller.*                             # (default: true) BREAK Seared Furnace Controller
+fe.protection.break.tconstruct.seared_glass.*                                          # (default: true) BREAK tile.tconstruct.seared_glass.name
+fe.protection.break.tconstruct.seared_slab.*                                           # (default: true) BREAK tile.tconstruct.seared_slab.name
+fe.protection.break.tconstruct.seared_slab2.*                                          # (default: true) BREAK tile.tconstruct.seared_slab2.name
+fe.protection.break.tconstruct.seared_stairs_brick.*                                   # (default: true) BREAK Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_brick_cracked.*                           # (default: true) BREAK Cracked Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_brick_fancy.*                             # (default: true) BREAK Fancy Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_brick_small.*                             # (default: true) BREAK Small Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_brick_square.*                            # (default: true) BREAK Square Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_brick_triangle.*                          # (default: true) BREAK Triangle Seared Bricks Stairs
+fe.protection.break.tconstruct.seared_stairs_cobble.*                                  # (default: true) BREAK Seared Cobblestone Stairs
+fe.protection.break.tconstruct.seared_stairs_creeper.*                                 # (default: true) BREAK Seared Creeperface Stairs
+fe.protection.break.tconstruct.seared_stairs_paver.*                                   # (default: true) BREAK Seared Paver Stairs
+fe.protection.break.tconstruct.seared_stairs_road.*                                    # (default: true) BREAK Seared Road Stairs
+fe.protection.break.tconstruct.seared_stairs_stone.*                                   # (default: true) BREAK Seared Stone Stairs
+fe.protection.break.tconstruct.seared_stairs_tile.*                                    # (default: true) BREAK Seared Tile Stairs
+fe.protection.break.tconstruct.seared_tank.*                                           # (default: true) BREAK tile.tconstruct.seared_tank.name
+fe.protection.break.tconstruct.slime.*                                                 # (default: true) BREAK tile.tconstruct.slime.name
+fe.protection.break.tconstruct.slime_channel.*                                         # (default: true) BREAK tile.tconstruct.slime_channel.name
+fe.protection.break.tconstruct.slime_congealed.*                                       # (default: true) BREAK tile.tconstruct.slime_congealed.name
+fe.protection.break.tconstruct.slime_dirt.*                                            # (default: true) BREAK tile.tconstruct.slime_dirt.name
+fe.protection.break.tconstruct.slime_grass.*                                           # (default: true) BREAK tile.tconstruct.slime_grass.name
+fe.protection.break.tconstruct.slime_grass_tall.*                                      # (default: true) BREAK tile.tconstruct.slime_grass_tall.name
+fe.protection.break.tconstruct.slime_leaves.*                                          # (default: true) BREAK tile.tconstruct.slime_leaves.name
+fe.protection.break.tconstruct.slime_sapling.*                                         # (default: true) BREAK tile.tconstruct.slime_sapling.oak.name
+fe.protection.break.tconstruct.slime_vine_blue.*                                       # (default: true) BREAK Blue Slimy Vine
+fe.protection.break.tconstruct.slime_vine_blue_end.*                                   # (default: true) BREAK Blue Slimy Vine
+fe.protection.break.tconstruct.slime_vine_blue_mid.*                                   # (default: true) BREAK Blue Slimy Vine
+fe.protection.break.tconstruct.slime_vine_purple.*                                     # (default: true) BREAK Purple Slimy Vine
+fe.protection.break.tconstruct.slime_vine_purple_end.*                                 # (default: true) BREAK Purple Slimy Vine
+fe.protection.break.tconstruct.slime_vine_purple_mid.*                                 # (default: true) BREAK Purple Slimy Vine
+fe.protection.break.tconstruct.smeltery_controller.*                                   # (default: true) BREAK Smeltery Controller
+fe.protection.break.tconstruct.smeltery_io.*                                           # (default: true) BREAK tile.tconstruct.smeltery_io.name
+fe.protection.break.tconstruct.soil.*                                                  # (default: true) BREAK tile.tconstruct.soil.name
+fe.protection.break.tconstruct.stone_ladder.*                                          # (default: true) BREAK Stone Ladder
+fe.protection.break.tconstruct.stone_torch.*                                           # (default: true) BREAK Stone Torch
+fe.protection.break.tconstruct.tinker_tank_controller.*                                # (default: true) BREAK Tinker Tank Controller
+fe.protection.break.tconstruct.toolforge.*                                             # (default: true) BREAK Tool Forge
+fe.protection.break.tconstruct.tooltables.*                                            # (default: true) BREAK tile.tconstruct.tooltables.name
+fe.protection.break.tconstruct.wood_rail.*                                             # (default: true) BREAK Wooden Rail
+fe.protection.break.tconstruct.wood_rail_trapdoor.*                                    # (default: true) BREAK Wooden Rail with a Trapdoor
+fe.protection.break.tconstruct.wooden_hopper.*                                         # (default: true) BREAK Wooden Hopper
 fe.protection.break.thermalexpansion.apparatus.*                                       # (default: true) BREAK tile.thermalexpansion.apparatus.name
 fe.protection.break.thermalexpansion.cache.*                                           # (default: true) BREAK tile.thermalexpansion.cache.name
 fe.protection.break.thermalexpansion.cell.*                                            # (default: true) BREAK tile.thermalexpansion.cell.name
@@ -4288,6 +4492,210 @@ fe.protection.explode.storagenetwork.master.*                                   
 fe.protection.explode.storagenetwork.process_kabel.*                                   # (default: true) EXPLODE Air
 fe.protection.explode.storagenetwork.request.*                                         # (default: true) EXPLODE Air
 fe.protection.explode.storagenetwork.storage_kabel.*                                   # (default: true) EXPLODE Air
+fe.protection.explode.taiga.abyssum_block.*                                            # (default: true) EXPLODE Abyssum Block
+fe.protection.explode.taiga.abyssum_ore.*                                              # (default: true) EXPLODE Abyssum Ore
+fe.protection.explode.taiga.adamant_block.*                                            # (default: true) EXPLODE Adamant Block
+fe.protection.explode.taiga.astrium_block.*                                            # (default: true) EXPLODE Astrium Block
+fe.protection.explode.taiga.aurorium_block.*                                           # (default: true) EXPLODE Aurorium Block
+fe.protection.explode.taiga.aurorium_ore.*                                             # (default: true) EXPLODE Aurorium Ore
+fe.protection.explode.taiga.basalt_block.*                                             # (default: true) EXPLODE Basalt Block
+fe.protection.explode.taiga.dilithium_block.*                                          # (default: true) EXPLODE Dilithium Block
+fe.protection.explode.taiga.dilithium_ore.*                                            # (default: true) EXPLODE Dilithium Ore
+fe.protection.explode.taiga.duranite_block.*                                           # (default: true) EXPLODE Duranite Block
+fe.protection.explode.taiga.duranite_ore.*                                             # (default: true) EXPLODE Duranite Ore
+fe.protection.explode.taiga.dyonite_block.*                                            # (default: true) EXPLODE Dyonite Block
+fe.protection.explode.taiga.eezo_block.*                                               # (default: true) EXPLODE Eezo Block
+fe.protection.explode.taiga.eezo_ore.*                                                 # (default: true) EXPLODE Eezo Ore
+fe.protection.explode.taiga.fractum_block.*                                            # (default: true) EXPLODE Fractum Block
+fe.protection.explode.taiga.ignitz_block.*                                             # (default: true) EXPLODE Ignitz Block
+fe.protection.explode.taiga.imperomite_block.*                                         # (default: true) EXPLODE Imperomite Block
+fe.protection.explode.taiga.iox_block.*                                                # (default: true) EXPLODE Iox Block
+fe.protection.explode.taiga.jauxum_block.*                                             # (default: true) EXPLODE Jauxum Block
+fe.protection.explode.taiga.jauxum_ore.*                                               # (default: true) EXPLODE Jauxum Ore
+fe.protection.explode.taiga.karmesine_block.*                                          # (default: true) EXPLODE Karmesine Block
+fe.protection.explode.taiga.karmesine_ore.*                                            # (default: true) EXPLODE Karmesine Ore
+fe.protection.explode.taiga.lumix_block.*                                              # (default: true) EXPLODE Lumix Block
+fe.protection.explode.taiga.meteorite_block.*                                          # (default: true) EXPLODE Meteorite Block
+fe.protection.explode.taiga.meteoritecobble_block.*                                    # (default: true) EXPLODE Meteorite Cobble Block
+fe.protection.explode.taiga.molten_abyssum_fluid.*                                     # (default: true) EXPLODE Abyssum Fluid
+fe.protection.explode.taiga.molten_adamant_fluid.*                                     # (default: true) EXPLODE Adamant Fluid
+fe.protection.explode.taiga.molten_astrium_fluid.*                                     # (default: true) EXPLODE Astrium Fluid
+fe.protection.explode.taiga.molten_aurorium_fluid.*                                    # (default: true) EXPLODE Aurorium Fluid
+fe.protection.explode.taiga.molten_basalt_fluid.*                                      # (default: true) EXPLODE Basalt Fluid
+fe.protection.explode.taiga.molten_dilithium_fluid.*                                   # (default: true) EXPLODE Dilithium Fluid
+fe.protection.explode.taiga.molten_duranite_fluid.*                                    # (default: true) EXPLODE Duranite Fluid
+fe.protection.explode.taiga.molten_dyonite_fluid.*                                     # (default: true) EXPLODE Dyonite Fluid
+fe.protection.explode.taiga.molten_eezo_fluid.*                                        # (default: true) EXPLODE Eezo Fluid
+fe.protection.explode.taiga.molten_fractum_fluid.*                                     # (default: true) EXPLODE Fractum Fluid
+fe.protection.explode.taiga.molten_ignitz_fluid.*                                      # (default: true) EXPLODE Ignitz Fluid
+fe.protection.explode.taiga.molten_imperomite_fluid.*                                  # (default: true) EXPLODE Imperomite Fluid
+fe.protection.explode.taiga.molten_iox_fluid.*                                         # (default: true) EXPLODE Iox Fluid
+fe.protection.explode.taiga.molten_jauxum_fluid.*                                      # (default: true) EXPLODE Jauxum Fluid
+fe.protection.explode.taiga.molten_karmesine_fluid.*                                   # (default: true) EXPLODE Karmesine Fluid
+fe.protection.explode.taiga.molten_lumix_fluid.*                                       # (default: true) EXPLODE Lumix Fluid
+fe.protection.explode.taiga.molten_magma_fluid.*                                       # (default: true) EXPLODE Magma Fluid
+fe.protection.explode.taiga.molten_meteorite_fluid.*                                   # (default: true) EXPLODE Meteorite Fluid
+fe.protection.explode.taiga.molten_nihilite_fluid.*                                    # (default: true) EXPLODE Nihilite Fluid
+fe.protection.explode.taiga.molten_niob_fluid.*                                        # (default: true) EXPLODE Niob Fluid
+fe.protection.explode.taiga.molten_nitronite_fluid.*                                   # (default: true) EXPLODE Nitronite Fluid
+fe.protection.explode.taiga.molten_nucleum_fluid.*                                     # (default: true) EXPLODE Nucleum Fluid
+fe.protection.explode.taiga.molten_obsidiorite_fluid.*                                 # (default: true) EXPLODE Obsidiorite Fluid
+fe.protection.explode.taiga.molten_osram_fluid.*                                       # (default: true) EXPLODE Osram Fluid
+fe.protection.explode.taiga.molten_ovium_fluid.*                                       # (default: true) EXPLODE Ovium Fluid
+fe.protection.explode.taiga.molten_palladium_fluid.*                                   # (default: true) EXPLODE Palladium Fluid
+fe.protection.explode.taiga.molten_prometheum_fluid.*                                  # (default: true) EXPLODE Prometheum Fluid
+fe.protection.explode.taiga.molten_proxii_fluid.*                                      # (default: true) EXPLODE Proxii Fluid
+fe.protection.explode.taiga.molten_seismum_fluid.*                                     # (default: true) EXPLODE Seismum Fluid
+fe.protection.explode.taiga.molten_solarium_fluid.*                                    # (default: true) EXPLODE Solarium Fluid
+fe.protection.explode.taiga.molten_terrax_fluid.*                                      # (default: true) EXPLODE Terrax Fluid
+fe.protection.explode.taiga.molten_tiberium_fluid.*                                    # (default: true) EXPLODE Tiberium Fluid
+fe.protection.explode.taiga.molten_triberium_fluid.*                                   # (default: true) EXPLODE Triberium Fluid
+fe.protection.explode.taiga.molten_tritonite_fluid.*                                   # (default: true) EXPLODE Tritonite Fluid
+fe.protection.explode.taiga.molten_uru_fluid.*                                         # (default: true) EXPLODE Uru Fluid
+fe.protection.explode.taiga.molten_valyrium_fluid.*                                    # (default: true) EXPLODE Valyrium Fluid
+fe.protection.explode.taiga.molten_vibranium_fluid.*                                   # (default: true) EXPLODE Vibranium Fluid
+fe.protection.explode.taiga.molten_violium_fluid.*                                     # (default: true) EXPLODE Violium Fluid
+fe.protection.explode.taiga.molten_yrdeen_fluid.*                                      # (default: true) EXPLODE Yrdeen Fluid
+fe.protection.explode.taiga.nihilite_block.*                                           # (default: true) EXPLODE Nihilite Block
+fe.protection.explode.taiga.niob_block.*                                               # (default: true) EXPLODE Niob Block
+fe.protection.explode.taiga.nucleum_block.*                                            # (default: true) EXPLODE Nucleum Block
+fe.protection.explode.taiga.obsidiorite_block.*                                        # (default: true) EXPLODE Obsidiorite Block
+fe.protection.explode.taiga.obsidioritecobble_block.*                                  # (default: true) EXPLODE Meteorite Cobble Block
+fe.protection.explode.taiga.osram_block.*                                              # (default: true) EXPLODE Osram Block
+fe.protection.explode.taiga.osram_ore.*                                                # (default: true) EXPLODE Osram Ore
+fe.protection.explode.taiga.ovium_block.*                                              # (default: true) EXPLODE Ovium Block
+fe.protection.explode.taiga.ovium_ore.*                                                # (default: true) EXPLODE Ovium Ore
+fe.protection.explode.taiga.palladium_block.*                                          # (default: true) EXPLODE Palladium Block
+fe.protection.explode.taiga.palladium_ore.*                                            # (default: true) EXPLODE Palladium Ore
+fe.protection.explode.taiga.prometheum_block.*                                         # (default: true) EXPLODE Prometheum Block
+fe.protection.explode.taiga.prometheum_ore.*                                           # (default: true) EXPLODE Prometheum Ore
+fe.protection.explode.taiga.proxii_block.*                                             # (default: true) EXPLODE Proxii Block
+fe.protection.explode.taiga.seismum_block.*                                            # (default: true) EXPLODE Seismum Block
+fe.protection.explode.taiga.solarium_block.*                                           # (default: true) EXPLODE Solarium Block
+fe.protection.explode.taiga.terrax_block.*                                             # (default: true) EXPLODE Terrax Block
+fe.protection.explode.taiga.tiberium_block.*                                           # (default: true) EXPLODE Tiberium Block
+fe.protection.explode.taiga.tiberium_ore.*                                             # (default: true) EXPLODE Tiberium Ore
+fe.protection.explode.taiga.triberium_block.*                                          # (default: true) EXPLODE Triberium Block
+fe.protection.explode.taiga.tritonite_block.*                                          # (default: true) EXPLODE Tritonite Block
+fe.protection.explode.taiga.uru_block.*                                                # (default: true) EXPLODE Uru Block
+fe.protection.explode.taiga.uru_ore.*                                                  # (default: true) EXPLODE Uru Ore
+fe.protection.explode.taiga.valyrium_block.*                                           # (default: true) EXPLODE Valyrium Block
+fe.protection.explode.taiga.valyrium_ore.*                                             # (default: true) EXPLODE Valyrium Ore
+fe.protection.explode.taiga.vibranium_block.*                                          # (default: true) EXPLODE Vibranium Block
+fe.protection.explode.taiga.vibranium_ore.*                                            # (default: true) EXPLODE Vibranium Ore
+fe.protection.explode.taiga.violium_block.*                                            # (default: true) EXPLODE Violium Block
+fe.protection.explode.taiga.yrdeen_block.*                                             # (default: true) EXPLODE Yrdeen Block
+fe.protection.explode.tconstruct.blood.*                                               # (default: true) EXPLODE fluid.blood.name
+fe.protection.explode.tconstruct.blueslime.*                                           # (default: true) EXPLODE Liquid Blue Slime
+fe.protection.explode.tconstruct.brownstone.*                                          # (default: true) EXPLODE tile.tconstruct.brownstone.name
+fe.protection.explode.tconstruct.brownstone_slab.*                                     # (default: true) EXPLODE tile.tconstruct.brownstone_slab.name
+fe.protection.explode.tconstruct.brownstone_slab2.*                                    # (default: true) EXPLODE tile.tconstruct.brownstone_slab2.name
+fe.protection.explode.tconstruct.brownstone_stairs_brick.*                             # (default: true) EXPLODE Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_brick_cracked.*                     # (default: true) EXPLODE Cracked Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_brick_fancy.*                       # (default: true) EXPLODE Fancy Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_brick_small.*                       # (default: true) EXPLODE Small Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_brick_square.*                      # (default: true) EXPLODE Square Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_brick_triangle.*                    # (default: true) EXPLODE Triangle Brownstone Bricks Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_creeper.*                           # (default: true) EXPLODE Brownstone Creeperface Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_paver.*                             # (default: true) EXPLODE Brownstone Paver Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_road.*                              # (default: true) EXPLODE Brownstone Road Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_rough.*                             # (default: true) EXPLODE Rough Brownstone Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_smooth.*                            # (default: true) EXPLODE Smooth Brownstone Stairs
+fe.protection.explode.tconstruct.brownstone_stairs_tile.*                              # (default: true) EXPLODE Brownstone Tile Stairs
+fe.protection.explode.tconstruct.casting.*                                             # (default: true) EXPLODE tile.tconstruct.casting.name
+fe.protection.explode.tconstruct.channel.*                                             # (default: true) EXPLODE Casting Channel
+fe.protection.explode.tconstruct.clear_glass.*                                         # (default: true) EXPLODE Clear Glass
+fe.protection.explode.tconstruct.clear_stained_glass.*                                 # (default: true) EXPLODE tile.tconstruct.clear_stained_glass.name
+fe.protection.explode.tconstruct.deco_ground.*                                         # (default: true) EXPLODE tile.tconstruct.deco_ground.name
+fe.protection.explode.tconstruct.deco_ground_slab.*                                    # (default: true) EXPLODE tile.tconstruct.deco_ground_slab.name
+fe.protection.explode.tconstruct.dried_brick_stairs.*                                  # (default: true) EXPLODE Dried Bricks Stairs
+fe.protection.explode.tconstruct.dried_clay.*                                          # (default: true) EXPLODE tile.tconstruct.dried_clay.name
+fe.protection.explode.tconstruct.dried_clay_slab.*                                     # (default: true) EXPLODE tile.tconstruct.dried_clay_slab.name
+fe.protection.explode.tconstruct.dried_clay_stairs.*                                   # (default: true) EXPLODE Dried Clay Stairs
+fe.protection.explode.tconstruct.faucet.*                                              # (default: true) EXPLODE Seared Faucet
+fe.protection.explode.tconstruct.firewood.*                                            # (default: true) EXPLODE tile.tconstruct.firewood.name
+fe.protection.explode.tconstruct.firewood_slab.*                                       # (default: true) EXPLODE tile.tconstruct.firewood_slab.name
+fe.protection.explode.tconstruct.firewood_stairs.*                                     # (default: true) EXPLODE Firewood Stairs
+fe.protection.explode.tconstruct.glow.*                                                # (default: true) EXPLODE Glow
+fe.protection.explode.tconstruct.lavawood_stairs.*                                     # (default: true) EXPLODE Lavawood Stairs
+fe.protection.explode.tconstruct.metal.*                                               # (default: true) EXPLODE tile.tconstruct.metal.name
+fe.protection.explode.tconstruct.milk.*                                                # (default: true) EXPLODE fluid.milk.name
+fe.protection.explode.tconstruct.molten_alubrass.*                                     # (default: true) EXPLODE Molten Aluminum Brass
+fe.protection.explode.tconstruct.molten_aluminum.*                                     # (default: true) EXPLODE fluid.aluminum.name
+fe.protection.explode.tconstruct.molten_ardite.*                                       # (default: true) EXPLODE Molten Ardite
+fe.protection.explode.tconstruct.molten_brass.*                                        # (default: true) EXPLODE Molten Brass
+fe.protection.explode.tconstruct.molten_bronze.*                                       # (default: true) EXPLODE Molten Bronze
+fe.protection.explode.tconstruct.molten_clay.*                                         # (default: true) EXPLODE Molten Clay
+fe.protection.explode.tconstruct.molten_cobalt.*                                       # (default: true) EXPLODE Molten Cobalt
+fe.protection.explode.tconstruct.molten_copper.*                                       # (default: true) EXPLODE fluid.copper.name
+fe.protection.explode.tconstruct.molten_dirt.*                                         # (default: true) EXPLODE Liquid Dirt
+fe.protection.explode.tconstruct.molten_electrum.*                                     # (default: true) EXPLODE Molten Electrum
+fe.protection.explode.tconstruct.molten_emerald.*                                      # (default: true) EXPLODE fluid.emerald.name
+fe.protection.explode.tconstruct.molten_glass.*                                        # (default: true) EXPLODE Molten Glass
+fe.protection.explode.tconstruct.molten_gold.*                                         # (default: true) EXPLODE fluid.gold.name
+fe.protection.explode.tconstruct.molten_iron.*                                         # (default: true) EXPLODE fluid.iron.name
+fe.protection.explode.tconstruct.molten_knightslime.*                                  # (default: true) EXPLODE Molten Knightslime
+fe.protection.explode.tconstruct.molten_lead.*                                         # (default: true) EXPLODE Molten Lead
+fe.protection.explode.tconstruct.molten_magnesium.*                                    # (default: true) EXPLODE fluid.magnesium.name
+fe.protection.explode.tconstruct.molten_manyullyn.*                                    # (default: true) EXPLODE Molten Manyullyn
+fe.protection.explode.tconstruct.molten_nickel.*                                       # (default: true) EXPLODE Molten Nickel
+fe.protection.explode.tconstruct.molten_obsidian.*                                     # (default: true) EXPLODE Molten Obsidian
+fe.protection.explode.tconstruct.molten_pigiron.*                                      # (default: true) EXPLODE Molten Pigiron
+fe.protection.explode.tconstruct.molten_silver.*                                       # (default: true) EXPLODE fluid.silver.name
+fe.protection.explode.tconstruct.molten_steel.*                                        # (default: true) EXPLODE Molten Steel
+fe.protection.explode.tconstruct.molten_stone.*                                        # (default: true) EXPLODE Seared Stone
+fe.protection.explode.tconstruct.molten_thorium.*                                      # (default: true) EXPLODE fluid.thorium.name
+fe.protection.explode.tconstruct.molten_tin.*                                          # (default: true) EXPLODE fluid.tin.name
+fe.protection.explode.tconstruct.molten_uranium.*                                      # (default: true) EXPLODE fluid.uranium.name
+fe.protection.explode.tconstruct.molten_zinc.*                                         # (default: true) EXPLODE Molten Zinc
+fe.protection.explode.tconstruct.mudbrick_stairs.*                                     # (default: true) EXPLODE Mud Bricks Stairs
+fe.protection.explode.tconstruct.ore.*                                                 # (default: true) EXPLODE tile.tconstruct.ore.name
+fe.protection.explode.tconstruct.punji.*                                               # (default: true) EXPLODE Punji Sticks
+fe.protection.explode.tconstruct.purpleslime.*                                         # (default: true) EXPLODE Liquid Purple Slime
+fe.protection.explode.tconstruct.rack.*                                                # (default: true) EXPLODE tile.tconstruct.rack.name
+fe.protection.explode.tconstruct.seared.*                                              # (default: true) EXPLODE tile.tconstruct.seared.name
+fe.protection.explode.tconstruct.seared_furnace_controller.*                           # (default: true) EXPLODE Seared Furnace Controller
+fe.protection.explode.tconstruct.seared_glass.*                                        # (default: true) EXPLODE tile.tconstruct.seared_glass.name
+fe.protection.explode.tconstruct.seared_slab.*                                         # (default: true) EXPLODE tile.tconstruct.seared_slab.name
+fe.protection.explode.tconstruct.seared_slab2.*                                        # (default: true) EXPLODE tile.tconstruct.seared_slab2.name
+fe.protection.explode.tconstruct.seared_stairs_brick.*                                 # (default: true) EXPLODE Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_brick_cracked.*                         # (default: true) EXPLODE Cracked Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_brick_fancy.*                           # (default: true) EXPLODE Fancy Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_brick_small.*                           # (default: true) EXPLODE Small Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_brick_square.*                          # (default: true) EXPLODE Square Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_brick_triangle.*                        # (default: true) EXPLODE Triangle Seared Bricks Stairs
+fe.protection.explode.tconstruct.seared_stairs_cobble.*                                # (default: true) EXPLODE Seared Cobblestone Stairs
+fe.protection.explode.tconstruct.seared_stairs_creeper.*                               # (default: true) EXPLODE Seared Creeperface Stairs
+fe.protection.explode.tconstruct.seared_stairs_paver.*                                 # (default: true) EXPLODE Seared Paver Stairs
+fe.protection.explode.tconstruct.seared_stairs_road.*                                  # (default: true) EXPLODE Seared Road Stairs
+fe.protection.explode.tconstruct.seared_stairs_stone.*                                 # (default: true) EXPLODE Seared Stone Stairs
+fe.protection.explode.tconstruct.seared_stairs_tile.*                                  # (default: true) EXPLODE Seared Tile Stairs
+fe.protection.explode.tconstruct.seared_tank.*                                         # (default: true) EXPLODE tile.tconstruct.seared_tank.name
+fe.protection.explode.tconstruct.slime.*                                               # (default: true) EXPLODE tile.tconstruct.slime.name
+fe.protection.explode.tconstruct.slime_channel.*                                       # (default: true) EXPLODE tile.tconstruct.slime_channel.name
+fe.protection.explode.tconstruct.slime_congealed.*                                     # (default: true) EXPLODE tile.tconstruct.slime_congealed.name
+fe.protection.explode.tconstruct.slime_dirt.*                                          # (default: true) EXPLODE tile.tconstruct.slime_dirt.name
+fe.protection.explode.tconstruct.slime_grass.*                                         # (default: true) EXPLODE tile.tconstruct.slime_grass.name
+fe.protection.explode.tconstruct.slime_grass_tall.*                                    # (default: true) EXPLODE tile.tconstruct.slime_grass_tall.name
+fe.protection.explode.tconstruct.slime_leaves.*                                        # (default: true) EXPLODE tile.tconstruct.slime_leaves.name
+fe.protection.explode.tconstruct.slime_sapling.*                                       # (default: true) EXPLODE tile.tconstruct.slime_sapling.oak.name
+fe.protection.explode.tconstruct.slime_vine_blue.*                                     # (default: true) EXPLODE Blue Slimy Vine
+fe.protection.explode.tconstruct.slime_vine_blue_end.*                                 # (default: true) EXPLODE Blue Slimy Vine
+fe.protection.explode.tconstruct.slime_vine_blue_mid.*                                 # (default: true) EXPLODE Blue Slimy Vine
+fe.protection.explode.tconstruct.slime_vine_purple.*                                   # (default: true) EXPLODE Purple Slimy Vine
+fe.protection.explode.tconstruct.slime_vine_purple_end.*                               # (default: true) EXPLODE Purple Slimy Vine
+fe.protection.explode.tconstruct.slime_vine_purple_mid.*                               # (default: true) EXPLODE Purple Slimy Vine
+fe.protection.explode.tconstruct.smeltery_controller.*                                 # (default: true) EXPLODE Smeltery Controller
+fe.protection.explode.tconstruct.smeltery_io.*                                         # (default: true) EXPLODE tile.tconstruct.smeltery_io.name
+fe.protection.explode.tconstruct.soil.*                                                # (default: true) EXPLODE tile.tconstruct.soil.name
+fe.protection.explode.tconstruct.stone_ladder.*                                        # (default: true) EXPLODE Stone Ladder
+fe.protection.explode.tconstruct.stone_torch.*                                         # (default: true) EXPLODE Stone Torch
+fe.protection.explode.tconstruct.tinker_tank_controller.*                              # (default: true) EXPLODE Tinker Tank Controller
+fe.protection.explode.tconstruct.toolforge.*                                           # (default: true) EXPLODE Tool Forge
+fe.protection.explode.tconstruct.tooltables.*                                          # (default: true) EXPLODE tile.tconstruct.tooltables.name
+fe.protection.explode.tconstruct.wood_rail.*                                           # (default: true) EXPLODE Wooden Rail
+fe.protection.explode.tconstruct.wood_rail_trapdoor.*                                  # (default: true) EXPLODE Wooden Rail with a Trapdoor
+fe.protection.explode.tconstruct.wooden_hopper.*                                       # (default: true) EXPLODE Wooden Hopper
 fe.protection.explode.thermalexpansion.apparatus.*                                     # (default: true) EXPLODE tile.thermalexpansion.apparatus.name
 fe.protection.explode.thermalexpansion.cache.*                                         # (default: true) EXPLODE tile.thermalexpansion.cache.name
 fe.protection.explode.thermalexpansion.cell.*                                          # (default: true) EXPLODE tile.thermalexpansion.cell.name
@@ -6457,6 +6865,210 @@ fe.protection.interact.storagenetwork.master.*                                  
 fe.protection.interact.storagenetwork.process_kabel.*                                  # (default: true) INTERACT Air
 fe.protection.interact.storagenetwork.request.*                                        # (default: true) INTERACT Air
 fe.protection.interact.storagenetwork.storage_kabel.*                                  # (default: true) INTERACT Air
+fe.protection.interact.taiga.abyssum_block.*                                           # (default: true) INTERACT Abyssum Block
+fe.protection.interact.taiga.abyssum_ore.*                                             # (default: true) INTERACT Abyssum Ore
+fe.protection.interact.taiga.adamant_block.*                                           # (default: true) INTERACT Adamant Block
+fe.protection.interact.taiga.astrium_block.*                                           # (default: true) INTERACT Astrium Block
+fe.protection.interact.taiga.aurorium_block.*                                          # (default: true) INTERACT Aurorium Block
+fe.protection.interact.taiga.aurorium_ore.*                                            # (default: true) INTERACT Aurorium Ore
+fe.protection.interact.taiga.basalt_block.*                                            # (default: true) INTERACT Basalt Block
+fe.protection.interact.taiga.dilithium_block.*                                         # (default: true) INTERACT Dilithium Block
+fe.protection.interact.taiga.dilithium_ore.*                                           # (default: true) INTERACT Dilithium Ore
+fe.protection.interact.taiga.duranite_block.*                                          # (default: true) INTERACT Duranite Block
+fe.protection.interact.taiga.duranite_ore.*                                            # (default: true) INTERACT Duranite Ore
+fe.protection.interact.taiga.dyonite_block.*                                           # (default: true) INTERACT Dyonite Block
+fe.protection.interact.taiga.eezo_block.*                                              # (default: true) INTERACT Eezo Block
+fe.protection.interact.taiga.eezo_ore.*                                                # (default: true) INTERACT Eezo Ore
+fe.protection.interact.taiga.fractum_block.*                                           # (default: true) INTERACT Fractum Block
+fe.protection.interact.taiga.ignitz_block.*                                            # (default: true) INTERACT Ignitz Block
+fe.protection.interact.taiga.imperomite_block.*                                        # (default: true) INTERACT Imperomite Block
+fe.protection.interact.taiga.iox_block.*                                               # (default: true) INTERACT Iox Block
+fe.protection.interact.taiga.jauxum_block.*                                            # (default: true) INTERACT Jauxum Block
+fe.protection.interact.taiga.jauxum_ore.*                                              # (default: true) INTERACT Jauxum Ore
+fe.protection.interact.taiga.karmesine_block.*                                         # (default: true) INTERACT Karmesine Block
+fe.protection.interact.taiga.karmesine_ore.*                                           # (default: true) INTERACT Karmesine Ore
+fe.protection.interact.taiga.lumix_block.*                                             # (default: true) INTERACT Lumix Block
+fe.protection.interact.taiga.meteorite_block.*                                         # (default: true) INTERACT Meteorite Block
+fe.protection.interact.taiga.meteoritecobble_block.*                                   # (default: true) INTERACT Meteorite Cobble Block
+fe.protection.interact.taiga.molten_abyssum_fluid.*                                    # (default: true) INTERACT Abyssum Fluid
+fe.protection.interact.taiga.molten_adamant_fluid.*                                    # (default: true) INTERACT Adamant Fluid
+fe.protection.interact.taiga.molten_astrium_fluid.*                                    # (default: true) INTERACT Astrium Fluid
+fe.protection.interact.taiga.molten_aurorium_fluid.*                                   # (default: true) INTERACT Aurorium Fluid
+fe.protection.interact.taiga.molten_basalt_fluid.*                                     # (default: true) INTERACT Basalt Fluid
+fe.protection.interact.taiga.molten_dilithium_fluid.*                                  # (default: true) INTERACT Dilithium Fluid
+fe.protection.interact.taiga.molten_duranite_fluid.*                                   # (default: true) INTERACT Duranite Fluid
+fe.protection.interact.taiga.molten_dyonite_fluid.*                                    # (default: true) INTERACT Dyonite Fluid
+fe.protection.interact.taiga.molten_eezo_fluid.*                                       # (default: true) INTERACT Eezo Fluid
+fe.protection.interact.taiga.molten_fractum_fluid.*                                    # (default: true) INTERACT Fractum Fluid
+fe.protection.interact.taiga.molten_ignitz_fluid.*                                     # (default: true) INTERACT Ignitz Fluid
+fe.protection.interact.taiga.molten_imperomite_fluid.*                                 # (default: true) INTERACT Imperomite Fluid
+fe.protection.interact.taiga.molten_iox_fluid.*                                        # (default: true) INTERACT Iox Fluid
+fe.protection.interact.taiga.molten_jauxum_fluid.*                                     # (default: true) INTERACT Jauxum Fluid
+fe.protection.interact.taiga.molten_karmesine_fluid.*                                  # (default: true) INTERACT Karmesine Fluid
+fe.protection.interact.taiga.molten_lumix_fluid.*                                      # (default: true) INTERACT Lumix Fluid
+fe.protection.interact.taiga.molten_magma_fluid.*                                      # (default: true) INTERACT Magma Fluid
+fe.protection.interact.taiga.molten_meteorite_fluid.*                                  # (default: true) INTERACT Meteorite Fluid
+fe.protection.interact.taiga.molten_nihilite_fluid.*                                   # (default: true) INTERACT Nihilite Fluid
+fe.protection.interact.taiga.molten_niob_fluid.*                                       # (default: true) INTERACT Niob Fluid
+fe.protection.interact.taiga.molten_nitronite_fluid.*                                  # (default: true) INTERACT Nitronite Fluid
+fe.protection.interact.taiga.molten_nucleum_fluid.*                                    # (default: true) INTERACT Nucleum Fluid
+fe.protection.interact.taiga.molten_obsidiorite_fluid.*                                # (default: true) INTERACT Obsidiorite Fluid
+fe.protection.interact.taiga.molten_osram_fluid.*                                      # (default: true) INTERACT Osram Fluid
+fe.protection.interact.taiga.molten_ovium_fluid.*                                      # (default: true) INTERACT Ovium Fluid
+fe.protection.interact.taiga.molten_palladium_fluid.*                                  # (default: true) INTERACT Palladium Fluid
+fe.protection.interact.taiga.molten_prometheum_fluid.*                                 # (default: true) INTERACT Prometheum Fluid
+fe.protection.interact.taiga.molten_proxii_fluid.*                                     # (default: true) INTERACT Proxii Fluid
+fe.protection.interact.taiga.molten_seismum_fluid.*                                    # (default: true) INTERACT Seismum Fluid
+fe.protection.interact.taiga.molten_solarium_fluid.*                                   # (default: true) INTERACT Solarium Fluid
+fe.protection.interact.taiga.molten_terrax_fluid.*                                     # (default: true) INTERACT Terrax Fluid
+fe.protection.interact.taiga.molten_tiberium_fluid.*                                   # (default: true) INTERACT Tiberium Fluid
+fe.protection.interact.taiga.molten_triberium_fluid.*                                  # (default: true) INTERACT Triberium Fluid
+fe.protection.interact.taiga.molten_tritonite_fluid.*                                  # (default: true) INTERACT Tritonite Fluid
+fe.protection.interact.taiga.molten_uru_fluid.*                                        # (default: true) INTERACT Uru Fluid
+fe.protection.interact.taiga.molten_valyrium_fluid.*                                   # (default: true) INTERACT Valyrium Fluid
+fe.protection.interact.taiga.molten_vibranium_fluid.*                                  # (default: true) INTERACT Vibranium Fluid
+fe.protection.interact.taiga.molten_violium_fluid.*                                    # (default: true) INTERACT Violium Fluid
+fe.protection.interact.taiga.molten_yrdeen_fluid.*                                     # (default: true) INTERACT Yrdeen Fluid
+fe.protection.interact.taiga.nihilite_block.*                                          # (default: true) INTERACT Nihilite Block
+fe.protection.interact.taiga.niob_block.*                                              # (default: true) INTERACT Niob Block
+fe.protection.interact.taiga.nucleum_block.*                                           # (default: true) INTERACT Nucleum Block
+fe.protection.interact.taiga.obsidiorite_block.*                                       # (default: true) INTERACT Obsidiorite Block
+fe.protection.interact.taiga.obsidioritecobble_block.*                                 # (default: true) INTERACT Meteorite Cobble Block
+fe.protection.interact.taiga.osram_block.*                                             # (default: true) INTERACT Osram Block
+fe.protection.interact.taiga.osram_ore.*                                               # (default: true) INTERACT Osram Ore
+fe.protection.interact.taiga.ovium_block.*                                             # (default: true) INTERACT Ovium Block
+fe.protection.interact.taiga.ovium_ore.*                                               # (default: true) INTERACT Ovium Ore
+fe.protection.interact.taiga.palladium_block.*                                         # (default: true) INTERACT Palladium Block
+fe.protection.interact.taiga.palladium_ore.*                                           # (default: true) INTERACT Palladium Ore
+fe.protection.interact.taiga.prometheum_block.*                                        # (default: true) INTERACT Prometheum Block
+fe.protection.interact.taiga.prometheum_ore.*                                          # (default: true) INTERACT Prometheum Ore
+fe.protection.interact.taiga.proxii_block.*                                            # (default: true) INTERACT Proxii Block
+fe.protection.interact.taiga.seismum_block.*                                           # (default: true) INTERACT Seismum Block
+fe.protection.interact.taiga.solarium_block.*                                          # (default: true) INTERACT Solarium Block
+fe.protection.interact.taiga.terrax_block.*                                            # (default: true) INTERACT Terrax Block
+fe.protection.interact.taiga.tiberium_block.*                                          # (default: true) INTERACT Tiberium Block
+fe.protection.interact.taiga.tiberium_ore.*                                            # (default: true) INTERACT Tiberium Ore
+fe.protection.interact.taiga.triberium_block.*                                         # (default: true) INTERACT Triberium Block
+fe.protection.interact.taiga.tritonite_block.*                                         # (default: true) INTERACT Tritonite Block
+fe.protection.interact.taiga.uru_block.*                                               # (default: true) INTERACT Uru Block
+fe.protection.interact.taiga.uru_ore.*                                                 # (default: true) INTERACT Uru Ore
+fe.protection.interact.taiga.valyrium_block.*                                          # (default: true) INTERACT Valyrium Block
+fe.protection.interact.taiga.valyrium_ore.*                                            # (default: true) INTERACT Valyrium Ore
+fe.protection.interact.taiga.vibranium_block.*                                         # (default: true) INTERACT Vibranium Block
+fe.protection.interact.taiga.vibranium_ore.*                                           # (default: true) INTERACT Vibranium Ore
+fe.protection.interact.taiga.violium_block.*                                           # (default: true) INTERACT Violium Block
+fe.protection.interact.taiga.yrdeen_block.*                                            # (default: true) INTERACT Yrdeen Block
+fe.protection.interact.tconstruct.blood.*                                              # (default: true) INTERACT fluid.blood.name
+fe.protection.interact.tconstruct.blueslime.*                                          # (default: true) INTERACT Liquid Blue Slime
+fe.protection.interact.tconstruct.brownstone.*                                         # (default: true) INTERACT tile.tconstruct.brownstone.name
+fe.protection.interact.tconstruct.brownstone_slab.*                                    # (default: true) INTERACT tile.tconstruct.brownstone_slab.name
+fe.protection.interact.tconstruct.brownstone_slab2.*                                   # (default: true) INTERACT tile.tconstruct.brownstone_slab2.name
+fe.protection.interact.tconstruct.brownstone_stairs_brick.*                            # (default: true) INTERACT Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_brick_cracked.*                    # (default: true) INTERACT Cracked Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_brick_fancy.*                      # (default: true) INTERACT Fancy Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_brick_small.*                      # (default: true) INTERACT Small Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_brick_square.*                     # (default: true) INTERACT Square Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_brick_triangle.*                   # (default: true) INTERACT Triangle Brownstone Bricks Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_creeper.*                          # (default: true) INTERACT Brownstone Creeperface Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_paver.*                            # (default: true) INTERACT Brownstone Paver Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_road.*                             # (default: true) INTERACT Brownstone Road Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_rough.*                            # (default: true) INTERACT Rough Brownstone Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_smooth.*                           # (default: true) INTERACT Smooth Brownstone Stairs
+fe.protection.interact.tconstruct.brownstone_stairs_tile.*                             # (default: true) INTERACT Brownstone Tile Stairs
+fe.protection.interact.tconstruct.casting.*                                            # (default: true) INTERACT tile.tconstruct.casting.name
+fe.protection.interact.tconstruct.channel.*                                            # (default: true) INTERACT Casting Channel
+fe.protection.interact.tconstruct.clear_glass.*                                        # (default: true) INTERACT Clear Glass
+fe.protection.interact.tconstruct.clear_stained_glass.*                                # (default: true) INTERACT tile.tconstruct.clear_stained_glass.name
+fe.protection.interact.tconstruct.deco_ground.*                                        # (default: true) INTERACT tile.tconstruct.deco_ground.name
+fe.protection.interact.tconstruct.deco_ground_slab.*                                   # (default: true) INTERACT tile.tconstruct.deco_ground_slab.name
+fe.protection.interact.tconstruct.dried_brick_stairs.*                                 # (default: true) INTERACT Dried Bricks Stairs
+fe.protection.interact.tconstruct.dried_clay.*                                         # (default: true) INTERACT tile.tconstruct.dried_clay.name
+fe.protection.interact.tconstruct.dried_clay_slab.*                                    # (default: true) INTERACT tile.tconstruct.dried_clay_slab.name
+fe.protection.interact.tconstruct.dried_clay_stairs.*                                  # (default: true) INTERACT Dried Clay Stairs
+fe.protection.interact.tconstruct.faucet.*                                             # (default: true) INTERACT Seared Faucet
+fe.protection.interact.tconstruct.firewood.*                                           # (default: true) INTERACT tile.tconstruct.firewood.name
+fe.protection.interact.tconstruct.firewood_slab.*                                      # (default: true) INTERACT tile.tconstruct.firewood_slab.name
+fe.protection.interact.tconstruct.firewood_stairs.*                                    # (default: true) INTERACT Firewood Stairs
+fe.protection.interact.tconstruct.glow.*                                               # (default: true) INTERACT Glow
+fe.protection.interact.tconstruct.lavawood_stairs.*                                    # (default: true) INTERACT Lavawood Stairs
+fe.protection.interact.tconstruct.metal.*                                              # (default: true) INTERACT tile.tconstruct.metal.name
+fe.protection.interact.tconstruct.milk.*                                               # (default: true) INTERACT fluid.milk.name
+fe.protection.interact.tconstruct.molten_alubrass.*                                    # (default: true) INTERACT Molten Aluminum Brass
+fe.protection.interact.tconstruct.molten_aluminum.*                                    # (default: true) INTERACT fluid.aluminum.name
+fe.protection.interact.tconstruct.molten_ardite.*                                      # (default: true) INTERACT Molten Ardite
+fe.protection.interact.tconstruct.molten_brass.*                                       # (default: true) INTERACT Molten Brass
+fe.protection.interact.tconstruct.molten_bronze.*                                      # (default: true) INTERACT Molten Bronze
+fe.protection.interact.tconstruct.molten_clay.*                                        # (default: true) INTERACT Molten Clay
+fe.protection.interact.tconstruct.molten_cobalt.*                                      # (default: true) INTERACT Molten Cobalt
+fe.protection.interact.tconstruct.molten_copper.*                                      # (default: true) INTERACT fluid.copper.name
+fe.protection.interact.tconstruct.molten_dirt.*                                        # (default: true) INTERACT Liquid Dirt
+fe.protection.interact.tconstruct.molten_electrum.*                                    # (default: true) INTERACT Molten Electrum
+fe.protection.interact.tconstruct.molten_emerald.*                                     # (default: true) INTERACT fluid.emerald.name
+fe.protection.interact.tconstruct.molten_glass.*                                       # (default: true) INTERACT Molten Glass
+fe.protection.interact.tconstruct.molten_gold.*                                        # (default: true) INTERACT fluid.gold.name
+fe.protection.interact.tconstruct.molten_iron.*                                        # (default: true) INTERACT fluid.iron.name
+fe.protection.interact.tconstruct.molten_knightslime.*                                 # (default: true) INTERACT Molten Knightslime
+fe.protection.interact.tconstruct.molten_lead.*                                        # (default: true) INTERACT Molten Lead
+fe.protection.interact.tconstruct.molten_magnesium.*                                   # (default: true) INTERACT fluid.magnesium.name
+fe.protection.interact.tconstruct.molten_manyullyn.*                                   # (default: true) INTERACT Molten Manyullyn
+fe.protection.interact.tconstruct.molten_nickel.*                                      # (default: true) INTERACT Molten Nickel
+fe.protection.interact.tconstruct.molten_obsidian.*                                    # (default: true) INTERACT Molten Obsidian
+fe.protection.interact.tconstruct.molten_pigiron.*                                     # (default: true) INTERACT Molten Pigiron
+fe.protection.interact.tconstruct.molten_silver.*                                      # (default: true) INTERACT fluid.silver.name
+fe.protection.interact.tconstruct.molten_steel.*                                       # (default: true) INTERACT Molten Steel
+fe.protection.interact.tconstruct.molten_stone.*                                       # (default: true) INTERACT Seared Stone
+fe.protection.interact.tconstruct.molten_thorium.*                                     # (default: true) INTERACT fluid.thorium.name
+fe.protection.interact.tconstruct.molten_tin.*                                         # (default: true) INTERACT fluid.tin.name
+fe.protection.interact.tconstruct.molten_uranium.*                                     # (default: true) INTERACT fluid.uranium.name
+fe.protection.interact.tconstruct.molten_zinc.*                                        # (default: true) INTERACT Molten Zinc
+fe.protection.interact.tconstruct.mudbrick_stairs.*                                    # (default: true) INTERACT Mud Bricks Stairs
+fe.protection.interact.tconstruct.ore.*                                                # (default: true) INTERACT tile.tconstruct.ore.name
+fe.protection.interact.tconstruct.punji.*                                              # (default: true) INTERACT Punji Sticks
+fe.protection.interact.tconstruct.purpleslime.*                                        # (default: true) INTERACT Liquid Purple Slime
+fe.protection.interact.tconstruct.rack.*                                               # (default: true) INTERACT tile.tconstruct.rack.name
+fe.protection.interact.tconstruct.seared.*                                             # (default: true) INTERACT tile.tconstruct.seared.name
+fe.protection.interact.tconstruct.seared_furnace_controller.*                          # (default: true) INTERACT Seared Furnace Controller
+fe.protection.interact.tconstruct.seared_glass.*                                       # (default: true) INTERACT tile.tconstruct.seared_glass.name
+fe.protection.interact.tconstruct.seared_slab.*                                        # (default: true) INTERACT tile.tconstruct.seared_slab.name
+fe.protection.interact.tconstruct.seared_slab2.*                                       # (default: true) INTERACT tile.tconstruct.seared_slab2.name
+fe.protection.interact.tconstruct.seared_stairs_brick.*                                # (default: true) INTERACT Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_brick_cracked.*                        # (default: true) INTERACT Cracked Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_brick_fancy.*                          # (default: true) INTERACT Fancy Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_brick_small.*                          # (default: true) INTERACT Small Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_brick_square.*                         # (default: true) INTERACT Square Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_brick_triangle.*                       # (default: true) INTERACT Triangle Seared Bricks Stairs
+fe.protection.interact.tconstruct.seared_stairs_cobble.*                               # (default: true) INTERACT Seared Cobblestone Stairs
+fe.protection.interact.tconstruct.seared_stairs_creeper.*                              # (default: true) INTERACT Seared Creeperface Stairs
+fe.protection.interact.tconstruct.seared_stairs_paver.*                                # (default: true) INTERACT Seared Paver Stairs
+fe.protection.interact.tconstruct.seared_stairs_road.*                                 # (default: true) INTERACT Seared Road Stairs
+fe.protection.interact.tconstruct.seared_stairs_stone.*                                # (default: true) INTERACT Seared Stone Stairs
+fe.protection.interact.tconstruct.seared_stairs_tile.*                                 # (default: true) INTERACT Seared Tile Stairs
+fe.protection.interact.tconstruct.seared_tank.*                                        # (default: true) INTERACT tile.tconstruct.seared_tank.name
+fe.protection.interact.tconstruct.slime.*                                              # (default: true) INTERACT tile.tconstruct.slime.name
+fe.protection.interact.tconstruct.slime_channel.*                                      # (default: true) INTERACT tile.tconstruct.slime_channel.name
+fe.protection.interact.tconstruct.slime_congealed.*                                    # (default: true) INTERACT tile.tconstruct.slime_congealed.name
+fe.protection.interact.tconstruct.slime_dirt.*                                         # (default: true) INTERACT tile.tconstruct.slime_dirt.name
+fe.protection.interact.tconstruct.slime_grass.*                                        # (default: true) INTERACT tile.tconstruct.slime_grass.name
+fe.protection.interact.tconstruct.slime_grass_tall.*                                   # (default: true) INTERACT tile.tconstruct.slime_grass_tall.name
+fe.protection.interact.tconstruct.slime_leaves.*                                       # (default: true) INTERACT tile.tconstruct.slime_leaves.name
+fe.protection.interact.tconstruct.slime_sapling.*                                      # (default: true) INTERACT tile.tconstruct.slime_sapling.oak.name
+fe.protection.interact.tconstruct.slime_vine_blue.*                                    # (default: true) INTERACT Blue Slimy Vine
+fe.protection.interact.tconstruct.slime_vine_blue_end.*                                # (default: true) INTERACT Blue Slimy Vine
+fe.protection.interact.tconstruct.slime_vine_blue_mid.*                                # (default: true) INTERACT Blue Slimy Vine
+fe.protection.interact.tconstruct.slime_vine_purple.*                                  # (default: true) INTERACT Purple Slimy Vine
+fe.protection.interact.tconstruct.slime_vine_purple_end.*                              # (default: true) INTERACT Purple Slimy Vine
+fe.protection.interact.tconstruct.slime_vine_purple_mid.*                              # (default: true) INTERACT Purple Slimy Vine
+fe.protection.interact.tconstruct.smeltery_controller.*                                # (default: true) INTERACT Smeltery Controller
+fe.protection.interact.tconstruct.smeltery_io.*                                        # (default: true) INTERACT tile.tconstruct.smeltery_io.name
+fe.protection.interact.tconstruct.soil.*                                               # (default: true) INTERACT tile.tconstruct.soil.name
+fe.protection.interact.tconstruct.stone_ladder.*                                       # (default: true) INTERACT Stone Ladder
+fe.protection.interact.tconstruct.stone_torch.*                                        # (default: true) INTERACT Stone Torch
+fe.protection.interact.tconstruct.tinker_tank_controller.*                             # (default: true) INTERACT Tinker Tank Controller
+fe.protection.interact.tconstruct.toolforge.*                                          # (default: true) INTERACT Tool Forge
+fe.protection.interact.tconstruct.tooltables.*                                         # (default: true) INTERACT tile.tconstruct.tooltables.name
+fe.protection.interact.tconstruct.wood_rail.*                                          # (default: true) INTERACT Wooden Rail
+fe.protection.interact.tconstruct.wood_rail_trapdoor.*                                 # (default: true) INTERACT Wooden Rail with a Trapdoor
+fe.protection.interact.tconstruct.wooden_hopper.*                                      # (default: true) INTERACT Wooden Hopper
 fe.protection.interact.thermalexpansion.apparatus.*                                    # (default: true) INTERACT tile.thermalexpansion.apparatus.name
 fe.protection.interact.thermalexpansion.cache.*                                        # (default: true) INTERACT tile.thermalexpansion.cache.name
 fe.protection.interact.thermalexpansion.cell.*                                         # (default: true) INTERACT tile.thermalexpansion.cell.name
@@ -8625,6 +9237,210 @@ fe.protection.place.storagenetwork.master.*                                     
 fe.protection.place.storagenetwork.process_kabel.*                                     # (default: true) PLACE Air
 fe.protection.place.storagenetwork.request.*                                           # (default: true) PLACE Air
 fe.protection.place.storagenetwork.storage_kabel.*                                     # (default: true) PLACE Air
+fe.protection.place.taiga.abyssum_block.*                                              # (default: true) PLACE Abyssum Block
+fe.protection.place.taiga.abyssum_ore.*                                                # (default: true) PLACE Abyssum Ore
+fe.protection.place.taiga.adamant_block.*                                              # (default: true) PLACE Adamant Block
+fe.protection.place.taiga.astrium_block.*                                              # (default: true) PLACE Astrium Block
+fe.protection.place.taiga.aurorium_block.*                                             # (default: true) PLACE Aurorium Block
+fe.protection.place.taiga.aurorium_ore.*                                               # (default: true) PLACE Aurorium Ore
+fe.protection.place.taiga.basalt_block.*                                               # (default: true) PLACE Basalt Block
+fe.protection.place.taiga.dilithium_block.*                                            # (default: true) PLACE Dilithium Block
+fe.protection.place.taiga.dilithium_ore.*                                              # (default: true) PLACE Dilithium Ore
+fe.protection.place.taiga.duranite_block.*                                             # (default: true) PLACE Duranite Block
+fe.protection.place.taiga.duranite_ore.*                                               # (default: true) PLACE Duranite Ore
+fe.protection.place.taiga.dyonite_block.*                                              # (default: true) PLACE Dyonite Block
+fe.protection.place.taiga.eezo_block.*                                                 # (default: true) PLACE Eezo Block
+fe.protection.place.taiga.eezo_ore.*                                                   # (default: true) PLACE Eezo Ore
+fe.protection.place.taiga.fractum_block.*                                              # (default: true) PLACE Fractum Block
+fe.protection.place.taiga.ignitz_block.*                                               # (default: true) PLACE Ignitz Block
+fe.protection.place.taiga.imperomite_block.*                                           # (default: true) PLACE Imperomite Block
+fe.protection.place.taiga.iox_block.*                                                  # (default: true) PLACE Iox Block
+fe.protection.place.taiga.jauxum_block.*                                               # (default: true) PLACE Jauxum Block
+fe.protection.place.taiga.jauxum_ore.*                                                 # (default: true) PLACE Jauxum Ore
+fe.protection.place.taiga.karmesine_block.*                                            # (default: true) PLACE Karmesine Block
+fe.protection.place.taiga.karmesine_ore.*                                              # (default: true) PLACE Karmesine Ore
+fe.protection.place.taiga.lumix_block.*                                                # (default: true) PLACE Lumix Block
+fe.protection.place.taiga.meteorite_block.*                                            # (default: true) PLACE Meteorite Block
+fe.protection.place.taiga.meteoritecobble_block.*                                      # (default: true) PLACE Meteorite Cobble Block
+fe.protection.place.taiga.molten_abyssum_fluid.*                                       # (default: true) PLACE Abyssum Fluid
+fe.protection.place.taiga.molten_adamant_fluid.*                                       # (default: true) PLACE Adamant Fluid
+fe.protection.place.taiga.molten_astrium_fluid.*                                       # (default: true) PLACE Astrium Fluid
+fe.protection.place.taiga.molten_aurorium_fluid.*                                      # (default: true) PLACE Aurorium Fluid
+fe.protection.place.taiga.molten_basalt_fluid.*                                        # (default: true) PLACE Basalt Fluid
+fe.protection.place.taiga.molten_dilithium_fluid.*                                     # (default: true) PLACE Dilithium Fluid
+fe.protection.place.taiga.molten_duranite_fluid.*                                      # (default: true) PLACE Duranite Fluid
+fe.protection.place.taiga.molten_dyonite_fluid.*                                       # (default: true) PLACE Dyonite Fluid
+fe.protection.place.taiga.molten_eezo_fluid.*                                          # (default: true) PLACE Eezo Fluid
+fe.protection.place.taiga.molten_fractum_fluid.*                                       # (default: true) PLACE Fractum Fluid
+fe.protection.place.taiga.molten_ignitz_fluid.*                                        # (default: true) PLACE Ignitz Fluid
+fe.protection.place.taiga.molten_imperomite_fluid.*                                    # (default: true) PLACE Imperomite Fluid
+fe.protection.place.taiga.molten_iox_fluid.*                                           # (default: true) PLACE Iox Fluid
+fe.protection.place.taiga.molten_jauxum_fluid.*                                        # (default: true) PLACE Jauxum Fluid
+fe.protection.place.taiga.molten_karmesine_fluid.*                                     # (default: true) PLACE Karmesine Fluid
+fe.protection.place.taiga.molten_lumix_fluid.*                                         # (default: true) PLACE Lumix Fluid
+fe.protection.place.taiga.molten_magma_fluid.*                                         # (default: true) PLACE Magma Fluid
+fe.protection.place.taiga.molten_meteorite_fluid.*                                     # (default: true) PLACE Meteorite Fluid
+fe.protection.place.taiga.molten_nihilite_fluid.*                                      # (default: true) PLACE Nihilite Fluid
+fe.protection.place.taiga.molten_niob_fluid.*                                          # (default: true) PLACE Niob Fluid
+fe.protection.place.taiga.molten_nitronite_fluid.*                                     # (default: true) PLACE Nitronite Fluid
+fe.protection.place.taiga.molten_nucleum_fluid.*                                       # (default: true) PLACE Nucleum Fluid
+fe.protection.place.taiga.molten_obsidiorite_fluid.*                                   # (default: true) PLACE Obsidiorite Fluid
+fe.protection.place.taiga.molten_osram_fluid.*                                         # (default: true) PLACE Osram Fluid
+fe.protection.place.taiga.molten_ovium_fluid.*                                         # (default: true) PLACE Ovium Fluid
+fe.protection.place.taiga.molten_palladium_fluid.*                                     # (default: true) PLACE Palladium Fluid
+fe.protection.place.taiga.molten_prometheum_fluid.*                                    # (default: true) PLACE Prometheum Fluid
+fe.protection.place.taiga.molten_proxii_fluid.*                                        # (default: true) PLACE Proxii Fluid
+fe.protection.place.taiga.molten_seismum_fluid.*                                       # (default: true) PLACE Seismum Fluid
+fe.protection.place.taiga.molten_solarium_fluid.*                                      # (default: true) PLACE Solarium Fluid
+fe.protection.place.taiga.molten_terrax_fluid.*                                        # (default: true) PLACE Terrax Fluid
+fe.protection.place.taiga.molten_tiberium_fluid.*                                      # (default: true) PLACE Tiberium Fluid
+fe.protection.place.taiga.molten_triberium_fluid.*                                     # (default: true) PLACE Triberium Fluid
+fe.protection.place.taiga.molten_tritonite_fluid.*                                     # (default: true) PLACE Tritonite Fluid
+fe.protection.place.taiga.molten_uru_fluid.*                                           # (default: true) PLACE Uru Fluid
+fe.protection.place.taiga.molten_valyrium_fluid.*                                      # (default: true) PLACE Valyrium Fluid
+fe.protection.place.taiga.molten_vibranium_fluid.*                                     # (default: true) PLACE Vibranium Fluid
+fe.protection.place.taiga.molten_violium_fluid.*                                       # (default: true) PLACE Violium Fluid
+fe.protection.place.taiga.molten_yrdeen_fluid.*                                        # (default: true) PLACE Yrdeen Fluid
+fe.protection.place.taiga.nihilite_block.*                                             # (default: true) PLACE Nihilite Block
+fe.protection.place.taiga.niob_block.*                                                 # (default: true) PLACE Niob Block
+fe.protection.place.taiga.nucleum_block.*                                              # (default: true) PLACE Nucleum Block
+fe.protection.place.taiga.obsidiorite_block.*                                          # (default: true) PLACE Obsidiorite Block
+fe.protection.place.taiga.obsidioritecobble_block.*                                    # (default: true) PLACE Meteorite Cobble Block
+fe.protection.place.taiga.osram_block.*                                                # (default: true) PLACE Osram Block
+fe.protection.place.taiga.osram_ore.*                                                  # (default: true) PLACE Osram Ore
+fe.protection.place.taiga.ovium_block.*                                                # (default: true) PLACE Ovium Block
+fe.protection.place.taiga.ovium_ore.*                                                  # (default: true) PLACE Ovium Ore
+fe.protection.place.taiga.palladium_block.*                                            # (default: true) PLACE Palladium Block
+fe.protection.place.taiga.palladium_ore.*                                              # (default: true) PLACE Palladium Ore
+fe.protection.place.taiga.prometheum_block.*                                           # (default: true) PLACE Prometheum Block
+fe.protection.place.taiga.prometheum_ore.*                                             # (default: true) PLACE Prometheum Ore
+fe.protection.place.taiga.proxii_block.*                                               # (default: true) PLACE Proxii Block
+fe.protection.place.taiga.seismum_block.*                                              # (default: true) PLACE Seismum Block
+fe.protection.place.taiga.solarium_block.*                                             # (default: true) PLACE Solarium Block
+fe.protection.place.taiga.terrax_block.*                                               # (default: true) PLACE Terrax Block
+fe.protection.place.taiga.tiberium_block.*                                             # (default: true) PLACE Tiberium Block
+fe.protection.place.taiga.tiberium_ore.*                                               # (default: true) PLACE Tiberium Ore
+fe.protection.place.taiga.triberium_block.*                                            # (default: true) PLACE Triberium Block
+fe.protection.place.taiga.tritonite_block.*                                            # (default: true) PLACE Tritonite Block
+fe.protection.place.taiga.uru_block.*                                                  # (default: true) PLACE Uru Block
+fe.protection.place.taiga.uru_ore.*                                                    # (default: true) PLACE Uru Ore
+fe.protection.place.taiga.valyrium_block.*                                             # (default: true) PLACE Valyrium Block
+fe.protection.place.taiga.valyrium_ore.*                                               # (default: true) PLACE Valyrium Ore
+fe.protection.place.taiga.vibranium_block.*                                            # (default: true) PLACE Vibranium Block
+fe.protection.place.taiga.vibranium_ore.*                                              # (default: true) PLACE Vibranium Ore
+fe.protection.place.taiga.violium_block.*                                              # (default: true) PLACE Violium Block
+fe.protection.place.taiga.yrdeen_block.*                                               # (default: true) PLACE Yrdeen Block
+fe.protection.place.tconstruct.blood.*                                                 # (default: true) PLACE fluid.blood.name
+fe.protection.place.tconstruct.blueslime.*                                             # (default: true) PLACE Liquid Blue Slime
+fe.protection.place.tconstruct.brownstone.*                                            # (default: true) PLACE tile.tconstruct.brownstone.name
+fe.protection.place.tconstruct.brownstone_slab.*                                       # (default: true) PLACE tile.tconstruct.brownstone_slab.name
+fe.protection.place.tconstruct.brownstone_slab2.*                                      # (default: true) PLACE tile.tconstruct.brownstone_slab2.name
+fe.protection.place.tconstruct.brownstone_stairs_brick.*                               # (default: true) PLACE Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_brick_cracked.*                       # (default: true) PLACE Cracked Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_brick_fancy.*                         # (default: true) PLACE Fancy Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_brick_small.*                         # (default: true) PLACE Small Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_brick_square.*                        # (default: true) PLACE Square Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_brick_triangle.*                      # (default: true) PLACE Triangle Brownstone Bricks Stairs
+fe.protection.place.tconstruct.brownstone_stairs_creeper.*                             # (default: true) PLACE Brownstone Creeperface Stairs
+fe.protection.place.tconstruct.brownstone_stairs_paver.*                               # (default: true) PLACE Brownstone Paver Stairs
+fe.protection.place.tconstruct.brownstone_stairs_road.*                                # (default: true) PLACE Brownstone Road Stairs
+fe.protection.place.tconstruct.brownstone_stairs_rough.*                               # (default: true) PLACE Rough Brownstone Stairs
+fe.protection.place.tconstruct.brownstone_stairs_smooth.*                              # (default: true) PLACE Smooth Brownstone Stairs
+fe.protection.place.tconstruct.brownstone_stairs_tile.*                                # (default: true) PLACE Brownstone Tile Stairs
+fe.protection.place.tconstruct.casting.*                                               # (default: true) PLACE tile.tconstruct.casting.name
+fe.protection.place.tconstruct.channel.*                                               # (default: true) PLACE Casting Channel
+fe.protection.place.tconstruct.clear_glass.*                                           # (default: true) PLACE Clear Glass
+fe.protection.place.tconstruct.clear_stained_glass.*                                   # (default: true) PLACE tile.tconstruct.clear_stained_glass.name
+fe.protection.place.tconstruct.deco_ground.*                                           # (default: true) PLACE tile.tconstruct.deco_ground.name
+fe.protection.place.tconstruct.deco_ground_slab.*                                      # (default: true) PLACE tile.tconstruct.deco_ground_slab.name
+fe.protection.place.tconstruct.dried_brick_stairs.*                                    # (default: true) PLACE Dried Bricks Stairs
+fe.protection.place.tconstruct.dried_clay.*                                            # (default: true) PLACE tile.tconstruct.dried_clay.name
+fe.protection.place.tconstruct.dried_clay_slab.*                                       # (default: true) PLACE tile.tconstruct.dried_clay_slab.name
+fe.protection.place.tconstruct.dried_clay_stairs.*                                     # (default: true) PLACE Dried Clay Stairs
+fe.protection.place.tconstruct.faucet.*                                                # (default: true) PLACE Seared Faucet
+fe.protection.place.tconstruct.firewood.*                                              # (default: true) PLACE tile.tconstruct.firewood.name
+fe.protection.place.tconstruct.firewood_slab.*                                         # (default: true) PLACE tile.tconstruct.firewood_slab.name
+fe.protection.place.tconstruct.firewood_stairs.*                                       # (default: true) PLACE Firewood Stairs
+fe.protection.place.tconstruct.glow.*                                                  # (default: true) PLACE Glow
+fe.protection.place.tconstruct.lavawood_stairs.*                                       # (default: true) PLACE Lavawood Stairs
+fe.protection.place.tconstruct.metal.*                                                 # (default: true) PLACE tile.tconstruct.metal.name
+fe.protection.place.tconstruct.milk.*                                                  # (default: true) PLACE fluid.milk.name
+fe.protection.place.tconstruct.molten_alubrass.*                                       # (default: true) PLACE Molten Aluminum Brass
+fe.protection.place.tconstruct.molten_aluminum.*                                       # (default: true) PLACE fluid.aluminum.name
+fe.protection.place.tconstruct.molten_ardite.*                                         # (default: true) PLACE Molten Ardite
+fe.protection.place.tconstruct.molten_brass.*                                          # (default: true) PLACE Molten Brass
+fe.protection.place.tconstruct.molten_bronze.*                                         # (default: true) PLACE Molten Bronze
+fe.protection.place.tconstruct.molten_clay.*                                           # (default: true) PLACE Molten Clay
+fe.protection.place.tconstruct.molten_cobalt.*                                         # (default: true) PLACE Molten Cobalt
+fe.protection.place.tconstruct.molten_copper.*                                         # (default: true) PLACE fluid.copper.name
+fe.protection.place.tconstruct.molten_dirt.*                                           # (default: true) PLACE Liquid Dirt
+fe.protection.place.tconstruct.molten_electrum.*                                       # (default: true) PLACE Molten Electrum
+fe.protection.place.tconstruct.molten_emerald.*                                        # (default: true) PLACE fluid.emerald.name
+fe.protection.place.tconstruct.molten_glass.*                                          # (default: true) PLACE Molten Glass
+fe.protection.place.tconstruct.molten_gold.*                                           # (default: true) PLACE fluid.gold.name
+fe.protection.place.tconstruct.molten_iron.*                                           # (default: true) PLACE fluid.iron.name
+fe.protection.place.tconstruct.molten_knightslime.*                                    # (default: true) PLACE Molten Knightslime
+fe.protection.place.tconstruct.molten_lead.*                                           # (default: true) PLACE Molten Lead
+fe.protection.place.tconstruct.molten_magnesium.*                                      # (default: true) PLACE fluid.magnesium.name
+fe.protection.place.tconstruct.molten_manyullyn.*                                      # (default: true) PLACE Molten Manyullyn
+fe.protection.place.tconstruct.molten_nickel.*                                         # (default: true) PLACE Molten Nickel
+fe.protection.place.tconstruct.molten_obsidian.*                                       # (default: true) PLACE Molten Obsidian
+fe.protection.place.tconstruct.molten_pigiron.*                                        # (default: true) PLACE Molten Pigiron
+fe.protection.place.tconstruct.molten_silver.*                                         # (default: true) PLACE fluid.silver.name
+fe.protection.place.tconstruct.molten_steel.*                                          # (default: true) PLACE Molten Steel
+fe.protection.place.tconstruct.molten_stone.*                                          # (default: true) PLACE Seared Stone
+fe.protection.place.tconstruct.molten_thorium.*                                        # (default: true) PLACE fluid.thorium.name
+fe.protection.place.tconstruct.molten_tin.*                                            # (default: true) PLACE fluid.tin.name
+fe.protection.place.tconstruct.molten_uranium.*                                        # (default: true) PLACE fluid.uranium.name
+fe.protection.place.tconstruct.molten_zinc.*                                           # (default: true) PLACE Molten Zinc
+fe.protection.place.tconstruct.mudbrick_stairs.*                                       # (default: true) PLACE Mud Bricks Stairs
+fe.protection.place.tconstruct.ore.*                                                   # (default: true) PLACE tile.tconstruct.ore.name
+fe.protection.place.tconstruct.punji.*                                                 # (default: true) PLACE Punji Sticks
+fe.protection.place.tconstruct.purpleslime.*                                           # (default: true) PLACE Liquid Purple Slime
+fe.protection.place.tconstruct.rack.*                                                  # (default: true) PLACE tile.tconstruct.rack.name
+fe.protection.place.tconstruct.seared.*                                                # (default: true) PLACE tile.tconstruct.seared.name
+fe.protection.place.tconstruct.seared_furnace_controller.*                             # (default: true) PLACE Seared Furnace Controller
+fe.protection.place.tconstruct.seared_glass.*                                          # (default: true) PLACE tile.tconstruct.seared_glass.name
+fe.protection.place.tconstruct.seared_slab.*                                           # (default: true) PLACE tile.tconstruct.seared_slab.name
+fe.protection.place.tconstruct.seared_slab2.*                                          # (default: true) PLACE tile.tconstruct.seared_slab2.name
+fe.protection.place.tconstruct.seared_stairs_brick.*                                   # (default: true) PLACE Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_brick_cracked.*                           # (default: true) PLACE Cracked Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_brick_fancy.*                             # (default: true) PLACE Fancy Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_brick_small.*                             # (default: true) PLACE Small Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_brick_square.*                            # (default: true) PLACE Square Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_brick_triangle.*                          # (default: true) PLACE Triangle Seared Bricks Stairs
+fe.protection.place.tconstruct.seared_stairs_cobble.*                                  # (default: true) PLACE Seared Cobblestone Stairs
+fe.protection.place.tconstruct.seared_stairs_creeper.*                                 # (default: true) PLACE Seared Creeperface Stairs
+fe.protection.place.tconstruct.seared_stairs_paver.*                                   # (default: true) PLACE Seared Paver Stairs
+fe.protection.place.tconstruct.seared_stairs_road.*                                    # (default: true) PLACE Seared Road Stairs
+fe.protection.place.tconstruct.seared_stairs_stone.*                                   # (default: true) PLACE Seared Stone Stairs
+fe.protection.place.tconstruct.seared_stairs_tile.*                                    # (default: true) PLACE Seared Tile Stairs
+fe.protection.place.tconstruct.seared_tank.*                                           # (default: true) PLACE tile.tconstruct.seared_tank.name
+fe.protection.place.tconstruct.slime.*                                                 # (default: true) PLACE tile.tconstruct.slime.name
+fe.protection.place.tconstruct.slime_channel.*                                         # (default: true) PLACE tile.tconstruct.slime_channel.name
+fe.protection.place.tconstruct.slime_congealed.*                                       # (default: true) PLACE tile.tconstruct.slime_congealed.name
+fe.protection.place.tconstruct.slime_dirt.*                                            # (default: true) PLACE tile.tconstruct.slime_dirt.name
+fe.protection.place.tconstruct.slime_grass.*                                           # (default: true) PLACE tile.tconstruct.slime_grass.name
+fe.protection.place.tconstruct.slime_grass_tall.*                                      # (default: true) PLACE tile.tconstruct.slime_grass_tall.name
+fe.protection.place.tconstruct.slime_leaves.*                                          # (default: true) PLACE tile.tconstruct.slime_leaves.name
+fe.protection.place.tconstruct.slime_sapling.*                                         # (default: true) PLACE tile.tconstruct.slime_sapling.oak.name
+fe.protection.place.tconstruct.slime_vine_blue.*                                       # (default: true) PLACE Blue Slimy Vine
+fe.protection.place.tconstruct.slime_vine_blue_end.*                                   # (default: true) PLACE Blue Slimy Vine
+fe.protection.place.tconstruct.slime_vine_blue_mid.*                                   # (default: true) PLACE Blue Slimy Vine
+fe.protection.place.tconstruct.slime_vine_purple.*                                     # (default: true) PLACE Purple Slimy Vine
+fe.protection.place.tconstruct.slime_vine_purple_end.*                                 # (default: true) PLACE Purple Slimy Vine
+fe.protection.place.tconstruct.slime_vine_purple_mid.*                                 # (default: true) PLACE Purple Slimy Vine
+fe.protection.place.tconstruct.smeltery_controller.*                                   # (default: true) PLACE Smeltery Controller
+fe.protection.place.tconstruct.smeltery_io.*                                           # (default: true) PLACE tile.tconstruct.smeltery_io.name
+fe.protection.place.tconstruct.soil.*                                                  # (default: true) PLACE tile.tconstruct.soil.name
+fe.protection.place.tconstruct.stone_ladder.*                                          # (default: true) PLACE Stone Ladder
+fe.protection.place.tconstruct.stone_torch.*                                           # (default: true) PLACE Stone Torch
+fe.protection.place.tconstruct.tinker_tank_controller.*                                # (default: true) PLACE Tinker Tank Controller
+fe.protection.place.tconstruct.toolforge.*                                             # (default: true) PLACE Tool Forge
+fe.protection.place.tconstruct.tooltables.*                                            # (default: true) PLACE tile.tconstruct.tooltables.name
+fe.protection.place.tconstruct.wood_rail.*                                             # (default: true) PLACE Wooden Rail
+fe.protection.place.tconstruct.wood_rail_trapdoor.*                                    # (default: true) PLACE Wooden Rail with a Trapdoor
+fe.protection.place.tconstruct.wooden_hopper.*                                         # (default: true) PLACE Wooden Hopper
 fe.protection.place.thermalexpansion.apparatus.*                                       # (default: true) PLACE tile.thermalexpansion.apparatus.name
 fe.protection.place.thermalexpansion.cache.*                                           # (default: true) PLACE tile.thermalexpansion.cache.name
 fe.protection.place.thermalexpansion.cell.*                                            # (default: true) PLACE tile.thermalexpansion.cell.name
@@ -10793,6 +11609,210 @@ fe.protection.trample.storagenetwork.master.*                                   
 fe.protection.trample.storagenetwork.process_kabel.*                                   # (default: true) PLACE Air
 fe.protection.trample.storagenetwork.request.*                                         # (default: true) PLACE Air
 fe.protection.trample.storagenetwork.storage_kabel.*                                   # (default: true) PLACE Air
+fe.protection.trample.taiga.abyssum_block.*                                            # (default: true) PLACE Abyssum Block
+fe.protection.trample.taiga.abyssum_ore.*                                              # (default: true) PLACE Abyssum Ore
+fe.protection.trample.taiga.adamant_block.*                                            # (default: true) PLACE Adamant Block
+fe.protection.trample.taiga.astrium_block.*                                            # (default: true) PLACE Astrium Block
+fe.protection.trample.taiga.aurorium_block.*                                           # (default: true) PLACE Aurorium Block
+fe.protection.trample.taiga.aurorium_ore.*                                             # (default: true) PLACE Aurorium Ore
+fe.protection.trample.taiga.basalt_block.*                                             # (default: true) PLACE Basalt Block
+fe.protection.trample.taiga.dilithium_block.*                                          # (default: true) PLACE Dilithium Block
+fe.protection.trample.taiga.dilithium_ore.*                                            # (default: true) PLACE Dilithium Ore
+fe.protection.trample.taiga.duranite_block.*                                           # (default: true) PLACE Duranite Block
+fe.protection.trample.taiga.duranite_ore.*                                             # (default: true) PLACE Duranite Ore
+fe.protection.trample.taiga.dyonite_block.*                                            # (default: true) PLACE Dyonite Block
+fe.protection.trample.taiga.eezo_block.*                                               # (default: true) PLACE Eezo Block
+fe.protection.trample.taiga.eezo_ore.*                                                 # (default: true) PLACE Eezo Ore
+fe.protection.trample.taiga.fractum_block.*                                            # (default: true) PLACE Fractum Block
+fe.protection.trample.taiga.ignitz_block.*                                             # (default: true) PLACE Ignitz Block
+fe.protection.trample.taiga.imperomite_block.*                                         # (default: true) PLACE Imperomite Block
+fe.protection.trample.taiga.iox_block.*                                                # (default: true) PLACE Iox Block
+fe.protection.trample.taiga.jauxum_block.*                                             # (default: true) PLACE Jauxum Block
+fe.protection.trample.taiga.jauxum_ore.*                                               # (default: true) PLACE Jauxum Ore
+fe.protection.trample.taiga.karmesine_block.*                                          # (default: true) PLACE Karmesine Block
+fe.protection.trample.taiga.karmesine_ore.*                                            # (default: true) PLACE Karmesine Ore
+fe.protection.trample.taiga.lumix_block.*                                              # (default: true) PLACE Lumix Block
+fe.protection.trample.taiga.meteorite_block.*                                          # (default: true) PLACE Meteorite Block
+fe.protection.trample.taiga.meteoritecobble_block.*                                    # (default: true) PLACE Meteorite Cobble Block
+fe.protection.trample.taiga.molten_abyssum_fluid.*                                     # (default: true) PLACE Abyssum Fluid
+fe.protection.trample.taiga.molten_adamant_fluid.*                                     # (default: true) PLACE Adamant Fluid
+fe.protection.trample.taiga.molten_astrium_fluid.*                                     # (default: true) PLACE Astrium Fluid
+fe.protection.trample.taiga.molten_aurorium_fluid.*                                    # (default: true) PLACE Aurorium Fluid
+fe.protection.trample.taiga.molten_basalt_fluid.*                                      # (default: true) PLACE Basalt Fluid
+fe.protection.trample.taiga.molten_dilithium_fluid.*                                   # (default: true) PLACE Dilithium Fluid
+fe.protection.trample.taiga.molten_duranite_fluid.*                                    # (default: true) PLACE Duranite Fluid
+fe.protection.trample.taiga.molten_dyonite_fluid.*                                     # (default: true) PLACE Dyonite Fluid
+fe.protection.trample.taiga.molten_eezo_fluid.*                                        # (default: true) PLACE Eezo Fluid
+fe.protection.trample.taiga.molten_fractum_fluid.*                                     # (default: true) PLACE Fractum Fluid
+fe.protection.trample.taiga.molten_ignitz_fluid.*                                      # (default: true) PLACE Ignitz Fluid
+fe.protection.trample.taiga.molten_imperomite_fluid.*                                  # (default: true) PLACE Imperomite Fluid
+fe.protection.trample.taiga.molten_iox_fluid.*                                         # (default: true) PLACE Iox Fluid
+fe.protection.trample.taiga.molten_jauxum_fluid.*                                      # (default: true) PLACE Jauxum Fluid
+fe.protection.trample.taiga.molten_karmesine_fluid.*                                   # (default: true) PLACE Karmesine Fluid
+fe.protection.trample.taiga.molten_lumix_fluid.*                                       # (default: true) PLACE Lumix Fluid
+fe.protection.trample.taiga.molten_magma_fluid.*                                       # (default: true) PLACE Magma Fluid
+fe.protection.trample.taiga.molten_meteorite_fluid.*                                   # (default: true) PLACE Meteorite Fluid
+fe.protection.trample.taiga.molten_nihilite_fluid.*                                    # (default: true) PLACE Nihilite Fluid
+fe.protection.trample.taiga.molten_niob_fluid.*                                        # (default: true) PLACE Niob Fluid
+fe.protection.trample.taiga.molten_nitronite_fluid.*                                   # (default: true) PLACE Nitronite Fluid
+fe.protection.trample.taiga.molten_nucleum_fluid.*                                     # (default: true) PLACE Nucleum Fluid
+fe.protection.trample.taiga.molten_obsidiorite_fluid.*                                 # (default: true) PLACE Obsidiorite Fluid
+fe.protection.trample.taiga.molten_osram_fluid.*                                       # (default: true) PLACE Osram Fluid
+fe.protection.trample.taiga.molten_ovium_fluid.*                                       # (default: true) PLACE Ovium Fluid
+fe.protection.trample.taiga.molten_palladium_fluid.*                                   # (default: true) PLACE Palladium Fluid
+fe.protection.trample.taiga.molten_prometheum_fluid.*                                  # (default: true) PLACE Prometheum Fluid
+fe.protection.trample.taiga.molten_proxii_fluid.*                                      # (default: true) PLACE Proxii Fluid
+fe.protection.trample.taiga.molten_seismum_fluid.*                                     # (default: true) PLACE Seismum Fluid
+fe.protection.trample.taiga.molten_solarium_fluid.*                                    # (default: true) PLACE Solarium Fluid
+fe.protection.trample.taiga.molten_terrax_fluid.*                                      # (default: true) PLACE Terrax Fluid
+fe.protection.trample.taiga.molten_tiberium_fluid.*                                    # (default: true) PLACE Tiberium Fluid
+fe.protection.trample.taiga.molten_triberium_fluid.*                                   # (default: true) PLACE Triberium Fluid
+fe.protection.trample.taiga.molten_tritonite_fluid.*                                   # (default: true) PLACE Tritonite Fluid
+fe.protection.trample.taiga.molten_uru_fluid.*                                         # (default: true) PLACE Uru Fluid
+fe.protection.trample.taiga.molten_valyrium_fluid.*                                    # (default: true) PLACE Valyrium Fluid
+fe.protection.trample.taiga.molten_vibranium_fluid.*                                   # (default: true) PLACE Vibranium Fluid
+fe.protection.trample.taiga.molten_violium_fluid.*                                     # (default: true) PLACE Violium Fluid
+fe.protection.trample.taiga.molten_yrdeen_fluid.*                                      # (default: true) PLACE Yrdeen Fluid
+fe.protection.trample.taiga.nihilite_block.*                                           # (default: true) PLACE Nihilite Block
+fe.protection.trample.taiga.niob_block.*                                               # (default: true) PLACE Niob Block
+fe.protection.trample.taiga.nucleum_block.*                                            # (default: true) PLACE Nucleum Block
+fe.protection.trample.taiga.obsidiorite_block.*                                        # (default: true) PLACE Obsidiorite Block
+fe.protection.trample.taiga.obsidioritecobble_block.*                                  # (default: true) PLACE Meteorite Cobble Block
+fe.protection.trample.taiga.osram_block.*                                              # (default: true) PLACE Osram Block
+fe.protection.trample.taiga.osram_ore.*                                                # (default: true) PLACE Osram Ore
+fe.protection.trample.taiga.ovium_block.*                                              # (default: true) PLACE Ovium Block
+fe.protection.trample.taiga.ovium_ore.*                                                # (default: true) PLACE Ovium Ore
+fe.protection.trample.taiga.palladium_block.*                                          # (default: true) PLACE Palladium Block
+fe.protection.trample.taiga.palladium_ore.*                                            # (default: true) PLACE Palladium Ore
+fe.protection.trample.taiga.prometheum_block.*                                         # (default: true) PLACE Prometheum Block
+fe.protection.trample.taiga.prometheum_ore.*                                           # (default: true) PLACE Prometheum Ore
+fe.protection.trample.taiga.proxii_block.*                                             # (default: true) PLACE Proxii Block
+fe.protection.trample.taiga.seismum_block.*                                            # (default: true) PLACE Seismum Block
+fe.protection.trample.taiga.solarium_block.*                                           # (default: true) PLACE Solarium Block
+fe.protection.trample.taiga.terrax_block.*                                             # (default: true) PLACE Terrax Block
+fe.protection.trample.taiga.tiberium_block.*                                           # (default: true) PLACE Tiberium Block
+fe.protection.trample.taiga.tiberium_ore.*                                             # (default: true) PLACE Tiberium Ore
+fe.protection.trample.taiga.triberium_block.*                                          # (default: true) PLACE Triberium Block
+fe.protection.trample.taiga.tritonite_block.*                                          # (default: true) PLACE Tritonite Block
+fe.protection.trample.taiga.uru_block.*                                                # (default: true) PLACE Uru Block
+fe.protection.trample.taiga.uru_ore.*                                                  # (default: true) PLACE Uru Ore
+fe.protection.trample.taiga.valyrium_block.*                                           # (default: true) PLACE Valyrium Block
+fe.protection.trample.taiga.valyrium_ore.*                                             # (default: true) PLACE Valyrium Ore
+fe.protection.trample.taiga.vibranium_block.*                                          # (default: true) PLACE Vibranium Block
+fe.protection.trample.taiga.vibranium_ore.*                                            # (default: true) PLACE Vibranium Ore
+fe.protection.trample.taiga.violium_block.*                                            # (default: true) PLACE Violium Block
+fe.protection.trample.taiga.yrdeen_block.*                                             # (default: true) PLACE Yrdeen Block
+fe.protection.trample.tconstruct.blood.*                                               # (default: true) PLACE fluid.blood.name
+fe.protection.trample.tconstruct.blueslime.*                                           # (default: true) PLACE Liquid Blue Slime
+fe.protection.trample.tconstruct.brownstone.*                                          # (default: true) PLACE tile.tconstruct.brownstone.name
+fe.protection.trample.tconstruct.brownstone_slab.*                                     # (default: true) PLACE tile.tconstruct.brownstone_slab.name
+fe.protection.trample.tconstruct.brownstone_slab2.*                                    # (default: true) PLACE tile.tconstruct.brownstone_slab2.name
+fe.protection.trample.tconstruct.brownstone_stairs_brick.*                             # (default: true) PLACE Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_brick_cracked.*                     # (default: true) PLACE Cracked Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_brick_fancy.*                       # (default: true) PLACE Fancy Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_brick_small.*                       # (default: true) PLACE Small Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_brick_square.*                      # (default: true) PLACE Square Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_brick_triangle.*                    # (default: true) PLACE Triangle Brownstone Bricks Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_creeper.*                           # (default: true) PLACE Brownstone Creeperface Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_paver.*                             # (default: true) PLACE Brownstone Paver Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_road.*                              # (default: true) PLACE Brownstone Road Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_rough.*                             # (default: true) PLACE Rough Brownstone Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_smooth.*                            # (default: true) PLACE Smooth Brownstone Stairs
+fe.protection.trample.tconstruct.brownstone_stairs_tile.*                              # (default: true) PLACE Brownstone Tile Stairs
+fe.protection.trample.tconstruct.casting.*                                             # (default: true) PLACE tile.tconstruct.casting.name
+fe.protection.trample.tconstruct.channel.*                                             # (default: true) PLACE Casting Channel
+fe.protection.trample.tconstruct.clear_glass.*                                         # (default: true) PLACE Clear Glass
+fe.protection.trample.tconstruct.clear_stained_glass.*                                 # (default: true) PLACE tile.tconstruct.clear_stained_glass.name
+fe.protection.trample.tconstruct.deco_ground.*                                         # (default: true) PLACE tile.tconstruct.deco_ground.name
+fe.protection.trample.tconstruct.deco_ground_slab.*                                    # (default: true) PLACE tile.tconstruct.deco_ground_slab.name
+fe.protection.trample.tconstruct.dried_brick_stairs.*                                  # (default: true) PLACE Dried Bricks Stairs
+fe.protection.trample.tconstruct.dried_clay.*                                          # (default: true) PLACE tile.tconstruct.dried_clay.name
+fe.protection.trample.tconstruct.dried_clay_slab.*                                     # (default: true) PLACE tile.tconstruct.dried_clay_slab.name
+fe.protection.trample.tconstruct.dried_clay_stairs.*                                   # (default: true) PLACE Dried Clay Stairs
+fe.protection.trample.tconstruct.faucet.*                                              # (default: true) PLACE Seared Faucet
+fe.protection.trample.tconstruct.firewood.*                                            # (default: true) PLACE tile.tconstruct.firewood.name
+fe.protection.trample.tconstruct.firewood_slab.*                                       # (default: true) PLACE tile.tconstruct.firewood_slab.name
+fe.protection.trample.tconstruct.firewood_stairs.*                                     # (default: true) PLACE Firewood Stairs
+fe.protection.trample.tconstruct.glow.*                                                # (default: true) PLACE Glow
+fe.protection.trample.tconstruct.lavawood_stairs.*                                     # (default: true) PLACE Lavawood Stairs
+fe.protection.trample.tconstruct.metal.*                                               # (default: true) PLACE tile.tconstruct.metal.name
+fe.protection.trample.tconstruct.milk.*                                                # (default: true) PLACE fluid.milk.name
+fe.protection.trample.tconstruct.molten_alubrass.*                                     # (default: true) PLACE Molten Aluminum Brass
+fe.protection.trample.tconstruct.molten_aluminum.*                                     # (default: true) PLACE fluid.aluminum.name
+fe.protection.trample.tconstruct.molten_ardite.*                                       # (default: true) PLACE Molten Ardite
+fe.protection.trample.tconstruct.molten_brass.*                                        # (default: true) PLACE Molten Brass
+fe.protection.trample.tconstruct.molten_bronze.*                                       # (default: true) PLACE Molten Bronze
+fe.protection.trample.tconstruct.molten_clay.*                                         # (default: true) PLACE Molten Clay
+fe.protection.trample.tconstruct.molten_cobalt.*                                       # (default: true) PLACE Molten Cobalt
+fe.protection.trample.tconstruct.molten_copper.*                                       # (default: true) PLACE fluid.copper.name
+fe.protection.trample.tconstruct.molten_dirt.*                                         # (default: true) PLACE Liquid Dirt
+fe.protection.trample.tconstruct.molten_electrum.*                                     # (default: true) PLACE Molten Electrum
+fe.protection.trample.tconstruct.molten_emerald.*                                      # (default: true) PLACE fluid.emerald.name
+fe.protection.trample.tconstruct.molten_glass.*                                        # (default: true) PLACE Molten Glass
+fe.protection.trample.tconstruct.molten_gold.*                                         # (default: true) PLACE fluid.gold.name
+fe.protection.trample.tconstruct.molten_iron.*                                         # (default: true) PLACE fluid.iron.name
+fe.protection.trample.tconstruct.molten_knightslime.*                                  # (default: true) PLACE Molten Knightslime
+fe.protection.trample.tconstruct.molten_lead.*                                         # (default: true) PLACE Molten Lead
+fe.protection.trample.tconstruct.molten_magnesium.*                                    # (default: true) PLACE fluid.magnesium.name
+fe.protection.trample.tconstruct.molten_manyullyn.*                                    # (default: true) PLACE Molten Manyullyn
+fe.protection.trample.tconstruct.molten_nickel.*                                       # (default: true) PLACE Molten Nickel
+fe.protection.trample.tconstruct.molten_obsidian.*                                     # (default: true) PLACE Molten Obsidian
+fe.protection.trample.tconstruct.molten_pigiron.*                                      # (default: true) PLACE Molten Pigiron
+fe.protection.trample.tconstruct.molten_silver.*                                       # (default: true) PLACE fluid.silver.name
+fe.protection.trample.tconstruct.molten_steel.*                                        # (default: true) PLACE Molten Steel
+fe.protection.trample.tconstruct.molten_stone.*                                        # (default: true) PLACE Seared Stone
+fe.protection.trample.tconstruct.molten_thorium.*                                      # (default: true) PLACE fluid.thorium.name
+fe.protection.trample.tconstruct.molten_tin.*                                          # (default: true) PLACE fluid.tin.name
+fe.protection.trample.tconstruct.molten_uranium.*                                      # (default: true) PLACE fluid.uranium.name
+fe.protection.trample.tconstruct.molten_zinc.*                                         # (default: true) PLACE Molten Zinc
+fe.protection.trample.tconstruct.mudbrick_stairs.*                                     # (default: true) PLACE Mud Bricks Stairs
+fe.protection.trample.tconstruct.ore.*                                                 # (default: true) PLACE tile.tconstruct.ore.name
+fe.protection.trample.tconstruct.punji.*                                               # (default: true) PLACE Punji Sticks
+fe.protection.trample.tconstruct.purpleslime.*                                         # (default: true) PLACE Liquid Purple Slime
+fe.protection.trample.tconstruct.rack.*                                                # (default: true) PLACE tile.tconstruct.rack.name
+fe.protection.trample.tconstruct.seared.*                                              # (default: true) PLACE tile.tconstruct.seared.name
+fe.protection.trample.tconstruct.seared_furnace_controller.*                           # (default: true) PLACE Seared Furnace Controller
+fe.protection.trample.tconstruct.seared_glass.*                                        # (default: true) PLACE tile.tconstruct.seared_glass.name
+fe.protection.trample.tconstruct.seared_slab.*                                         # (default: true) PLACE tile.tconstruct.seared_slab.name
+fe.protection.trample.tconstruct.seared_slab2.*                                        # (default: true) PLACE tile.tconstruct.seared_slab2.name
+fe.protection.trample.tconstruct.seared_stairs_brick.*                                 # (default: true) PLACE Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_brick_cracked.*                         # (default: true) PLACE Cracked Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_brick_fancy.*                           # (default: true) PLACE Fancy Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_brick_small.*                           # (default: true) PLACE Small Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_brick_square.*                          # (default: true) PLACE Square Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_brick_triangle.*                        # (default: true) PLACE Triangle Seared Bricks Stairs
+fe.protection.trample.tconstruct.seared_stairs_cobble.*                                # (default: true) PLACE Seared Cobblestone Stairs
+fe.protection.trample.tconstruct.seared_stairs_creeper.*                               # (default: true) PLACE Seared Creeperface Stairs
+fe.protection.trample.tconstruct.seared_stairs_paver.*                                 # (default: true) PLACE Seared Paver Stairs
+fe.protection.trample.tconstruct.seared_stairs_road.*                                  # (default: true) PLACE Seared Road Stairs
+fe.protection.trample.tconstruct.seared_stairs_stone.*                                 # (default: true) PLACE Seared Stone Stairs
+fe.protection.trample.tconstruct.seared_stairs_tile.*                                  # (default: true) PLACE Seared Tile Stairs
+fe.protection.trample.tconstruct.seared_tank.*                                         # (default: true) PLACE tile.tconstruct.seared_tank.name
+fe.protection.trample.tconstruct.slime.*                                               # (default: true) PLACE tile.tconstruct.slime.name
+fe.protection.trample.tconstruct.slime_channel.*                                       # (default: true) PLACE tile.tconstruct.slime_channel.name
+fe.protection.trample.tconstruct.slime_congealed.*                                     # (default: true) PLACE tile.tconstruct.slime_congealed.name
+fe.protection.trample.tconstruct.slime_dirt.*                                          # (default: true) PLACE tile.tconstruct.slime_dirt.name
+fe.protection.trample.tconstruct.slime_grass.*                                         # (default: true) PLACE tile.tconstruct.slime_grass.name
+fe.protection.trample.tconstruct.slime_grass_tall.*                                    # (default: true) PLACE tile.tconstruct.slime_grass_tall.name
+fe.protection.trample.tconstruct.slime_leaves.*                                        # (default: true) PLACE tile.tconstruct.slime_leaves.name
+fe.protection.trample.tconstruct.slime_sapling.*                                       # (default: true) PLACE tile.tconstruct.slime_sapling.oak.name
+fe.protection.trample.tconstruct.slime_vine_blue.*                                     # (default: true) PLACE Blue Slimy Vine
+fe.protection.trample.tconstruct.slime_vine_blue_end.*                                 # (default: true) PLACE Blue Slimy Vine
+fe.protection.trample.tconstruct.slime_vine_blue_mid.*                                 # (default: true) PLACE Blue Slimy Vine
+fe.protection.trample.tconstruct.slime_vine_purple.*                                   # (default: true) PLACE Purple Slimy Vine
+fe.protection.trample.tconstruct.slime_vine_purple_end.*                               # (default: true) PLACE Purple Slimy Vine
+fe.protection.trample.tconstruct.slime_vine_purple_mid.*                               # (default: true) PLACE Purple Slimy Vine
+fe.protection.trample.tconstruct.smeltery_controller.*                                 # (default: true) PLACE Smeltery Controller
+fe.protection.trample.tconstruct.smeltery_io.*                                         # (default: true) PLACE tile.tconstruct.smeltery_io.name
+fe.protection.trample.tconstruct.soil.*                                                # (default: true) PLACE tile.tconstruct.soil.name
+fe.protection.trample.tconstruct.stone_ladder.*                                        # (default: true) PLACE Stone Ladder
+fe.protection.trample.tconstruct.stone_torch.*                                         # (default: true) PLACE Stone Torch
+fe.protection.trample.tconstruct.tinker_tank_controller.*                              # (default: true) PLACE Tinker Tank Controller
+fe.protection.trample.tconstruct.toolforge.*                                           # (default: true) PLACE Tool Forge
+fe.protection.trample.tconstruct.tooltables.*                                          # (default: true) PLACE tile.tconstruct.tooltables.name
+fe.protection.trample.tconstruct.wood_rail.*                                           # (default: true) PLACE Wooden Rail
+fe.protection.trample.tconstruct.wood_rail_trapdoor.*                                  # (default: true) PLACE Wooden Rail with a Trapdoor
+fe.protection.trample.tconstruct.wooden_hopper.*                                       # (default: true) PLACE Wooden Hopper
 fe.protection.trample.thermalexpansion.apparatus.*                                     # (default: true) PLACE tile.thermalexpansion.apparatus.name
 fe.protection.trample.thermalexpansion.cache.*                                         # (default: true) PLACE tile.thermalexpansion.cache.name
 fe.protection.trample.thermalexpansion.cell.*                                          # (default: true) PLACE tile.thermalexpansion.cell.name

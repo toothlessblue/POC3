@@ -12,6 +12,7 @@ saves
 schematics
 screenshots
 zettaindustries
+stall-reports
 
 world*
 tmp
@@ -36,6 +37,7 @@ mods/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar
 config/FastAsyncWorldEdit
 ForgeEssentials/playerlogger.h2.db
 ForgeEssentials/playerlogger.trace.db
+ForgeEssentials/playerlogger.lock.db
 ForgeEssentials/ChatLog
 ForgeEssentials/ItemList.txt
 ForgeEssentials/PermissionList_Blocks.txt

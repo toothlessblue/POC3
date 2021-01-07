@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 17.12 20:30 ------------ \\#
-#// ----------- Total amount: 22057 --------- \\#
+#// --------------- 01.01 14:50 ------------ \\#
+#// ----------- Total amount: 23804 --------- \\#
 #// ---------------------------------------- \\#
 fe.afterlife                                                                           # Permissions for afterlife configuration
 fe.afterlife.deathchest                                                                # (default: true) Allow creation of deathchests
@@ -126,6 +126,7 @@ fe.economy.bounty.pneumaticcraft:drone                                          
 fe.economy.bounty.pneumaticcraft:harvesting_drone                                      # (default: 0) 
 fe.economy.bounty.pneumaticcraft:logistic_drone                                        # (default: 0) 
 fe.economy.bounty.pneumaticcraft:programmable_controller                               # (default: 0) 
+fe.economy.bounty.tconstruct:blueslime                                                 # (default: 0) 
 fe.economy.bounty.testdummy:dummy                                                      # (default: 0) 
 fe.economy.bounty.thermalfoundation:basalz                                             # (default: 0) 
 fe.economy.bounty.thermalfoundation:blitz                                              # (default: 0) 
@@ -406,6 +407,7 @@ fe.protection.mobspawn.forced.pneumaticcraft:drone                              
 fe.protection.mobspawn.forced.pneumaticcraft:harvesting_drone                          # (default: true) 
 fe.protection.mobspawn.forced.pneumaticcraft:logistic_drone                            # (default: true) 
 fe.protection.mobspawn.forced.pneumaticcraft:programmable_controller                   # (default: true) 
+fe.protection.mobspawn.forced.tconstruct:blueslime                                     # (default: true) 
 fe.protection.mobspawn.forced.testdummy:dummy                                          # (default: true) 
 fe.protection.mobspawn.forced.thermalfoundation:basalz                                 # (default: true) 
 fe.protection.mobspawn.forced.thermalfoundation:blitz                                  # (default: true) 
@@ -513,6 +515,7 @@ fe.protection.mobspawn.natural.pneumaticcraft:drone                             
 fe.protection.mobspawn.natural.pneumaticcraft:harvesting_drone                         # (default: true) 
 fe.protection.mobspawn.natural.pneumaticcraft:logistic_drone                           # (default: true) 
 fe.protection.mobspawn.natural.pneumaticcraft:programmable_controller                  # (default: true) 
+fe.protection.mobspawn.natural.tconstruct:blueslime                                    # (default: true) 
 fe.protection.mobspawn.natural.testdummy:dummy                                         # (default: true) 
 fe.protection.mobspawn.natural.thermalfoundation:basalz                                # (default: true) 
 fe.protection.mobspawn.natural.thermalfoundation:blitz                                 # (default: true) 

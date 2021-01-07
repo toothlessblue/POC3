@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 17-11-2020 (Server time)
+# Generated: 1-0-2021 (Server time)
 # Build: 82
 # Change the location of this file in main.cfg
 
@@ -16,10 +16,12 @@ XaeroWorldMapCore;1.12.2-1.0;minecraft.jar;
 FoamFixCore;7.7.4;minecraft.jar;
 OpenComputers (Core);1.7.5.212;minecraft.jar;https://oc.cil.li/
 TickCentral;2.6;TickCentral-2.6.jar;
+Gotta Go Fast;1.1;gottagofast-1.1.jar;
 Applied Energistics 2;rv6-stable-7;appliedenergistics2-rv6-stable-7.jar;http://ae2.ae-mod.info
 BD Lib;1.14.3.12;bdlib-1.14.3.12-mc1.12.2.jar;bdew.net/mods/
 AE2 Stuff;0.7.0.4;ae2stuff-0.7.0.4-mc1.12.2.jar;bdew.net
 AI Improvements;0.0.1.3;AIImprovements-1.12-0.0.1b3.jar;
+Akashic Tome;1.2-12;AkashicTome-1.2-12.jar;http://www.vazkii.us
 Shadowfacts' Forgelin;1.8.4;Forgelin-1.8.4.jar;https://github.com/shadowfacts/Forgelin
 A Lib;1.0.12;alib-1.0.12.jar;
 CraftTweaker2;4.1.20;CraftTweaker2-1.12-4.1.20.574.jar;http://minetweaker3.powerofbytes.com
@@ -90,11 +92,13 @@ LagGoggles;1.12.2-5.8-132;LagGoggles-1.12.2-5.8-132.jar;https://minecraft.cursef
 LittleTiles;1.5.0;LittleTiles_v1.5.0-pre199_26_mc1.12.2.jar;http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2408680
 MalisisCore;1.12.2-6.5.1-SNAPSHOT;malisiscore-1.12.2-6.5.1.jar;http://github.com/Ordinastie/MalisisCore
 MalisisDoors;1.12.2-7.3.0;malisisdoors-1.12.2-7.3.0.jar;http://github.com/Ordinastie/MalisisDoors
+Mantle;1.12-1.3.3.55;Mantle-1.12-1.3.3.55.jar;https://github.com/SlimeKnights/Mantle
 MCMultiPart;2.5.3;MCMultiPart-2.5.3.jar;
 MmmMmmMmmMmm;1.12;MmmMmmMmmMmm-1.12-1.14.jar;
 Modern Lights;1.0.3;ModernLights-1.0.3_1.12.jar;
 MrTJPCore;2.1.4.43;MrTJPCore-1.12.2-2.1.4.43-universal.jar;...
 Multi-Hotbar;1.12.2-4.0.1-build-T116;multihotbar-1.12.2-4.0.1-build-T116.jar;https://github.com/rolandoislas/multi-hotbar
+Tinkers' Construct;1.12.2-2.13.0.183;TConstruct-1.12.2-2.13.0.183.jar;https://github.com/SlimeKnights/TinkersConstruct
 NuclearCraft;2.18r;NuclearCraft-2.18r-1.12.2.jar;https://minecraft.curseforge.com/projects/nuclearcraft-mod
 OMLib;3.1.4-249;omlib-1.12.2-3.1.4-249.jar;
 OpenFM;0.1.0.19;OpenFM-1.12.2-0.1.0.19.jar;http://minecraft.curseforge.com/projects/openfm
@@ -125,10 +129,12 @@ Simple Fluid Tanks;1.12.2-1.7.1.3;simplefluidtanks-1.12.2-1.7.1.3.jar;http://min
 Valkyrie Lib;1.12.2-2.0.20.1;valkyrielib-1.12.2-2.0.20.1.jar;http://minecraft.curseforge.com/projects/valkyrielib
 Starter Kit;1.12.2-1.0.20.1;starterkit-1.12.2-1.0.20.1.jar;http://minecraft.curseforge.com/projects/starter-kit
 Surge;2.0.77;Surge-1.12.2-2.0.77.jar;
+Tinkers Alloying Addon;1.12.2-1.3.3;taiga-1.12.2-1.3.4.jar;https://gitlab.harting.hosting/TeamFRM/TAIGA
 Thut Core;5.21.0;thutcore-1.12.2-5.21.0.jar;
 ThutCore Compat;1.0;thutcore-1.12.2-5.21.0.jar;
 Thut's Elevators;6.1.6;thuttech-1.12.2-6.1.6.jar;
 Tick Dynamic;1.0.2;TickDynamic-1.12.2-1.0.2.jar;https://mods.curse.com/mc-mods/minecraft/269359-tick-dynamic
+Tinkers Tool Leveling;1.12.2-1.1.0.DEV.b23e769;TinkerToolLeveling-1.12.2-1.1.0.jar;https://github.com/SlimeKnights/TinkersToolLeveling
 Universal Modifiers;1.12.2-1.0.16.1;valkyrielib-1.12.2-2.0.20.1.jar;
 Vein Miner;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
 Mod Support;0.38.2;VeinMiner-1.12-0.38.2.647+b31535a.jar;http://minecraft.curseforge.com/mc-mods/veinminer/
@@ -142,5 +148,6 @@ guiToolkit;1.3.7;Commons0815-1.12.2-1.3.7.jar;https://github.com/ben-mkiv/guiToo
 commons0815;1.3.7;Commons0815-1.12.2-1.3.7.jar;
 OpenEntity;1.0.0-alpha_20191016;OpenEntity-1.0.0-alpha_20191016.jar;https://github.com/ben-mkiv/OpenEntity
 OpenGlasses;@VERSION@-50;OpenGlasses-MC1.12.2-2.2-50.jar;https://github.com/StarChasers/OCGlasses
+Phosphor Lighting Engine;1.12.2-0.2.6;phosphor-1.12.2-0.2.6+build50-universal.jar;https://minecraft.curseforge.com/projects/phosphor
 OpenComputers Sensors;1.0.4;ocsensors-1.0.4-b23.jar;
 UniDict;1.12.2-2.9.6;UniDict-1.12.2-2.9.6.jar;http://minecraft.curseforge.com/projects/unidict
