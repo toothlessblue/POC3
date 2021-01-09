@@ -10,15 +10,15 @@ But at least you get these right from the beginning.
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
 MC server: poc3.bloodcoffeegames.com  
-Discord server: https://discord.gg/v927kk7  
-Modpack (GitHub): https://github.com/toothlessblue/POC3
+Discord server: [https://discord.gg/v927kk7](https://discord.gg/v927kk7)  
+Modpack (GitHub): [https://github.com/toothlessblue/POC3](https://github.com/toothlessblue/POC3)  
 
 # Optifine
 We strongly recommend anyone to install optifine.
 Unfortunately we are not allowed to add it to our modpack.
 So you have to install it by yourself.
 
-Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar  
+Optifine: [https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar)  
 
 # The modpack:
 **OpenComputers with:**  
@@ -37,17 +37,19 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 
 **Some mods to round off the pack:**  
 &emsp; Alchemistry  
-&emsp; AliensVsPredator 
+&emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
-&emsp; ArchitectureCraft
+&emsp; ArchitectureCraft  
 &emsp; AE2Stuff  
 &emsp; BetterFPS  
-&emsp; BiomesOPlenty
-&emsp; ChestTransporter
+&emsp; BiomesOPlenty  
+&emsp; ChestTransporter  
 &emsp; Chisel  
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
 &emsp; Comforts  
+&emsp; Controlling  
+&emsp; CompressedBlocks    
 &emsp; DoggyTalents  
 &emsp; EnchantingPlus  
 &emsp; EnderIO  
@@ -78,17 +80,19 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; RSGauges  
 &emsp; SimpleFluidTanks  
 &emsp; ThermalExpansion  
-&emsp; Thut'sElevators
-&emsp; Tinkers'Construct
-&emsp; Tinkers'ToolLeveling
+&emsp; ThermalDynamics  
+&emsp; Thut'sElevators  
+&emsp; Tinkers'Construct  
+&emsp; Tinkers'ToolLeveling  
 &emsp; VeinMiner  
-&emsp; and some requirement mods/libarys as well as background mods like BetterFPS.
+&emsp; WirelessCraftingTerminal  
+&emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
 
 **optional:**  
 &emsp; ChunkAnimator  
 &emsp; Jei (of course)  
 &emsp; SoundFilters  
-&emsp; Hwyla  
+&emsp; TheOneProbe  
 &emsp; InventoryTweaks  
 
 We hope you like that project, and we see you on the server :).
