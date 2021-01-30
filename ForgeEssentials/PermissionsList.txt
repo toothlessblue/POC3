@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 01.01 14:50 ------------ \\#
-#// ----------- Total amount: 23804 --------- \\#
+#// --------------- 25.01 19:03 ------------ \\#
+#// ----------- Total amount: 24161 --------- \\#
 #// ---------------------------------------- \\#
 fe.afterlife                                                                           # Permissions for afterlife configuration
 fe.afterlife.deathchest                                                                # (default: true) Allow creation of deathchests

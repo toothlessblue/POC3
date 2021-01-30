@@ -1,8 +1,20 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 01.01 14:50 ------------ \\#
-#// ----------- Total amount: 23804 --------- \\#
+#// --------------- 25.01 19:03 ------------ \\#
+#// ----------- Total amount: 24161 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                  # (default: true) Allow breaking blocks
+fe.protection.break.additionalcompression.blocksand_compressed.*                       # (default: true) BREAK %s Sand
+fe.protection.break.additionalcompression.charcoal_compressed.*                        # (default: true) BREAK %s Charcoal
+fe.protection.break.additionalcompression.clay_compressed.*                            # (default: true) BREAK %s Clay
+fe.protection.break.additionalcompression.coal_compressed.*                            # (default: true) BREAK %s Coal
+fe.protection.break.additionalcompression.cobblestone_compressed.*                     # (default: true) BREAK %s Cobblestone
+fe.protection.break.additionalcompression.dirt_compressed.*                            # (default: true) BREAK %s Dirt
+fe.protection.break.additionalcompression.endstone_compressed.*                        # (default: true) BREAK %s End Stone
+fe.protection.break.additionalcompression.gravel_compressed.*                          # (default: true) BREAK %s Gravel
+fe.protection.break.additionalcompression.itemnetherstar_compressed.*                  # (default: true) BREAK %s Nether Star
+fe.protection.break.additionalcompression.netherrack_compressed.*                      # (default: true) BREAK %s Netherrack
+fe.protection.break.additionalcompression.soulsand_compressed.*                        # (default: true) BREAK %s Soul Sand
+fe.protection.break.additionalcompression.stone_compressed.*                           # (default: true) BREAK %s Stone
 fe.protection.break.ae2stuff.encoder.*                                                 # (default: true) BREAK Pattern Encoder
 fe.protection.break.ae2stuff.grower.*                                                  # (default: true) BREAK Crystal Growth Chamber
 fe.protection.break.ae2stuff.inscriber.*                                               # (default: true) BREAK Advanced Inscriber
@@ -832,7 +844,13 @@ fe.protection.break.enderio.block_franken_zombie_generator.*                    
 fe.protection.break.enderio.block_fused_glass.*                                        # (default: true) BREAK Quite Clear Glass
 fe.protection.break.enderio.block_fused_quartz.*                                       # (default: true) BREAK Fused Quartz
 fe.protection.break.enderio.block_gauge.*                                              # (default: true) BREAK tile.block_gauge.name
+fe.protection.break.enderio.block_holy_dark_fused_glass.*                              # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_holy_dark_fused_quartz.*                             # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_holy_enlightened_fused_glass.*                       # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_holy_enlightened_fused_quartz.*                      # (default: true) BREAK Enlightened Fused Quartz
 fe.protection.break.enderio.block_holy_fog.*                                           # (default: true) BREAK Glowstone Nano-Particles
+fe.protection.break.enderio.block_holy_fused_glass.*                                   # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_holy_fused_quartz.*                                  # (default: true) BREAK Fused Quartz
 fe.protection.break.enderio.block_impulse_hopper.*                                     # (default: true) BREAK tile.block_impulse_hopper.name
 fe.protection.break.enderio.block_industrial_insulation.*                              # (default: true) BREAK Industrial Insulation
 fe.protection.break.enderio.block_infinity.*                                           # (default: true) BREAK tile.block_infinity.name
@@ -845,6 +863,24 @@ fe.protection.break.enderio.block_machine_base.*                                
 fe.protection.break.enderio.block_machine_io.*                                         # (default: true) BREAK (technical block)
 fe.protection.break.enderio.block_niard.*                                              # (default: true) BREAK tile.block_niard.name
 fe.protection.break.enderio.block_normal_wireless_charger.*                            # (default: true) BREAK tile.block_normal_wireless_charger.name
+fe.protection.break.enderio.block_not_holy_dark_fused_glass.*                          # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_not_holy_dark_fused_quartz.*                         # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_not_holy_enlightened_fused_glass.*                   # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_not_holy_enlightened_fused_quartz.*                  # (default: true) BREAK Enlightened Fused Quartz
+fe.protection.break.enderio.block_not_holy_fused_glass.*                               # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_not_holy_fused_quartz.*                              # (default: true) BREAK Fused Quartz
+fe.protection.break.enderio.block_not_pasture_dark_fused_glass.*                       # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_not_pasture_dark_fused_quartz.*                      # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_not_pasture_enlightened_fused_glass.*                # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_not_pasture_enlightened_fused_quartz.*               # (default: true) BREAK Enlightened Fused Quartz
+fe.protection.break.enderio.block_not_pasture_fused_glass.*                            # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_not_pasture_fused_quartz.*                           # (default: true) BREAK Fused Quartz
+fe.protection.break.enderio.block_not_unholy_dark_fused_glass.*                        # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_not_unholy_dark_fused_quartz.*                       # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_not_unholy_enlightened_fused_glass.*                 # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_not_unholy_enlightened_fused_quartz.*                # (default: true) BREAK Enlightened Fused Quartz
+fe.protection.break.enderio.block_not_unholy_fused_glass.*                             # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_not_unholy_fused_quartz.*                            # (default: true) BREAK Fused Quartz
 fe.protection.break.enderio.block_omni_reservoir.*                                     # (default: true) BREAK tile.block_omni_reservoir.name
 fe.protection.break.enderio.block_painted_carpet.*                                     # (default: true) BREAK Painted Carpet
 fe.protection.break.enderio.block_painted_dark_steel_door.*                            # (default: true) BREAK item.block_painted_dark_steel_door.name
@@ -853,6 +889,8 @@ fe.protection.break.enderio.block_painted_double_slab.*                         
 fe.protection.break.enderio.block_painted_fence.*                                      # (default: true) BREAK Painted Fence
 fe.protection.break.enderio.block_painted_fence_gate.*                                 # (default: true) BREAK Painted Gate
 fe.protection.break.enderio.block_painted_fused_quartz.*                               # (default: true) BREAK Painted Fused Quartz
+fe.protection.break.enderio.block_painted_fused_quartz1.*                              # (default: true) BREAK Painted Fused Quartz
+fe.protection.break.enderio.block_painted_fused_quartz2.*                              # (default: true) BREAK Painted Fused Quartz
 fe.protection.break.enderio.block_painted_glowstone.*                                  # (default: true) BREAK Painted Glowstone
 fe.protection.break.enderio.block_painted_glowstone_solid.*                            # (default: true) BREAK Painted Glowstone
 fe.protection.break.enderio.block_painted_iron_door.*                                  # (default: true) BREAK item.block_painted_iron_door.name
@@ -864,6 +902,7 @@ fe.protection.break.enderio.block_painted_redstone.*                            
 fe.protection.break.enderio.block_painted_redstone_solid.*                             # (default: true) BREAK Painted Redstone
 fe.protection.break.enderio.block_painted_reinforced_obsidian.*                        # (default: true) BREAK Painted Reinforced Obsidian
 fe.protection.break.enderio.block_painted_reinforced_obsidian_nonsolid.*               # (default: true) BREAK Painted Reinforced Obsidian
+fe.protection.break.enderio.block_painted_sand.*                                       # (default: true) BREAK Painted Sand
 fe.protection.break.enderio.block_painted_slab.*                                       # (default: true) BREAK Painted Slab
 fe.protection.break.enderio.block_painted_stair.*                                      # (default: true) BREAK Painted Stairs
 fe.protection.break.enderio.block_painted_stone.*                                      # (default: true) BREAK Painted Cobblestone
@@ -876,6 +915,12 @@ fe.protection.break.enderio.block_painted_wooden_door.*                         
 fe.protection.break.enderio.block_painted_wooden_trapdoor.*                            # (default: true) BREAK Painted Wooden Trapdoor
 fe.protection.break.enderio.block_painted_workbench.*                                  # (default: true) BREAK Painted Crafting Table
 fe.protection.break.enderio.block_painter.*                                            # (default: true) BREAK tile.block_painter.name
+fe.protection.break.enderio.block_pasture_dark_fused_glass.*                           # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_pasture_dark_fused_quartz.*                          # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_pasture_enlightened_fused_glass.*                    # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_pasture_enlightened_fused_quartz.*                   # (default: true) BREAK Enlightened Fused Quartz
+fe.protection.break.enderio.block_pasture_fused_glass.*                                # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_pasture_fused_quartz.*                               # (default: true) BREAK Fused Quartz
 fe.protection.break.enderio.block_power_monitor.*                                      # (default: true) BREAK tile.block_power_monitor.name
 fe.protection.break.enderio.block_powered_spawner.*                                    # (default: true) BREAK tile.block_powered_spawner.name
 fe.protection.break.enderio.block_reinforced_obsidian.*                                # (default: true) BREAK Reinforced Obsidian
@@ -906,6 +951,12 @@ fe.protection.break.enderio.block_tank.*                                        
 fe.protection.break.enderio.block_tele_pad.*                                           # (default: true) BREAK tile.block_tele_pad.name
 fe.protection.break.enderio.block_transceiver.*                                        # (default: true) BREAK tile.block_transceiver.name
 fe.protection.break.enderio.block_travel_anchor.*                                      # (default: true) BREAK tile.block_travel_anchor.name
+fe.protection.break.enderio.block_unholy_dark_fused_glass.*                            # (default: true) BREAK Dark Clear Glass
+fe.protection.break.enderio.block_unholy_dark_fused_quartz.*                           # (default: true) BREAK Dark Fused Quartz
+fe.protection.break.enderio.block_unholy_enlightened_fused_glass.*                     # (default: true) BREAK Enlightened Clear Glass
+fe.protection.break.enderio.block_unholy_enlightened_fused_quartz.*                    # (default: true) BREAK Enlightened Fused Quartz
+fe.protection.break.enderio.block_unholy_fused_glass.*                                 # (default: true) BREAK Quite Clear Glass
+fe.protection.break.enderio.block_unholy_fused_quartz.*                                # (default: true) BREAK Fused Quartz
 fe.protection.break.enderio.block_vacuum_chest.*                                       # (default: true) BREAK tile.block_vacuum_chest.name
 fe.protection.break.enderio.block_vat.*                                                # (default: true) BREAK tile.block_vat.name
 fe.protection.break.enderio.block_weather_obelisk.*                                    # (default: true) BREAK tile.block_weather_obelisk.name
@@ -2026,6 +2077,7 @@ fe.protection.break.rsgauges.daytimeswitch_glass1.*                             
 fe.protection.break.rsgauges.detectorswitch_glass1.*                                   # (default: true) BREAK Glass Infrared Entity Detector
 fe.protection.break.rsgauges.detectorswitch_glass2.*                                   # (default: true) BREAK Glass Linear Laser Entity Detector
 fe.protection.break.rsgauges.dimmerswitch1.*                                           # (default: true) BREAK Industrial Dimmer
+fe.protection.break.rsgauges.door_sensor_switch.*                                      # (default: true) BREAK Door sensor
 fe.protection.break.rsgauges.elevator_button.*                                         # (default: true) BREAK Elevator Button
 fe.protection.break.rsgauges.flatgauge1.*                                              # (default: true) BREAK Analog Voltmeter Redstone Gauge
 fe.protection.break.rsgauges.flatgauge2.*                                              # (default: true) BREAK Analog Bar Redstone Gauge
@@ -2044,7 +2096,7 @@ fe.protection.break.rsgauges.indicator4.*                                       
 fe.protection.break.rsgauges.indicator_led_white.*                                     # (default: true) BREAK White LED Redstone Indicator
 fe.protection.break.rsgauges.indicator_led_white_blink.*                               # (default: true) BREAK White Blinking LED Redstone Indicator
 fe.protection.break.rsgauges.indicator_rustic_flag.*                                   # (default: true) BREAK Rustic Redstone Semaphore
-fe.protection.break.rsgauges.industrial_comparator_switch.*                            # (default: true) BREAK tile.rsgauges.industrial_comparator_switch.name
+fe.protection.break.rsgauges.industrial_comparator_switch.*                            # (default: true) BREAK Industrial Comparator Switch
 fe.protection.break.rsgauges.industrial_knock_button.*                                 # (default: true) BREAK Knock Detector Pulse Switch (industrial)
 fe.protection.break.rsgauges.industrial_knock_switch.*                                 # (default: true) BREAK Knock Detector Bistable Switch (industrial)
 fe.protection.break.rsgauges.observerswitch1.*                                         # (default: true) BREAK Industrial Block Category Detector
@@ -2324,6 +2376,11 @@ fe.protection.break.tconstruct.tooltables.*                                     
 fe.protection.break.tconstruct.wood_rail.*                                             # (default: true) BREAK Wooden Rail
 fe.protection.break.tconstruct.wood_rail_trapdoor.*                                    # (default: true) BREAK Wooden Rail with a Trapdoor
 fe.protection.break.tconstruct.wooden_hopper.*                                         # (default: true) BREAK Wooden Hopper
+fe.protection.break.thermaldynamics.duct_0.*                                           # (default: true) BREAK tile.thermaldynamics.duct.name
+fe.protection.break.thermaldynamics.duct_16.*                                          # (default: true) BREAK tile.thermaldynamics.duct.name
+fe.protection.break.thermaldynamics.duct_32.*                                          # (default: true) BREAK tile.thermaldynamics.duct.name
+fe.protection.break.thermaldynamics.duct_48.*                                          # (default: true) BREAK tile.thermaldynamics.duct.name
+fe.protection.break.thermaldynamics.duct_64.*                                          # (default: true) BREAK tile.thermaldynamics.duct.name
 fe.protection.break.thermalexpansion.apparatus.*                                       # (default: true) BREAK tile.thermalexpansion.apparatus.name
 fe.protection.break.thermalexpansion.cache.*                                           # (default: true) BREAK tile.thermalexpansion.cache.name
 fe.protection.break.thermalexpansion.cell.*                                            # (default: true) BREAK tile.thermalexpansion.cell.name
@@ -2375,6 +2432,18 @@ fe.protection.break.zettaindustries.sulfurblock.*                               
 fe.protection.break.zettaindustries.sulfurousacid.*                                    # (default: true) BREAK tile.sulfurousacid.name
 fe.protection.break.zettaindustries.variableredstoneemitter.*                          # (default: true) BREAK Variable Redstone Emitter
 fe.protection.explode.*                                                                # (default: true) (global) Allows blocks to explode
+fe.protection.explode.additionalcompression.blocksand_compressed.*                     # (default: true) EXPLODE %s Sand
+fe.protection.explode.additionalcompression.charcoal_compressed.*                      # (default: true) EXPLODE %s Charcoal
+fe.protection.explode.additionalcompression.clay_compressed.*                          # (default: true) EXPLODE %s Clay
+fe.protection.explode.additionalcompression.coal_compressed.*                          # (default: true) EXPLODE %s Coal
+fe.protection.explode.additionalcompression.cobblestone_compressed.*                   # (default: true) EXPLODE %s Cobblestone
+fe.protection.explode.additionalcompression.dirt_compressed.*                          # (default: true) EXPLODE %s Dirt
+fe.protection.explode.additionalcompression.endstone_compressed.*                      # (default: true) EXPLODE %s End Stone
+fe.protection.explode.additionalcompression.gravel_compressed.*                        # (default: true) EXPLODE %s Gravel
+fe.protection.explode.additionalcompression.itemnetherstar_compressed.*                # (default: true) EXPLODE %s Nether Star
+fe.protection.explode.additionalcompression.netherrack_compressed.*                    # (default: true) EXPLODE %s Netherrack
+fe.protection.explode.additionalcompression.soulsand_compressed.*                      # (default: true) EXPLODE %s Soul Sand
+fe.protection.explode.additionalcompression.stone_compressed.*                         # (default: true) EXPLODE %s Stone
 fe.protection.explode.ae2stuff.encoder.*                                               # (default: true) EXPLODE Pattern Encoder
 fe.protection.explode.ae2stuff.grower.*                                                # (default: true) EXPLODE Crystal Growth Chamber
 fe.protection.explode.ae2stuff.inscriber.*                                             # (default: true) EXPLODE Advanced Inscriber
@@ -3204,7 +3273,13 @@ fe.protection.explode.enderio.block_franken_zombie_generator.*                  
 fe.protection.explode.enderio.block_fused_glass.*                                      # (default: true) EXPLODE Quite Clear Glass
 fe.protection.explode.enderio.block_fused_quartz.*                                     # (default: true) EXPLODE Fused Quartz
 fe.protection.explode.enderio.block_gauge.*                                            # (default: true) EXPLODE tile.block_gauge.name
+fe.protection.explode.enderio.block_holy_dark_fused_glass.*                            # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_holy_dark_fused_quartz.*                           # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_holy_enlightened_fused_glass.*                     # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_holy_enlightened_fused_quartz.*                    # (default: true) EXPLODE Enlightened Fused Quartz
 fe.protection.explode.enderio.block_holy_fog.*                                         # (default: true) EXPLODE Glowstone Nano-Particles
+fe.protection.explode.enderio.block_holy_fused_glass.*                                 # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_holy_fused_quartz.*                                # (default: true) EXPLODE Fused Quartz
 fe.protection.explode.enderio.block_impulse_hopper.*                                   # (default: true) EXPLODE tile.block_impulse_hopper.name
 fe.protection.explode.enderio.block_industrial_insulation.*                            # (default: true) EXPLODE Industrial Insulation
 fe.protection.explode.enderio.block_infinity.*                                         # (default: true) EXPLODE tile.block_infinity.name
@@ -3217,6 +3292,24 @@ fe.protection.explode.enderio.block_machine_base.*                              
 fe.protection.explode.enderio.block_machine_io.*                                       # (default: true) EXPLODE (technical block)
 fe.protection.explode.enderio.block_niard.*                                            # (default: true) EXPLODE tile.block_niard.name
 fe.protection.explode.enderio.block_normal_wireless_charger.*                          # (default: true) EXPLODE tile.block_normal_wireless_charger.name
+fe.protection.explode.enderio.block_not_holy_dark_fused_glass.*                        # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_not_holy_dark_fused_quartz.*                       # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_not_holy_enlightened_fused_glass.*                 # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_not_holy_enlightened_fused_quartz.*                # (default: true) EXPLODE Enlightened Fused Quartz
+fe.protection.explode.enderio.block_not_holy_fused_glass.*                             # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_not_holy_fused_quartz.*                            # (default: true) EXPLODE Fused Quartz
+fe.protection.explode.enderio.block_not_pasture_dark_fused_glass.*                     # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_not_pasture_dark_fused_quartz.*                    # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_not_pasture_enlightened_fused_glass.*              # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_not_pasture_enlightened_fused_quartz.*             # (default: true) EXPLODE Enlightened Fused Quartz
+fe.protection.explode.enderio.block_not_pasture_fused_glass.*                          # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_not_pasture_fused_quartz.*                         # (default: true) EXPLODE Fused Quartz
+fe.protection.explode.enderio.block_not_unholy_dark_fused_glass.*                      # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_not_unholy_dark_fused_quartz.*                     # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_not_unholy_enlightened_fused_glass.*               # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_not_unholy_enlightened_fused_quartz.*              # (default: true) EXPLODE Enlightened Fused Quartz
+fe.protection.explode.enderio.block_not_unholy_fused_glass.*                           # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_not_unholy_fused_quartz.*                          # (default: true) EXPLODE Fused Quartz
 fe.protection.explode.enderio.block_omni_reservoir.*                                   # (default: true) EXPLODE tile.block_omni_reservoir.name
 fe.protection.explode.enderio.block_painted_carpet.*                                   # (default: true) EXPLODE Painted Carpet
 fe.protection.explode.enderio.block_painted_dark_steel_door.*                          # (default: true) EXPLODE item.block_painted_dark_steel_door.name
@@ -3225,6 +3318,8 @@ fe.protection.explode.enderio.block_painted_double_slab.*                       
 fe.protection.explode.enderio.block_painted_fence.*                                    # (default: true) EXPLODE Painted Fence
 fe.protection.explode.enderio.block_painted_fence_gate.*                               # (default: true) EXPLODE Painted Gate
 fe.protection.explode.enderio.block_painted_fused_quartz.*                             # (default: true) EXPLODE Painted Fused Quartz
+fe.protection.explode.enderio.block_painted_fused_quartz1.*                            # (default: true) EXPLODE Painted Fused Quartz
+fe.protection.explode.enderio.block_painted_fused_quartz2.*                            # (default: true) EXPLODE Painted Fused Quartz
 fe.protection.explode.enderio.block_painted_glowstone.*                                # (default: true) EXPLODE Painted Glowstone
 fe.protection.explode.enderio.block_painted_glowstone_solid.*                          # (default: true) EXPLODE Painted Glowstone
 fe.protection.explode.enderio.block_painted_iron_door.*                                # (default: true) EXPLODE item.block_painted_iron_door.name
@@ -3236,6 +3331,7 @@ fe.protection.explode.enderio.block_painted_redstone.*                          
 fe.protection.explode.enderio.block_painted_redstone_solid.*                           # (default: true) EXPLODE Painted Redstone
 fe.protection.explode.enderio.block_painted_reinforced_obsidian.*                      # (default: true) EXPLODE Painted Reinforced Obsidian
 fe.protection.explode.enderio.block_painted_reinforced_obsidian_nonsolid.*             # (default: true) EXPLODE Painted Reinforced Obsidian
+fe.protection.explode.enderio.block_painted_sand.*                                     # (default: true) EXPLODE Painted Sand
 fe.protection.explode.enderio.block_painted_slab.*                                     # (default: true) EXPLODE Painted Slab
 fe.protection.explode.enderio.block_painted_stair.*                                    # (default: true) EXPLODE Painted Stairs
 fe.protection.explode.enderio.block_painted_stone.*                                    # (default: true) EXPLODE Painted Cobblestone
@@ -3248,6 +3344,12 @@ fe.protection.explode.enderio.block_painted_wooden_door.*                       
 fe.protection.explode.enderio.block_painted_wooden_trapdoor.*                          # (default: true) EXPLODE Painted Wooden Trapdoor
 fe.protection.explode.enderio.block_painted_workbench.*                                # (default: true) EXPLODE Painted Crafting Table
 fe.protection.explode.enderio.block_painter.*                                          # (default: true) EXPLODE tile.block_painter.name
+fe.protection.explode.enderio.block_pasture_dark_fused_glass.*                         # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_pasture_dark_fused_quartz.*                        # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_pasture_enlightened_fused_glass.*                  # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_pasture_enlightened_fused_quartz.*                 # (default: true) EXPLODE Enlightened Fused Quartz
+fe.protection.explode.enderio.block_pasture_fused_glass.*                              # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_pasture_fused_quartz.*                             # (default: true) EXPLODE Fused Quartz
 fe.protection.explode.enderio.block_power_monitor.*                                    # (default: true) EXPLODE tile.block_power_monitor.name
 fe.protection.explode.enderio.block_powered_spawner.*                                  # (default: true) EXPLODE tile.block_powered_spawner.name
 fe.protection.explode.enderio.block_reinforced_obsidian.*                              # (default: true) EXPLODE Reinforced Obsidian
@@ -3278,6 +3380,12 @@ fe.protection.explode.enderio.block_tank.*                                      
 fe.protection.explode.enderio.block_tele_pad.*                                         # (default: true) EXPLODE tile.block_tele_pad.name
 fe.protection.explode.enderio.block_transceiver.*                                      # (default: true) EXPLODE tile.block_transceiver.name
 fe.protection.explode.enderio.block_travel_anchor.*                                    # (default: true) EXPLODE tile.block_travel_anchor.name
+fe.protection.explode.enderio.block_unholy_dark_fused_glass.*                          # (default: true) EXPLODE Dark Clear Glass
+fe.protection.explode.enderio.block_unholy_dark_fused_quartz.*                         # (default: true) EXPLODE Dark Fused Quartz
+fe.protection.explode.enderio.block_unholy_enlightened_fused_glass.*                   # (default: true) EXPLODE Enlightened Clear Glass
+fe.protection.explode.enderio.block_unholy_enlightened_fused_quartz.*                  # (default: true) EXPLODE Enlightened Fused Quartz
+fe.protection.explode.enderio.block_unholy_fused_glass.*                               # (default: true) EXPLODE Quite Clear Glass
+fe.protection.explode.enderio.block_unholy_fused_quartz.*                              # (default: true) EXPLODE Fused Quartz
 fe.protection.explode.enderio.block_vacuum_chest.*                                     # (default: true) EXPLODE tile.block_vacuum_chest.name
 fe.protection.explode.enderio.block_vat.*                                              # (default: true) EXPLODE tile.block_vat.name
 fe.protection.explode.enderio.block_weather_obelisk.*                                  # (default: true) EXPLODE tile.block_weather_obelisk.name
@@ -4398,6 +4506,7 @@ fe.protection.explode.rsgauges.daytimeswitch_glass1.*                           
 fe.protection.explode.rsgauges.detectorswitch_glass1.*                                 # (default: true) EXPLODE Glass Infrared Entity Detector
 fe.protection.explode.rsgauges.detectorswitch_glass2.*                                 # (default: true) EXPLODE Glass Linear Laser Entity Detector
 fe.protection.explode.rsgauges.dimmerswitch1.*                                         # (default: true) EXPLODE Industrial Dimmer
+fe.protection.explode.rsgauges.door_sensor_switch.*                                    # (default: true) EXPLODE Door sensor
 fe.protection.explode.rsgauges.elevator_button.*                                       # (default: true) EXPLODE Elevator Button
 fe.protection.explode.rsgauges.flatgauge1.*                                            # (default: true) EXPLODE Analog Voltmeter Redstone Gauge
 fe.protection.explode.rsgauges.flatgauge2.*                                            # (default: true) EXPLODE Analog Bar Redstone Gauge
@@ -4416,7 +4525,7 @@ fe.protection.explode.rsgauges.indicator4.*                                     
 fe.protection.explode.rsgauges.indicator_led_white.*                                   # (default: true) EXPLODE White LED Redstone Indicator
 fe.protection.explode.rsgauges.indicator_led_white_blink.*                             # (default: true) EXPLODE White Blinking LED Redstone Indicator
 fe.protection.explode.rsgauges.indicator_rustic_flag.*                                 # (default: true) EXPLODE Rustic Redstone Semaphore
-fe.protection.explode.rsgauges.industrial_comparator_switch.*                          # (default: true) EXPLODE tile.rsgauges.industrial_comparator_switch.name
+fe.protection.explode.rsgauges.industrial_comparator_switch.*                          # (default: true) EXPLODE Industrial Comparator Switch
 fe.protection.explode.rsgauges.industrial_knock_button.*                               # (default: true) EXPLODE Knock Detector Pulse Switch (industrial)
 fe.protection.explode.rsgauges.industrial_knock_switch.*                               # (default: true) EXPLODE Knock Detector Bistable Switch (industrial)
 fe.protection.explode.rsgauges.observerswitch1.*                                       # (default: true) EXPLODE Industrial Block Category Detector
@@ -4696,6 +4805,11 @@ fe.protection.explode.tconstruct.tooltables.*                                   
 fe.protection.explode.tconstruct.wood_rail.*                                           # (default: true) EXPLODE Wooden Rail
 fe.protection.explode.tconstruct.wood_rail_trapdoor.*                                  # (default: true) EXPLODE Wooden Rail with a Trapdoor
 fe.protection.explode.tconstruct.wooden_hopper.*                                       # (default: true) EXPLODE Wooden Hopper
+fe.protection.explode.thermaldynamics.duct_0.*                                         # (default: true) EXPLODE tile.thermaldynamics.duct.name
+fe.protection.explode.thermaldynamics.duct_16.*                                        # (default: true) EXPLODE tile.thermaldynamics.duct.name
+fe.protection.explode.thermaldynamics.duct_32.*                                        # (default: true) EXPLODE tile.thermaldynamics.duct.name
+fe.protection.explode.thermaldynamics.duct_48.*                                        # (default: true) EXPLODE tile.thermaldynamics.duct.name
+fe.protection.explode.thermaldynamics.duct_64.*                                        # (default: true) EXPLODE tile.thermaldynamics.duct.name
 fe.protection.explode.thermalexpansion.apparatus.*                                     # (default: true) EXPLODE tile.thermalexpansion.apparatus.name
 fe.protection.explode.thermalexpansion.cache.*                                         # (default: true) EXPLODE tile.thermalexpansion.cache.name
 fe.protection.explode.thermalexpansion.cell.*                                          # (default: true) EXPLODE tile.thermalexpansion.cell.name
@@ -4747,6 +4861,18 @@ fe.protection.explode.zettaindustries.sulfurblock.*                             
 fe.protection.explode.zettaindustries.sulfurousacid.*                                  # (default: true) EXPLODE tile.sulfurousacid.name
 fe.protection.explode.zettaindustries.variableredstoneemitter.*                        # (default: true) EXPLODE Variable Redstone Emitter
 fe.protection.interact.*                                                               # (default: true) Allow interacting with blocks (button, chest, workbench)
+fe.protection.interact.additionalcompression.blocksand_compressed.*                    # (default: true) INTERACT %s Sand
+fe.protection.interact.additionalcompression.charcoal_compressed.*                     # (default: true) INTERACT %s Charcoal
+fe.protection.interact.additionalcompression.clay_compressed.*                         # (default: true) INTERACT %s Clay
+fe.protection.interact.additionalcompression.coal_compressed.*                         # (default: true) INTERACT %s Coal
+fe.protection.interact.additionalcompression.cobblestone_compressed.*                  # (default: true) INTERACT %s Cobblestone
+fe.protection.interact.additionalcompression.dirt_compressed.*                         # (default: true) INTERACT %s Dirt
+fe.protection.interact.additionalcompression.endstone_compressed.*                     # (default: true) INTERACT %s End Stone
+fe.protection.interact.additionalcompression.gravel_compressed.*                       # (default: true) INTERACT %s Gravel
+fe.protection.interact.additionalcompression.itemnetherstar_compressed.*               # (default: true) INTERACT %s Nether Star
+fe.protection.interact.additionalcompression.netherrack_compressed.*                   # (default: true) INTERACT %s Netherrack
+fe.protection.interact.additionalcompression.soulsand_compressed.*                     # (default: true) INTERACT %s Soul Sand
+fe.protection.interact.additionalcompression.stone_compressed.*                        # (default: true) INTERACT %s Stone
 fe.protection.interact.ae2stuff.encoder.*                                              # (default: true) INTERACT Pattern Encoder
 fe.protection.interact.ae2stuff.grower.*                                               # (default: true) INTERACT Crystal Growth Chamber
 fe.protection.interact.ae2stuff.inscriber.*                                            # (default: true) INTERACT Advanced Inscriber
@@ -5576,7 +5702,13 @@ fe.protection.interact.enderio.block_franken_zombie_generator.*                 
 fe.protection.interact.enderio.block_fused_glass.*                                     # (default: true) INTERACT Quite Clear Glass
 fe.protection.interact.enderio.block_fused_quartz.*                                    # (default: true) INTERACT Fused Quartz
 fe.protection.interact.enderio.block_gauge.*                                           # (default: true) INTERACT tile.block_gauge.name
+fe.protection.interact.enderio.block_holy_dark_fused_glass.*                           # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_holy_dark_fused_quartz.*                          # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_holy_enlightened_fused_glass.*                    # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_holy_enlightened_fused_quartz.*                   # (default: true) INTERACT Enlightened Fused Quartz
 fe.protection.interact.enderio.block_holy_fog.*                                        # (default: true) INTERACT Glowstone Nano-Particles
+fe.protection.interact.enderio.block_holy_fused_glass.*                                # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_holy_fused_quartz.*                               # (default: true) INTERACT Fused Quartz
 fe.protection.interact.enderio.block_impulse_hopper.*                                  # (default: true) INTERACT tile.block_impulse_hopper.name
 fe.protection.interact.enderio.block_industrial_insulation.*                           # (default: true) INTERACT Industrial Insulation
 fe.protection.interact.enderio.block_infinity.*                                        # (default: true) INTERACT tile.block_infinity.name
@@ -5589,6 +5721,24 @@ fe.protection.interact.enderio.block_machine_base.*                             
 fe.protection.interact.enderio.block_machine_io.*                                      # (default: true) INTERACT (technical block)
 fe.protection.interact.enderio.block_niard.*                                           # (default: true) INTERACT tile.block_niard.name
 fe.protection.interact.enderio.block_normal_wireless_charger.*                         # (default: true) INTERACT tile.block_normal_wireless_charger.name
+fe.protection.interact.enderio.block_not_holy_dark_fused_glass.*                       # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_not_holy_dark_fused_quartz.*                      # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_not_holy_enlightened_fused_glass.*                # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_not_holy_enlightened_fused_quartz.*               # (default: true) INTERACT Enlightened Fused Quartz
+fe.protection.interact.enderio.block_not_holy_fused_glass.*                            # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_not_holy_fused_quartz.*                           # (default: true) INTERACT Fused Quartz
+fe.protection.interact.enderio.block_not_pasture_dark_fused_glass.*                    # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_not_pasture_dark_fused_quartz.*                   # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_not_pasture_enlightened_fused_glass.*             # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_not_pasture_enlightened_fused_quartz.*            # (default: true) INTERACT Enlightened Fused Quartz
+fe.protection.interact.enderio.block_not_pasture_fused_glass.*                         # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_not_pasture_fused_quartz.*                        # (default: true) INTERACT Fused Quartz
+fe.protection.interact.enderio.block_not_unholy_dark_fused_glass.*                     # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_not_unholy_dark_fused_quartz.*                    # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_not_unholy_enlightened_fused_glass.*              # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_not_unholy_enlightened_fused_quartz.*             # (default: true) INTERACT Enlightened Fused Quartz
+fe.protection.interact.enderio.block_not_unholy_fused_glass.*                          # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_not_unholy_fused_quartz.*                         # (default: true) INTERACT Fused Quartz
 fe.protection.interact.enderio.block_omni_reservoir.*                                  # (default: true) INTERACT tile.block_omni_reservoir.name
 fe.protection.interact.enderio.block_painted_carpet.*                                  # (default: true) INTERACT Painted Carpet
 fe.protection.interact.enderio.block_painted_dark_steel_door.*                         # (default: true) INTERACT item.block_painted_dark_steel_door.name
@@ -5597,6 +5747,8 @@ fe.protection.interact.enderio.block_painted_double_slab.*                      
 fe.protection.interact.enderio.block_painted_fence.*                                   # (default: true) INTERACT Painted Fence
 fe.protection.interact.enderio.block_painted_fence_gate.*                              # (default: true) INTERACT Painted Gate
 fe.protection.interact.enderio.block_painted_fused_quartz.*                            # (default: true) INTERACT Painted Fused Quartz
+fe.protection.interact.enderio.block_painted_fused_quartz1.*                           # (default: true) INTERACT Painted Fused Quartz
+fe.protection.interact.enderio.block_painted_fused_quartz2.*                           # (default: true) INTERACT Painted Fused Quartz
 fe.protection.interact.enderio.block_painted_glowstone.*                               # (default: true) INTERACT Painted Glowstone
 fe.protection.interact.enderio.block_painted_glowstone_solid.*                         # (default: true) INTERACT Painted Glowstone
 fe.protection.interact.enderio.block_painted_iron_door.*                               # (default: true) INTERACT item.block_painted_iron_door.name
@@ -5608,6 +5760,7 @@ fe.protection.interact.enderio.block_painted_redstone.*                         
 fe.protection.interact.enderio.block_painted_redstone_solid.*                          # (default: true) INTERACT Painted Redstone
 fe.protection.interact.enderio.block_painted_reinforced_obsidian.*                     # (default: true) INTERACT Painted Reinforced Obsidian
 fe.protection.interact.enderio.block_painted_reinforced_obsidian_nonsolid.*            # (default: true) INTERACT Painted Reinforced Obsidian
+fe.protection.interact.enderio.block_painted_sand.*                                    # (default: true) INTERACT Painted Sand
 fe.protection.interact.enderio.block_painted_slab.*                                    # (default: true) INTERACT Painted Slab
 fe.protection.interact.enderio.block_painted_stair.*                                   # (default: true) INTERACT Painted Stairs
 fe.protection.interact.enderio.block_painted_stone.*                                   # (default: true) INTERACT Painted Cobblestone
@@ -5620,6 +5773,12 @@ fe.protection.interact.enderio.block_painted_wooden_door.*                      
 fe.protection.interact.enderio.block_painted_wooden_trapdoor.*                         # (default: true) INTERACT Painted Wooden Trapdoor
 fe.protection.interact.enderio.block_painted_workbench.*                               # (default: true) INTERACT Painted Crafting Table
 fe.protection.interact.enderio.block_painter.*                                         # (default: true) INTERACT tile.block_painter.name
+fe.protection.interact.enderio.block_pasture_dark_fused_glass.*                        # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_pasture_dark_fused_quartz.*                       # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_pasture_enlightened_fused_glass.*                 # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_pasture_enlightened_fused_quartz.*                # (default: true) INTERACT Enlightened Fused Quartz
+fe.protection.interact.enderio.block_pasture_fused_glass.*                             # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_pasture_fused_quartz.*                            # (default: true) INTERACT Fused Quartz
 fe.protection.interact.enderio.block_power_monitor.*                                   # (default: true) INTERACT tile.block_power_monitor.name
 fe.protection.interact.enderio.block_powered_spawner.*                                 # (default: true) INTERACT tile.block_powered_spawner.name
 fe.protection.interact.enderio.block_reinforced_obsidian.*                             # (default: true) INTERACT Reinforced Obsidian
@@ -5650,6 +5809,12 @@ fe.protection.interact.enderio.block_tank.*                                     
 fe.protection.interact.enderio.block_tele_pad.*                                        # (default: true) INTERACT tile.block_tele_pad.name
 fe.protection.interact.enderio.block_transceiver.*                                     # (default: true) INTERACT tile.block_transceiver.name
 fe.protection.interact.enderio.block_travel_anchor.*                                   # (default: true) INTERACT tile.block_travel_anchor.name
+fe.protection.interact.enderio.block_unholy_dark_fused_glass.*                         # (default: true) INTERACT Dark Clear Glass
+fe.protection.interact.enderio.block_unholy_dark_fused_quartz.*                        # (default: true) INTERACT Dark Fused Quartz
+fe.protection.interact.enderio.block_unholy_enlightened_fused_glass.*                  # (default: true) INTERACT Enlightened Clear Glass
+fe.protection.interact.enderio.block_unholy_enlightened_fused_quartz.*                 # (default: true) INTERACT Enlightened Fused Quartz
+fe.protection.interact.enderio.block_unholy_fused_glass.*                              # (default: true) INTERACT Quite Clear Glass
+fe.protection.interact.enderio.block_unholy_fused_quartz.*                             # (default: true) INTERACT Fused Quartz
 fe.protection.interact.enderio.block_vacuum_chest.*                                    # (default: true) INTERACT tile.block_vacuum_chest.name
 fe.protection.interact.enderio.block_vat.*                                             # (default: true) INTERACT tile.block_vat.name
 fe.protection.interact.enderio.block_weather_obelisk.*                                 # (default: true) INTERACT tile.block_weather_obelisk.name
@@ -6771,6 +6936,7 @@ fe.protection.interact.rsgauges.daytimeswitch_glass1.*                          
 fe.protection.interact.rsgauges.detectorswitch_glass1.*                                # (default: true) INTERACT Glass Infrared Entity Detector
 fe.protection.interact.rsgauges.detectorswitch_glass2.*                                # (default: true) INTERACT Glass Linear Laser Entity Detector
 fe.protection.interact.rsgauges.dimmerswitch1.*                                        # (default: true) INTERACT Industrial Dimmer
+fe.protection.interact.rsgauges.door_sensor_switch.*                                   # (default: true) INTERACT Door sensor
 fe.protection.interact.rsgauges.elevator_button.*                                      # (default: true) INTERACT Elevator Button
 fe.protection.interact.rsgauges.flatgauge1.*                                           # (default: true) INTERACT Analog Voltmeter Redstone Gauge
 fe.protection.interact.rsgauges.flatgauge2.*                                           # (default: true) INTERACT Analog Bar Redstone Gauge
@@ -6789,7 +6955,7 @@ fe.protection.interact.rsgauges.indicator4.*                                    
 fe.protection.interact.rsgauges.indicator_led_white.*                                  # (default: true) INTERACT White LED Redstone Indicator
 fe.protection.interact.rsgauges.indicator_led_white_blink.*                            # (default: true) INTERACT White Blinking LED Redstone Indicator
 fe.protection.interact.rsgauges.indicator_rustic_flag.*                                # (default: true) INTERACT Rustic Redstone Semaphore
-fe.protection.interact.rsgauges.industrial_comparator_switch.*                         # (default: true) INTERACT tile.rsgauges.industrial_comparator_switch.name
+fe.protection.interact.rsgauges.industrial_comparator_switch.*                         # (default: true) INTERACT Industrial Comparator Switch
 fe.protection.interact.rsgauges.industrial_knock_button.*                              # (default: true) INTERACT Knock Detector Pulse Switch (industrial)
 fe.protection.interact.rsgauges.industrial_knock_switch.*                              # (default: true) INTERACT Knock Detector Bistable Switch (industrial)
 fe.protection.interact.rsgauges.observerswitch1.*                                      # (default: true) INTERACT Industrial Block Category Detector
@@ -7069,6 +7235,11 @@ fe.protection.interact.tconstruct.tooltables.*                                  
 fe.protection.interact.tconstruct.wood_rail.*                                          # (default: true) INTERACT Wooden Rail
 fe.protection.interact.tconstruct.wood_rail_trapdoor.*                                 # (default: true) INTERACT Wooden Rail with a Trapdoor
 fe.protection.interact.tconstruct.wooden_hopper.*                                      # (default: true) INTERACT Wooden Hopper
+fe.protection.interact.thermaldynamics.duct_0.*                                        # (default: true) INTERACT tile.thermaldynamics.duct.name
+fe.protection.interact.thermaldynamics.duct_16.*                                       # (default: true) INTERACT tile.thermaldynamics.duct.name
+fe.protection.interact.thermaldynamics.duct_32.*                                       # (default: true) INTERACT tile.thermaldynamics.duct.name
+fe.protection.interact.thermaldynamics.duct_48.*                                       # (default: true) INTERACT tile.thermaldynamics.duct.name
+fe.protection.interact.thermaldynamics.duct_64.*                                       # (default: true) INTERACT tile.thermaldynamics.duct.name
 fe.protection.interact.thermalexpansion.apparatus.*                                    # (default: true) INTERACT tile.thermalexpansion.apparatus.name
 fe.protection.interact.thermalexpansion.cache.*                                        # (default: true) INTERACT tile.thermalexpansion.cache.name
 fe.protection.interact.thermalexpansion.cell.*                                         # (default: true) INTERACT tile.thermalexpansion.cell.name
@@ -7120,6 +7291,18 @@ fe.protection.interact.zettaindustries.sulfurblock.*                            
 fe.protection.interact.zettaindustries.sulfurousacid.*                                 # (default: true) INTERACT tile.sulfurousacid.name
 fe.protection.interact.zettaindustries.variableredstoneemitter.*                       # (default: true) INTERACT Variable Redstone Emitter
 fe.protection.place.*                                                                  # (default: true) Allow placing blocks
+fe.protection.place.additionalcompression.blocksand_compressed.*                       # (default: true) PLACE %s Sand
+fe.protection.place.additionalcompression.charcoal_compressed.*                        # (default: true) PLACE %s Charcoal
+fe.protection.place.additionalcompression.clay_compressed.*                            # (default: true) PLACE %s Clay
+fe.protection.place.additionalcompression.coal_compressed.*                            # (default: true) PLACE %s Coal
+fe.protection.place.additionalcompression.cobblestone_compressed.*                     # (default: true) PLACE %s Cobblestone
+fe.protection.place.additionalcompression.dirt_compressed.*                            # (default: true) PLACE %s Dirt
+fe.protection.place.additionalcompression.endstone_compressed.*                        # (default: true) PLACE %s End Stone
+fe.protection.place.additionalcompression.gravel_compressed.*                          # (default: true) PLACE %s Gravel
+fe.protection.place.additionalcompression.itemnetherstar_compressed.*                  # (default: true) PLACE %s Nether Star
+fe.protection.place.additionalcompression.netherrack_compressed.*                      # (default: true) PLACE %s Netherrack
+fe.protection.place.additionalcompression.soulsand_compressed.*                        # (default: true) PLACE %s Soul Sand
+fe.protection.place.additionalcompression.stone_compressed.*                           # (default: true) PLACE %s Stone
 fe.protection.place.ae2stuff.encoder.*                                                 # (default: true) PLACE Pattern Encoder
 fe.protection.place.ae2stuff.grower.*                                                  # (default: true) PLACE Crystal Growth Chamber
 fe.protection.place.ae2stuff.inscriber.*                                               # (default: true) PLACE Advanced Inscriber
@@ -7949,7 +8132,13 @@ fe.protection.place.enderio.block_franken_zombie_generator.*                    
 fe.protection.place.enderio.block_fused_glass.*                                        # (default: true) PLACE Quite Clear Glass
 fe.protection.place.enderio.block_fused_quartz.*                                       # (default: true) PLACE Fused Quartz
 fe.protection.place.enderio.block_gauge.*                                              # (default: true) PLACE tile.block_gauge.name
+fe.protection.place.enderio.block_holy_dark_fused_glass.*                              # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_holy_dark_fused_quartz.*                             # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_holy_enlightened_fused_glass.*                       # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_holy_enlightened_fused_quartz.*                      # (default: true) PLACE Enlightened Fused Quartz
 fe.protection.place.enderio.block_holy_fog.*                                           # (default: true) PLACE Glowstone Nano-Particles
+fe.protection.place.enderio.block_holy_fused_glass.*                                   # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_holy_fused_quartz.*                                  # (default: true) PLACE Fused Quartz
 fe.protection.place.enderio.block_impulse_hopper.*                                     # (default: true) PLACE tile.block_impulse_hopper.name
 fe.protection.place.enderio.block_industrial_insulation.*                              # (default: true) PLACE Industrial Insulation
 fe.protection.place.enderio.block_infinity.*                                           # (default: true) PLACE tile.block_infinity.name
@@ -7962,6 +8151,24 @@ fe.protection.place.enderio.block_machine_base.*                                
 fe.protection.place.enderio.block_machine_io.*                                         # (default: true) PLACE (technical block)
 fe.protection.place.enderio.block_niard.*                                              # (default: true) PLACE tile.block_niard.name
 fe.protection.place.enderio.block_normal_wireless_charger.*                            # (default: true) PLACE tile.block_normal_wireless_charger.name
+fe.protection.place.enderio.block_not_holy_dark_fused_glass.*                          # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_not_holy_dark_fused_quartz.*                         # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_not_holy_enlightened_fused_glass.*                   # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_not_holy_enlightened_fused_quartz.*                  # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.place.enderio.block_not_holy_fused_glass.*                               # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_not_holy_fused_quartz.*                              # (default: true) PLACE Fused Quartz
+fe.protection.place.enderio.block_not_pasture_dark_fused_glass.*                       # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_not_pasture_dark_fused_quartz.*                      # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_not_pasture_enlightened_fused_glass.*                # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_not_pasture_enlightened_fused_quartz.*               # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.place.enderio.block_not_pasture_fused_glass.*                            # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_not_pasture_fused_quartz.*                           # (default: true) PLACE Fused Quartz
+fe.protection.place.enderio.block_not_unholy_dark_fused_glass.*                        # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_not_unholy_dark_fused_quartz.*                       # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_not_unholy_enlightened_fused_glass.*                 # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_not_unholy_enlightened_fused_quartz.*                # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.place.enderio.block_not_unholy_fused_glass.*                             # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_not_unholy_fused_quartz.*                            # (default: true) PLACE Fused Quartz
 fe.protection.place.enderio.block_omni_reservoir.*                                     # (default: true) PLACE tile.block_omni_reservoir.name
 fe.protection.place.enderio.block_painted_carpet.*                                     # (default: true) PLACE Painted Carpet
 fe.protection.place.enderio.block_painted_dark_steel_door.*                            # (default: true) PLACE item.block_painted_dark_steel_door.name
@@ -7970,6 +8177,8 @@ fe.protection.place.enderio.block_painted_double_slab.*                         
 fe.protection.place.enderio.block_painted_fence.*                                      # (default: true) PLACE Painted Fence
 fe.protection.place.enderio.block_painted_fence_gate.*                                 # (default: true) PLACE Painted Gate
 fe.protection.place.enderio.block_painted_fused_quartz.*                               # (default: true) PLACE Painted Fused Quartz
+fe.protection.place.enderio.block_painted_fused_quartz1.*                              # (default: true) PLACE Painted Fused Quartz
+fe.protection.place.enderio.block_painted_fused_quartz2.*                              # (default: true) PLACE Painted Fused Quartz
 fe.protection.place.enderio.block_painted_glowstone.*                                  # (default: true) PLACE Painted Glowstone
 fe.protection.place.enderio.block_painted_glowstone_solid.*                            # (default: true) PLACE Painted Glowstone
 fe.protection.place.enderio.block_painted_iron_door.*                                  # (default: true) PLACE item.block_painted_iron_door.name
@@ -7981,6 +8190,7 @@ fe.protection.place.enderio.block_painted_redstone.*                            
 fe.protection.place.enderio.block_painted_redstone_solid.*                             # (default: true) PLACE Painted Redstone
 fe.protection.place.enderio.block_painted_reinforced_obsidian.*                        # (default: true) PLACE Painted Reinforced Obsidian
 fe.protection.place.enderio.block_painted_reinforced_obsidian_nonsolid.*               # (default: true) PLACE Painted Reinforced Obsidian
+fe.protection.place.enderio.block_painted_sand.*                                       # (default: true) PLACE Painted Sand
 fe.protection.place.enderio.block_painted_slab.*                                       # (default: true) PLACE Painted Slab
 fe.protection.place.enderio.block_painted_stair.*                                      # (default: true) PLACE Painted Stairs
 fe.protection.place.enderio.block_painted_stone.*                                      # (default: true) PLACE Painted Cobblestone
@@ -7993,6 +8203,12 @@ fe.protection.place.enderio.block_painted_wooden_door.*                         
 fe.protection.place.enderio.block_painted_wooden_trapdoor.*                            # (default: true) PLACE Painted Wooden Trapdoor
 fe.protection.place.enderio.block_painted_workbench.*                                  # (default: true) PLACE Painted Crafting Table
 fe.protection.place.enderio.block_painter.*                                            # (default: true) PLACE tile.block_painter.name
+fe.protection.place.enderio.block_pasture_dark_fused_glass.*                           # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_pasture_dark_fused_quartz.*                          # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_pasture_enlightened_fused_glass.*                    # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_pasture_enlightened_fused_quartz.*                   # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.place.enderio.block_pasture_fused_glass.*                                # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_pasture_fused_quartz.*                               # (default: true) PLACE Fused Quartz
 fe.protection.place.enderio.block_power_monitor.*                                      # (default: true) PLACE tile.block_power_monitor.name
 fe.protection.place.enderio.block_powered_spawner.*                                    # (default: true) PLACE tile.block_powered_spawner.name
 fe.protection.place.enderio.block_reinforced_obsidian.*                                # (default: true) PLACE Reinforced Obsidian
@@ -8023,6 +8239,12 @@ fe.protection.place.enderio.block_tank.*                                        
 fe.protection.place.enderio.block_tele_pad.*                                           # (default: true) PLACE tile.block_tele_pad.name
 fe.protection.place.enderio.block_transceiver.*                                        # (default: true) PLACE tile.block_transceiver.name
 fe.protection.place.enderio.block_travel_anchor.*                                      # (default: true) PLACE tile.block_travel_anchor.name
+fe.protection.place.enderio.block_unholy_dark_fused_glass.*                            # (default: true) PLACE Dark Clear Glass
+fe.protection.place.enderio.block_unholy_dark_fused_quartz.*                           # (default: true) PLACE Dark Fused Quartz
+fe.protection.place.enderio.block_unholy_enlightened_fused_glass.*                     # (default: true) PLACE Enlightened Clear Glass
+fe.protection.place.enderio.block_unholy_enlightened_fused_quartz.*                    # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.place.enderio.block_unholy_fused_glass.*                                 # (default: true) PLACE Quite Clear Glass
+fe.protection.place.enderio.block_unholy_fused_quartz.*                                # (default: true) PLACE Fused Quartz
 fe.protection.place.enderio.block_vacuum_chest.*                                       # (default: true) PLACE tile.block_vacuum_chest.name
 fe.protection.place.enderio.block_vat.*                                                # (default: true) PLACE tile.block_vat.name
 fe.protection.place.enderio.block_weather_obelisk.*                                    # (default: true) PLACE tile.block_weather_obelisk.name
@@ -9143,6 +9365,7 @@ fe.protection.place.rsgauges.daytimeswitch_glass1.*                             
 fe.protection.place.rsgauges.detectorswitch_glass1.*                                   # (default: true) PLACE Glass Infrared Entity Detector
 fe.protection.place.rsgauges.detectorswitch_glass2.*                                   # (default: true) PLACE Glass Linear Laser Entity Detector
 fe.protection.place.rsgauges.dimmerswitch1.*                                           # (default: true) PLACE Industrial Dimmer
+fe.protection.place.rsgauges.door_sensor_switch.*                                      # (default: true) PLACE Door sensor
 fe.protection.place.rsgauges.elevator_button.*                                         # (default: true) PLACE Elevator Button
 fe.protection.place.rsgauges.flatgauge1.*                                              # (default: true) PLACE Analog Voltmeter Redstone Gauge
 fe.protection.place.rsgauges.flatgauge2.*                                              # (default: true) PLACE Analog Bar Redstone Gauge
@@ -9161,7 +9384,7 @@ fe.protection.place.rsgauges.indicator4.*                                       
 fe.protection.place.rsgauges.indicator_led_white.*                                     # (default: true) PLACE White LED Redstone Indicator
 fe.protection.place.rsgauges.indicator_led_white_blink.*                               # (default: true) PLACE White Blinking LED Redstone Indicator
 fe.protection.place.rsgauges.indicator_rustic_flag.*                                   # (default: true) PLACE Rustic Redstone Semaphore
-fe.protection.place.rsgauges.industrial_comparator_switch.*                            # (default: true) PLACE tile.rsgauges.industrial_comparator_switch.name
+fe.protection.place.rsgauges.industrial_comparator_switch.*                            # (default: true) PLACE Industrial Comparator Switch
 fe.protection.place.rsgauges.industrial_knock_button.*                                 # (default: true) PLACE Knock Detector Pulse Switch (industrial)
 fe.protection.place.rsgauges.industrial_knock_switch.*                                 # (default: true) PLACE Knock Detector Bistable Switch (industrial)
 fe.protection.place.rsgauges.observerswitch1.*                                         # (default: true) PLACE Industrial Block Category Detector
@@ -9441,6 +9664,11 @@ fe.protection.place.tconstruct.tooltables.*                                     
 fe.protection.place.tconstruct.wood_rail.*                                             # (default: true) PLACE Wooden Rail
 fe.protection.place.tconstruct.wood_rail_trapdoor.*                                    # (default: true) PLACE Wooden Rail with a Trapdoor
 fe.protection.place.tconstruct.wooden_hopper.*                                         # (default: true) PLACE Wooden Hopper
+fe.protection.place.thermaldynamics.duct_0.*                                           # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.place.thermaldynamics.duct_16.*                                          # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.place.thermaldynamics.duct_32.*                                          # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.place.thermaldynamics.duct_48.*                                          # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.place.thermaldynamics.duct_64.*                                          # (default: true) PLACE tile.thermaldynamics.duct.name
 fe.protection.place.thermalexpansion.apparatus.*                                       # (default: true) PLACE tile.thermalexpansion.apparatus.name
 fe.protection.place.thermalexpansion.cache.*                                           # (default: true) PLACE tile.thermalexpansion.cache.name
 fe.protection.place.thermalexpansion.cell.*                                            # (default: true) PLACE tile.thermalexpansion.cell.name
@@ -9492,6 +9720,18 @@ fe.protection.place.zettaindustries.sulfurblock.*                               
 fe.protection.place.zettaindustries.sulfurousacid.*                                    # (default: true) PLACE tile.sulfurousacid.name
 fe.protection.place.zettaindustries.variableredstoneemitter.*                          # (default: true) PLACE Variable Redstone Emitter
 fe.protection.trample.*                                                                # (default: true) Allow trampling on blocks
+fe.protection.trample.additionalcompression.blocksand_compressed.*                     # (default: true) PLACE %s Sand
+fe.protection.trample.additionalcompression.charcoal_compressed.*                      # (default: true) PLACE %s Charcoal
+fe.protection.trample.additionalcompression.clay_compressed.*                          # (default: true) PLACE %s Clay
+fe.protection.trample.additionalcompression.coal_compressed.*                          # (default: true) PLACE %s Coal
+fe.protection.trample.additionalcompression.cobblestone_compressed.*                   # (default: true) PLACE %s Cobblestone
+fe.protection.trample.additionalcompression.dirt_compressed.*                          # (default: true) PLACE %s Dirt
+fe.protection.trample.additionalcompression.endstone_compressed.*                      # (default: true) PLACE %s End Stone
+fe.protection.trample.additionalcompression.gravel_compressed.*                        # (default: true) PLACE %s Gravel
+fe.protection.trample.additionalcompression.itemnetherstar_compressed.*                # (default: true) PLACE %s Nether Star
+fe.protection.trample.additionalcompression.netherrack_compressed.*                    # (default: true) PLACE %s Netherrack
+fe.protection.trample.additionalcompression.soulsand_compressed.*                      # (default: true) PLACE %s Soul Sand
+fe.protection.trample.additionalcompression.stone_compressed.*                         # (default: true) PLACE %s Stone
 fe.protection.trample.ae2stuff.encoder.*                                               # (default: true) PLACE Pattern Encoder
 fe.protection.trample.ae2stuff.grower.*                                                # (default: true) PLACE Crystal Growth Chamber
 fe.protection.trample.ae2stuff.inscriber.*                                             # (default: true) PLACE Advanced Inscriber
@@ -10321,7 +10561,13 @@ fe.protection.trample.enderio.block_franken_zombie_generator.*                  
 fe.protection.trample.enderio.block_fused_glass.*                                      # (default: true) PLACE Quite Clear Glass
 fe.protection.trample.enderio.block_fused_quartz.*                                     # (default: true) PLACE Fused Quartz
 fe.protection.trample.enderio.block_gauge.*                                            # (default: true) PLACE tile.block_gauge.name
+fe.protection.trample.enderio.block_holy_dark_fused_glass.*                            # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_holy_dark_fused_quartz.*                           # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_holy_enlightened_fused_glass.*                     # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_holy_enlightened_fused_quartz.*                    # (default: true) PLACE Enlightened Fused Quartz
 fe.protection.trample.enderio.block_holy_fog.*                                         # (default: true) PLACE Glowstone Nano-Particles
+fe.protection.trample.enderio.block_holy_fused_glass.*                                 # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_holy_fused_quartz.*                                # (default: true) PLACE Fused Quartz
 fe.protection.trample.enderio.block_impulse_hopper.*                                   # (default: true) PLACE tile.block_impulse_hopper.name
 fe.protection.trample.enderio.block_industrial_insulation.*                            # (default: true) PLACE Industrial Insulation
 fe.protection.trample.enderio.block_infinity.*                                         # (default: true) PLACE tile.block_infinity.name
@@ -10334,6 +10580,24 @@ fe.protection.trample.enderio.block_machine_base.*                              
 fe.protection.trample.enderio.block_machine_io.*                                       # (default: true) PLACE (technical block)
 fe.protection.trample.enderio.block_niard.*                                            # (default: true) PLACE tile.block_niard.name
 fe.protection.trample.enderio.block_normal_wireless_charger.*                          # (default: true) PLACE tile.block_normal_wireless_charger.name
+fe.protection.trample.enderio.block_not_holy_dark_fused_glass.*                        # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_not_holy_dark_fused_quartz.*                       # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_not_holy_enlightened_fused_glass.*                 # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_not_holy_enlightened_fused_quartz.*                # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.trample.enderio.block_not_holy_fused_glass.*                             # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_not_holy_fused_quartz.*                            # (default: true) PLACE Fused Quartz
+fe.protection.trample.enderio.block_not_pasture_dark_fused_glass.*                     # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_not_pasture_dark_fused_quartz.*                    # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_not_pasture_enlightened_fused_glass.*              # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_not_pasture_enlightened_fused_quartz.*             # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.trample.enderio.block_not_pasture_fused_glass.*                          # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_not_pasture_fused_quartz.*                         # (default: true) PLACE Fused Quartz
+fe.protection.trample.enderio.block_not_unholy_dark_fused_glass.*                      # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_not_unholy_dark_fused_quartz.*                     # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_not_unholy_enlightened_fused_glass.*               # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_not_unholy_enlightened_fused_quartz.*              # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.trample.enderio.block_not_unholy_fused_glass.*                           # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_not_unholy_fused_quartz.*                          # (default: true) PLACE Fused Quartz
 fe.protection.trample.enderio.block_omni_reservoir.*                                   # (default: true) PLACE tile.block_omni_reservoir.name
 fe.protection.trample.enderio.block_painted_carpet.*                                   # (default: true) PLACE Painted Carpet
 fe.protection.trample.enderio.block_painted_dark_steel_door.*                          # (default: true) PLACE item.block_painted_dark_steel_door.name
@@ -10342,6 +10606,8 @@ fe.protection.trample.enderio.block_painted_double_slab.*                       
 fe.protection.trample.enderio.block_painted_fence.*                                    # (default: true) PLACE Painted Fence
 fe.protection.trample.enderio.block_painted_fence_gate.*                               # (default: true) PLACE Painted Gate
 fe.protection.trample.enderio.block_painted_fused_quartz.*                             # (default: true) PLACE Painted Fused Quartz
+fe.protection.trample.enderio.block_painted_fused_quartz1.*                            # (default: true) PLACE Painted Fused Quartz
+fe.protection.trample.enderio.block_painted_fused_quartz2.*                            # (default: true) PLACE Painted Fused Quartz
 fe.protection.trample.enderio.block_painted_glowstone.*                                # (default: true) PLACE Painted Glowstone
 fe.protection.trample.enderio.block_painted_glowstone_solid.*                          # (default: true) PLACE Painted Glowstone
 fe.protection.trample.enderio.block_painted_iron_door.*                                # (default: true) PLACE item.block_painted_iron_door.name
@@ -10353,6 +10619,7 @@ fe.protection.trample.enderio.block_painted_redstone.*                          
 fe.protection.trample.enderio.block_painted_redstone_solid.*                           # (default: true) PLACE Painted Redstone
 fe.protection.trample.enderio.block_painted_reinforced_obsidian.*                      # (default: true) PLACE Painted Reinforced Obsidian
 fe.protection.trample.enderio.block_painted_reinforced_obsidian_nonsolid.*             # (default: true) PLACE Painted Reinforced Obsidian
+fe.protection.trample.enderio.block_painted_sand.*                                     # (default: true) PLACE Painted Sand
 fe.protection.trample.enderio.block_painted_slab.*                                     # (default: true) PLACE Painted Slab
 fe.protection.trample.enderio.block_painted_stair.*                                    # (default: true) PLACE Painted Stairs
 fe.protection.trample.enderio.block_painted_stone.*                                    # (default: true) PLACE Painted Cobblestone
@@ -10365,6 +10632,12 @@ fe.protection.trample.enderio.block_painted_wooden_door.*                       
 fe.protection.trample.enderio.block_painted_wooden_trapdoor.*                          # (default: true) PLACE Painted Wooden Trapdoor
 fe.protection.trample.enderio.block_painted_workbench.*                                # (default: true) PLACE Painted Crafting Table
 fe.protection.trample.enderio.block_painter.*                                          # (default: true) PLACE tile.block_painter.name
+fe.protection.trample.enderio.block_pasture_dark_fused_glass.*                         # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_pasture_dark_fused_quartz.*                        # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_pasture_enlightened_fused_glass.*                  # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_pasture_enlightened_fused_quartz.*                 # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.trample.enderio.block_pasture_fused_glass.*                              # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_pasture_fused_quartz.*                             # (default: true) PLACE Fused Quartz
 fe.protection.trample.enderio.block_power_monitor.*                                    # (default: true) PLACE tile.block_power_monitor.name
 fe.protection.trample.enderio.block_powered_spawner.*                                  # (default: true) PLACE tile.block_powered_spawner.name
 fe.protection.trample.enderio.block_reinforced_obsidian.*                              # (default: true) PLACE Reinforced Obsidian
@@ -10395,6 +10668,12 @@ fe.protection.trample.enderio.block_tank.*                                      
 fe.protection.trample.enderio.block_tele_pad.*                                         # (default: true) PLACE tile.block_tele_pad.name
 fe.protection.trample.enderio.block_transceiver.*                                      # (default: true) PLACE tile.block_transceiver.name
 fe.protection.trample.enderio.block_travel_anchor.*                                    # (default: true) PLACE tile.block_travel_anchor.name
+fe.protection.trample.enderio.block_unholy_dark_fused_glass.*                          # (default: true) PLACE Dark Clear Glass
+fe.protection.trample.enderio.block_unholy_dark_fused_quartz.*                         # (default: true) PLACE Dark Fused Quartz
+fe.protection.trample.enderio.block_unholy_enlightened_fused_glass.*                   # (default: true) PLACE Enlightened Clear Glass
+fe.protection.trample.enderio.block_unholy_enlightened_fused_quartz.*                  # (default: true) PLACE Enlightened Fused Quartz
+fe.protection.trample.enderio.block_unholy_fused_glass.*                               # (default: true) PLACE Quite Clear Glass
+fe.protection.trample.enderio.block_unholy_fused_quartz.*                              # (default: true) PLACE Fused Quartz
 fe.protection.trample.enderio.block_vacuum_chest.*                                     # (default: true) PLACE tile.block_vacuum_chest.name
 fe.protection.trample.enderio.block_vat.*                                              # (default: true) PLACE tile.block_vat.name
 fe.protection.trample.enderio.block_weather_obelisk.*                                  # (default: true) PLACE tile.block_weather_obelisk.name
@@ -11515,6 +11794,7 @@ fe.protection.trample.rsgauges.daytimeswitch_glass1.*                           
 fe.protection.trample.rsgauges.detectorswitch_glass1.*                                 # (default: true) PLACE Glass Infrared Entity Detector
 fe.protection.trample.rsgauges.detectorswitch_glass2.*                                 # (default: true) PLACE Glass Linear Laser Entity Detector
 fe.protection.trample.rsgauges.dimmerswitch1.*                                         # (default: true) PLACE Industrial Dimmer
+fe.protection.trample.rsgauges.door_sensor_switch.*                                    # (default: true) PLACE Door sensor
 fe.protection.trample.rsgauges.elevator_button.*                                       # (default: true) PLACE Elevator Button
 fe.protection.trample.rsgauges.flatgauge1.*                                            # (default: true) PLACE Analog Voltmeter Redstone Gauge
 fe.protection.trample.rsgauges.flatgauge2.*                                            # (default: true) PLACE Analog Bar Redstone Gauge
@@ -11533,7 +11813,7 @@ fe.protection.trample.rsgauges.indicator4.*                                     
 fe.protection.trample.rsgauges.indicator_led_white.*                                   # (default: true) PLACE White LED Redstone Indicator
 fe.protection.trample.rsgauges.indicator_led_white_blink.*                             # (default: true) PLACE White Blinking LED Redstone Indicator
 fe.protection.trample.rsgauges.indicator_rustic_flag.*                                 # (default: true) PLACE Rustic Redstone Semaphore
-fe.protection.trample.rsgauges.industrial_comparator_switch.*                          # (default: true) PLACE tile.rsgauges.industrial_comparator_switch.name
+fe.protection.trample.rsgauges.industrial_comparator_switch.*                          # (default: true) PLACE Industrial Comparator Switch
 fe.protection.trample.rsgauges.industrial_knock_button.*                               # (default: true) PLACE Knock Detector Pulse Switch (industrial)
 fe.protection.trample.rsgauges.industrial_knock_switch.*                               # (default: true) PLACE Knock Detector Bistable Switch (industrial)
 fe.protection.trample.rsgauges.observerswitch1.*                                       # (default: true) PLACE Industrial Block Category Detector
@@ -11813,6 +12093,11 @@ fe.protection.trample.tconstruct.tooltables.*                                   
 fe.protection.trample.tconstruct.wood_rail.*                                           # (default: true) PLACE Wooden Rail
 fe.protection.trample.tconstruct.wood_rail_trapdoor.*                                  # (default: true) PLACE Wooden Rail with a Trapdoor
 fe.protection.trample.tconstruct.wooden_hopper.*                                       # (default: true) PLACE Wooden Hopper
+fe.protection.trample.thermaldynamics.duct_0.*                                         # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.trample.thermaldynamics.duct_16.*                                        # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.trample.thermaldynamics.duct_32.*                                        # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.trample.thermaldynamics.duct_48.*                                        # (default: true) PLACE tile.thermaldynamics.duct.name
+fe.protection.trample.thermaldynamics.duct_64.*                                        # (default: true) PLACE tile.thermaldynamics.duct.name
 fe.protection.trample.thermalexpansion.apparatus.*                                     # (default: true) PLACE tile.thermalexpansion.apparatus.name
 fe.protection.trample.thermalexpansion.cache.*                                         # (default: true) PLACE tile.thermalexpansion.cache.name
 fe.protection.trample.thermalexpansion.cell.*                                          # (default: true) PLACE tile.thermalexpansion.cell.name

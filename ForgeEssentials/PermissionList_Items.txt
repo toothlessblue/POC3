@@ -1,10 +1,13 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 01.01 14:50 ------------ \\#
-#// ----------- Total amount: 23804 --------- \\#
+#// --------------- 25.01 19:03 ------------ \\#
+#// ----------- Total amount: 24161 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                  # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.ae2stuff.visualiser.*                                              # (default: true) CRAFT Network Visualisation Tool
 fe.protection.craft.ae2stuff.wireless_kit.*                                            # (default: true) CRAFT Wireless Setup Kit
+fe.protection.craft.ae2wtlib.infinity_booster_card.*                                   # (default: true) CRAFT Infinity Booster Card
+fe.protection.craft.ae2wtlib.wut.*                                                     # (default: true) CRAFT Wireless Ultimate Terminal
+fe.protection.craft.ae2wtlib.wut_creative.*                                            # (default: true) CRAFT Creative Wireless Ultimate Terminal
 fe.protection.craft.akashictome.tome.*                                                 # (default: true) CRAFT Akashic Tome
 fe.protection.craft.alchemistry.compound.*                                             # (default: true) CRAFT Cellulose
 fe.protection.craft.alchemistry.condensed_milk.*                                       # (default: true) CRAFT Condensed Milk
@@ -436,6 +439,7 @@ fe.protection.craft.enderio.item_liquid_conduit.*                               
 fe.protection.craft.enderio.item_location_printout.*                                   # (default: true) CRAFT Location Printout
 fe.protection.craft.enderio.item_magnet.*                                              # (default: true) CRAFT Electromagnet
 fe.protection.craft.enderio.item_material.*                                            # (default: true) CRAFT Simple Machine Chassis
+fe.protection.craft.enderio.item_me_conduit.*                                          # (default: true) CRAFT enderio.item_me_conduit.name
 fe.protection.craft.enderio.item_mod_item_filter.*                                     # (default: true) CRAFT Mod Item Filter
 fe.protection.craft.enderio.item_opencomputers_conduit.*                               # (default: true) CRAFT enderio.item_opencomputers_conduit.name
 fe.protection.craft.enderio.item_owl_egg.*                                             # (default: true) CRAFT Owl Egg
@@ -2387,7 +2391,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                           # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                          # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                               # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §7Debug Item
+fe.protection.craft.retrocomputers.debug.*                                             # (default: true) CRAFT §5Debug Item
 fe.protection.craft.retrocomputers.disk.*                                              # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                       # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                     # (default: true) CRAFT Floppy Disk
@@ -2588,6 +2592,17 @@ fe.protection.craft.tconstruct.tough_binding.*                                  
 fe.protection.craft.tconstruct.tough_tool_rod.*                                        # (default: true) CRAFT Tough Tool Rod
 fe.protection.craft.tconstruct.wide_guard.*                                            # (default: true) CRAFT Wide Guard
 fe.protection.craft.testdummy.dummy.*                                                  # (default: true) CRAFT Test Dummy
+fe.protection.craft.theoneprobe.creativeprobe.*                                        # (default: true) CRAFT The Creative Probe
+fe.protection.craft.theoneprobe.diamond_helmet_probe.*                                 # (default: true) CRAFT Diamond Helmet with Probe
+fe.protection.craft.theoneprobe.gold_helmet_probe.*                                    # (default: true) CRAFT Gold Helmet with Probe
+fe.protection.craft.theoneprobe.iron_helmet_probe.*                                    # (default: true) CRAFT Iron Helmet with Probe
+fe.protection.craft.theoneprobe.probe.*                                                # (default: true) CRAFT The One Probe
+fe.protection.craft.theoneprobe.probenote.*                                            # (default: true) CRAFT The One Probe Read Me
+fe.protection.craft.thermaldynamics.cover.*                                            # (default: true) CRAFT Invalid Cover
+fe.protection.craft.thermaldynamics.filter.*                                           # (default: true) CRAFT Filter
+fe.protection.craft.thermaldynamics.relay.*                                            # (default: true) CRAFT Redstone Relay
+fe.protection.craft.thermaldynamics.retriever.*                                        # (default: true) CRAFT Retriever
+fe.protection.craft.thermaldynamics.servo.*                                            # (default: true) CRAFT Servo
 fe.protection.craft.thermalexpansion.augment.*                                         # (default: true) CRAFT Augment: item.invalid.name
 fe.protection.craft.thermalexpansion.capacitor.*                                       # (default: true) CRAFT Flux Capacitor (Basic)
 fe.protection.craft.thermalexpansion.florb.*                                           # (default: true) CRAFT Florb (info.cofh.empty§r)
@@ -2845,6 +2860,9 @@ fe.protection.craft.thermalfoundation.upgrade.*                                 
 fe.protection.craft.thermalfoundation.wrench.*                                         # (default: true) CRAFT Crescent Hammer
 fe.protection.craft.thuttech.devicelinker.*                                            # (default: true) CRAFT Device Linker
 fe.protection.craft.valkyrielib.guide.*                                                # (default: true) CRAFT Digital Guide
+fe.protection.craft.wct.magnet_card.*                                                  # (default: true) CRAFT Magnet Card
+fe.protection.craft.wct.wct.*                                                          # (default: true) CRAFT Wireless Crafting Terminal
+fe.protection.craft.wct.wct_creative.*                                                 # (default: true) CRAFT Creative Wireless Crafting Terminal
 fe.protection.craft.zettaindustries.itemcardnfc.*                                      # (default: true) CRAFT NFC Card
 fe.protection.craft.zettaindustries.itemprivatecardnfc.*                               # (default: true) CRAFT Private NFC Card
 fe.protection.craft.zettaindustries.logo.*                                             # (default: true) CRAFT Zetta Industries
@@ -2853,6 +2871,9 @@ fe.protection.craft.zettaindustries.smartcardterminal.*                         
 fe.protection.exist.*                                                                  # (default: true) Allow having item in inventory. Item will be destroyed if not allowed.
 fe.protection.exist.ae2stuff.visualiser.*                                              # (default: true) EXIST Network Visualisation Tool
 fe.protection.exist.ae2stuff.wireless_kit.*                                            # (default: true) EXIST Wireless Setup Kit
+fe.protection.exist.ae2wtlib.infinity_booster_card.*                                   # (default: true) EXIST Infinity Booster Card
+fe.protection.exist.ae2wtlib.wut.*                                                     # (default: true) EXIST Wireless Ultimate Terminal
+fe.protection.exist.ae2wtlib.wut_creative.*                                            # (default: true) EXIST Creative Wireless Ultimate Terminal
 fe.protection.exist.akashictome.tome.*                                                 # (default: true) EXIST Akashic Tome
 fe.protection.exist.alchemistry.compound.*                                             # (default: true) EXIST Cellulose
 fe.protection.exist.alchemistry.condensed_milk.*                                       # (default: true) EXIST Condensed Milk
@@ -3284,6 +3305,7 @@ fe.protection.exist.enderio.item_liquid_conduit.*                               
 fe.protection.exist.enderio.item_location_printout.*                                   # (default: true) EXIST Location Printout
 fe.protection.exist.enderio.item_magnet.*                                              # (default: true) EXIST Electromagnet
 fe.protection.exist.enderio.item_material.*                                            # (default: true) EXIST Simple Machine Chassis
+fe.protection.exist.enderio.item_me_conduit.*                                          # (default: true) EXIST enderio.item_me_conduit.name
 fe.protection.exist.enderio.item_mod_item_filter.*                                     # (default: true) EXIST Mod Item Filter
 fe.protection.exist.enderio.item_opencomputers_conduit.*                               # (default: true) EXIST enderio.item_opencomputers_conduit.name
 fe.protection.exist.enderio.item_owl_egg.*                                             # (default: true) EXIST Owl Egg
@@ -5235,7 +5257,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                           # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                          # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                               # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §7Debug Item
+fe.protection.exist.retrocomputers.debug.*                                             # (default: true) EXIST §5Debug Item
 fe.protection.exist.retrocomputers.disk.*                                              # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                       # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                     # (default: true) EXIST Floppy Disk
@@ -5436,6 +5458,17 @@ fe.protection.exist.tconstruct.tough_binding.*                                  
 fe.protection.exist.tconstruct.tough_tool_rod.*                                        # (default: true) EXIST Tough Tool Rod
 fe.protection.exist.tconstruct.wide_guard.*                                            # (default: true) EXIST Wide Guard
 fe.protection.exist.testdummy.dummy.*                                                  # (default: true) EXIST Test Dummy
+fe.protection.exist.theoneprobe.creativeprobe.*                                        # (default: true) EXIST The Creative Probe
+fe.protection.exist.theoneprobe.diamond_helmet_probe.*                                 # (default: true) EXIST Diamond Helmet with Probe
+fe.protection.exist.theoneprobe.gold_helmet_probe.*                                    # (default: true) EXIST Gold Helmet with Probe
+fe.protection.exist.theoneprobe.iron_helmet_probe.*                                    # (default: true) EXIST Iron Helmet with Probe
+fe.protection.exist.theoneprobe.probe.*                                                # (default: true) EXIST The One Probe
+fe.protection.exist.theoneprobe.probenote.*                                            # (default: true) EXIST The One Probe Read Me
+fe.protection.exist.thermaldynamics.cover.*                                            # (default: true) EXIST Invalid Cover
+fe.protection.exist.thermaldynamics.filter.*                                           # (default: true) EXIST Filter
+fe.protection.exist.thermaldynamics.relay.*                                            # (default: true) EXIST Redstone Relay
+fe.protection.exist.thermaldynamics.retriever.*                                        # (default: true) EXIST Retriever
+fe.protection.exist.thermaldynamics.servo.*                                            # (default: true) EXIST Servo
 fe.protection.exist.thermalexpansion.augment.*                                         # (default: true) EXIST Augment: item.invalid.name
 fe.protection.exist.thermalexpansion.capacitor.*                                       # (default: true) EXIST Flux Capacitor (Basic)
 fe.protection.exist.thermalexpansion.florb.*                                           # (default: true) EXIST Florb (info.cofh.empty§r)
@@ -5693,6 +5726,9 @@ fe.protection.exist.thermalfoundation.upgrade.*                                 
 fe.protection.exist.thermalfoundation.wrench.*                                         # (default: true) EXIST Crescent Hammer
 fe.protection.exist.thuttech.devicelinker.*                                            # (default: true) EXIST Device Linker
 fe.protection.exist.valkyrielib.guide.*                                                # (default: true) EXIST Digital Guide
+fe.protection.exist.wct.magnet_card.*                                                  # (default: true) EXIST Magnet Card
+fe.protection.exist.wct.wct.*                                                          # (default: true) EXIST Wireless Crafting Terminal
+fe.protection.exist.wct.wct_creative.*                                                 # (default: true) EXIST Creative Wireless Crafting Terminal
 fe.protection.exist.zettaindustries.itemcardnfc.*                                      # (default: true) EXIST NFC Card
 fe.protection.exist.zettaindustries.itemprivatecardnfc.*                               # (default: true) EXIST Private NFC Card
 fe.protection.exist.zettaindustries.logo.*                                             # (default: true) EXIST Zetta Industries
@@ -5701,6 +5737,9 @@ fe.protection.exist.zettaindustries.smartcardterminal.*                         
 fe.protection.inventory.*                                                              # (default: true) Allow having item in inventory. Item will be dropped if not allowed.
 fe.protection.inventory.ae2stuff.visualiser.*                                          # (default: true) INVENTORY Network Visualisation Tool
 fe.protection.inventory.ae2stuff.wireless_kit.*                                        # (default: true) INVENTORY Wireless Setup Kit
+fe.protection.inventory.ae2wtlib.infinity_booster_card.*                               # (default: true) INVENTORY Infinity Booster Card
+fe.protection.inventory.ae2wtlib.wut.*                                                 # (default: true) INVENTORY Wireless Ultimate Terminal
+fe.protection.inventory.ae2wtlib.wut_creative.*                                        # (default: true) INVENTORY Creative Wireless Ultimate Terminal
 fe.protection.inventory.akashictome.tome.*                                             # (default: true) INVENTORY Akashic Tome
 fe.protection.inventory.alchemistry.compound.*                                         # (default: true) INVENTORY Cellulose
 fe.protection.inventory.alchemistry.condensed_milk.*                                   # (default: true) INVENTORY Condensed Milk
@@ -6132,6 +6171,7 @@ fe.protection.inventory.enderio.item_liquid_conduit.*                           
 fe.protection.inventory.enderio.item_location_printout.*                               # (default: true) INVENTORY Location Printout
 fe.protection.inventory.enderio.item_magnet.*                                          # (default: true) INVENTORY Electromagnet
 fe.protection.inventory.enderio.item_material.*                                        # (default: true) INVENTORY Simple Machine Chassis
+fe.protection.inventory.enderio.item_me_conduit.*                                      # (default: true) INVENTORY enderio.item_me_conduit.name
 fe.protection.inventory.enderio.item_mod_item_filter.*                                 # (default: true) INVENTORY Mod Item Filter
 fe.protection.inventory.enderio.item_opencomputers_conduit.*                           # (default: true) INVENTORY enderio.item_opencomputers_conduit.name
 fe.protection.inventory.enderio.item_owl_egg.*                                         # (default: true) INVENTORY Owl Egg
@@ -8083,7 +8123,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                       # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                      # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                           # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §7Debug Item
+fe.protection.inventory.retrocomputers.debug.*                                         # (default: true) INVENTORY §5Debug Item
 fe.protection.inventory.retrocomputers.disk.*                                          # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                   # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                 # (default: true) INVENTORY Floppy Disk
@@ -8284,6 +8324,17 @@ fe.protection.inventory.tconstruct.tough_binding.*                              
 fe.protection.inventory.tconstruct.tough_tool_rod.*                                    # (default: true) INVENTORY Tough Tool Rod
 fe.protection.inventory.tconstruct.wide_guard.*                                        # (default: true) INVENTORY Wide Guard
 fe.protection.inventory.testdummy.dummy.*                                              # (default: true) INVENTORY Test Dummy
+fe.protection.inventory.theoneprobe.creativeprobe.*                                    # (default: true) INVENTORY The Creative Probe
+fe.protection.inventory.theoneprobe.diamond_helmet_probe.*                             # (default: true) INVENTORY Diamond Helmet with Probe
+fe.protection.inventory.theoneprobe.gold_helmet_probe.*                                # (default: true) INVENTORY Gold Helmet with Probe
+fe.protection.inventory.theoneprobe.iron_helmet_probe.*                                # (default: true) INVENTORY Iron Helmet with Probe
+fe.protection.inventory.theoneprobe.probe.*                                            # (default: true) INVENTORY The One Probe
+fe.protection.inventory.theoneprobe.probenote.*                                        # (default: true) INVENTORY The One Probe Read Me
+fe.protection.inventory.thermaldynamics.cover.*                                        # (default: true) INVENTORY Invalid Cover
+fe.protection.inventory.thermaldynamics.filter.*                                       # (default: true) INVENTORY Filter
+fe.protection.inventory.thermaldynamics.relay.*                                        # (default: true) INVENTORY Redstone Relay
+fe.protection.inventory.thermaldynamics.retriever.*                                    # (default: true) INVENTORY Retriever
+fe.protection.inventory.thermaldynamics.servo.*                                        # (default: true) INVENTORY Servo
 fe.protection.inventory.thermalexpansion.augment.*                                     # (default: true) INVENTORY Augment: item.invalid.name
 fe.protection.inventory.thermalexpansion.capacitor.*                                   # (default: true) INVENTORY Flux Capacitor (Basic)
 fe.protection.inventory.thermalexpansion.florb.*                                       # (default: true) INVENTORY Florb (info.cofh.empty§r)
@@ -8541,6 +8592,9 @@ fe.protection.inventory.thermalfoundation.upgrade.*                             
 fe.protection.inventory.thermalfoundation.wrench.*                                     # (default: true) INVENTORY Crescent Hammer
 fe.protection.inventory.thuttech.devicelinker.*                                        # (default: true) INVENTORY Device Linker
 fe.protection.inventory.valkyrielib.guide.*                                            # (default: true) INVENTORY Digital Guide
+fe.protection.inventory.wct.magnet_card.*                                              # (default: true) INVENTORY Magnet Card
+fe.protection.inventory.wct.wct.*                                                      # (default: true) INVENTORY Wireless Crafting Terminal
+fe.protection.inventory.wct.wct_creative.*                                             # (default: true) INVENTORY Creative Wireless Crafting Terminal
 fe.protection.inventory.zettaindustries.itemcardnfc.*                                  # (default: true) INVENTORY NFC Card
 fe.protection.inventory.zettaindustries.itemprivatecardnfc.*                           # (default: true) INVENTORY Private NFC Card
 fe.protection.inventory.zettaindustries.logo.*                                         # (default: true) INVENTORY Zetta Industries
@@ -8550,6 +8604,9 @@ fe.protection.inventorygroup                                                    
 fe.protection.use.*                                                                    # (default: true) Allow using items
 fe.protection.use.ae2stuff.visualiser.*                                                # (default: true) USE Network Visualisation Tool
 fe.protection.use.ae2stuff.wireless_kit.*                                              # (default: true) USE Wireless Setup Kit
+fe.protection.use.ae2wtlib.infinity_booster_card.*                                     # (default: true) USE Infinity Booster Card
+fe.protection.use.ae2wtlib.wut.*                                                       # (default: true) USE Wireless Ultimate Terminal
+fe.protection.use.ae2wtlib.wut_creative.*                                              # (default: true) USE Creative Wireless Ultimate Terminal
 fe.protection.use.akashictome.tome.*                                                   # (default: true) USE Akashic Tome
 fe.protection.use.alchemistry.compound.*                                               # (default: true) USE Cellulose
 fe.protection.use.alchemistry.condensed_milk.*                                         # (default: true) USE Condensed Milk
@@ -8981,6 +9038,7 @@ fe.protection.use.enderio.item_liquid_conduit.*                                 
 fe.protection.use.enderio.item_location_printout.*                                     # (default: true) USE Location Printout
 fe.protection.use.enderio.item_magnet.*                                                # (default: true) USE Electromagnet
 fe.protection.use.enderio.item_material.*                                              # (default: true) USE Simple Machine Chassis
+fe.protection.use.enderio.item_me_conduit.*                                            # (default: true) USE enderio.item_me_conduit.name
 fe.protection.use.enderio.item_mod_item_filter.*                                       # (default: true) USE Mod Item Filter
 fe.protection.use.enderio.item_opencomputers_conduit.*                                 # (default: true) USE enderio.item_opencomputers_conduit.name
 fe.protection.use.enderio.item_owl_egg.*                                               # (default: true) USE Owl Egg
@@ -10932,7 +10990,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                             # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                            # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                 # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §7Debug Item
+fe.protection.use.retrocomputers.debug.*                                               # (default: true) USE §5Debug Item
 fe.protection.use.retrocomputers.disk.*                                                # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                         # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                       # (default: true) USE Floppy Disk
@@ -11133,6 +11191,17 @@ fe.protection.use.tconstruct.tough_binding.*                                    
 fe.protection.use.tconstruct.tough_tool_rod.*                                          # (default: true) USE Tough Tool Rod
 fe.protection.use.tconstruct.wide_guard.*                                              # (default: true) USE Wide Guard
 fe.protection.use.testdummy.dummy.*                                                    # (default: true) USE Test Dummy
+fe.protection.use.theoneprobe.creativeprobe.*                                          # (default: true) USE The Creative Probe
+fe.protection.use.theoneprobe.diamond_helmet_probe.*                                   # (default: true) USE Diamond Helmet with Probe
+fe.protection.use.theoneprobe.gold_helmet_probe.*                                      # (default: true) USE Gold Helmet with Probe
+fe.protection.use.theoneprobe.iron_helmet_probe.*                                      # (default: true) USE Iron Helmet with Probe
+fe.protection.use.theoneprobe.probe.*                                                  # (default: true) USE The One Probe
+fe.protection.use.theoneprobe.probenote.*                                              # (default: true) USE The One Probe Read Me
+fe.protection.use.thermaldynamics.cover.*                                              # (default: true) USE Invalid Cover
+fe.protection.use.thermaldynamics.filter.*                                             # (default: true) USE Filter
+fe.protection.use.thermaldynamics.relay.*                                              # (default: true) USE Redstone Relay
+fe.protection.use.thermaldynamics.retriever.*                                          # (default: true) USE Retriever
+fe.protection.use.thermaldynamics.servo.*                                              # (default: true) USE Servo
 fe.protection.use.thermalexpansion.augment.*                                           # (default: true) USE Augment: item.invalid.name
 fe.protection.use.thermalexpansion.capacitor.*                                         # (default: true) USE Flux Capacitor (Basic)
 fe.protection.use.thermalexpansion.florb.*                                             # (default: true) USE Florb (info.cofh.empty§r)
@@ -11390,6 +11459,9 @@ fe.protection.use.thermalfoundation.upgrade.*                                   
 fe.protection.use.thermalfoundation.wrench.*                                           # (default: true) USE Crescent Hammer
 fe.protection.use.thuttech.devicelinker.*                                              # (default: true) USE Device Linker
 fe.protection.use.valkyrielib.guide.*                                                  # (default: true) USE Digital Guide
+fe.protection.use.wct.magnet_card.*                                                    # (default: true) USE Magnet Card
+fe.protection.use.wct.wct.*                                                            # (default: true) USE Wireless Crafting Terminal
+fe.protection.use.wct.wct_creative.*                                                   # (default: true) USE Creative Wireless Crafting Terminal
 fe.protection.use.zettaindustries.itemcardnfc.*                                        # (default: true) USE NFC Card
 fe.protection.use.zettaindustries.itemprivatecardnfc.*                                 # (default: true) USE Private NFC Card
 fe.protection.use.zettaindustries.logo.*                                               # (default: true) USE Zetta Industries
