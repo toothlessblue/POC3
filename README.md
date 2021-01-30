@@ -40,7 +40,6 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
 &emsp; ArchitectureCraft  
-&emsp; AE2Stuff  
 &emsp; BetterFPS  
 &emsp; BiomesOPlenty  
 &emsp; ChestTransporter  
@@ -55,11 +54,13 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; EnderIO  
 &emsp; EnderIO Conduits  
 &emsp; EnderStorage  
+&emsp; ExtraCells  
 &emsp; FastLeafDecay  
 &emsp; FTBUtilities  
 &emsp; Gravestone  
 &emsp; IronChest  
 &emsp; IronJetpacks  
+&emsp; LazyAE2  
 &emsp; LittleTiles  
 &emsp; MalisisDoors  
 &emsp; MmmMmmMmmMmm  
