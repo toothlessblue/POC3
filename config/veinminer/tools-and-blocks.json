@@ -32,6 +32,8 @@
         "thermalfoundation:tool.axe_tin"
       ],
       "blocklist": [
+        "advancedrocketry:alienleaves/0",
+        "advancedrocketry:alienwood/0",
         "avp:unitree.wood/0",
         "biomesoplenty:leaves_0/8",
         "biomesoplenty:leaves_0/9",
@@ -213,6 +215,12 @@
         "immersiveengineering:ore/3",
         "immersiveengineering:ore/4",
         "immersiveengineering:ore/5",
+        "libvulpes:ore0/0",
+        "libvulpes:ore0/4",
+        "libvulpes:ore0/5",
+        "libvulpes:ore0/8",
+        "libvulpes:ore0/9",
+        "libvulpes:ore0/10",
         "matteroverdrive:dilithium_ore/0",
         "matteroverdrive:tritanium_ore/0",
         "mekanism:oreblock/0",
@@ -331,6 +339,7 @@
         "thermalfoundation:tool.shears_wood"
       ],
       "blocklist": [
+        "advancedrocketry:alienleaves/0",
         "biomesoplenty:leaves_0/8",
         "biomesoplenty:leaves_0/9",
         "biomesoplenty:leaves_0/10",
