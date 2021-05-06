@@ -83,8 +83,12 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; Tinkers'Construct  
 &emsp; Tinkers'ToolLeveling  
 &emsp; VeinMiner  
-&emsp; WirelessCraftingTerminal  
+&emsp; WirelessCraftingTerminal 
+&emsp; Advanced Rocketry
+&emsp; Ender Chests
+&emsp; CompactMchines
 &emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
+
 
 **optional:**  
 &emsp; ChunkAnimator  
