@@ -4,9 +4,6 @@ The pack is designed for our public server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
 
-To guarantee the server performance as much as possible we have limited the amount of chunkloader upgrades to 10 per player. 
-But at least you get these right from the beginning.
-
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
 MC server: poc3.bloodcoffeegames.com  
@@ -86,8 +83,12 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; Tinkers'Construct  
 &emsp; Tinkers'ToolLeveling  
 &emsp; VeinMiner  
-&emsp; WirelessCraftingTerminal  
+&emsp; WirelessCraftingTerminal 
+&emsp; Advanced Rocketry
+&emsp; Ender Chests
+&emsp; CompactMchines
 &emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
+
 
 **optional:**  
 &emsp; ChunkAnimator  
