@@ -14,11 +14,11 @@
 &emsp; Zettaindustries  
 
 **Some mods to round off the pack:**  
+&emsp; AdvancedRocketry  
 &emsp; Alchemistry  
 &emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
 &emsp; ArchitectureCraft  
-&emsp; AE2Stuff  
 &emsp; BetterFPS  
 &emsp; BiomesOPlenty  
 &emsp; ChestTransporter  
@@ -26,6 +26,7 @@
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
 &emsp; Comforts  
+&emsp; CompactMachines  
 &emsp; Controlling  
 &emsp; CompressedBlocks    
 &emsp; DoggyTalents  
@@ -33,11 +34,13 @@
 &emsp; EnderIO  
 &emsp; EnderIO Conduits  
 &emsp; EnderStorage  
+&emsp; ExtraCells  
 &emsp; FastLeafDecay  
 &emsp; FTBUtilities  
 &emsp; Gravestone  
 &emsp; IronChest  
 &emsp; IronJetpacks  
+&emsp; LazyAE2  
 &emsp; LittleTiles  
 &emsp; MalisisDoors  
 &emsp; MmmMmmMmmMmm  

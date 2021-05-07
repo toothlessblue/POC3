@@ -12,14 +12,13 @@ saves
 schematics
 screenshots
 zettaindustries
-stall-reports
+natives
 
 world*
 tmp
 XaeroWorldMap
 XaeroWaypoints*
 
-server.properties
 
 .curseclient
 crafttweaker.log
@@ -35,14 +34,12 @@ usercache.json
 usernamecache.json
 WailaErrorOutput.txt
 
-mods/worldedit*
-mods/FastAsyncWorldEdit*
-mods/TickDynamic*
+mods/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar
+mods/TickDynamic-1.12.2-1.0.2.jar
 
 config/FastAsyncWorldEdit
 ForgeEssentials/playerlogger.h2.db
 ForgeEssentials/playerlogger.trace.db
-ForgeEssentials/playerlogger.lock.db
 ForgeEssentials/ChatLog
 ForgeEssentials/ItemList.txt
 ForgeEssentials/PermissionList_Blocks.txt
