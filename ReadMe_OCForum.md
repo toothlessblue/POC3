@@ -36,6 +36,7 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; Zettaindustries  
 
 **Some mods to round off the pack:**  
+&emsp; AdvancedRocketry  
 &emsp; Alchemistry  
 &emsp; AliensVsPredator  
 &emsp; AppliedEnergistics2  
@@ -47,6 +48,7 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
 &emsp; Comforts  
+&emsp; CompactMachines  
 &emsp; Controlling  
 &emsp; CompressedBlocks    
 &emsp; DoggyTalents  
