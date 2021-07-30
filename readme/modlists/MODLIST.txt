@@ -5,7 +5,6 @@
 &emsp; OCSensors  
 &emsp; OpenGlasses2  
 &emsp; OpenLights  
-&emsp; OpenModularTurrets  
 &emsp; OpenScreens  
 &emsp; OpenPrinter  
 &emsp; OpenPython  
