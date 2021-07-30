@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 01.05 12:39 ------------ \\#
-#// ----------- Total amount: 36883 --------- \\#
+#// --------------- 30.07 18:27 ------------ \\#
+#// ----------- Total amount: 38089 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                                        # (default: true) Allow breaking blocks
 fe.protection.break.additionalcompression.blocksand_compressed.*                                             # (default: true) BREAK %s Sand
@@ -15,6 +15,97 @@ fe.protection.break.additionalcompression.itemnetherstar_compressed.*           
 fe.protection.break.additionalcompression.netherrack_compressed.*                                            # (default: true) BREAK %s Netherrack
 fe.protection.break.additionalcompression.soulsand_compressed.*                                              # (default: true) BREAK %s Soul Sand
 fe.protection.break.additionalcompression.stone_compressed.*                                                 # (default: true) BREAK %s Stone
+fe.protection.break.advancedrocketry.advrocketmotor.*                                                        # (default: true) BREAK Advanced Rocket Engine
+fe.protection.break.advancedrocketry.airlock_door.*                                                          # (default: true) BREAK item.smallAirlockDoor.name
+fe.protection.break.advancedrocketry.alienleaves.*                                                           # (default: true) BREAK Lightwood Leaves
+fe.protection.break.advancedrocketry.aliensapling.*                                                          # (default: true) BREAK Lightwood Sapling
+fe.protection.break.advancedrocketry.alienwood.*                                                             # (default: true) BREAK Wood
+fe.protection.break.advancedrocketry.altitudecontroller.*                                                    # (default: true) BREAK Altitude Controller
+fe.protection.break.advancedrocketry.arcfurnace.*                                                            # (default: true) BREAK Electric Arc Furnace
+fe.protection.break.advancedrocketry.astrobed.*                                                              # (default: true) BREAK tile.astroBed.name
+fe.protection.break.advancedrocketry.basalt.*                                                                # (default: true) BREAK Basalt
+fe.protection.break.advancedrocketry.beacon.*                                                                # (default: true) BREAK Beacon
+fe.protection.break.advancedrocketry.biomescanner.*                                                          # (default: true) BREAK Biome Scanner
+fe.protection.break.advancedrocketry.blackholegenerator.*                                                    # (default: true) BREAK Black Hole Generator
+fe.protection.break.advancedrocketry.blastbrick.*                                                            # (default: true) BREAK HeatProof Brick
+fe.protection.break.advancedrocketry.blocklens.*                                                             # (default: true) BREAK Lens
+fe.protection.break.advancedrocketry.blockpump.*                                                             # (default: true) BREAK Fluid Pump
+fe.protection.break.advancedrocketry.centrifuge.*                                                            # (default: true) BREAK Centrifuge
+fe.protection.break.advancedrocketry.charcoallog.*                                                           # (default: true) BREAK Charcoal Log
+fe.protection.break.advancedrocketry.chemicalreactor.*                                                       # (default: true) BREAK Chemical Reactor
+fe.protection.break.advancedrocketry.circlelight.*                                                           # (default: true) BREAK Station Light
+fe.protection.break.advancedrocketry.concrete.*                                                              # (default: true) BREAK Concrete
+fe.protection.break.advancedrocketry.crystal.*                                                               # (default: true) BREAK Celestial Crystal
+fe.protection.break.advancedrocketry.crystallizer.*                                                          # (default: true) BREAK Crystallizer
+fe.protection.break.advancedrocketry.cuttingmachine.*                                                        # (default: true) BREAK Cutting Machine
+fe.protection.break.advancedrocketry.deployablerocketbuilder.*                                               # (default: true) BREAK Unmanned Vehicle Assembler
+fe.protection.break.advancedrocketry.drill.*                                                                 # (default: true) BREAK Drill
+fe.protection.break.advancedrocketry.electricmushroom.*                                                      # (default: true) BREAK Electric Mushroom
+fe.protection.break.advancedrocketry.electrolyser.*                                                          # (default: true) BREAK Electrolyser
+fe.protection.break.advancedrocketry.enrichedlavafluid.*                                                     # (default: true) BREAK Enriched Lava Block
+fe.protection.break.advancedrocketry.forcefield.*                                                            # (default: true) BREAK Force Field
+fe.protection.break.advancedrocketry.forcefieldprojector.*                                                   # (default: true) BREAK Force Field Projector
+fe.protection.break.advancedrocketry.fuelingstation.*                                                        # (default: true) BREAK Fueling station
+fe.protection.break.advancedrocketry.fueltank.*                                                              # (default: true) BREAK Liquid Fuel Tank
+fe.protection.break.advancedrocketry.geode.*                                                                 # (default: true) BREAK Geode Block
+fe.protection.break.advancedrocketry.gravitycontroller.*                                                     # (default: true) BREAK Station Gravity Controller
+fe.protection.break.advancedrocketry.gravitymachine.*                                                        # (default: true) BREAK Area Gravity Controller
+fe.protection.break.advancedrocketry.guidancecomputer.*                                                      # (default: true) BREAK Guidance Computer
+fe.protection.break.advancedrocketry.hotturf.*                                                               # (default: true) BREAK Oxidized Ferric Sand
+fe.protection.break.advancedrocketry.hydrogenfluid.*                                                         # (default: true) BREAK Hydrogen
+fe.protection.break.advancedrocketry.intake.*                                                                # (default: true) BREAK Gas Intake
+fe.protection.break.advancedrocketry.landingfloat.*                                                          # (default: true) BREAK Landing Float
+fe.protection.break.advancedrocketry.landingpad.*                                                            # (default: true) BREAK Docking Pad
+fe.protection.break.advancedrocketry.lathe.*                                                                 # (default: true) BREAK Lathe
+fe.protection.break.advancedrocketry.launchpad.*                                                             # (default: true) BREAK Launch Pad
+fe.protection.break.advancedrocketry.lightsource.*                                                           # (default: true) BREAK tile.lightSource.name
+fe.protection.break.advancedrocketry.liquidtank.*                                                            # (default: true) BREAK Pressurized Tank
+fe.protection.break.advancedrocketry.loader.*                                                                # (default: true) BREAK tile.loader.name
+fe.protection.break.advancedrocketry.metal0.*                                                                # (default: true) BREAK tile.metal.name
+fe.protection.break.advancedrocketry.microwavereciever.*                                                     # (default: true) BREAK Microwave Receiver
+fe.protection.break.advancedrocketry.monitoringstation.*                                                     # (default: true) BREAK Rocket Monitoring Station
+fe.protection.break.advancedrocketry.moonturf.*                                                              # (default: true) BREAK Moon Turf
+fe.protection.break.advancedrocketry.moonturf_dark.*                                                         # (default: true) BREAK Dark Moon Turf
+fe.protection.break.advancedrocketry.nitrogenfluid.*                                                         # (default: true) BREAK Nitrogen
+fe.protection.break.advancedrocketry.observatory.*                                                           # (default: true) BREAK Observatory
+fe.protection.break.advancedrocketry.orientationcontroller.*                                                 # (default: true) BREAK Orientation Controller
+fe.protection.break.advancedrocketry.oxygencharger.*                                                         # (default: true) BREAK Gas Charge Pad
+fe.protection.break.advancedrocketry.oxygendetection.*                                                       # (default: true) BREAK Atmosphere Detector
+fe.protection.break.advancedrocketry.oxygenfluid.*                                                           # (default: true) BREAK Oxygen
+fe.protection.break.advancedrocketry.oxygenscrubber.*                                                        # (default: true) BREAK CO2 Scrubber
+fe.protection.break.advancedrocketry.oxygenvent.*                                                            # (default: true) BREAK Oxygen Vent
+fe.protection.break.advancedrocketry.pipesealer.*                                                            # (default: true) BREAK Pipe Seal
+fe.protection.break.advancedrocketry.planetanalyser.*                                                        # (default: true) BREAK Astrobody Data Processor
+fe.protection.break.advancedrocketry.planetholoselector.*                                                    # (default: true) BREAK Holographic Planet Selector
+fe.protection.break.advancedrocketry.planetselector.*                                                        # (default: true) BREAK Planet Selector
+fe.protection.break.advancedrocketry.planks.*                                                                # (default: true) BREAK Lightwood planks
+fe.protection.break.advancedrocketry.platepress.*                                                            # (default: true) BREAK Small Plate Presser
+fe.protection.break.advancedrocketry.precisionassemblingmachine.*                                            # (default: true) BREAK Precision Assembler
+fe.protection.break.advancedrocketry.quartzcrucible.*                                                        # (default: true) BREAK Quartz Crucible
+fe.protection.break.advancedrocketry.railgun.*                                                               # (default: true) BREAK Block Cannon
+fe.protection.break.advancedrocketry.rocketbuilder.*                                                         # (default: true) BREAK Rocket Assembling Machine
+fe.protection.break.advancedrocketry.rocketfuel.*                                                            # (default: true) BREAK Rocket Fuel
+fe.protection.break.advancedrocketry.rocketmotor.*                                                           # (default: true) BREAK Liquid Fueled Engine
+fe.protection.break.advancedrocketry.rollingmachine.*                                                        # (default: true) BREAK Rolling Machine
+fe.protection.break.advancedrocketry.satellitebuilder.*                                                      # (default: true) BREAK Satellite Builder
+fe.protection.break.advancedrocketry.satellitecontrolcenter.*                                                # (default: true) BREAK Satellite Terminal
+fe.protection.break.advancedrocketry.sawblade.*                                                              # (default: true) BREAK Saw Blade Assembly
+fe.protection.break.advancedrocketry.seat.*                                                                  # (default: true) BREAK Seat
+fe.protection.break.advancedrocketry.solargenerator.*                                                        # (default: true) BREAK Solar Generator
+fe.protection.break.advancedrocketry.solarpanel.*                                                            # (default: true) BREAK Solar Panel
+fe.protection.break.advancedrocketry.spaceelevatorcontroller.*                                               # (default: true) BREAK Space Elevator
+fe.protection.break.advancedrocketry.spacelaser.*                                                            # (default: true) BREAK Orbital Laser Drill
+fe.protection.break.advancedrocketry.stationbuilder.*                                                        # (default: true) BREAK Space Station Assembler
+fe.protection.break.advancedrocketry.stationmarker.*                                                         # (default: true) BREAK Station Docking Port
+fe.protection.break.advancedrocketry.structuretower.*                                                        # (default: true) BREAK Structure Tower
+fe.protection.break.advancedrocketry.suitworkstation.*                                                       # (default: true) BREAK Suit Workstation
+fe.protection.break.advancedrocketry.terraformer.*                                                           # (default: true) BREAK Atmosphere Terraformer
+fe.protection.break.advancedrocketry.thermitetorch.*                                                         # (default: true) BREAK Thermite Torch
+fe.protection.break.advancedrocketry.unlittorch.*                                                            # (default: true) BREAK Extinguished Torch
+fe.protection.break.advancedrocketry.vitrifiedsand.*                                                         # (default: true) BREAK Vitrified Sand
+fe.protection.break.advancedrocketry.warpcore.*                                                              # (default: true) BREAK Warp Core
+fe.protection.break.advancedrocketry.warpmonitor.*                                                           # (default: true) BREAK Warp Controller
+fe.protection.break.advancedrocketry.wirelesstransciever.*                                                   # (default: true) BREAK Wireless Transceiver
 fe.protection.break.ae2stuff.encoder.*                                                                       # (default: true) BREAK Air
 fe.protection.break.ae2stuff.grower.*                                                                        # (default: true) BREAK Air
 fe.protection.break.ae2stuff.inscriber.*                                                                     # (default: true) BREAK Air
@@ -745,6 +836,13 @@ fe.protection.break.comforts.sleeping_bag_red.*                                 
 fe.protection.break.comforts.sleeping_bag_silver.*                                                           # (default: true) BREAK tile.comforts.sleeping_bag.silver.name
 fe.protection.break.comforts.sleeping_bag_white.*                                                            # (default: true) BREAK tile.comforts.sleeping_bag.white.name
 fe.protection.break.comforts.sleeping_bag_yellow.*                                                           # (default: true) BREAK tile.comforts.sleeping_bag.yellow.name
+fe.protection.break.compactmachines3.craftinghologram.*                                                      # (default: true) BREAK tile.compactmachines3.craftinghologram.name
+fe.protection.break.compactmachines3.fieldprojector.*                                                        # (default: true) BREAK Miniaturization Field Projector
+fe.protection.break.compactmachines3.machine.*                                                               # (default: true) BREAK tile.compactmachines3.machine.name
+fe.protection.break.compactmachines3.redstonetunnel.*                                                        # (default: true) BREAK Redstone Tunnel
+fe.protection.break.compactmachines3.tunnel.*                                                                # (default: true) BREAK Tunnel
+fe.protection.break.compactmachines3.wall.*                                                                  # (default: true) BREAK Solid Compact Machine Wall
+fe.protection.break.compactmachines3.wallbreakable.*                                                         # (default: true) BREAK Compact Machine Wall
 fe.protection.break.computronics.audio_cable.*                                                               # (default: true) BREAK Audio Cable
 fe.protection.break.computronics.camera.*                                                                    # (default: true) BREAK Camera
 fe.protection.break.computronics.chat_box.*                                                                  # (default: true) BREAK Chat Box
@@ -965,6 +1063,7 @@ fe.protection.break.enderio.block_wireless_charger.*                            
 fe.protection.break.enderio.block_wireless_charger_extension.*                                               # (default: true) BREAK tile.block_wireless_charger_extension.name
 fe.protection.break.enderio.block_xp_vacuum.*                                                                # (default: true) BREAK tile.block_xp_vacuum.name
 fe.protection.break.enderio.block_zombie_generator.*                                                         # (default: true) BREAK tile.block_zombie_generator.name
+fe.protection.break.enderstorage.ender_storage.*                                                             # (default: true) BREAK tile.ender_storage.name
 fe.protection.break.eplus.advanced_table.*                                                                   # (default: true) BREAK Advanced Enchantment Table
 fe.protection.break.eplus.decorative_book.*                                                                  # (default: true) BREAK tile.eplus.decorative.book.name
 fe.protection.break.extracells.certustank.*                                                                  # (default: true) BREAK extracells.block.certustank.name
@@ -1224,6 +1323,22 @@ fe.protection.break.ironchest.iron_shulker_box_red.*                            
 fe.protection.break.ironchest.iron_shulker_box_silver.*                                                      # (default: true) BREAK tile.IronShulkerBoxsilver.name
 fe.protection.break.ironchest.iron_shulker_box_white.*                                                       # (default: true) BREAK tile.IronShulkerBoxwhite.name
 fe.protection.break.ironchest.iron_shulker_box_yellow.*                                                      # (default: true) BREAK tile.IronShulkerBoxyellow.name
+fe.protection.break.libvulpes.advancedmotor.*                                                                # (default: true) BREAK Advanced Motor
+fe.protection.break.libvulpes.advstructuremachine.*                                                          # (default: true) BREAK Advanced Machine Structure
+fe.protection.break.libvulpes.blockphantom.*                                                                 # (default: true) BREAK tile.blockPhantom.name
+fe.protection.break.libvulpes.coalgenerator.*                                                                # (default: true) BREAK Coal Generator
+fe.protection.break.libvulpes.coil0.*                                                                        # (default: true) BREAK tile.coil.name
+fe.protection.break.libvulpes.creativepowerbattery.*                                                         # (default: true) BREAK Creative Power Input Plug
+fe.protection.break.libvulpes.elitemotor.*                                                                   # (default: true) BREAK Elite Motor
+fe.protection.break.libvulpes.enhancedmotor.*                                                                # (default: true) BREAK Enhanced Motor
+fe.protection.break.libvulpes.forgepowerinput.*                                                              # (default: true) BREAK Power Input Plug
+fe.protection.break.libvulpes.forgepoweroutput.*                                                             # (default: true) BREAK Power Output Plug
+fe.protection.break.libvulpes.hatch.*                                                                        # (default: true) BREAK tile.hatch.name
+fe.protection.break.libvulpes.metal0.*                                                                       # (default: true) BREAK tile.metal.name
+fe.protection.break.libvulpes.motor.*                                                                        # (default: true) BREAK Motor
+fe.protection.break.libvulpes.ore0.*                                                                         # (default: true) BREAK tile.ore.name
+fe.protection.break.libvulpes.placeholder.*                                                                  # (default: true) BREAK Machine
+fe.protection.break.libvulpes.structuremachine.*                                                             # (default: true) BREAK Machine Structure
 fe.protection.break.littletiles.blocklittletiles.*                                                           # (default: true) BREAK tile.null.name
 fe.protection.break.littletiles.blocklittletilesrendered.*                                                   # (default: true) BREAK tile.null.name
 fe.protection.break.littletiles.blocklittletilesticking.*                                                    # (default: true) BREAK tile.null.name
@@ -1234,12 +1349,13 @@ fe.protection.break.littletiles.ltflowinglava.*                                 
 fe.protection.break.littletiles.ltflowingwater.*                                                             # (default: true) BREAK tile.LTFlowingWater.name
 fe.protection.break.littletiles.ltinput.*                                                                    # (default: true) BREAK tile.ltinput.name
 fe.protection.break.littletiles.ltoutput.*                                                                   # (default: true) BREAK tile.ltoutput.name
-fe.protection.break.littletiles.ltparticleblock.*                                                            # (default: true) BREAK Little Particle Block
+fe.protection.break.littletiles.ltparticleblock.*                                                            # (default: true) BREAK Air
 fe.protection.break.littletiles.ltsinglecable.*                                                              # (default: true) BREAK tile.ltsinglecable.name
 fe.protection.break.littletiles.ltstorageblocktile.*                                                         # (default: true) BREAK Little Storage Block
 fe.protection.break.littletiles.lttransparentcoloredblock.*                                                  # (default: true) BREAK tile.LTTransparentColoredBlock.name
 fe.protection.break.littletiles.ltwhiteflowinglava.*                                                         # (default: true) BREAK tile.LTWhiteFlowingLava.name
 fe.protection.break.littletiles.ltwhiteflowingwater.*                                                        # (default: true) BREAK tile.LTWhiteFlowingWater.name
+fe.protection.break.littletiles.signal_converter.*                                                           # (default: true) BREAK Signal Converter
 fe.protection.break.malisisdoors.big_door_acacia_3x3.*                                                       # (default: true) BREAK Large Acacia Double Doors
 fe.protection.break.malisisdoors.big_door_birch_3x3.*                                                        # (default: true) BREAK Large Birch Double Doors
 fe.protection.break.malisisdoors.big_door_dark_oak_3x3.*                                                     # (default: true) BREAK Large Dark Oak Double Doors
@@ -1835,20 +1951,20 @@ fe.protection.break.openentity.entityproxy.*                                    
 fe.protection.break.openfm.radio.*                                                                           # (default: true) BREAK Radio
 fe.protection.break.openfm.speaker.*                                                                         # (default: true) BREAK Speaker
 fe.protection.break.openglasses.openglassesterminal.*                                                        # (default: true) BREAK Glasses Terminal
-fe.protection.break.openmodularturrets.base_addon.*                                                          # (default: true) BREAK tile.base_addon.name
-fe.protection.break.openmodularturrets.disposable_item_turret.*                                              # (default: true) BREAK Disposable Item Turret
-fe.protection.break.openmodularturrets.expander.*                                                            # (default: true) BREAK tile.expander.name
-fe.protection.break.openmodularturrets.grenade_turret.*                                                      # (default: true) BREAK Grenade Launcher Turret
-fe.protection.break.openmodularturrets.incendiary_turret.*                                                   # (default: true) BREAK Incendiary Turret
-fe.protection.break.openmodularturrets.laser_turret.*                                                        # (default: true) BREAK Laser Turret
-fe.protection.break.openmodularturrets.lever_block.*                                                         # (default: true) BREAK Basic Turret Base Crank
-fe.protection.break.openmodularturrets.machine_gun_turret.*                                                  # (default: true) BREAK Gun Turret
-fe.protection.break.openmodularturrets.potato_cannon_turret.*                                                # (default: true) BREAK Potato Cannon Turret
-fe.protection.break.openmodularturrets.rail_gun_turret.*                                                     # (default: true) BREAK Rail Gun Turret
-fe.protection.break.openmodularturrets.relativistic_turret.*                                                 # (default: true) BREAK Relativistic Turret
-fe.protection.break.openmodularturrets.rocket_turret.*                                                       # (default: true) BREAK Rocket Launcher Turret
-fe.protection.break.openmodularturrets.teleporter_turret.*                                                   # (default: true) BREAK Teleporter Turret
-fe.protection.break.openmodularturrets.turret_base.*                                                         # (default: true) BREAK Turret Base
+fe.protection.break.openmodularturrets.base_addon.*                                                          # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.disposable_item_turret.*                                              # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.expander.*                                                            # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.grenade_turret.*                                                      # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.incendiary_turret.*                                                   # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.laser_turret.*                                                        # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.lever_block.*                                                         # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.machine_gun_turret.*                                                  # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.potato_cannon_turret.*                                                # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.rail_gun_turret.*                                                     # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.relativistic_turret.*                                                 # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.rocket_turret.*                                                       # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.teleporter_turret.*                                                   # (default: true) BREAK Air
+fe.protection.break.openmodularturrets.turret_base.*                                                         # (default: true) BREAK Air
 fe.protection.break.openprinter.briefcase.*                                                                  # (default: true) BREAK Briefcase
 fe.protection.break.openprinter.filecabinet.*                                                                # (default: true) BREAK Open File Cabinet
 fe.protection.break.openprinter.printer.*                                                                    # (default: true) BREAK Open Printer
@@ -1871,6 +1987,8 @@ fe.protection.break.opensecurity.energy_turret.*                                
 fe.protection.break.opensecurity.entity_detector.*                                                           # (default: true) BREAK Entity Detector
 fe.protection.break.opensecurity.keypad.*                                                                    # (default: true) BREAK Keypad
 fe.protection.break.opensecurity.mag_reader.*                                                                # (default: true) BREAK Magnetic Card Reader
+fe.protection.break.opensecurity.mag_reader_camo.*                                                           # (default: true) BREAK Camo Magnetic Card Reader
+fe.protection.break.opensecurity.mag_secure_door.*                                                           # (default: true) BREAK MagReader Security Door
 fe.protection.break.opensecurity.nanofog.*                                                                   # (default: true) BREAK NanoFog
 fe.protection.break.opensecurity.nanofog_terminal.*                                                          # (default: true) BREAK NanoFog Terminal
 fe.protection.break.opensecurity.private_secure_door.*                                                       # (default: true) BREAK Private Security Door
@@ -2453,6 +2571,97 @@ fe.protection.explode.additionalcompression.itemnetherstar_compressed.*         
 fe.protection.explode.additionalcompression.netherrack_compressed.*                                          # (default: true) EXPLODE %s Netherrack
 fe.protection.explode.additionalcompression.soulsand_compressed.*                                            # (default: true) EXPLODE %s Soul Sand
 fe.protection.explode.additionalcompression.stone_compressed.*                                               # (default: true) EXPLODE %s Stone
+fe.protection.explode.advancedrocketry.advrocketmotor.*                                                      # (default: true) EXPLODE Advanced Rocket Engine
+fe.protection.explode.advancedrocketry.airlock_door.*                                                        # (default: true) EXPLODE item.smallAirlockDoor.name
+fe.protection.explode.advancedrocketry.alienleaves.*                                                         # (default: true) EXPLODE Lightwood Leaves
+fe.protection.explode.advancedrocketry.aliensapling.*                                                        # (default: true) EXPLODE Lightwood Sapling
+fe.protection.explode.advancedrocketry.alienwood.*                                                           # (default: true) EXPLODE Wood
+fe.protection.explode.advancedrocketry.altitudecontroller.*                                                  # (default: true) EXPLODE Altitude Controller
+fe.protection.explode.advancedrocketry.arcfurnace.*                                                          # (default: true) EXPLODE Electric Arc Furnace
+fe.protection.explode.advancedrocketry.astrobed.*                                                            # (default: true) EXPLODE tile.astroBed.name
+fe.protection.explode.advancedrocketry.basalt.*                                                              # (default: true) EXPLODE Basalt
+fe.protection.explode.advancedrocketry.beacon.*                                                              # (default: true) EXPLODE Beacon
+fe.protection.explode.advancedrocketry.biomescanner.*                                                        # (default: true) EXPLODE Biome Scanner
+fe.protection.explode.advancedrocketry.blackholegenerator.*                                                  # (default: true) EXPLODE Black Hole Generator
+fe.protection.explode.advancedrocketry.blastbrick.*                                                          # (default: true) EXPLODE HeatProof Brick
+fe.protection.explode.advancedrocketry.blocklens.*                                                           # (default: true) EXPLODE Lens
+fe.protection.explode.advancedrocketry.blockpump.*                                                           # (default: true) EXPLODE Fluid Pump
+fe.protection.explode.advancedrocketry.centrifuge.*                                                          # (default: true) EXPLODE Centrifuge
+fe.protection.explode.advancedrocketry.charcoallog.*                                                         # (default: true) EXPLODE Charcoal Log
+fe.protection.explode.advancedrocketry.chemicalreactor.*                                                     # (default: true) EXPLODE Chemical Reactor
+fe.protection.explode.advancedrocketry.circlelight.*                                                         # (default: true) EXPLODE Station Light
+fe.protection.explode.advancedrocketry.concrete.*                                                            # (default: true) EXPLODE Concrete
+fe.protection.explode.advancedrocketry.crystal.*                                                             # (default: true) EXPLODE Celestial Crystal
+fe.protection.explode.advancedrocketry.crystallizer.*                                                        # (default: true) EXPLODE Crystallizer
+fe.protection.explode.advancedrocketry.cuttingmachine.*                                                      # (default: true) EXPLODE Cutting Machine
+fe.protection.explode.advancedrocketry.deployablerocketbuilder.*                                             # (default: true) EXPLODE Unmanned Vehicle Assembler
+fe.protection.explode.advancedrocketry.drill.*                                                               # (default: true) EXPLODE Drill
+fe.protection.explode.advancedrocketry.electricmushroom.*                                                    # (default: true) EXPLODE Electric Mushroom
+fe.protection.explode.advancedrocketry.electrolyser.*                                                        # (default: true) EXPLODE Electrolyser
+fe.protection.explode.advancedrocketry.enrichedlavafluid.*                                                   # (default: true) EXPLODE Enriched Lava Block
+fe.protection.explode.advancedrocketry.forcefield.*                                                          # (default: true) EXPLODE Force Field
+fe.protection.explode.advancedrocketry.forcefieldprojector.*                                                 # (default: true) EXPLODE Force Field Projector
+fe.protection.explode.advancedrocketry.fuelingstation.*                                                      # (default: true) EXPLODE Fueling station
+fe.protection.explode.advancedrocketry.fueltank.*                                                            # (default: true) EXPLODE Liquid Fuel Tank
+fe.protection.explode.advancedrocketry.geode.*                                                               # (default: true) EXPLODE Geode Block
+fe.protection.explode.advancedrocketry.gravitycontroller.*                                                   # (default: true) EXPLODE Station Gravity Controller
+fe.protection.explode.advancedrocketry.gravitymachine.*                                                      # (default: true) EXPLODE Area Gravity Controller
+fe.protection.explode.advancedrocketry.guidancecomputer.*                                                    # (default: true) EXPLODE Guidance Computer
+fe.protection.explode.advancedrocketry.hotturf.*                                                             # (default: true) EXPLODE Oxidized Ferric Sand
+fe.protection.explode.advancedrocketry.hydrogenfluid.*                                                       # (default: true) EXPLODE Hydrogen
+fe.protection.explode.advancedrocketry.intake.*                                                              # (default: true) EXPLODE Gas Intake
+fe.protection.explode.advancedrocketry.landingfloat.*                                                        # (default: true) EXPLODE Landing Float
+fe.protection.explode.advancedrocketry.landingpad.*                                                          # (default: true) EXPLODE Docking Pad
+fe.protection.explode.advancedrocketry.lathe.*                                                               # (default: true) EXPLODE Lathe
+fe.protection.explode.advancedrocketry.launchpad.*                                                           # (default: true) EXPLODE Launch Pad
+fe.protection.explode.advancedrocketry.lightsource.*                                                         # (default: true) EXPLODE tile.lightSource.name
+fe.protection.explode.advancedrocketry.liquidtank.*                                                          # (default: true) EXPLODE Pressurized Tank
+fe.protection.explode.advancedrocketry.loader.*                                                              # (default: true) EXPLODE tile.loader.name
+fe.protection.explode.advancedrocketry.metal0.*                                                              # (default: true) EXPLODE tile.metal.name
+fe.protection.explode.advancedrocketry.microwavereciever.*                                                   # (default: true) EXPLODE Microwave Receiver
+fe.protection.explode.advancedrocketry.monitoringstation.*                                                   # (default: true) EXPLODE Rocket Monitoring Station
+fe.protection.explode.advancedrocketry.moonturf.*                                                            # (default: true) EXPLODE Moon Turf
+fe.protection.explode.advancedrocketry.moonturf_dark.*                                                       # (default: true) EXPLODE Dark Moon Turf
+fe.protection.explode.advancedrocketry.nitrogenfluid.*                                                       # (default: true) EXPLODE Nitrogen
+fe.protection.explode.advancedrocketry.observatory.*                                                         # (default: true) EXPLODE Observatory
+fe.protection.explode.advancedrocketry.orientationcontroller.*                                               # (default: true) EXPLODE Orientation Controller
+fe.protection.explode.advancedrocketry.oxygencharger.*                                                       # (default: true) EXPLODE Gas Charge Pad
+fe.protection.explode.advancedrocketry.oxygendetection.*                                                     # (default: true) EXPLODE Atmosphere Detector
+fe.protection.explode.advancedrocketry.oxygenfluid.*                                                         # (default: true) EXPLODE Oxygen
+fe.protection.explode.advancedrocketry.oxygenscrubber.*                                                      # (default: true) EXPLODE CO2 Scrubber
+fe.protection.explode.advancedrocketry.oxygenvent.*                                                          # (default: true) EXPLODE Oxygen Vent
+fe.protection.explode.advancedrocketry.pipesealer.*                                                          # (default: true) EXPLODE Pipe Seal
+fe.protection.explode.advancedrocketry.planetanalyser.*                                                      # (default: true) EXPLODE Astrobody Data Processor
+fe.protection.explode.advancedrocketry.planetholoselector.*                                                  # (default: true) EXPLODE Holographic Planet Selector
+fe.protection.explode.advancedrocketry.planetselector.*                                                      # (default: true) EXPLODE Planet Selector
+fe.protection.explode.advancedrocketry.planks.*                                                              # (default: true) EXPLODE Lightwood planks
+fe.protection.explode.advancedrocketry.platepress.*                                                          # (default: true) EXPLODE Small Plate Presser
+fe.protection.explode.advancedrocketry.precisionassemblingmachine.*                                          # (default: true) EXPLODE Precision Assembler
+fe.protection.explode.advancedrocketry.quartzcrucible.*                                                      # (default: true) EXPLODE Quartz Crucible
+fe.protection.explode.advancedrocketry.railgun.*                                                             # (default: true) EXPLODE Block Cannon
+fe.protection.explode.advancedrocketry.rocketbuilder.*                                                       # (default: true) EXPLODE Rocket Assembling Machine
+fe.protection.explode.advancedrocketry.rocketfuel.*                                                          # (default: true) EXPLODE Rocket Fuel
+fe.protection.explode.advancedrocketry.rocketmotor.*                                                         # (default: true) EXPLODE Liquid Fueled Engine
+fe.protection.explode.advancedrocketry.rollingmachine.*                                                      # (default: true) EXPLODE Rolling Machine
+fe.protection.explode.advancedrocketry.satellitebuilder.*                                                    # (default: true) EXPLODE Satellite Builder
+fe.protection.explode.advancedrocketry.satellitecontrolcenter.*                                              # (default: true) EXPLODE Satellite Terminal
+fe.protection.explode.advancedrocketry.sawblade.*                                                            # (default: true) EXPLODE Saw Blade Assembly
+fe.protection.explode.advancedrocketry.seat.*                                                                # (default: true) EXPLODE Seat
+fe.protection.explode.advancedrocketry.solargenerator.*                                                      # (default: true) EXPLODE Solar Generator
+fe.protection.explode.advancedrocketry.solarpanel.*                                                          # (default: true) EXPLODE Solar Panel
+fe.protection.explode.advancedrocketry.spaceelevatorcontroller.*                                             # (default: true) EXPLODE Space Elevator
+fe.protection.explode.advancedrocketry.spacelaser.*                                                          # (default: true) EXPLODE Orbital Laser Drill
+fe.protection.explode.advancedrocketry.stationbuilder.*                                                      # (default: true) EXPLODE Space Station Assembler
+fe.protection.explode.advancedrocketry.stationmarker.*                                                       # (default: true) EXPLODE Station Docking Port
+fe.protection.explode.advancedrocketry.structuretower.*                                                      # (default: true) EXPLODE Structure Tower
+fe.protection.explode.advancedrocketry.suitworkstation.*                                                     # (default: true) EXPLODE Suit Workstation
+fe.protection.explode.advancedrocketry.terraformer.*                                                         # (default: true) EXPLODE Atmosphere Terraformer
+fe.protection.explode.advancedrocketry.thermitetorch.*                                                       # (default: true) EXPLODE Thermite Torch
+fe.protection.explode.advancedrocketry.unlittorch.*                                                          # (default: true) EXPLODE Extinguished Torch
+fe.protection.explode.advancedrocketry.vitrifiedsand.*                                                       # (default: true) EXPLODE Vitrified Sand
+fe.protection.explode.advancedrocketry.warpcore.*                                                            # (default: true) EXPLODE Warp Core
+fe.protection.explode.advancedrocketry.warpmonitor.*                                                         # (default: true) EXPLODE Warp Controller
+fe.protection.explode.advancedrocketry.wirelesstransciever.*                                                 # (default: true) EXPLODE Wireless Transceiver
 fe.protection.explode.ae2stuff.encoder.*                                                                     # (default: true) EXPLODE Air
 fe.protection.explode.ae2stuff.grower.*                                                                      # (default: true) EXPLODE Air
 fe.protection.explode.ae2stuff.inscriber.*                                                                   # (default: true) EXPLODE Air
@@ -3183,6 +3392,13 @@ fe.protection.explode.comforts.sleeping_bag_red.*                               
 fe.protection.explode.comforts.sleeping_bag_silver.*                                                         # (default: true) EXPLODE tile.comforts.sleeping_bag.silver.name
 fe.protection.explode.comforts.sleeping_bag_white.*                                                          # (default: true) EXPLODE tile.comforts.sleeping_bag.white.name
 fe.protection.explode.comforts.sleeping_bag_yellow.*                                                         # (default: true) EXPLODE tile.comforts.sleeping_bag.yellow.name
+fe.protection.explode.compactmachines3.craftinghologram.*                                                    # (default: true) EXPLODE tile.compactmachines3.craftinghologram.name
+fe.protection.explode.compactmachines3.fieldprojector.*                                                      # (default: true) EXPLODE Miniaturization Field Projector
+fe.protection.explode.compactmachines3.machine.*                                                             # (default: true) EXPLODE tile.compactmachines3.machine.name
+fe.protection.explode.compactmachines3.redstonetunnel.*                                                      # (default: true) EXPLODE Redstone Tunnel
+fe.protection.explode.compactmachines3.tunnel.*                                                              # (default: true) EXPLODE Tunnel
+fe.protection.explode.compactmachines3.wall.*                                                                # (default: true) EXPLODE Solid Compact Machine Wall
+fe.protection.explode.compactmachines3.wallbreakable.*                                                       # (default: true) EXPLODE Compact Machine Wall
 fe.protection.explode.computronics.audio_cable.*                                                             # (default: true) EXPLODE Audio Cable
 fe.protection.explode.computronics.camera.*                                                                  # (default: true) EXPLODE Camera
 fe.protection.explode.computronics.chat_box.*                                                                # (default: true) EXPLODE Chat Box
@@ -3403,6 +3619,7 @@ fe.protection.explode.enderio.block_wireless_charger.*                          
 fe.protection.explode.enderio.block_wireless_charger_extension.*                                             # (default: true) EXPLODE tile.block_wireless_charger_extension.name
 fe.protection.explode.enderio.block_xp_vacuum.*                                                              # (default: true) EXPLODE tile.block_xp_vacuum.name
 fe.protection.explode.enderio.block_zombie_generator.*                                                       # (default: true) EXPLODE tile.block_zombie_generator.name
+fe.protection.explode.enderstorage.ender_storage.*                                                           # (default: true) EXPLODE tile.ender_storage.name
 fe.protection.explode.eplus.advanced_table.*                                                                 # (default: true) EXPLODE Advanced Enchantment Table
 fe.protection.explode.eplus.decorative_book.*                                                                # (default: true) EXPLODE tile.eplus.decorative.book.name
 fe.protection.explode.extracells.certustank.*                                                                # (default: true) EXPLODE extracells.block.certustank.name
@@ -3662,6 +3879,22 @@ fe.protection.explode.ironchest.iron_shulker_box_red.*                          
 fe.protection.explode.ironchest.iron_shulker_box_silver.*                                                    # (default: true) EXPLODE tile.IronShulkerBoxsilver.name
 fe.protection.explode.ironchest.iron_shulker_box_white.*                                                     # (default: true) EXPLODE tile.IronShulkerBoxwhite.name
 fe.protection.explode.ironchest.iron_shulker_box_yellow.*                                                    # (default: true) EXPLODE tile.IronShulkerBoxyellow.name
+fe.protection.explode.libvulpes.advancedmotor.*                                                              # (default: true) EXPLODE Advanced Motor
+fe.protection.explode.libvulpes.advstructuremachine.*                                                        # (default: true) EXPLODE Advanced Machine Structure
+fe.protection.explode.libvulpes.blockphantom.*                                                               # (default: true) EXPLODE tile.blockPhantom.name
+fe.protection.explode.libvulpes.coalgenerator.*                                                              # (default: true) EXPLODE Coal Generator
+fe.protection.explode.libvulpes.coil0.*                                                                      # (default: true) EXPLODE tile.coil.name
+fe.protection.explode.libvulpes.creativepowerbattery.*                                                       # (default: true) EXPLODE Creative Power Input Plug
+fe.protection.explode.libvulpes.elitemotor.*                                                                 # (default: true) EXPLODE Elite Motor
+fe.protection.explode.libvulpes.enhancedmotor.*                                                              # (default: true) EXPLODE Enhanced Motor
+fe.protection.explode.libvulpes.forgepowerinput.*                                                            # (default: true) EXPLODE Power Input Plug
+fe.protection.explode.libvulpes.forgepoweroutput.*                                                           # (default: true) EXPLODE Power Output Plug
+fe.protection.explode.libvulpes.hatch.*                                                                      # (default: true) EXPLODE tile.hatch.name
+fe.protection.explode.libvulpes.metal0.*                                                                     # (default: true) EXPLODE tile.metal.name
+fe.protection.explode.libvulpes.motor.*                                                                      # (default: true) EXPLODE Motor
+fe.protection.explode.libvulpes.ore0.*                                                                       # (default: true) EXPLODE tile.ore.name
+fe.protection.explode.libvulpes.placeholder.*                                                                # (default: true) EXPLODE Machine
+fe.protection.explode.libvulpes.structuremachine.*                                                           # (default: true) EXPLODE Machine Structure
 fe.protection.explode.littletiles.blocklittletiles.*                                                         # (default: true) EXPLODE tile.null.name
 fe.protection.explode.littletiles.blocklittletilesrendered.*                                                 # (default: true) EXPLODE tile.null.name
 fe.protection.explode.littletiles.blocklittletilesticking.*                                                  # (default: true) EXPLODE tile.null.name
@@ -3672,12 +3905,13 @@ fe.protection.explode.littletiles.ltflowinglava.*                               
 fe.protection.explode.littletiles.ltflowingwater.*                                                           # (default: true) EXPLODE tile.LTFlowingWater.name
 fe.protection.explode.littletiles.ltinput.*                                                                  # (default: true) EXPLODE tile.ltinput.name
 fe.protection.explode.littletiles.ltoutput.*                                                                 # (default: true) EXPLODE tile.ltoutput.name
-fe.protection.explode.littletiles.ltparticleblock.*                                                          # (default: true) EXPLODE Little Particle Block
+fe.protection.explode.littletiles.ltparticleblock.*                                                          # (default: true) EXPLODE Air
 fe.protection.explode.littletiles.ltsinglecable.*                                                            # (default: true) EXPLODE tile.ltsinglecable.name
 fe.protection.explode.littletiles.ltstorageblocktile.*                                                       # (default: true) EXPLODE Little Storage Block
 fe.protection.explode.littletiles.lttransparentcoloredblock.*                                                # (default: true) EXPLODE tile.LTTransparentColoredBlock.name
 fe.protection.explode.littletiles.ltwhiteflowinglava.*                                                       # (default: true) EXPLODE tile.LTWhiteFlowingLava.name
 fe.protection.explode.littletiles.ltwhiteflowingwater.*                                                      # (default: true) EXPLODE tile.LTWhiteFlowingWater.name
+fe.protection.explode.littletiles.signal_converter.*                                                         # (default: true) EXPLODE Signal Converter
 fe.protection.explode.malisisdoors.big_door_acacia_3x3.*                                                     # (default: true) EXPLODE Large Acacia Double Doors
 fe.protection.explode.malisisdoors.big_door_birch_3x3.*                                                      # (default: true) EXPLODE Large Birch Double Doors
 fe.protection.explode.malisisdoors.big_door_dark_oak_3x3.*                                                   # (default: true) EXPLODE Large Dark Oak Double Doors
@@ -4273,20 +4507,20 @@ fe.protection.explode.openentity.entityproxy.*                                  
 fe.protection.explode.openfm.radio.*                                                                         # (default: true) EXPLODE Radio
 fe.protection.explode.openfm.speaker.*                                                                       # (default: true) EXPLODE Speaker
 fe.protection.explode.openglasses.openglassesterminal.*                                                      # (default: true) EXPLODE Glasses Terminal
-fe.protection.explode.openmodularturrets.base_addon.*                                                        # (default: true) EXPLODE tile.base_addon.name
-fe.protection.explode.openmodularturrets.disposable_item_turret.*                                            # (default: true) EXPLODE Disposable Item Turret
-fe.protection.explode.openmodularturrets.expander.*                                                          # (default: true) EXPLODE tile.expander.name
-fe.protection.explode.openmodularturrets.grenade_turret.*                                                    # (default: true) EXPLODE Grenade Launcher Turret
-fe.protection.explode.openmodularturrets.incendiary_turret.*                                                 # (default: true) EXPLODE Incendiary Turret
-fe.protection.explode.openmodularturrets.laser_turret.*                                                      # (default: true) EXPLODE Laser Turret
-fe.protection.explode.openmodularturrets.lever_block.*                                                       # (default: true) EXPLODE Basic Turret Base Crank
-fe.protection.explode.openmodularturrets.machine_gun_turret.*                                                # (default: true) EXPLODE Gun Turret
-fe.protection.explode.openmodularturrets.potato_cannon_turret.*                                              # (default: true) EXPLODE Potato Cannon Turret
-fe.protection.explode.openmodularturrets.rail_gun_turret.*                                                   # (default: true) EXPLODE Rail Gun Turret
-fe.protection.explode.openmodularturrets.relativistic_turret.*                                               # (default: true) EXPLODE Relativistic Turret
-fe.protection.explode.openmodularturrets.rocket_turret.*                                                     # (default: true) EXPLODE Rocket Launcher Turret
-fe.protection.explode.openmodularturrets.teleporter_turret.*                                                 # (default: true) EXPLODE Teleporter Turret
-fe.protection.explode.openmodularturrets.turret_base.*                                                       # (default: true) EXPLODE Turret Base
+fe.protection.explode.openmodularturrets.base_addon.*                                                        # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.disposable_item_turret.*                                            # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.expander.*                                                          # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.grenade_turret.*                                                    # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.incendiary_turret.*                                                 # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.laser_turret.*                                                      # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.lever_block.*                                                       # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.machine_gun_turret.*                                                # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.potato_cannon_turret.*                                              # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.rail_gun_turret.*                                                   # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.relativistic_turret.*                                               # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.rocket_turret.*                                                     # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.teleporter_turret.*                                                 # (default: true) EXPLODE Air
+fe.protection.explode.openmodularturrets.turret_base.*                                                       # (default: true) EXPLODE Air
 fe.protection.explode.openprinter.briefcase.*                                                                # (default: true) EXPLODE Briefcase
 fe.protection.explode.openprinter.filecabinet.*                                                              # (default: true) EXPLODE Open File Cabinet
 fe.protection.explode.openprinter.printer.*                                                                  # (default: true) EXPLODE Open Printer
@@ -4309,6 +4543,8 @@ fe.protection.explode.opensecurity.energy_turret.*                              
 fe.protection.explode.opensecurity.entity_detector.*                                                         # (default: true) EXPLODE Entity Detector
 fe.protection.explode.opensecurity.keypad.*                                                                  # (default: true) EXPLODE Keypad
 fe.protection.explode.opensecurity.mag_reader.*                                                              # (default: true) EXPLODE Magnetic Card Reader
+fe.protection.explode.opensecurity.mag_reader_camo.*                                                         # (default: true) EXPLODE Camo Magnetic Card Reader
+fe.protection.explode.opensecurity.mag_secure_door.*                                                         # (default: true) EXPLODE MagReader Security Door
 fe.protection.explode.opensecurity.nanofog.*                                                                 # (default: true) EXPLODE NanoFog
 fe.protection.explode.opensecurity.nanofog_terminal.*                                                        # (default: true) EXPLODE NanoFog Terminal
 fe.protection.explode.opensecurity.private_secure_door.*                                                     # (default: true) EXPLODE Private Security Door
@@ -4891,6 +5127,97 @@ fe.protection.interact.additionalcompression.itemnetherstar_compressed.*        
 fe.protection.interact.additionalcompression.netherrack_compressed.*                                         # (default: true) INTERACT %s Netherrack
 fe.protection.interact.additionalcompression.soulsand_compressed.*                                           # (default: true) INTERACT %s Soul Sand
 fe.protection.interact.additionalcompression.stone_compressed.*                                              # (default: true) INTERACT %s Stone
+fe.protection.interact.advancedrocketry.advrocketmotor.*                                                     # (default: true) INTERACT Advanced Rocket Engine
+fe.protection.interact.advancedrocketry.airlock_door.*                                                       # (default: true) INTERACT item.smallAirlockDoor.name
+fe.protection.interact.advancedrocketry.alienleaves.*                                                        # (default: true) INTERACT Lightwood Leaves
+fe.protection.interact.advancedrocketry.aliensapling.*                                                       # (default: true) INTERACT Lightwood Sapling
+fe.protection.interact.advancedrocketry.alienwood.*                                                          # (default: true) INTERACT Wood
+fe.protection.interact.advancedrocketry.altitudecontroller.*                                                 # (default: true) INTERACT Altitude Controller
+fe.protection.interact.advancedrocketry.arcfurnace.*                                                         # (default: true) INTERACT Electric Arc Furnace
+fe.protection.interact.advancedrocketry.astrobed.*                                                           # (default: true) INTERACT tile.astroBed.name
+fe.protection.interact.advancedrocketry.basalt.*                                                             # (default: true) INTERACT Basalt
+fe.protection.interact.advancedrocketry.beacon.*                                                             # (default: true) INTERACT Beacon
+fe.protection.interact.advancedrocketry.biomescanner.*                                                       # (default: true) INTERACT Biome Scanner
+fe.protection.interact.advancedrocketry.blackholegenerator.*                                                 # (default: true) INTERACT Black Hole Generator
+fe.protection.interact.advancedrocketry.blastbrick.*                                                         # (default: true) INTERACT HeatProof Brick
+fe.protection.interact.advancedrocketry.blocklens.*                                                          # (default: true) INTERACT Lens
+fe.protection.interact.advancedrocketry.blockpump.*                                                          # (default: true) INTERACT Fluid Pump
+fe.protection.interact.advancedrocketry.centrifuge.*                                                         # (default: true) INTERACT Centrifuge
+fe.protection.interact.advancedrocketry.charcoallog.*                                                        # (default: true) INTERACT Charcoal Log
+fe.protection.interact.advancedrocketry.chemicalreactor.*                                                    # (default: true) INTERACT Chemical Reactor
+fe.protection.interact.advancedrocketry.circlelight.*                                                        # (default: true) INTERACT Station Light
+fe.protection.interact.advancedrocketry.concrete.*                                                           # (default: true) INTERACT Concrete
+fe.protection.interact.advancedrocketry.crystal.*                                                            # (default: true) INTERACT Celestial Crystal
+fe.protection.interact.advancedrocketry.crystallizer.*                                                       # (default: true) INTERACT Crystallizer
+fe.protection.interact.advancedrocketry.cuttingmachine.*                                                     # (default: true) INTERACT Cutting Machine
+fe.protection.interact.advancedrocketry.deployablerocketbuilder.*                                            # (default: true) INTERACT Unmanned Vehicle Assembler
+fe.protection.interact.advancedrocketry.drill.*                                                              # (default: true) INTERACT Drill
+fe.protection.interact.advancedrocketry.electricmushroom.*                                                   # (default: true) INTERACT Electric Mushroom
+fe.protection.interact.advancedrocketry.electrolyser.*                                                       # (default: true) INTERACT Electrolyser
+fe.protection.interact.advancedrocketry.enrichedlavafluid.*                                                  # (default: true) INTERACT Enriched Lava Block
+fe.protection.interact.advancedrocketry.forcefield.*                                                         # (default: true) INTERACT Force Field
+fe.protection.interact.advancedrocketry.forcefieldprojector.*                                                # (default: true) INTERACT Force Field Projector
+fe.protection.interact.advancedrocketry.fuelingstation.*                                                     # (default: true) INTERACT Fueling station
+fe.protection.interact.advancedrocketry.fueltank.*                                                           # (default: true) INTERACT Liquid Fuel Tank
+fe.protection.interact.advancedrocketry.geode.*                                                              # (default: true) INTERACT Geode Block
+fe.protection.interact.advancedrocketry.gravitycontroller.*                                                  # (default: true) INTERACT Station Gravity Controller
+fe.protection.interact.advancedrocketry.gravitymachine.*                                                     # (default: true) INTERACT Area Gravity Controller
+fe.protection.interact.advancedrocketry.guidancecomputer.*                                                   # (default: true) INTERACT Guidance Computer
+fe.protection.interact.advancedrocketry.hotturf.*                                                            # (default: true) INTERACT Oxidized Ferric Sand
+fe.protection.interact.advancedrocketry.hydrogenfluid.*                                                      # (default: true) INTERACT Hydrogen
+fe.protection.interact.advancedrocketry.intake.*                                                             # (default: true) INTERACT Gas Intake
+fe.protection.interact.advancedrocketry.landingfloat.*                                                       # (default: true) INTERACT Landing Float
+fe.protection.interact.advancedrocketry.landingpad.*                                                         # (default: true) INTERACT Docking Pad
+fe.protection.interact.advancedrocketry.lathe.*                                                              # (default: true) INTERACT Lathe
+fe.protection.interact.advancedrocketry.launchpad.*                                                          # (default: true) INTERACT Launch Pad
+fe.protection.interact.advancedrocketry.lightsource.*                                                        # (default: true) INTERACT tile.lightSource.name
+fe.protection.interact.advancedrocketry.liquidtank.*                                                         # (default: true) INTERACT Pressurized Tank
+fe.protection.interact.advancedrocketry.loader.*                                                             # (default: true) INTERACT tile.loader.name
+fe.protection.interact.advancedrocketry.metal0.*                                                             # (default: true) INTERACT tile.metal.name
+fe.protection.interact.advancedrocketry.microwavereciever.*                                                  # (default: true) INTERACT Microwave Receiver
+fe.protection.interact.advancedrocketry.monitoringstation.*                                                  # (default: true) INTERACT Rocket Monitoring Station
+fe.protection.interact.advancedrocketry.moonturf.*                                                           # (default: true) INTERACT Moon Turf
+fe.protection.interact.advancedrocketry.moonturf_dark.*                                                      # (default: true) INTERACT Dark Moon Turf
+fe.protection.interact.advancedrocketry.nitrogenfluid.*                                                      # (default: true) INTERACT Nitrogen
+fe.protection.interact.advancedrocketry.observatory.*                                                        # (default: true) INTERACT Observatory
+fe.protection.interact.advancedrocketry.orientationcontroller.*                                              # (default: true) INTERACT Orientation Controller
+fe.protection.interact.advancedrocketry.oxygencharger.*                                                      # (default: true) INTERACT Gas Charge Pad
+fe.protection.interact.advancedrocketry.oxygendetection.*                                                    # (default: true) INTERACT Atmosphere Detector
+fe.protection.interact.advancedrocketry.oxygenfluid.*                                                        # (default: true) INTERACT Oxygen
+fe.protection.interact.advancedrocketry.oxygenscrubber.*                                                     # (default: true) INTERACT CO2 Scrubber
+fe.protection.interact.advancedrocketry.oxygenvent.*                                                         # (default: true) INTERACT Oxygen Vent
+fe.protection.interact.advancedrocketry.pipesealer.*                                                         # (default: true) INTERACT Pipe Seal
+fe.protection.interact.advancedrocketry.planetanalyser.*                                                     # (default: true) INTERACT Astrobody Data Processor
+fe.protection.interact.advancedrocketry.planetholoselector.*                                                 # (default: true) INTERACT Holographic Planet Selector
+fe.protection.interact.advancedrocketry.planetselector.*                                                     # (default: true) INTERACT Planet Selector
+fe.protection.interact.advancedrocketry.planks.*                                                             # (default: true) INTERACT Lightwood planks
+fe.protection.interact.advancedrocketry.platepress.*                                                         # (default: true) INTERACT Small Plate Presser
+fe.protection.interact.advancedrocketry.precisionassemblingmachine.*                                         # (default: true) INTERACT Precision Assembler
+fe.protection.interact.advancedrocketry.quartzcrucible.*                                                     # (default: true) INTERACT Quartz Crucible
+fe.protection.interact.advancedrocketry.railgun.*                                                            # (default: true) INTERACT Block Cannon
+fe.protection.interact.advancedrocketry.rocketbuilder.*                                                      # (default: true) INTERACT Rocket Assembling Machine
+fe.protection.interact.advancedrocketry.rocketfuel.*                                                         # (default: true) INTERACT Rocket Fuel
+fe.protection.interact.advancedrocketry.rocketmotor.*                                                        # (default: true) INTERACT Liquid Fueled Engine
+fe.protection.interact.advancedrocketry.rollingmachine.*                                                     # (default: true) INTERACT Rolling Machine
+fe.protection.interact.advancedrocketry.satellitebuilder.*                                                   # (default: true) INTERACT Satellite Builder
+fe.protection.interact.advancedrocketry.satellitecontrolcenter.*                                             # (default: true) INTERACT Satellite Terminal
+fe.protection.interact.advancedrocketry.sawblade.*                                                           # (default: true) INTERACT Saw Blade Assembly
+fe.protection.interact.advancedrocketry.seat.*                                                               # (default: true) INTERACT Seat
+fe.protection.interact.advancedrocketry.solargenerator.*                                                     # (default: true) INTERACT Solar Generator
+fe.protection.interact.advancedrocketry.solarpanel.*                                                         # (default: true) INTERACT Solar Panel
+fe.protection.interact.advancedrocketry.spaceelevatorcontroller.*                                            # (default: true) INTERACT Space Elevator
+fe.protection.interact.advancedrocketry.spacelaser.*                                                         # (default: true) INTERACT Orbital Laser Drill
+fe.protection.interact.advancedrocketry.stationbuilder.*                                                     # (default: true) INTERACT Space Station Assembler
+fe.protection.interact.advancedrocketry.stationmarker.*                                                      # (default: true) INTERACT Station Docking Port
+fe.protection.interact.advancedrocketry.structuretower.*                                                     # (default: true) INTERACT Structure Tower
+fe.protection.interact.advancedrocketry.suitworkstation.*                                                    # (default: true) INTERACT Suit Workstation
+fe.protection.interact.advancedrocketry.terraformer.*                                                        # (default: true) INTERACT Atmosphere Terraformer
+fe.protection.interact.advancedrocketry.thermitetorch.*                                                      # (default: true) INTERACT Thermite Torch
+fe.protection.interact.advancedrocketry.unlittorch.*                                                         # (default: true) INTERACT Extinguished Torch
+fe.protection.interact.advancedrocketry.vitrifiedsand.*                                                      # (default: true) INTERACT Vitrified Sand
+fe.protection.interact.advancedrocketry.warpcore.*                                                           # (default: true) INTERACT Warp Core
+fe.protection.interact.advancedrocketry.warpmonitor.*                                                        # (default: true) INTERACT Warp Controller
+fe.protection.interact.advancedrocketry.wirelesstransciever.*                                                # (default: true) INTERACT Wireless Transceiver
 fe.protection.interact.ae2stuff.encoder.*                                                                    # (default: true) INTERACT Air
 fe.protection.interact.ae2stuff.grower.*                                                                     # (default: true) INTERACT Air
 fe.protection.interact.ae2stuff.inscriber.*                                                                  # (default: true) INTERACT Air
@@ -5621,6 +5948,13 @@ fe.protection.interact.comforts.sleeping_bag_red.*                              
 fe.protection.interact.comforts.sleeping_bag_silver.*                                                        # (default: true) INTERACT tile.comforts.sleeping_bag.silver.name
 fe.protection.interact.comforts.sleeping_bag_white.*                                                         # (default: true) INTERACT tile.comforts.sleeping_bag.white.name
 fe.protection.interact.comforts.sleeping_bag_yellow.*                                                        # (default: true) INTERACT tile.comforts.sleeping_bag.yellow.name
+fe.protection.interact.compactmachines3.craftinghologram.*                                                   # (default: true) INTERACT tile.compactmachines3.craftinghologram.name
+fe.protection.interact.compactmachines3.fieldprojector.*                                                     # (default: true) INTERACT Miniaturization Field Projector
+fe.protection.interact.compactmachines3.machine.*                                                            # (default: true) INTERACT tile.compactmachines3.machine.name
+fe.protection.interact.compactmachines3.redstonetunnel.*                                                     # (default: true) INTERACT Redstone Tunnel
+fe.protection.interact.compactmachines3.tunnel.*                                                             # (default: true) INTERACT Tunnel
+fe.protection.interact.compactmachines3.wall.*                                                               # (default: true) INTERACT Solid Compact Machine Wall
+fe.protection.interact.compactmachines3.wallbreakable.*                                                      # (default: true) INTERACT Compact Machine Wall
 fe.protection.interact.computronics.audio_cable.*                                                            # (default: true) INTERACT Audio Cable
 fe.protection.interact.computronics.camera.*                                                                 # (default: true) INTERACT Camera
 fe.protection.interact.computronics.chat_box.*                                                               # (default: true) INTERACT Chat Box
@@ -5841,6 +6175,7 @@ fe.protection.interact.enderio.block_wireless_charger.*                         
 fe.protection.interact.enderio.block_wireless_charger_extension.*                                            # (default: true) INTERACT tile.block_wireless_charger_extension.name
 fe.protection.interact.enderio.block_xp_vacuum.*                                                             # (default: true) INTERACT tile.block_xp_vacuum.name
 fe.protection.interact.enderio.block_zombie_generator.*                                                      # (default: true) INTERACT tile.block_zombie_generator.name
+fe.protection.interact.enderstorage.ender_storage.*                                                          # (default: true) INTERACT tile.ender_storage.name
 fe.protection.interact.entity                                                                                # (default: true) Allow interacting with entities (villagers, dogs, horses)
 fe.protection.interact.eplus.advanced_table.*                                                                # (default: true) INTERACT Advanced Enchantment Table
 fe.protection.interact.eplus.decorative_book.*                                                               # (default: true) INTERACT tile.eplus.decorative.book.name
@@ -6101,6 +6436,22 @@ fe.protection.interact.ironchest.iron_shulker_box_red.*                         
 fe.protection.interact.ironchest.iron_shulker_box_silver.*                                                   # (default: true) INTERACT tile.IronShulkerBoxsilver.name
 fe.protection.interact.ironchest.iron_shulker_box_white.*                                                    # (default: true) INTERACT tile.IronShulkerBoxwhite.name
 fe.protection.interact.ironchest.iron_shulker_box_yellow.*                                                   # (default: true) INTERACT tile.IronShulkerBoxyellow.name
+fe.protection.interact.libvulpes.advancedmotor.*                                                             # (default: true) INTERACT Advanced Motor
+fe.protection.interact.libvulpes.advstructuremachine.*                                                       # (default: true) INTERACT Advanced Machine Structure
+fe.protection.interact.libvulpes.blockphantom.*                                                              # (default: true) INTERACT tile.blockPhantom.name
+fe.protection.interact.libvulpes.coalgenerator.*                                                             # (default: true) INTERACT Coal Generator
+fe.protection.interact.libvulpes.coil0.*                                                                     # (default: true) INTERACT tile.coil.name
+fe.protection.interact.libvulpes.creativepowerbattery.*                                                      # (default: true) INTERACT Creative Power Input Plug
+fe.protection.interact.libvulpes.elitemotor.*                                                                # (default: true) INTERACT Elite Motor
+fe.protection.interact.libvulpes.enhancedmotor.*                                                             # (default: true) INTERACT Enhanced Motor
+fe.protection.interact.libvulpes.forgepowerinput.*                                                           # (default: true) INTERACT Power Input Plug
+fe.protection.interact.libvulpes.forgepoweroutput.*                                                          # (default: true) INTERACT Power Output Plug
+fe.protection.interact.libvulpes.hatch.*                                                                     # (default: true) INTERACT tile.hatch.name
+fe.protection.interact.libvulpes.metal0.*                                                                    # (default: true) INTERACT tile.metal.name
+fe.protection.interact.libvulpes.motor.*                                                                     # (default: true) INTERACT Motor
+fe.protection.interact.libvulpes.ore0.*                                                                      # (default: true) INTERACT tile.ore.name
+fe.protection.interact.libvulpes.placeholder.*                                                               # (default: true) INTERACT Machine
+fe.protection.interact.libvulpes.structuremachine.*                                                          # (default: true) INTERACT Machine Structure
 fe.protection.interact.littletiles.blocklittletiles.*                                                        # (default: true) INTERACT tile.null.name
 fe.protection.interact.littletiles.blocklittletilesrendered.*                                                # (default: true) INTERACT tile.null.name
 fe.protection.interact.littletiles.blocklittletilesticking.*                                                 # (default: true) INTERACT tile.null.name
@@ -6111,12 +6462,13 @@ fe.protection.interact.littletiles.ltflowinglava.*                              
 fe.protection.interact.littletiles.ltflowingwater.*                                                          # (default: true) INTERACT tile.LTFlowingWater.name
 fe.protection.interact.littletiles.ltinput.*                                                                 # (default: true) INTERACT tile.ltinput.name
 fe.protection.interact.littletiles.ltoutput.*                                                                # (default: true) INTERACT tile.ltoutput.name
-fe.protection.interact.littletiles.ltparticleblock.*                                                         # (default: true) INTERACT Little Particle Block
+fe.protection.interact.littletiles.ltparticleblock.*                                                         # (default: true) INTERACT Air
 fe.protection.interact.littletiles.ltsinglecable.*                                                           # (default: true) INTERACT tile.ltsinglecable.name
 fe.protection.interact.littletiles.ltstorageblocktile.*                                                      # (default: true) INTERACT Little Storage Block
 fe.protection.interact.littletiles.lttransparentcoloredblock.*                                               # (default: true) INTERACT tile.LTTransparentColoredBlock.name
 fe.protection.interact.littletiles.ltwhiteflowinglava.*                                                      # (default: true) INTERACT tile.LTWhiteFlowingLava.name
 fe.protection.interact.littletiles.ltwhiteflowingwater.*                                                     # (default: true) INTERACT tile.LTWhiteFlowingWater.name
+fe.protection.interact.littletiles.signal_converter.*                                                        # (default: true) INTERACT Signal Converter
 fe.protection.interact.malisisdoors.big_door_acacia_3x3.*                                                    # (default: true) INTERACT Large Acacia Double Doors
 fe.protection.interact.malisisdoors.big_door_birch_3x3.*                                                     # (default: true) INTERACT Large Birch Double Doors
 fe.protection.interact.malisisdoors.big_door_dark_oak_3x3.*                                                  # (default: true) INTERACT Large Dark Oak Double Doors
@@ -6712,20 +7064,20 @@ fe.protection.interact.openentity.entityproxy.*                                 
 fe.protection.interact.openfm.radio.*                                                                        # (default: true) INTERACT Radio
 fe.protection.interact.openfm.speaker.*                                                                      # (default: true) INTERACT Speaker
 fe.protection.interact.openglasses.openglassesterminal.*                                                     # (default: true) INTERACT Glasses Terminal
-fe.protection.interact.openmodularturrets.base_addon.*                                                       # (default: true) INTERACT tile.base_addon.name
-fe.protection.interact.openmodularturrets.disposable_item_turret.*                                           # (default: true) INTERACT Disposable Item Turret
-fe.protection.interact.openmodularturrets.expander.*                                                         # (default: true) INTERACT tile.expander.name
-fe.protection.interact.openmodularturrets.grenade_turret.*                                                   # (default: true) INTERACT Grenade Launcher Turret
-fe.protection.interact.openmodularturrets.incendiary_turret.*                                                # (default: true) INTERACT Incendiary Turret
-fe.protection.interact.openmodularturrets.laser_turret.*                                                     # (default: true) INTERACT Laser Turret
-fe.protection.interact.openmodularturrets.lever_block.*                                                      # (default: true) INTERACT Basic Turret Base Crank
-fe.protection.interact.openmodularturrets.machine_gun_turret.*                                               # (default: true) INTERACT Gun Turret
-fe.protection.interact.openmodularturrets.potato_cannon_turret.*                                             # (default: true) INTERACT Potato Cannon Turret
-fe.protection.interact.openmodularturrets.rail_gun_turret.*                                                  # (default: true) INTERACT Rail Gun Turret
-fe.protection.interact.openmodularturrets.relativistic_turret.*                                              # (default: true) INTERACT Relativistic Turret
-fe.protection.interact.openmodularturrets.rocket_turret.*                                                    # (default: true) INTERACT Rocket Launcher Turret
-fe.protection.interact.openmodularturrets.teleporter_turret.*                                                # (default: true) INTERACT Teleporter Turret
-fe.protection.interact.openmodularturrets.turret_base.*                                                      # (default: true) INTERACT Turret Base
+fe.protection.interact.openmodularturrets.base_addon.*                                                       # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.disposable_item_turret.*                                           # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.expander.*                                                         # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.grenade_turret.*                                                   # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.incendiary_turret.*                                                # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.laser_turret.*                                                     # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.lever_block.*                                                      # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.machine_gun_turret.*                                               # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.potato_cannon_turret.*                                             # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.rail_gun_turret.*                                                  # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.relativistic_turret.*                                              # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.rocket_turret.*                                                    # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.teleporter_turret.*                                                # (default: true) INTERACT Air
+fe.protection.interact.openmodularturrets.turret_base.*                                                      # (default: true) INTERACT Air
 fe.protection.interact.openprinter.briefcase.*                                                               # (default: true) INTERACT Briefcase
 fe.protection.interact.openprinter.filecabinet.*                                                             # (default: true) INTERACT Open File Cabinet
 fe.protection.interact.openprinter.printer.*                                                                 # (default: true) INTERACT Open Printer
@@ -6748,6 +7100,8 @@ fe.protection.interact.opensecurity.energy_turret.*                             
 fe.protection.interact.opensecurity.entity_detector.*                                                        # (default: true) INTERACT Entity Detector
 fe.protection.interact.opensecurity.keypad.*                                                                 # (default: true) INTERACT Keypad
 fe.protection.interact.opensecurity.mag_reader.*                                                             # (default: true) INTERACT Magnetic Card Reader
+fe.protection.interact.opensecurity.mag_reader_camo.*                                                        # (default: true) INTERACT Camo Magnetic Card Reader
+fe.protection.interact.opensecurity.mag_secure_door.*                                                        # (default: true) INTERACT MagReader Security Door
 fe.protection.interact.opensecurity.nanofog.*                                                                # (default: true) INTERACT NanoFog
 fe.protection.interact.opensecurity.nanofog_terminal.*                                                       # (default: true) INTERACT NanoFog Terminal
 fe.protection.interact.opensecurity.private_secure_door.*                                                    # (default: true) INTERACT Private Security Door
@@ -7330,6 +7684,97 @@ fe.protection.place.additionalcompression.itemnetherstar_compressed.*           
 fe.protection.place.additionalcompression.netherrack_compressed.*                                            # (default: true) PLACE %s Netherrack
 fe.protection.place.additionalcompression.soulsand_compressed.*                                              # (default: true) PLACE %s Soul Sand
 fe.protection.place.additionalcompression.stone_compressed.*                                                 # (default: true) PLACE %s Stone
+fe.protection.place.advancedrocketry.advrocketmotor.*                                                        # (default: true) PLACE Advanced Rocket Engine
+fe.protection.place.advancedrocketry.airlock_door.*                                                          # (default: true) PLACE item.smallAirlockDoor.name
+fe.protection.place.advancedrocketry.alienleaves.*                                                           # (default: true) PLACE Lightwood Leaves
+fe.protection.place.advancedrocketry.aliensapling.*                                                          # (default: true) PLACE Lightwood Sapling
+fe.protection.place.advancedrocketry.alienwood.*                                                             # (default: true) PLACE Wood
+fe.protection.place.advancedrocketry.altitudecontroller.*                                                    # (default: true) PLACE Altitude Controller
+fe.protection.place.advancedrocketry.arcfurnace.*                                                            # (default: true) PLACE Electric Arc Furnace
+fe.protection.place.advancedrocketry.astrobed.*                                                              # (default: true) PLACE tile.astroBed.name
+fe.protection.place.advancedrocketry.basalt.*                                                                # (default: true) PLACE Basalt
+fe.protection.place.advancedrocketry.beacon.*                                                                # (default: true) PLACE Beacon
+fe.protection.place.advancedrocketry.biomescanner.*                                                          # (default: true) PLACE Biome Scanner
+fe.protection.place.advancedrocketry.blackholegenerator.*                                                    # (default: true) PLACE Black Hole Generator
+fe.protection.place.advancedrocketry.blastbrick.*                                                            # (default: true) PLACE HeatProof Brick
+fe.protection.place.advancedrocketry.blocklens.*                                                             # (default: true) PLACE Lens
+fe.protection.place.advancedrocketry.blockpump.*                                                             # (default: true) PLACE Fluid Pump
+fe.protection.place.advancedrocketry.centrifuge.*                                                            # (default: true) PLACE Centrifuge
+fe.protection.place.advancedrocketry.charcoallog.*                                                           # (default: true) PLACE Charcoal Log
+fe.protection.place.advancedrocketry.chemicalreactor.*                                                       # (default: true) PLACE Chemical Reactor
+fe.protection.place.advancedrocketry.circlelight.*                                                           # (default: true) PLACE Station Light
+fe.protection.place.advancedrocketry.concrete.*                                                              # (default: true) PLACE Concrete
+fe.protection.place.advancedrocketry.crystal.*                                                               # (default: true) PLACE Celestial Crystal
+fe.protection.place.advancedrocketry.crystallizer.*                                                          # (default: true) PLACE Crystallizer
+fe.protection.place.advancedrocketry.cuttingmachine.*                                                        # (default: true) PLACE Cutting Machine
+fe.protection.place.advancedrocketry.deployablerocketbuilder.*                                               # (default: true) PLACE Unmanned Vehicle Assembler
+fe.protection.place.advancedrocketry.drill.*                                                                 # (default: true) PLACE Drill
+fe.protection.place.advancedrocketry.electricmushroom.*                                                      # (default: true) PLACE Electric Mushroom
+fe.protection.place.advancedrocketry.electrolyser.*                                                          # (default: true) PLACE Electrolyser
+fe.protection.place.advancedrocketry.enrichedlavafluid.*                                                     # (default: true) PLACE Enriched Lava Block
+fe.protection.place.advancedrocketry.forcefield.*                                                            # (default: true) PLACE Force Field
+fe.protection.place.advancedrocketry.forcefieldprojector.*                                                   # (default: true) PLACE Force Field Projector
+fe.protection.place.advancedrocketry.fuelingstation.*                                                        # (default: true) PLACE Fueling station
+fe.protection.place.advancedrocketry.fueltank.*                                                              # (default: true) PLACE Liquid Fuel Tank
+fe.protection.place.advancedrocketry.geode.*                                                                 # (default: true) PLACE Geode Block
+fe.protection.place.advancedrocketry.gravitycontroller.*                                                     # (default: true) PLACE Station Gravity Controller
+fe.protection.place.advancedrocketry.gravitymachine.*                                                        # (default: true) PLACE Area Gravity Controller
+fe.protection.place.advancedrocketry.guidancecomputer.*                                                      # (default: true) PLACE Guidance Computer
+fe.protection.place.advancedrocketry.hotturf.*                                                               # (default: true) PLACE Oxidized Ferric Sand
+fe.protection.place.advancedrocketry.hydrogenfluid.*                                                         # (default: true) PLACE Hydrogen
+fe.protection.place.advancedrocketry.intake.*                                                                # (default: true) PLACE Gas Intake
+fe.protection.place.advancedrocketry.landingfloat.*                                                          # (default: true) PLACE Landing Float
+fe.protection.place.advancedrocketry.landingpad.*                                                            # (default: true) PLACE Docking Pad
+fe.protection.place.advancedrocketry.lathe.*                                                                 # (default: true) PLACE Lathe
+fe.protection.place.advancedrocketry.launchpad.*                                                             # (default: true) PLACE Launch Pad
+fe.protection.place.advancedrocketry.lightsource.*                                                           # (default: true) PLACE tile.lightSource.name
+fe.protection.place.advancedrocketry.liquidtank.*                                                            # (default: true) PLACE Pressurized Tank
+fe.protection.place.advancedrocketry.loader.*                                                                # (default: true) PLACE tile.loader.name
+fe.protection.place.advancedrocketry.metal0.*                                                                # (default: true) PLACE tile.metal.name
+fe.protection.place.advancedrocketry.microwavereciever.*                                                     # (default: true) PLACE Microwave Receiver
+fe.protection.place.advancedrocketry.monitoringstation.*                                                     # (default: true) PLACE Rocket Monitoring Station
+fe.protection.place.advancedrocketry.moonturf.*                                                              # (default: true) PLACE Moon Turf
+fe.protection.place.advancedrocketry.moonturf_dark.*                                                         # (default: true) PLACE Dark Moon Turf
+fe.protection.place.advancedrocketry.nitrogenfluid.*                                                         # (default: true) PLACE Nitrogen
+fe.protection.place.advancedrocketry.observatory.*                                                           # (default: true) PLACE Observatory
+fe.protection.place.advancedrocketry.orientationcontroller.*                                                 # (default: true) PLACE Orientation Controller
+fe.protection.place.advancedrocketry.oxygencharger.*                                                         # (default: true) PLACE Gas Charge Pad
+fe.protection.place.advancedrocketry.oxygendetection.*                                                       # (default: true) PLACE Atmosphere Detector
+fe.protection.place.advancedrocketry.oxygenfluid.*                                                           # (default: true) PLACE Oxygen
+fe.protection.place.advancedrocketry.oxygenscrubber.*                                                        # (default: true) PLACE CO2 Scrubber
+fe.protection.place.advancedrocketry.oxygenvent.*                                                            # (default: true) PLACE Oxygen Vent
+fe.protection.place.advancedrocketry.pipesealer.*                                                            # (default: true) PLACE Pipe Seal
+fe.protection.place.advancedrocketry.planetanalyser.*                                                        # (default: true) PLACE Astrobody Data Processor
+fe.protection.place.advancedrocketry.planetholoselector.*                                                    # (default: true) PLACE Holographic Planet Selector
+fe.protection.place.advancedrocketry.planetselector.*                                                        # (default: true) PLACE Planet Selector
+fe.protection.place.advancedrocketry.planks.*                                                                # (default: true) PLACE Lightwood planks
+fe.protection.place.advancedrocketry.platepress.*                                                            # (default: true) PLACE Small Plate Presser
+fe.protection.place.advancedrocketry.precisionassemblingmachine.*                                            # (default: true) PLACE Precision Assembler
+fe.protection.place.advancedrocketry.quartzcrucible.*                                                        # (default: true) PLACE Quartz Crucible
+fe.protection.place.advancedrocketry.railgun.*                                                               # (default: true) PLACE Block Cannon
+fe.protection.place.advancedrocketry.rocketbuilder.*                                                         # (default: true) PLACE Rocket Assembling Machine
+fe.protection.place.advancedrocketry.rocketfuel.*                                                            # (default: true) PLACE Rocket Fuel
+fe.protection.place.advancedrocketry.rocketmotor.*                                                           # (default: true) PLACE Liquid Fueled Engine
+fe.protection.place.advancedrocketry.rollingmachine.*                                                        # (default: true) PLACE Rolling Machine
+fe.protection.place.advancedrocketry.satellitebuilder.*                                                      # (default: true) PLACE Satellite Builder
+fe.protection.place.advancedrocketry.satellitecontrolcenter.*                                                # (default: true) PLACE Satellite Terminal
+fe.protection.place.advancedrocketry.sawblade.*                                                              # (default: true) PLACE Saw Blade Assembly
+fe.protection.place.advancedrocketry.seat.*                                                                  # (default: true) PLACE Seat
+fe.protection.place.advancedrocketry.solargenerator.*                                                        # (default: true) PLACE Solar Generator
+fe.protection.place.advancedrocketry.solarpanel.*                                                            # (default: true) PLACE Solar Panel
+fe.protection.place.advancedrocketry.spaceelevatorcontroller.*                                               # (default: true) PLACE Space Elevator
+fe.protection.place.advancedrocketry.spacelaser.*                                                            # (default: true) PLACE Orbital Laser Drill
+fe.protection.place.advancedrocketry.stationbuilder.*                                                        # (default: true) PLACE Space Station Assembler
+fe.protection.place.advancedrocketry.stationmarker.*                                                         # (default: true) PLACE Station Docking Port
+fe.protection.place.advancedrocketry.structuretower.*                                                        # (default: true) PLACE Structure Tower
+fe.protection.place.advancedrocketry.suitworkstation.*                                                       # (default: true) PLACE Suit Workstation
+fe.protection.place.advancedrocketry.terraformer.*                                                           # (default: true) PLACE Atmosphere Terraformer
+fe.protection.place.advancedrocketry.thermitetorch.*                                                         # (default: true) PLACE Thermite Torch
+fe.protection.place.advancedrocketry.unlittorch.*                                                            # (default: true) PLACE Extinguished Torch
+fe.protection.place.advancedrocketry.vitrifiedsand.*                                                         # (default: true) PLACE Vitrified Sand
+fe.protection.place.advancedrocketry.warpcore.*                                                              # (default: true) PLACE Warp Core
+fe.protection.place.advancedrocketry.warpmonitor.*                                                           # (default: true) PLACE Warp Controller
+fe.protection.place.advancedrocketry.wirelesstransciever.*                                                   # (default: true) PLACE Wireless Transceiver
 fe.protection.place.ae2stuff.encoder.*                                                                       # (default: true) PLACE Air
 fe.protection.place.ae2stuff.grower.*                                                                        # (default: true) PLACE Air
 fe.protection.place.ae2stuff.inscriber.*                                                                     # (default: true) PLACE Air
@@ -8060,6 +8505,13 @@ fe.protection.place.comforts.sleeping_bag_red.*                                 
 fe.protection.place.comforts.sleeping_bag_silver.*                                                           # (default: true) PLACE tile.comforts.sleeping_bag.silver.name
 fe.protection.place.comforts.sleeping_bag_white.*                                                            # (default: true) PLACE tile.comforts.sleeping_bag.white.name
 fe.protection.place.comforts.sleeping_bag_yellow.*                                                           # (default: true) PLACE tile.comforts.sleeping_bag.yellow.name
+fe.protection.place.compactmachines3.craftinghologram.*                                                      # (default: true) PLACE tile.compactmachines3.craftinghologram.name
+fe.protection.place.compactmachines3.fieldprojector.*                                                        # (default: true) PLACE Miniaturization Field Projector
+fe.protection.place.compactmachines3.machine.*                                                               # (default: true) PLACE tile.compactmachines3.machine.name
+fe.protection.place.compactmachines3.redstonetunnel.*                                                        # (default: true) PLACE Redstone Tunnel
+fe.protection.place.compactmachines3.tunnel.*                                                                # (default: true) PLACE Tunnel
+fe.protection.place.compactmachines3.wall.*                                                                  # (default: true) PLACE Solid Compact Machine Wall
+fe.protection.place.compactmachines3.wallbreakable.*                                                         # (default: true) PLACE Compact Machine Wall
 fe.protection.place.computronics.audio_cable.*                                                               # (default: true) PLACE Audio Cable
 fe.protection.place.computronics.camera.*                                                                    # (default: true) PLACE Camera
 fe.protection.place.computronics.chat_box.*                                                                  # (default: true) PLACE Chat Box
@@ -8280,6 +8732,7 @@ fe.protection.place.enderio.block_wireless_charger.*                            
 fe.protection.place.enderio.block_wireless_charger_extension.*                                               # (default: true) PLACE tile.block_wireless_charger_extension.name
 fe.protection.place.enderio.block_xp_vacuum.*                                                                # (default: true) PLACE tile.block_xp_vacuum.name
 fe.protection.place.enderio.block_zombie_generator.*                                                         # (default: true) PLACE tile.block_zombie_generator.name
+fe.protection.place.enderstorage.ender_storage.*                                                             # (default: true) PLACE tile.ender_storage.name
 fe.protection.place.eplus.advanced_table.*                                                                   # (default: true) PLACE Advanced Enchantment Table
 fe.protection.place.eplus.decorative_book.*                                                                  # (default: true) PLACE tile.eplus.decorative.book.name
 fe.protection.place.extracells.certustank.*                                                                  # (default: true) PLACE extracells.block.certustank.name
@@ -8539,6 +8992,22 @@ fe.protection.place.ironchest.iron_shulker_box_red.*                            
 fe.protection.place.ironchest.iron_shulker_box_silver.*                                                      # (default: true) PLACE tile.IronShulkerBoxsilver.name
 fe.protection.place.ironchest.iron_shulker_box_white.*                                                       # (default: true) PLACE tile.IronShulkerBoxwhite.name
 fe.protection.place.ironchest.iron_shulker_box_yellow.*                                                      # (default: true) PLACE tile.IronShulkerBoxyellow.name
+fe.protection.place.libvulpes.advancedmotor.*                                                                # (default: true) PLACE Advanced Motor
+fe.protection.place.libvulpes.advstructuremachine.*                                                          # (default: true) PLACE Advanced Machine Structure
+fe.protection.place.libvulpes.blockphantom.*                                                                 # (default: true) PLACE tile.blockPhantom.name
+fe.protection.place.libvulpes.coalgenerator.*                                                                # (default: true) PLACE Coal Generator
+fe.protection.place.libvulpes.coil0.*                                                                        # (default: true) PLACE tile.coil.name
+fe.protection.place.libvulpes.creativepowerbattery.*                                                         # (default: true) PLACE Creative Power Input Plug
+fe.protection.place.libvulpes.elitemotor.*                                                                   # (default: true) PLACE Elite Motor
+fe.protection.place.libvulpes.enhancedmotor.*                                                                # (default: true) PLACE Enhanced Motor
+fe.protection.place.libvulpes.forgepowerinput.*                                                              # (default: true) PLACE Power Input Plug
+fe.protection.place.libvulpes.forgepoweroutput.*                                                             # (default: true) PLACE Power Output Plug
+fe.protection.place.libvulpes.hatch.*                                                                        # (default: true) PLACE tile.hatch.name
+fe.protection.place.libvulpes.metal0.*                                                                       # (default: true) PLACE tile.metal.name
+fe.protection.place.libvulpes.motor.*                                                                        # (default: true) PLACE Motor
+fe.protection.place.libvulpes.ore0.*                                                                         # (default: true) PLACE tile.ore.name
+fe.protection.place.libvulpes.placeholder.*                                                                  # (default: true) PLACE Machine
+fe.protection.place.libvulpes.structuremachine.*                                                             # (default: true) PLACE Machine Structure
 fe.protection.place.littletiles.blocklittletiles.*                                                           # (default: true) PLACE tile.null.name
 fe.protection.place.littletiles.blocklittletilesrendered.*                                                   # (default: true) PLACE tile.null.name
 fe.protection.place.littletiles.blocklittletilesticking.*                                                    # (default: true) PLACE tile.null.name
@@ -8549,12 +9018,13 @@ fe.protection.place.littletiles.ltflowinglava.*                                 
 fe.protection.place.littletiles.ltflowingwater.*                                                             # (default: true) PLACE tile.LTFlowingWater.name
 fe.protection.place.littletiles.ltinput.*                                                                    # (default: true) PLACE tile.ltinput.name
 fe.protection.place.littletiles.ltoutput.*                                                                   # (default: true) PLACE tile.ltoutput.name
-fe.protection.place.littletiles.ltparticleblock.*                                                            # (default: true) PLACE Little Particle Block
+fe.protection.place.littletiles.ltparticleblock.*                                                            # (default: true) PLACE Air
 fe.protection.place.littletiles.ltsinglecable.*                                                              # (default: true) PLACE tile.ltsinglecable.name
 fe.protection.place.littletiles.ltstorageblocktile.*                                                         # (default: true) PLACE Little Storage Block
 fe.protection.place.littletiles.lttransparentcoloredblock.*                                                  # (default: true) PLACE tile.LTTransparentColoredBlock.name
 fe.protection.place.littletiles.ltwhiteflowinglava.*                                                         # (default: true) PLACE tile.LTWhiteFlowingLava.name
 fe.protection.place.littletiles.ltwhiteflowingwater.*                                                        # (default: true) PLACE tile.LTWhiteFlowingWater.name
+fe.protection.place.littletiles.signal_converter.*                                                           # (default: true) PLACE Signal Converter
 fe.protection.place.malisisdoors.big_door_acacia_3x3.*                                                       # (default: true) PLACE Large Acacia Double Doors
 fe.protection.place.malisisdoors.big_door_birch_3x3.*                                                        # (default: true) PLACE Large Birch Double Doors
 fe.protection.place.malisisdoors.big_door_dark_oak_3x3.*                                                     # (default: true) PLACE Large Dark Oak Double Doors
@@ -9150,20 +9620,20 @@ fe.protection.place.openentity.entityproxy.*                                    
 fe.protection.place.openfm.radio.*                                                                           # (default: true) PLACE Radio
 fe.protection.place.openfm.speaker.*                                                                         # (default: true) PLACE Speaker
 fe.protection.place.openglasses.openglassesterminal.*                                                        # (default: true) PLACE Glasses Terminal
-fe.protection.place.openmodularturrets.base_addon.*                                                          # (default: true) PLACE tile.base_addon.name
-fe.protection.place.openmodularturrets.disposable_item_turret.*                                              # (default: true) PLACE Disposable Item Turret
-fe.protection.place.openmodularturrets.expander.*                                                            # (default: true) PLACE tile.expander.name
-fe.protection.place.openmodularturrets.grenade_turret.*                                                      # (default: true) PLACE Grenade Launcher Turret
-fe.protection.place.openmodularturrets.incendiary_turret.*                                                   # (default: true) PLACE Incendiary Turret
-fe.protection.place.openmodularturrets.laser_turret.*                                                        # (default: true) PLACE Laser Turret
-fe.protection.place.openmodularturrets.lever_block.*                                                         # (default: true) PLACE Basic Turret Base Crank
-fe.protection.place.openmodularturrets.machine_gun_turret.*                                                  # (default: true) PLACE Gun Turret
-fe.protection.place.openmodularturrets.potato_cannon_turret.*                                                # (default: true) PLACE Potato Cannon Turret
-fe.protection.place.openmodularturrets.rail_gun_turret.*                                                     # (default: true) PLACE Rail Gun Turret
-fe.protection.place.openmodularturrets.relativistic_turret.*                                                 # (default: true) PLACE Relativistic Turret
-fe.protection.place.openmodularturrets.rocket_turret.*                                                       # (default: true) PLACE Rocket Launcher Turret
-fe.protection.place.openmodularturrets.teleporter_turret.*                                                   # (default: true) PLACE Teleporter Turret
-fe.protection.place.openmodularturrets.turret_base.*                                                         # (default: true) PLACE Turret Base
+fe.protection.place.openmodularturrets.base_addon.*                                                          # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.disposable_item_turret.*                                              # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.expander.*                                                            # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.grenade_turret.*                                                      # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.incendiary_turret.*                                                   # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.laser_turret.*                                                        # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.lever_block.*                                                         # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.machine_gun_turret.*                                                  # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.potato_cannon_turret.*                                                # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.rail_gun_turret.*                                                     # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.relativistic_turret.*                                                 # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.rocket_turret.*                                                       # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.teleporter_turret.*                                                   # (default: true) PLACE Air
+fe.protection.place.openmodularturrets.turret_base.*                                                         # (default: true) PLACE Air
 fe.protection.place.openprinter.briefcase.*                                                                  # (default: true) PLACE Briefcase
 fe.protection.place.openprinter.filecabinet.*                                                                # (default: true) PLACE Open File Cabinet
 fe.protection.place.openprinter.printer.*                                                                    # (default: true) PLACE Open Printer
@@ -9186,6 +9656,8 @@ fe.protection.place.opensecurity.energy_turret.*                                
 fe.protection.place.opensecurity.entity_detector.*                                                           # (default: true) PLACE Entity Detector
 fe.protection.place.opensecurity.keypad.*                                                                    # (default: true) PLACE Keypad
 fe.protection.place.opensecurity.mag_reader.*                                                                # (default: true) PLACE Magnetic Card Reader
+fe.protection.place.opensecurity.mag_reader_camo.*                                                           # (default: true) PLACE Camo Magnetic Card Reader
+fe.protection.place.opensecurity.mag_secure_door.*                                                           # (default: true) PLACE MagReader Security Door
 fe.protection.place.opensecurity.nanofog.*                                                                   # (default: true) PLACE NanoFog
 fe.protection.place.opensecurity.nanofog_terminal.*                                                          # (default: true) PLACE NanoFog Terminal
 fe.protection.place.opensecurity.private_secure_door.*                                                       # (default: true) PLACE Private Security Door
@@ -9768,6 +10240,97 @@ fe.protection.trample.additionalcompression.itemnetherstar_compressed.*         
 fe.protection.trample.additionalcompression.netherrack_compressed.*                                          # (default: true) PLACE %s Netherrack
 fe.protection.trample.additionalcompression.soulsand_compressed.*                                            # (default: true) PLACE %s Soul Sand
 fe.protection.trample.additionalcompression.stone_compressed.*                                               # (default: true) PLACE %s Stone
+fe.protection.trample.advancedrocketry.advrocketmotor.*                                                      # (default: true) PLACE Advanced Rocket Engine
+fe.protection.trample.advancedrocketry.airlock_door.*                                                        # (default: true) PLACE item.smallAirlockDoor.name
+fe.protection.trample.advancedrocketry.alienleaves.*                                                         # (default: true) PLACE Lightwood Leaves
+fe.protection.trample.advancedrocketry.aliensapling.*                                                        # (default: true) PLACE Lightwood Sapling
+fe.protection.trample.advancedrocketry.alienwood.*                                                           # (default: true) PLACE Wood
+fe.protection.trample.advancedrocketry.altitudecontroller.*                                                  # (default: true) PLACE Altitude Controller
+fe.protection.trample.advancedrocketry.arcfurnace.*                                                          # (default: true) PLACE Electric Arc Furnace
+fe.protection.trample.advancedrocketry.astrobed.*                                                            # (default: true) PLACE tile.astroBed.name
+fe.protection.trample.advancedrocketry.basalt.*                                                              # (default: true) PLACE Basalt
+fe.protection.trample.advancedrocketry.beacon.*                                                              # (default: true) PLACE Beacon
+fe.protection.trample.advancedrocketry.biomescanner.*                                                        # (default: true) PLACE Biome Scanner
+fe.protection.trample.advancedrocketry.blackholegenerator.*                                                  # (default: true) PLACE Black Hole Generator
+fe.protection.trample.advancedrocketry.blastbrick.*                                                          # (default: true) PLACE HeatProof Brick
+fe.protection.trample.advancedrocketry.blocklens.*                                                           # (default: true) PLACE Lens
+fe.protection.trample.advancedrocketry.blockpump.*                                                           # (default: true) PLACE Fluid Pump
+fe.protection.trample.advancedrocketry.centrifuge.*                                                          # (default: true) PLACE Centrifuge
+fe.protection.trample.advancedrocketry.charcoallog.*                                                         # (default: true) PLACE Charcoal Log
+fe.protection.trample.advancedrocketry.chemicalreactor.*                                                     # (default: true) PLACE Chemical Reactor
+fe.protection.trample.advancedrocketry.circlelight.*                                                         # (default: true) PLACE Station Light
+fe.protection.trample.advancedrocketry.concrete.*                                                            # (default: true) PLACE Concrete
+fe.protection.trample.advancedrocketry.crystal.*                                                             # (default: true) PLACE Celestial Crystal
+fe.protection.trample.advancedrocketry.crystallizer.*                                                        # (default: true) PLACE Crystallizer
+fe.protection.trample.advancedrocketry.cuttingmachine.*                                                      # (default: true) PLACE Cutting Machine
+fe.protection.trample.advancedrocketry.deployablerocketbuilder.*                                             # (default: true) PLACE Unmanned Vehicle Assembler
+fe.protection.trample.advancedrocketry.drill.*                                                               # (default: true) PLACE Drill
+fe.protection.trample.advancedrocketry.electricmushroom.*                                                    # (default: true) PLACE Electric Mushroom
+fe.protection.trample.advancedrocketry.electrolyser.*                                                        # (default: true) PLACE Electrolyser
+fe.protection.trample.advancedrocketry.enrichedlavafluid.*                                                   # (default: true) PLACE Enriched Lava Block
+fe.protection.trample.advancedrocketry.forcefield.*                                                          # (default: true) PLACE Force Field
+fe.protection.trample.advancedrocketry.forcefieldprojector.*                                                 # (default: true) PLACE Force Field Projector
+fe.protection.trample.advancedrocketry.fuelingstation.*                                                      # (default: true) PLACE Fueling station
+fe.protection.trample.advancedrocketry.fueltank.*                                                            # (default: true) PLACE Liquid Fuel Tank
+fe.protection.trample.advancedrocketry.geode.*                                                               # (default: true) PLACE Geode Block
+fe.protection.trample.advancedrocketry.gravitycontroller.*                                                   # (default: true) PLACE Station Gravity Controller
+fe.protection.trample.advancedrocketry.gravitymachine.*                                                      # (default: true) PLACE Area Gravity Controller
+fe.protection.trample.advancedrocketry.guidancecomputer.*                                                    # (default: true) PLACE Guidance Computer
+fe.protection.trample.advancedrocketry.hotturf.*                                                             # (default: true) PLACE Oxidized Ferric Sand
+fe.protection.trample.advancedrocketry.hydrogenfluid.*                                                       # (default: true) PLACE Hydrogen
+fe.protection.trample.advancedrocketry.intake.*                                                              # (default: true) PLACE Gas Intake
+fe.protection.trample.advancedrocketry.landingfloat.*                                                        # (default: true) PLACE Landing Float
+fe.protection.trample.advancedrocketry.landingpad.*                                                          # (default: true) PLACE Docking Pad
+fe.protection.trample.advancedrocketry.lathe.*                                                               # (default: true) PLACE Lathe
+fe.protection.trample.advancedrocketry.launchpad.*                                                           # (default: true) PLACE Launch Pad
+fe.protection.trample.advancedrocketry.lightsource.*                                                         # (default: true) PLACE tile.lightSource.name
+fe.protection.trample.advancedrocketry.liquidtank.*                                                          # (default: true) PLACE Pressurized Tank
+fe.protection.trample.advancedrocketry.loader.*                                                              # (default: true) PLACE tile.loader.name
+fe.protection.trample.advancedrocketry.metal0.*                                                              # (default: true) PLACE tile.metal.name
+fe.protection.trample.advancedrocketry.microwavereciever.*                                                   # (default: true) PLACE Microwave Receiver
+fe.protection.trample.advancedrocketry.monitoringstation.*                                                   # (default: true) PLACE Rocket Monitoring Station
+fe.protection.trample.advancedrocketry.moonturf.*                                                            # (default: true) PLACE Moon Turf
+fe.protection.trample.advancedrocketry.moonturf_dark.*                                                       # (default: true) PLACE Dark Moon Turf
+fe.protection.trample.advancedrocketry.nitrogenfluid.*                                                       # (default: true) PLACE Nitrogen
+fe.protection.trample.advancedrocketry.observatory.*                                                         # (default: true) PLACE Observatory
+fe.protection.trample.advancedrocketry.orientationcontroller.*                                               # (default: true) PLACE Orientation Controller
+fe.protection.trample.advancedrocketry.oxygencharger.*                                                       # (default: true) PLACE Gas Charge Pad
+fe.protection.trample.advancedrocketry.oxygendetection.*                                                     # (default: true) PLACE Atmosphere Detector
+fe.protection.trample.advancedrocketry.oxygenfluid.*                                                         # (default: true) PLACE Oxygen
+fe.protection.trample.advancedrocketry.oxygenscrubber.*                                                      # (default: true) PLACE CO2 Scrubber
+fe.protection.trample.advancedrocketry.oxygenvent.*                                                          # (default: true) PLACE Oxygen Vent
+fe.protection.trample.advancedrocketry.pipesealer.*                                                          # (default: true) PLACE Pipe Seal
+fe.protection.trample.advancedrocketry.planetanalyser.*                                                      # (default: true) PLACE Astrobody Data Processor
+fe.protection.trample.advancedrocketry.planetholoselector.*                                                  # (default: true) PLACE Holographic Planet Selector
+fe.protection.trample.advancedrocketry.planetselector.*                                                      # (default: true) PLACE Planet Selector
+fe.protection.trample.advancedrocketry.planks.*                                                              # (default: true) PLACE Lightwood planks
+fe.protection.trample.advancedrocketry.platepress.*                                                          # (default: true) PLACE Small Plate Presser
+fe.protection.trample.advancedrocketry.precisionassemblingmachine.*                                          # (default: true) PLACE Precision Assembler
+fe.protection.trample.advancedrocketry.quartzcrucible.*                                                      # (default: true) PLACE Quartz Crucible
+fe.protection.trample.advancedrocketry.railgun.*                                                             # (default: true) PLACE Block Cannon
+fe.protection.trample.advancedrocketry.rocketbuilder.*                                                       # (default: true) PLACE Rocket Assembling Machine
+fe.protection.trample.advancedrocketry.rocketfuel.*                                                          # (default: true) PLACE Rocket Fuel
+fe.protection.trample.advancedrocketry.rocketmotor.*                                                         # (default: true) PLACE Liquid Fueled Engine
+fe.protection.trample.advancedrocketry.rollingmachine.*                                                      # (default: true) PLACE Rolling Machine
+fe.protection.trample.advancedrocketry.satellitebuilder.*                                                    # (default: true) PLACE Satellite Builder
+fe.protection.trample.advancedrocketry.satellitecontrolcenter.*                                              # (default: true) PLACE Satellite Terminal
+fe.protection.trample.advancedrocketry.sawblade.*                                                            # (default: true) PLACE Saw Blade Assembly
+fe.protection.trample.advancedrocketry.seat.*                                                                # (default: true) PLACE Seat
+fe.protection.trample.advancedrocketry.solargenerator.*                                                      # (default: true) PLACE Solar Generator
+fe.protection.trample.advancedrocketry.solarpanel.*                                                          # (default: true) PLACE Solar Panel
+fe.protection.trample.advancedrocketry.spaceelevatorcontroller.*                                             # (default: true) PLACE Space Elevator
+fe.protection.trample.advancedrocketry.spacelaser.*                                                          # (default: true) PLACE Orbital Laser Drill
+fe.protection.trample.advancedrocketry.stationbuilder.*                                                      # (default: true) PLACE Space Station Assembler
+fe.protection.trample.advancedrocketry.stationmarker.*                                                       # (default: true) PLACE Station Docking Port
+fe.protection.trample.advancedrocketry.structuretower.*                                                      # (default: true) PLACE Structure Tower
+fe.protection.trample.advancedrocketry.suitworkstation.*                                                     # (default: true) PLACE Suit Workstation
+fe.protection.trample.advancedrocketry.terraformer.*                                                         # (default: true) PLACE Atmosphere Terraformer
+fe.protection.trample.advancedrocketry.thermitetorch.*                                                       # (default: true) PLACE Thermite Torch
+fe.protection.trample.advancedrocketry.unlittorch.*                                                          # (default: true) PLACE Extinguished Torch
+fe.protection.trample.advancedrocketry.vitrifiedsand.*                                                       # (default: true) PLACE Vitrified Sand
+fe.protection.trample.advancedrocketry.warpcore.*                                                            # (default: true) PLACE Warp Core
+fe.protection.trample.advancedrocketry.warpmonitor.*                                                         # (default: true) PLACE Warp Controller
+fe.protection.trample.advancedrocketry.wirelesstransciever.*                                                 # (default: true) PLACE Wireless Transceiver
 fe.protection.trample.ae2stuff.encoder.*                                                                     # (default: true) PLACE Air
 fe.protection.trample.ae2stuff.grower.*                                                                      # (default: true) PLACE Air
 fe.protection.trample.ae2stuff.inscriber.*                                                                   # (default: true) PLACE Air
@@ -10498,6 +11061,13 @@ fe.protection.trample.comforts.sleeping_bag_red.*                               
 fe.protection.trample.comforts.sleeping_bag_silver.*                                                         # (default: true) PLACE tile.comforts.sleeping_bag.silver.name
 fe.protection.trample.comforts.sleeping_bag_white.*                                                          # (default: true) PLACE tile.comforts.sleeping_bag.white.name
 fe.protection.trample.comforts.sleeping_bag_yellow.*                                                         # (default: true) PLACE tile.comforts.sleeping_bag.yellow.name
+fe.protection.trample.compactmachines3.craftinghologram.*                                                    # (default: true) PLACE tile.compactmachines3.craftinghologram.name
+fe.protection.trample.compactmachines3.fieldprojector.*                                                      # (default: true) PLACE Miniaturization Field Projector
+fe.protection.trample.compactmachines3.machine.*                                                             # (default: true) PLACE tile.compactmachines3.machine.name
+fe.protection.trample.compactmachines3.redstonetunnel.*                                                      # (default: true) PLACE Redstone Tunnel
+fe.protection.trample.compactmachines3.tunnel.*                                                              # (default: true) PLACE Tunnel
+fe.protection.trample.compactmachines3.wall.*                                                                # (default: true) PLACE Solid Compact Machine Wall
+fe.protection.trample.compactmachines3.wallbreakable.*                                                       # (default: true) PLACE Compact Machine Wall
 fe.protection.trample.computronics.audio_cable.*                                                             # (default: true) PLACE Audio Cable
 fe.protection.trample.computronics.camera.*                                                                  # (default: true) PLACE Camera
 fe.protection.trample.computronics.chat_box.*                                                                # (default: true) PLACE Chat Box
@@ -10718,6 +11288,7 @@ fe.protection.trample.enderio.block_wireless_charger.*                          
 fe.protection.trample.enderio.block_wireless_charger_extension.*                                             # (default: true) PLACE tile.block_wireless_charger_extension.name
 fe.protection.trample.enderio.block_xp_vacuum.*                                                              # (default: true) PLACE tile.block_xp_vacuum.name
 fe.protection.trample.enderio.block_zombie_generator.*                                                       # (default: true) PLACE tile.block_zombie_generator.name
+fe.protection.trample.enderstorage.ender_storage.*                                                           # (default: true) PLACE tile.ender_storage.name
 fe.protection.trample.eplus.advanced_table.*                                                                 # (default: true) PLACE Advanced Enchantment Table
 fe.protection.trample.eplus.decorative_book.*                                                                # (default: true) PLACE tile.eplus.decorative.book.name
 fe.protection.trample.extracells.certustank.*                                                                # (default: true) PLACE extracells.block.certustank.name
@@ -10977,6 +11548,22 @@ fe.protection.trample.ironchest.iron_shulker_box_red.*                          
 fe.protection.trample.ironchest.iron_shulker_box_silver.*                                                    # (default: true) PLACE tile.IronShulkerBoxsilver.name
 fe.protection.trample.ironchest.iron_shulker_box_white.*                                                     # (default: true) PLACE tile.IronShulkerBoxwhite.name
 fe.protection.trample.ironchest.iron_shulker_box_yellow.*                                                    # (default: true) PLACE tile.IronShulkerBoxyellow.name
+fe.protection.trample.libvulpes.advancedmotor.*                                                              # (default: true) PLACE Advanced Motor
+fe.protection.trample.libvulpes.advstructuremachine.*                                                        # (default: true) PLACE Advanced Machine Structure
+fe.protection.trample.libvulpes.blockphantom.*                                                               # (default: true) PLACE tile.blockPhantom.name
+fe.protection.trample.libvulpes.coalgenerator.*                                                              # (default: true) PLACE Coal Generator
+fe.protection.trample.libvulpes.coil0.*                                                                      # (default: true) PLACE tile.coil.name
+fe.protection.trample.libvulpes.creativepowerbattery.*                                                       # (default: true) PLACE Creative Power Input Plug
+fe.protection.trample.libvulpes.elitemotor.*                                                                 # (default: true) PLACE Elite Motor
+fe.protection.trample.libvulpes.enhancedmotor.*                                                              # (default: true) PLACE Enhanced Motor
+fe.protection.trample.libvulpes.forgepowerinput.*                                                            # (default: true) PLACE Power Input Plug
+fe.protection.trample.libvulpes.forgepoweroutput.*                                                           # (default: true) PLACE Power Output Plug
+fe.protection.trample.libvulpes.hatch.*                                                                      # (default: true) PLACE tile.hatch.name
+fe.protection.trample.libvulpes.metal0.*                                                                     # (default: true) PLACE tile.metal.name
+fe.protection.trample.libvulpes.motor.*                                                                      # (default: true) PLACE Motor
+fe.protection.trample.libvulpes.ore0.*                                                                       # (default: true) PLACE tile.ore.name
+fe.protection.trample.libvulpes.placeholder.*                                                                # (default: true) PLACE Machine
+fe.protection.trample.libvulpes.structuremachine.*                                                           # (default: true) PLACE Machine Structure
 fe.protection.trample.littletiles.blocklittletiles.*                                                         # (default: true) PLACE tile.null.name
 fe.protection.trample.littletiles.blocklittletilesrendered.*                                                 # (default: true) PLACE tile.null.name
 fe.protection.trample.littletiles.blocklittletilesticking.*                                                  # (default: true) PLACE tile.null.name
@@ -10987,12 +11574,13 @@ fe.protection.trample.littletiles.ltflowinglava.*                               
 fe.protection.trample.littletiles.ltflowingwater.*                                                           # (default: true) PLACE tile.LTFlowingWater.name
 fe.protection.trample.littletiles.ltinput.*                                                                  # (default: true) PLACE tile.ltinput.name
 fe.protection.trample.littletiles.ltoutput.*                                                                 # (default: true) PLACE tile.ltoutput.name
-fe.protection.trample.littletiles.ltparticleblock.*                                                          # (default: true) PLACE Little Particle Block
+fe.protection.trample.littletiles.ltparticleblock.*                                                          # (default: true) PLACE Air
 fe.protection.trample.littletiles.ltsinglecable.*                                                            # (default: true) PLACE tile.ltsinglecable.name
 fe.protection.trample.littletiles.ltstorageblocktile.*                                                       # (default: true) PLACE Little Storage Block
 fe.protection.trample.littletiles.lttransparentcoloredblock.*                                                # (default: true) PLACE tile.LTTransparentColoredBlock.name
 fe.protection.trample.littletiles.ltwhiteflowinglava.*                                                       # (default: true) PLACE tile.LTWhiteFlowingLava.name
 fe.protection.trample.littletiles.ltwhiteflowingwater.*                                                      # (default: true) PLACE tile.LTWhiteFlowingWater.name
+fe.protection.trample.littletiles.signal_converter.*                                                         # (default: true) PLACE Signal Converter
 fe.protection.trample.malisisdoors.big_door_acacia_3x3.*                                                     # (default: true) PLACE Large Acacia Double Doors
 fe.protection.trample.malisisdoors.big_door_birch_3x3.*                                                      # (default: true) PLACE Large Birch Double Doors
 fe.protection.trample.malisisdoors.big_door_dark_oak_3x3.*                                                   # (default: true) PLACE Large Dark Oak Double Doors
@@ -11588,20 +12176,20 @@ fe.protection.trample.openentity.entityproxy.*                                  
 fe.protection.trample.openfm.radio.*                                                                         # (default: true) PLACE Radio
 fe.protection.trample.openfm.speaker.*                                                                       # (default: true) PLACE Speaker
 fe.protection.trample.openglasses.openglassesterminal.*                                                      # (default: true) PLACE Glasses Terminal
-fe.protection.trample.openmodularturrets.base_addon.*                                                        # (default: true) PLACE tile.base_addon.name
-fe.protection.trample.openmodularturrets.disposable_item_turret.*                                            # (default: true) PLACE Disposable Item Turret
-fe.protection.trample.openmodularturrets.expander.*                                                          # (default: true) PLACE tile.expander.name
-fe.protection.trample.openmodularturrets.grenade_turret.*                                                    # (default: true) PLACE Grenade Launcher Turret
-fe.protection.trample.openmodularturrets.incendiary_turret.*                                                 # (default: true) PLACE Incendiary Turret
-fe.protection.trample.openmodularturrets.laser_turret.*                                                      # (default: true) PLACE Laser Turret
-fe.protection.trample.openmodularturrets.lever_block.*                                                       # (default: true) PLACE Basic Turret Base Crank
-fe.protection.trample.openmodularturrets.machine_gun_turret.*                                                # (default: true) PLACE Gun Turret
-fe.protection.trample.openmodularturrets.potato_cannon_turret.*                                              # (default: true) PLACE Potato Cannon Turret
-fe.protection.trample.openmodularturrets.rail_gun_turret.*                                                   # (default: true) PLACE Rail Gun Turret
-fe.protection.trample.openmodularturrets.relativistic_turret.*                                               # (default: true) PLACE Relativistic Turret
-fe.protection.trample.openmodularturrets.rocket_turret.*                                                     # (default: true) PLACE Rocket Launcher Turret
-fe.protection.trample.openmodularturrets.teleporter_turret.*                                                 # (default: true) PLACE Teleporter Turret
-fe.protection.trample.openmodularturrets.turret_base.*                                                       # (default: true) PLACE Turret Base
+fe.protection.trample.openmodularturrets.base_addon.*                                                        # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.disposable_item_turret.*                                            # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.expander.*                                                          # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.grenade_turret.*                                                    # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.incendiary_turret.*                                                 # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.laser_turret.*                                                      # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.lever_block.*                                                       # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.machine_gun_turret.*                                                # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.potato_cannon_turret.*                                              # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.rail_gun_turret.*                                                   # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.relativistic_turret.*                                               # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.rocket_turret.*                                                     # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.teleporter_turret.*                                                 # (default: true) PLACE Air
+fe.protection.trample.openmodularturrets.turret_base.*                                                       # (default: true) PLACE Air
 fe.protection.trample.openprinter.briefcase.*                                                                # (default: true) PLACE Briefcase
 fe.protection.trample.openprinter.filecabinet.*                                                              # (default: true) PLACE Open File Cabinet
 fe.protection.trample.openprinter.printer.*                                                                  # (default: true) PLACE Open Printer
@@ -11624,6 +12212,8 @@ fe.protection.trample.opensecurity.energy_turret.*                              
 fe.protection.trample.opensecurity.entity_detector.*                                                         # (default: true) PLACE Entity Detector
 fe.protection.trample.opensecurity.keypad.*                                                                  # (default: true) PLACE Keypad
 fe.protection.trample.opensecurity.mag_reader.*                                                              # (default: true) PLACE Magnetic Card Reader
+fe.protection.trample.opensecurity.mag_reader_camo.*                                                         # (default: true) PLACE Camo Magnetic Card Reader
+fe.protection.trample.opensecurity.mag_secure_door.*                                                         # (default: true) PLACE MagReader Security Door
 fe.protection.trample.opensecurity.nanofog.*                                                                 # (default: true) PLACE NanoFog
 fe.protection.trample.opensecurity.nanofog_terminal.*                                                        # (default: true) PLACE NanoFog Terminal
 fe.protection.trample.opensecurity.private_secure_door.*                                                     # (default: true) PLACE Private Security Door

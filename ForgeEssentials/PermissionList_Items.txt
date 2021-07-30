@@ -1,8 +1,57 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 01.05 12:39 ------------ \\#
-#// ----------- Total amount: 36883 --------- \\#
+#// --------------- 30.07 18:27 ------------ \\#
+#// ----------- Total amount: 38089 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                                                        # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
+fe.protection.craft.advancedrocketry.asteroidchip.*                                                          # (default: true) CRAFT Asteroid Chip
+fe.protection.craft.advancedrocketry.atmanalyser.*                                                           # (default: true) CRAFT Atmosphere Analyzer
+fe.protection.craft.advancedrocketry.basiclasergun.*                                                         # (default: true) CRAFT Basic Laser Gun
+fe.protection.craft.advancedrocketry.beaconfinder.*                                                          # (default: true) CRAFT Beacon Finder
+fe.protection.craft.advancedrocketry.biomechanger.*                                                          # (default: true) CRAFT Biome Changer Remote
+fe.protection.craft.advancedrocketry.bucketenrichedlava.*                                                    # (default: true) CRAFT Tank of Enriched Lava
+fe.protection.craft.advancedrocketry.buckethydrogen.*                                                        # (default: true) CRAFT Tank of Hydrogen
+fe.protection.craft.advancedrocketry.bucketnitrogen.*                                                        # (default: true) CRAFT Tank of Nitrogen
+fe.protection.craft.advancedrocketry.bucketoxygen.*                                                          # (default: true) CRAFT Tank of Oxygen
+fe.protection.craft.advancedrocketry.bucketrocketfuel.*                                                      # (default: true) CRAFT Tank of Rocket Fuel
+fe.protection.craft.advancedrocketry.carbonscrubbercartridge.*                                               # (default: true) CRAFT Carbon Collection Cartridge
+fe.protection.craft.advancedrocketry.dataunit.*                                                              # (default: true) CRAFT Data Storage Unit
+fe.protection.craft.advancedrocketry.elevatorchip.*                                                          # (default: true) CRAFT Space Elevator Chip
+fe.protection.craft.advancedrocketry.hovercraft.*                                                            # (default: true) CRAFT HoverCraft
+fe.protection.craft.advancedrocketry.ic.*                                                                    # (default: true) CRAFT Basic Circuit
+fe.protection.craft.advancedrocketry.itemcircuitplate.*                                                      # (default: true) CRAFT Basic Circuit Plate
+fe.protection.craft.advancedrocketry.itemupgrade.*                                                           # (default: true) CRAFT Hover Upgrade
+fe.protection.craft.advancedrocketry.jackhammer.*                                                            # (default: true) CRAFT Jack Hammer
+fe.protection.craft.advancedrocketry.jetpack.*                                                               # (default: true) CRAFT Jet Pack
+fe.protection.craft.advancedrocketry.lens.*                                                                  # (default: true) CRAFT Basic Lens
+fe.protection.craft.advancedrocketry.misc.*                                                                  # (default: true) CRAFT User Interface
+fe.protection.craft.advancedrocketry.orescanner.*                                                            # (default: true) CRAFT Ore Scanner
+fe.protection.craft.advancedrocketry.planetidchip.*                                                          # (default: true) CRAFT Planet Id Chip
+fe.protection.craft.advancedrocketry.pressuretank.*                                                          # (default: true) CRAFT Low Pressure Tank
+fe.protection.craft.advancedrocketry.productboule.*                                                          # (default: true) CRAFT No name!!!
+fe.protection.craft.advancedrocketry.productdust.*                                                           # (default: true) CRAFT Titanium Aluminide Dust
+fe.protection.craft.advancedrocketry.productfan.*                                                            # (default: true) CRAFT No name!!!
+fe.protection.craft.advancedrocketry.productgear.*                                                           # (default: true) CRAFT Titanium Aluminide Gear
+fe.protection.craft.advancedrocketry.productgem.*                                                            # (default: true) CRAFT No name!!!
+fe.protection.craft.advancedrocketry.productingot.*                                                          # (default: true) CRAFT Titanium Aluminide Ingot
+fe.protection.craft.advancedrocketry.productnugget.*                                                         # (default: true) CRAFT Titanium Aluminide Nugget
+fe.protection.craft.advancedrocketry.productplate.*                                                          # (default: true) CRAFT Titanium Aluminide Plate
+fe.protection.craft.advancedrocketry.productrod.*                                                            # (default: true) CRAFT Titanium Aluminide Rod
+fe.protection.craft.advancedrocketry.productsheet.*                                                          # (default: true) CRAFT Titanium Aluminide Sheet
+fe.protection.craft.advancedrocketry.satellite.*                                                             # (default: true) CRAFT Satellite
+fe.protection.craft.advancedrocketry.satelliteidchip.*                                                       # (default: true) CRAFT Satellite Id Chip
+fe.protection.craft.advancedrocketry.satellitepowersource.*                                                  # (default: true) CRAFT Basic Solar Panel
+fe.protection.craft.advancedrocketry.satelliteprimaryfunction.*                                              # (default: true) CRAFT Optical Sensor
+fe.protection.craft.advancedrocketry.sawbladeiron.*                                                          # (default: true) CRAFT Iron Saw Blade
+fe.protection.craft.advancedrocketry.sealdetector.*                                                          # (default: true) CRAFT Seal Detector
+fe.protection.craft.advancedrocketry.smallairlockdoor.*                                                      # (default: true) CRAFT Small Airlock Door
+fe.protection.craft.advancedrocketry.spaceboots.*                                                            # (default: true) CRAFT Space Boots
+fe.protection.craft.advancedrocketry.spacechestplate.*                                                       # (default: true) CRAFT Space Suit Chest-Piece
+fe.protection.craft.advancedrocketry.spacehelmet.*                                                           # (default: true) CRAFT Space Helmet
+fe.protection.craft.advancedrocketry.spaceleggings.*                                                         # (default: true) CRAFT Space Suit Legging
+fe.protection.craft.advancedrocketry.spacestation.*                                                          # (default: true) CRAFT Space Station Container
+fe.protection.craft.advancedrocketry.spacestationchip.*                                                      # (default: true) CRAFT Space Station Id Chip
+fe.protection.craft.advancedrocketry.thermite.*                                                              # (default: true) CRAFT Thermite
+fe.protection.craft.advancedrocketry.wafer.*                                                                 # (default: true) CRAFT Silicon Wafer
 fe.protection.craft.ae2wtlib.infinity_booster_card.*                                                         # (default: true) CRAFT Infinity Booster Card
 fe.protection.craft.ae2wtlib.wut.*                                                                           # (default: true) CRAFT Wireless Ultimate Terminal
 fe.protection.craft.ae2wtlib.wut_creative.*                                                                  # (default: true) CRAFT Creative Wireless Ultimate Terminal
@@ -338,6 +387,9 @@ fe.protection.craft.chiselsandbits.wrench_wood.*                                
 fe.protection.craft.clipboard.clipboard.*                                                                    # (default: true) CRAFT Clipboard
 fe.protection.craft.comforts.hammock.*                                                                       # (default: true) CRAFT White Hammock Cloth
 fe.protection.craft.comforts.sleeping_bag.*                                                                  # (default: true) CRAFT White Sleeping Bag
+fe.protection.craft.compactmachines3.psd.*                                                                   # (default: true) CRAFT Personal Shrinking Device
+fe.protection.craft.compactmachines3.redstonetunneltool.*                                                    # (default: true) CRAFT Redstone Tunnel
+fe.protection.craft.compactmachines3.tunneltool.*                                                            # (default: true) CRAFT Tunnel
 fe.protection.craft.computronics.oc_parts.*                                                                  # (default: true) CRAFT Camera Upgrade
 fe.protection.craft.computronics.oc_special_parts.*                                                          # (default: true) CRAFT Magical Memory (Creative)
 fe.protection.craft.computronics.parts.*                                                                     # (default: true) CRAFT Tape Track
@@ -463,6 +515,7 @@ fe.protection.craft.enderio.item_staff_of_levity.*                              
 fe.protection.craft.enderio.item_travel_staff.*                                                              # (default: true) CRAFT Staff of Traveling
 fe.protection.craft.enderio.item_xp_transfer.*                                                               # (default: true) CRAFT Experience Rod
 fe.protection.craft.enderio.item_yeta_wrench.*                                                               # (default: true) CRAFT Yeta Wrench
+fe.protection.craft.enderstorage.ender_pouch.*                                                               # (default: true) CRAFT Ender Pouch
 fe.protection.craft.eplus.table_upgrade.*                                                                    # (default: true) CRAFT Table Upgrade
 fe.protection.craft.extracells.fluid.item.*                                                                  # (default: true) CRAFT null
 fe.protection.craft.extracells.oc.upgrade.*                                                                  # (default: true) CRAFT ME Upgrade (Tier 3)
@@ -1718,6 +1771,19 @@ fe.protection.craft.ironjetpacks.wood_capacitor.*                               
 fe.protection.craft.ironjetpacks.wood_cell.*                                                                 # (default: true) CRAFT Wood Energy Cell
 fe.protection.craft.ironjetpacks.wood_jetpack.*                                                              # (default: true) CRAFT Wood Jetpack
 fe.protection.craft.ironjetpacks.wood_thruster.*                                                             # (default: true) CRAFT Wood Thruster
+fe.protection.craft.libvulpes.battery.*                                                                      # (default: true) CRAFT Small Battery
+fe.protection.craft.libvulpes.holoprojector.*                                                                # (default: true) CRAFT Holo-Projector
+fe.protection.craft.libvulpes.linker.*                                                                       # (default: true) CRAFT Linker
+fe.protection.craft.libvulpes.productboule.*                                                                 # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productdust.*                                                                  # (default: true) CRAFT Dilithium Dust
+fe.protection.craft.libvulpes.productfan.*                                                                   # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productgear.*                                                                  # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productgem.*                                                                   # (default: true) CRAFT Dilithium Crystal
+fe.protection.craft.libvulpes.productingot.*                                                                 # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productnugget.*                                                                # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productplate.*                                                                 # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productrod.*                                                                   # (default: true) CRAFT No name!!!
+fe.protection.craft.libvulpes.productsheet.*                                                                 # (default: true) CRAFT No name!!!
 fe.protection.craft.littletiles.blockingredient.*                                                            # (default: true) CRAFT item.LTBlockIngredient.name
 fe.protection.craft.littletiles.bottle_black.*                                                               # (default: true) CRAFT Black Bottle
 fe.protection.craft.littletiles.bottle_cyan.*                                                                # (default: true) CRAFT Cyan Bottle
@@ -1731,7 +1797,7 @@ fe.protection.craft.littletiles.hammer.*                                        
 fe.protection.craft.littletiles.multitiles.*                                                                 # (default: true) CRAFT Multi-Tile-Structure
 fe.protection.craft.littletiles.premade.*                                                                    # (default: true) CRAFT item.LTPremade.null.name
 fe.protection.craft.littletiles.recipe.*                                                                     # (default: true) CRAFT Little Recipe
-fe.protection.craft.littletiles.recipeadvanced.*                                                             # (default: true) CRAFT Advanced Recipe
+fe.protection.craft.littletiles.recipeadvanced.*                                                             # (default: true) CRAFT Little Blueprint
 fe.protection.craft.littletiles.rubbermallet.*                                                               # (default: true) CRAFT Little Rubber Mallet
 fe.protection.craft.littletiles.saw.*                                                                        # (default: true) CRAFT Little Saw
 fe.protection.craft.littletiles.screwdriver.*                                                                # (default: true) CRAFT Little Screwdriver
@@ -2140,12 +2206,6 @@ fe.protection.craft.openfm.memorycard.*                                         
 fe.protection.craft.openfm.radiotuner.*                                                                      # (default: true) CRAFT Radio Tuner
 fe.protection.craft.openglasses.openglasses.*                                                                # (default: true) CRAFT AR Glasses
 fe.protection.craft.openglasses.openglasses_card.*                                                           # (default: true) CRAFT Glasses Terminal Card
-fe.protection.craft.openmodularturrets.addon_meta.*                                                          # (default: true) CRAFT Addon - Turret Concealer
-fe.protection.craft.openmodularturrets.ammo_meta.*                                                           # (default: true) CRAFT Ammo - Blazing Clay
-fe.protection.craft.openmodularturrets.intermediate_regular.*                                                # (default: true) CRAFT IO Bus
-fe.protection.craft.openmodularturrets.intermediate_tiered.*                                                 # (default: true) CRAFT Sensor (Tier 1)
-fe.protection.craft.openmodularturrets.upgrade_meta.*                                                        # (default: true) CRAFT Upgrade - Accuracy
-fe.protection.craft.openmodularturrets.usable_meta.*                                                         # (default: true) CRAFT Throwable Bullet
 fe.protection.craft.openprinter.folder.*                                                                     # (default: true) CRAFT Folder
 fe.protection.craft.openprinter.paper_shreds.*                                                               # (default: true) CRAFT Paper Shreds
 fe.protection.craft.openprinter.printed_page.*                                                               # (default: true) CRAFT Printed Page
@@ -2155,6 +2215,7 @@ fe.protection.craft.opensecurity.cooldown_upgrade.*                             
 fe.protection.craft.opensecurity.damage_upgrade.*                                                            # (default: true) CRAFT Damage Upgrade
 fe.protection.craft.opensecurity.energy_upgrade.*                                                            # (default: true) CRAFT Energy Upgrade
 fe.protection.craft.opensecurity.mag_card.*                                                                  # (default: true) CRAFT Magnetic Strip Card
+fe.protection.craft.opensecurity.mag_secure_door.*                                                           # (default: true) CRAFT MagReader Security Door
 fe.protection.craft.opensecurity.movement_upgrade.*                                                          # (default: true) CRAFT Movement Upgrade
 fe.protection.craft.opensecurity.nanodna.*                                                                   # (default: true) CRAFT NanoDNA
 fe.protection.craft.opensecurity.private_secure_door.*                                                       # (default: true) CRAFT Private Security Door
@@ -2401,7 +2462,7 @@ fe.protection.craft.railcraft.turbine_blade.*                                   
 fe.protection.craft.railcraft.turbine_disk.*                                                                 # (default: true) CRAFT Turbine Disk
 fe.protection.craft.railcraft.turbine_rotor.*                                                                # (default: true) CRAFT Turbine Rotor
 fe.protection.craft.retrocomputers.cpu.*                                                                     # (default: true) CRAFT XC8010 CPU
-fe.protection.craft.retrocomputers.debug.*                                                                   # (default: true) CRAFT §dDebug Item
+fe.protection.craft.retrocomputers.debug.*                                                                   # (default: true) CRAFT §2Debug Item
 fe.protection.craft.retrocomputers.disk.*                                                                    # (default: true) CRAFT Minimal FORTH Boot Disk
 fe.protection.craft.retrocomputers.screwdriver.*                                                             # (default: true) CRAFT Screwdriver
 fe.protection.craft.retrocomputers.writable_disk.*                                                           # (default: true) CRAFT Floppy Disk
@@ -2880,6 +2941,55 @@ fe.protection.craft.zettaindustries.logo.*                                      
 fe.protection.craft.zettaindustries.smartcard.*                                                              # (default: true) CRAFT Smart Card [WIP]
 fe.protection.craft.zettaindustries.smartcardterminal.*                                                      # (default: true) CRAFT Smart Card Terminal [WIP]
 fe.protection.exist.*                                                                                        # (default: true) Allow having item in inventory. Item will be destroyed if not allowed.
+fe.protection.exist.advancedrocketry.asteroidchip.*                                                          # (default: true) EXIST Asteroid Chip
+fe.protection.exist.advancedrocketry.atmanalyser.*                                                           # (default: true) EXIST Atmosphere Analyzer
+fe.protection.exist.advancedrocketry.basiclasergun.*                                                         # (default: true) EXIST Basic Laser Gun
+fe.protection.exist.advancedrocketry.beaconfinder.*                                                          # (default: true) EXIST Beacon Finder
+fe.protection.exist.advancedrocketry.biomechanger.*                                                          # (default: true) EXIST Biome Changer Remote
+fe.protection.exist.advancedrocketry.bucketenrichedlava.*                                                    # (default: true) EXIST Tank of Enriched Lava
+fe.protection.exist.advancedrocketry.buckethydrogen.*                                                        # (default: true) EXIST Tank of Hydrogen
+fe.protection.exist.advancedrocketry.bucketnitrogen.*                                                        # (default: true) EXIST Tank of Nitrogen
+fe.protection.exist.advancedrocketry.bucketoxygen.*                                                          # (default: true) EXIST Tank of Oxygen
+fe.protection.exist.advancedrocketry.bucketrocketfuel.*                                                      # (default: true) EXIST Tank of Rocket Fuel
+fe.protection.exist.advancedrocketry.carbonscrubbercartridge.*                                               # (default: true) EXIST Carbon Collection Cartridge
+fe.protection.exist.advancedrocketry.dataunit.*                                                              # (default: true) EXIST Data Storage Unit
+fe.protection.exist.advancedrocketry.elevatorchip.*                                                          # (default: true) EXIST Space Elevator Chip
+fe.protection.exist.advancedrocketry.hovercraft.*                                                            # (default: true) EXIST HoverCraft
+fe.protection.exist.advancedrocketry.ic.*                                                                    # (default: true) EXIST Basic Circuit
+fe.protection.exist.advancedrocketry.itemcircuitplate.*                                                      # (default: true) EXIST Basic Circuit Plate
+fe.protection.exist.advancedrocketry.itemupgrade.*                                                           # (default: true) EXIST Hover Upgrade
+fe.protection.exist.advancedrocketry.jackhammer.*                                                            # (default: true) EXIST Jack Hammer
+fe.protection.exist.advancedrocketry.jetpack.*                                                               # (default: true) EXIST Jet Pack
+fe.protection.exist.advancedrocketry.lens.*                                                                  # (default: true) EXIST Basic Lens
+fe.protection.exist.advancedrocketry.misc.*                                                                  # (default: true) EXIST User Interface
+fe.protection.exist.advancedrocketry.orescanner.*                                                            # (default: true) EXIST Ore Scanner
+fe.protection.exist.advancedrocketry.planetidchip.*                                                          # (default: true) EXIST Planet Id Chip
+fe.protection.exist.advancedrocketry.pressuretank.*                                                          # (default: true) EXIST Low Pressure Tank
+fe.protection.exist.advancedrocketry.productboule.*                                                          # (default: true) EXIST No name!!!
+fe.protection.exist.advancedrocketry.productdust.*                                                           # (default: true) EXIST Titanium Aluminide Dust
+fe.protection.exist.advancedrocketry.productfan.*                                                            # (default: true) EXIST No name!!!
+fe.protection.exist.advancedrocketry.productgear.*                                                           # (default: true) EXIST Titanium Aluminide Gear
+fe.protection.exist.advancedrocketry.productgem.*                                                            # (default: true) EXIST No name!!!
+fe.protection.exist.advancedrocketry.productingot.*                                                          # (default: true) EXIST Titanium Aluminide Ingot
+fe.protection.exist.advancedrocketry.productnugget.*                                                         # (default: true) EXIST Titanium Aluminide Nugget
+fe.protection.exist.advancedrocketry.productplate.*                                                          # (default: true) EXIST Titanium Aluminide Plate
+fe.protection.exist.advancedrocketry.productrod.*                                                            # (default: true) EXIST Titanium Aluminide Rod
+fe.protection.exist.advancedrocketry.productsheet.*                                                          # (default: true) EXIST Titanium Aluminide Sheet
+fe.protection.exist.advancedrocketry.satellite.*                                                             # (default: true) EXIST Satellite
+fe.protection.exist.advancedrocketry.satelliteidchip.*                                                       # (default: true) EXIST Satellite Id Chip
+fe.protection.exist.advancedrocketry.satellitepowersource.*                                                  # (default: true) EXIST Basic Solar Panel
+fe.protection.exist.advancedrocketry.satelliteprimaryfunction.*                                              # (default: true) EXIST Optical Sensor
+fe.protection.exist.advancedrocketry.sawbladeiron.*                                                          # (default: true) EXIST Iron Saw Blade
+fe.protection.exist.advancedrocketry.sealdetector.*                                                          # (default: true) EXIST Seal Detector
+fe.protection.exist.advancedrocketry.smallairlockdoor.*                                                      # (default: true) EXIST Small Airlock Door
+fe.protection.exist.advancedrocketry.spaceboots.*                                                            # (default: true) EXIST Space Boots
+fe.protection.exist.advancedrocketry.spacechestplate.*                                                       # (default: true) EXIST Space Suit Chest-Piece
+fe.protection.exist.advancedrocketry.spacehelmet.*                                                           # (default: true) EXIST Space Helmet
+fe.protection.exist.advancedrocketry.spaceleggings.*                                                         # (default: true) EXIST Space Suit Legging
+fe.protection.exist.advancedrocketry.spacestation.*                                                          # (default: true) EXIST Space Station Container
+fe.protection.exist.advancedrocketry.spacestationchip.*                                                      # (default: true) EXIST Space Station Id Chip
+fe.protection.exist.advancedrocketry.thermite.*                                                              # (default: true) EXIST Thermite
+fe.protection.exist.advancedrocketry.wafer.*                                                                 # (default: true) EXIST Silicon Wafer
 fe.protection.exist.ae2wtlib.infinity_booster_card.*                                                         # (default: true) EXIST Infinity Booster Card
 fe.protection.exist.ae2wtlib.wut.*                                                                           # (default: true) EXIST Wireless Ultimate Terminal
 fe.protection.exist.ae2wtlib.wut_creative.*                                                                  # (default: true) EXIST Creative Wireless Ultimate Terminal
@@ -3215,6 +3325,9 @@ fe.protection.exist.chiselsandbits.wrench_wood.*                                
 fe.protection.exist.clipboard.clipboard.*                                                                    # (default: true) EXIST Clipboard
 fe.protection.exist.comforts.hammock.*                                                                       # (default: true) EXIST White Hammock Cloth
 fe.protection.exist.comforts.sleeping_bag.*                                                                  # (default: true) EXIST White Sleeping Bag
+fe.protection.exist.compactmachines3.psd.*                                                                   # (default: true) EXIST Personal Shrinking Device
+fe.protection.exist.compactmachines3.redstonetunneltool.*                                                    # (default: true) EXIST Redstone Tunnel
+fe.protection.exist.compactmachines3.tunneltool.*                                                            # (default: true) EXIST Tunnel
 fe.protection.exist.computronics.oc_parts.*                                                                  # (default: true) EXIST Camera Upgrade
 fe.protection.exist.computronics.oc_special_parts.*                                                          # (default: true) EXIST Magical Memory (Creative)
 fe.protection.exist.computronics.parts.*                                                                     # (default: true) EXIST Tape Track
@@ -3340,6 +3453,7 @@ fe.protection.exist.enderio.item_staff_of_levity.*                              
 fe.protection.exist.enderio.item_travel_staff.*                                                              # (default: true) EXIST Staff of Traveling
 fe.protection.exist.enderio.item_xp_transfer.*                                                               # (default: true) EXIST Experience Rod
 fe.protection.exist.enderio.item_yeta_wrench.*                                                               # (default: true) EXIST Yeta Wrench
+fe.protection.exist.enderstorage.ender_pouch.*                                                               # (default: true) EXIST Ender Pouch
 fe.protection.exist.eplus.table_upgrade.*                                                                    # (default: true) EXIST Table Upgrade
 fe.protection.exist.extracells.fluid.item.*                                                                  # (default: true) EXIST null
 fe.protection.exist.extracells.oc.upgrade.*                                                                  # (default: true) EXIST ME Upgrade (Tier 3)
@@ -4595,6 +4709,19 @@ fe.protection.exist.ironjetpacks.wood_capacitor.*                               
 fe.protection.exist.ironjetpacks.wood_cell.*                                                                 # (default: true) EXIST Wood Energy Cell
 fe.protection.exist.ironjetpacks.wood_jetpack.*                                                              # (default: true) EXIST Wood Jetpack
 fe.protection.exist.ironjetpacks.wood_thruster.*                                                             # (default: true) EXIST Wood Thruster
+fe.protection.exist.libvulpes.battery.*                                                                      # (default: true) EXIST Small Battery
+fe.protection.exist.libvulpes.holoprojector.*                                                                # (default: true) EXIST Holo-Projector
+fe.protection.exist.libvulpes.linker.*                                                                       # (default: true) EXIST Linker
+fe.protection.exist.libvulpes.productboule.*                                                                 # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productdust.*                                                                  # (default: true) EXIST Dilithium Dust
+fe.protection.exist.libvulpes.productfan.*                                                                   # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productgear.*                                                                  # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productgem.*                                                                   # (default: true) EXIST Dilithium Crystal
+fe.protection.exist.libvulpes.productingot.*                                                                 # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productnugget.*                                                                # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productplate.*                                                                 # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productrod.*                                                                   # (default: true) EXIST No name!!!
+fe.protection.exist.libvulpes.productsheet.*                                                                 # (default: true) EXIST No name!!!
 fe.protection.exist.littletiles.blockingredient.*                                                            # (default: true) EXIST item.LTBlockIngredient.name
 fe.protection.exist.littletiles.bottle_black.*                                                               # (default: true) EXIST Black Bottle
 fe.protection.exist.littletiles.bottle_cyan.*                                                                # (default: true) EXIST Cyan Bottle
@@ -4608,7 +4735,7 @@ fe.protection.exist.littletiles.hammer.*                                        
 fe.protection.exist.littletiles.multitiles.*                                                                 # (default: true) EXIST Multi-Tile-Structure
 fe.protection.exist.littletiles.premade.*                                                                    # (default: true) EXIST item.LTPremade.null.name
 fe.protection.exist.littletiles.recipe.*                                                                     # (default: true) EXIST Little Recipe
-fe.protection.exist.littletiles.recipeadvanced.*                                                             # (default: true) EXIST Advanced Recipe
+fe.protection.exist.littletiles.recipeadvanced.*                                                             # (default: true) EXIST Little Blueprint
 fe.protection.exist.littletiles.rubbermallet.*                                                               # (default: true) EXIST Little Rubber Mallet
 fe.protection.exist.littletiles.saw.*                                                                        # (default: true) EXIST Little Saw
 fe.protection.exist.littletiles.screwdriver.*                                                                # (default: true) EXIST Little Screwdriver
@@ -5017,12 +5144,6 @@ fe.protection.exist.openfm.memorycard.*                                         
 fe.protection.exist.openfm.radiotuner.*                                                                      # (default: true) EXIST Radio Tuner
 fe.protection.exist.openglasses.openglasses.*                                                                # (default: true) EXIST AR Glasses
 fe.protection.exist.openglasses.openglasses_card.*                                                           # (default: true) EXIST Glasses Terminal Card
-fe.protection.exist.openmodularturrets.addon_meta.*                                                          # (default: true) EXIST Addon - Turret Concealer
-fe.protection.exist.openmodularturrets.ammo_meta.*                                                           # (default: true) EXIST Ammo - Blazing Clay
-fe.protection.exist.openmodularturrets.intermediate_regular.*                                                # (default: true) EXIST IO Bus
-fe.protection.exist.openmodularturrets.intermediate_tiered.*                                                 # (default: true) EXIST Sensor (Tier 1)
-fe.protection.exist.openmodularturrets.upgrade_meta.*                                                        # (default: true) EXIST Upgrade - Accuracy
-fe.protection.exist.openmodularturrets.usable_meta.*                                                         # (default: true) EXIST Throwable Bullet
 fe.protection.exist.openprinter.folder.*                                                                     # (default: true) EXIST Folder
 fe.protection.exist.openprinter.paper_shreds.*                                                               # (default: true) EXIST Paper Shreds
 fe.protection.exist.openprinter.printed_page.*                                                               # (default: true) EXIST Printed Page
@@ -5032,6 +5153,7 @@ fe.protection.exist.opensecurity.cooldown_upgrade.*                             
 fe.protection.exist.opensecurity.damage_upgrade.*                                                            # (default: true) EXIST Damage Upgrade
 fe.protection.exist.opensecurity.energy_upgrade.*                                                            # (default: true) EXIST Energy Upgrade
 fe.protection.exist.opensecurity.mag_card.*                                                                  # (default: true) EXIST Magnetic Strip Card
+fe.protection.exist.opensecurity.mag_secure_door.*                                                           # (default: true) EXIST MagReader Security Door
 fe.protection.exist.opensecurity.movement_upgrade.*                                                          # (default: true) EXIST Movement Upgrade
 fe.protection.exist.opensecurity.nanodna.*                                                                   # (default: true) EXIST NanoDNA
 fe.protection.exist.opensecurity.private_secure_door.*                                                       # (default: true) EXIST Private Security Door
@@ -5278,7 +5400,7 @@ fe.protection.exist.railcraft.turbine_blade.*                                   
 fe.protection.exist.railcraft.turbine_disk.*                                                                 # (default: true) EXIST Turbine Disk
 fe.protection.exist.railcraft.turbine_rotor.*                                                                # (default: true) EXIST Turbine Rotor
 fe.protection.exist.retrocomputers.cpu.*                                                                     # (default: true) EXIST XC8010 CPU
-fe.protection.exist.retrocomputers.debug.*                                                                   # (default: true) EXIST §dDebug Item
+fe.protection.exist.retrocomputers.debug.*                                                                   # (default: true) EXIST §2Debug Item
 fe.protection.exist.retrocomputers.disk.*                                                                    # (default: true) EXIST Minimal FORTH Boot Disk
 fe.protection.exist.retrocomputers.screwdriver.*                                                             # (default: true) EXIST Screwdriver
 fe.protection.exist.retrocomputers.writable_disk.*                                                           # (default: true) EXIST Floppy Disk
@@ -5757,6 +5879,55 @@ fe.protection.exist.zettaindustries.logo.*                                      
 fe.protection.exist.zettaindustries.smartcard.*                                                              # (default: true) EXIST Smart Card [WIP]
 fe.protection.exist.zettaindustries.smartcardterminal.*                                                      # (default: true) EXIST Smart Card Terminal [WIP]
 fe.protection.inventory.*                                                                                    # (default: true) Allow having item in inventory. Item will be dropped if not allowed.
+fe.protection.inventory.advancedrocketry.asteroidchip.*                                                      # (default: true) INVENTORY Asteroid Chip
+fe.protection.inventory.advancedrocketry.atmanalyser.*                                                       # (default: true) INVENTORY Atmosphere Analyzer
+fe.protection.inventory.advancedrocketry.basiclasergun.*                                                     # (default: true) INVENTORY Basic Laser Gun
+fe.protection.inventory.advancedrocketry.beaconfinder.*                                                      # (default: true) INVENTORY Beacon Finder
+fe.protection.inventory.advancedrocketry.biomechanger.*                                                      # (default: true) INVENTORY Biome Changer Remote
+fe.protection.inventory.advancedrocketry.bucketenrichedlava.*                                                # (default: true) INVENTORY Tank of Enriched Lava
+fe.protection.inventory.advancedrocketry.buckethydrogen.*                                                    # (default: true) INVENTORY Tank of Hydrogen
+fe.protection.inventory.advancedrocketry.bucketnitrogen.*                                                    # (default: true) INVENTORY Tank of Nitrogen
+fe.protection.inventory.advancedrocketry.bucketoxygen.*                                                      # (default: true) INVENTORY Tank of Oxygen
+fe.protection.inventory.advancedrocketry.bucketrocketfuel.*                                                  # (default: true) INVENTORY Tank of Rocket Fuel
+fe.protection.inventory.advancedrocketry.carbonscrubbercartridge.*                                           # (default: true) INVENTORY Carbon Collection Cartridge
+fe.protection.inventory.advancedrocketry.dataunit.*                                                          # (default: true) INVENTORY Data Storage Unit
+fe.protection.inventory.advancedrocketry.elevatorchip.*                                                      # (default: true) INVENTORY Space Elevator Chip
+fe.protection.inventory.advancedrocketry.hovercraft.*                                                        # (default: true) INVENTORY HoverCraft
+fe.protection.inventory.advancedrocketry.ic.*                                                                # (default: true) INVENTORY Basic Circuit
+fe.protection.inventory.advancedrocketry.itemcircuitplate.*                                                  # (default: true) INVENTORY Basic Circuit Plate
+fe.protection.inventory.advancedrocketry.itemupgrade.*                                                       # (default: true) INVENTORY Hover Upgrade
+fe.protection.inventory.advancedrocketry.jackhammer.*                                                        # (default: true) INVENTORY Jack Hammer
+fe.protection.inventory.advancedrocketry.jetpack.*                                                           # (default: true) INVENTORY Jet Pack
+fe.protection.inventory.advancedrocketry.lens.*                                                              # (default: true) INVENTORY Basic Lens
+fe.protection.inventory.advancedrocketry.misc.*                                                              # (default: true) INVENTORY User Interface
+fe.protection.inventory.advancedrocketry.orescanner.*                                                        # (default: true) INVENTORY Ore Scanner
+fe.protection.inventory.advancedrocketry.planetidchip.*                                                      # (default: true) INVENTORY Planet Id Chip
+fe.protection.inventory.advancedrocketry.pressuretank.*                                                      # (default: true) INVENTORY Low Pressure Tank
+fe.protection.inventory.advancedrocketry.productboule.*                                                      # (default: true) INVENTORY No name!!!
+fe.protection.inventory.advancedrocketry.productdust.*                                                       # (default: true) INVENTORY Titanium Aluminide Dust
+fe.protection.inventory.advancedrocketry.productfan.*                                                        # (default: true) INVENTORY No name!!!
+fe.protection.inventory.advancedrocketry.productgear.*                                                       # (default: true) INVENTORY Titanium Aluminide Gear
+fe.protection.inventory.advancedrocketry.productgem.*                                                        # (default: true) INVENTORY No name!!!
+fe.protection.inventory.advancedrocketry.productingot.*                                                      # (default: true) INVENTORY Titanium Aluminide Ingot
+fe.protection.inventory.advancedrocketry.productnugget.*                                                     # (default: true) INVENTORY Titanium Aluminide Nugget
+fe.protection.inventory.advancedrocketry.productplate.*                                                      # (default: true) INVENTORY Titanium Aluminide Plate
+fe.protection.inventory.advancedrocketry.productrod.*                                                        # (default: true) INVENTORY Titanium Aluminide Rod
+fe.protection.inventory.advancedrocketry.productsheet.*                                                      # (default: true) INVENTORY Titanium Aluminide Sheet
+fe.protection.inventory.advancedrocketry.satellite.*                                                         # (default: true) INVENTORY Satellite
+fe.protection.inventory.advancedrocketry.satelliteidchip.*                                                   # (default: true) INVENTORY Satellite Id Chip
+fe.protection.inventory.advancedrocketry.satellitepowersource.*                                              # (default: true) INVENTORY Basic Solar Panel
+fe.protection.inventory.advancedrocketry.satelliteprimaryfunction.*                                          # (default: true) INVENTORY Optical Sensor
+fe.protection.inventory.advancedrocketry.sawbladeiron.*                                                      # (default: true) INVENTORY Iron Saw Blade
+fe.protection.inventory.advancedrocketry.sealdetector.*                                                      # (default: true) INVENTORY Seal Detector
+fe.protection.inventory.advancedrocketry.smallairlockdoor.*                                                  # (default: true) INVENTORY Small Airlock Door
+fe.protection.inventory.advancedrocketry.spaceboots.*                                                        # (default: true) INVENTORY Space Boots
+fe.protection.inventory.advancedrocketry.spacechestplate.*                                                   # (default: true) INVENTORY Space Suit Chest-Piece
+fe.protection.inventory.advancedrocketry.spacehelmet.*                                                       # (default: true) INVENTORY Space Helmet
+fe.protection.inventory.advancedrocketry.spaceleggings.*                                                     # (default: true) INVENTORY Space Suit Legging
+fe.protection.inventory.advancedrocketry.spacestation.*                                                      # (default: true) INVENTORY Space Station Container
+fe.protection.inventory.advancedrocketry.spacestationchip.*                                                  # (default: true) INVENTORY Space Station Id Chip
+fe.protection.inventory.advancedrocketry.thermite.*                                                          # (default: true) INVENTORY Thermite
+fe.protection.inventory.advancedrocketry.wafer.*                                                             # (default: true) INVENTORY Silicon Wafer
 fe.protection.inventory.ae2wtlib.infinity_booster_card.*                                                     # (default: true) INVENTORY Infinity Booster Card
 fe.protection.inventory.ae2wtlib.wut.*                                                                       # (default: true) INVENTORY Wireless Ultimate Terminal
 fe.protection.inventory.ae2wtlib.wut_creative.*                                                              # (default: true) INVENTORY Creative Wireless Ultimate Terminal
@@ -6092,6 +6263,9 @@ fe.protection.inventory.chiselsandbits.wrench_wood.*                            
 fe.protection.inventory.clipboard.clipboard.*                                                                # (default: true) INVENTORY Clipboard
 fe.protection.inventory.comforts.hammock.*                                                                   # (default: true) INVENTORY White Hammock Cloth
 fe.protection.inventory.comforts.sleeping_bag.*                                                              # (default: true) INVENTORY White Sleeping Bag
+fe.protection.inventory.compactmachines3.psd.*                                                               # (default: true) INVENTORY Personal Shrinking Device
+fe.protection.inventory.compactmachines3.redstonetunneltool.*                                                # (default: true) INVENTORY Redstone Tunnel
+fe.protection.inventory.compactmachines3.tunneltool.*                                                        # (default: true) INVENTORY Tunnel
 fe.protection.inventory.computronics.oc_parts.*                                                              # (default: true) INVENTORY Camera Upgrade
 fe.protection.inventory.computronics.oc_special_parts.*                                                      # (default: true) INVENTORY Magical Memory (Creative)
 fe.protection.inventory.computronics.parts.*                                                                 # (default: true) INVENTORY Tape Track
@@ -6217,6 +6391,7 @@ fe.protection.inventory.enderio.item_staff_of_levity.*                          
 fe.protection.inventory.enderio.item_travel_staff.*                                                          # (default: true) INVENTORY Staff of Traveling
 fe.protection.inventory.enderio.item_xp_transfer.*                                                           # (default: true) INVENTORY Experience Rod
 fe.protection.inventory.enderio.item_yeta_wrench.*                                                           # (default: true) INVENTORY Yeta Wrench
+fe.protection.inventory.enderstorage.ender_pouch.*                                                           # (default: true) INVENTORY Ender Pouch
 fe.protection.inventory.eplus.table_upgrade.*                                                                # (default: true) INVENTORY Table Upgrade
 fe.protection.inventory.extracells.fluid.item.*                                                              # (default: true) INVENTORY null
 fe.protection.inventory.extracells.oc.upgrade.*                                                              # (default: true) INVENTORY ME Upgrade (Tier 3)
@@ -7472,6 +7647,19 @@ fe.protection.inventory.ironjetpacks.wood_capacitor.*                           
 fe.protection.inventory.ironjetpacks.wood_cell.*                                                             # (default: true) INVENTORY Wood Energy Cell
 fe.protection.inventory.ironjetpacks.wood_jetpack.*                                                          # (default: true) INVENTORY Wood Jetpack
 fe.protection.inventory.ironjetpacks.wood_thruster.*                                                         # (default: true) INVENTORY Wood Thruster
+fe.protection.inventory.libvulpes.battery.*                                                                  # (default: true) INVENTORY Small Battery
+fe.protection.inventory.libvulpes.holoprojector.*                                                            # (default: true) INVENTORY Holo-Projector
+fe.protection.inventory.libvulpes.linker.*                                                                   # (default: true) INVENTORY Linker
+fe.protection.inventory.libvulpes.productboule.*                                                             # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productdust.*                                                              # (default: true) INVENTORY Dilithium Dust
+fe.protection.inventory.libvulpes.productfan.*                                                               # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productgear.*                                                              # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productgem.*                                                               # (default: true) INVENTORY Dilithium Crystal
+fe.protection.inventory.libvulpes.productingot.*                                                             # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productnugget.*                                                            # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productplate.*                                                             # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productrod.*                                                               # (default: true) INVENTORY No name!!!
+fe.protection.inventory.libvulpes.productsheet.*                                                             # (default: true) INVENTORY No name!!!
 fe.protection.inventory.littletiles.blockingredient.*                                                        # (default: true) INVENTORY item.LTBlockIngredient.name
 fe.protection.inventory.littletiles.bottle_black.*                                                           # (default: true) INVENTORY Black Bottle
 fe.protection.inventory.littletiles.bottle_cyan.*                                                            # (default: true) INVENTORY Cyan Bottle
@@ -7485,7 +7673,7 @@ fe.protection.inventory.littletiles.hammer.*                                    
 fe.protection.inventory.littletiles.multitiles.*                                                             # (default: true) INVENTORY Multi-Tile-Structure
 fe.protection.inventory.littletiles.premade.*                                                                # (default: true) INVENTORY item.LTPremade.null.name
 fe.protection.inventory.littletiles.recipe.*                                                                 # (default: true) INVENTORY Little Recipe
-fe.protection.inventory.littletiles.recipeadvanced.*                                                         # (default: true) INVENTORY Advanced Recipe
+fe.protection.inventory.littletiles.recipeadvanced.*                                                         # (default: true) INVENTORY Little Blueprint
 fe.protection.inventory.littletiles.rubbermallet.*                                                           # (default: true) INVENTORY Little Rubber Mallet
 fe.protection.inventory.littletiles.saw.*                                                                    # (default: true) INVENTORY Little Saw
 fe.protection.inventory.littletiles.screwdriver.*                                                            # (default: true) INVENTORY Little Screwdriver
@@ -7894,12 +8082,6 @@ fe.protection.inventory.openfm.memorycard.*                                     
 fe.protection.inventory.openfm.radiotuner.*                                                                  # (default: true) INVENTORY Radio Tuner
 fe.protection.inventory.openglasses.openglasses.*                                                            # (default: true) INVENTORY AR Glasses
 fe.protection.inventory.openglasses.openglasses_card.*                                                       # (default: true) INVENTORY Glasses Terminal Card
-fe.protection.inventory.openmodularturrets.addon_meta.*                                                      # (default: true) INVENTORY Addon - Turret Concealer
-fe.protection.inventory.openmodularturrets.ammo_meta.*                                                       # (default: true) INVENTORY Ammo - Blazing Clay
-fe.protection.inventory.openmodularturrets.intermediate_regular.*                                            # (default: true) INVENTORY IO Bus
-fe.protection.inventory.openmodularturrets.intermediate_tiered.*                                             # (default: true) INVENTORY Sensor (Tier 1)
-fe.protection.inventory.openmodularturrets.upgrade_meta.*                                                    # (default: true) INVENTORY Upgrade - Accuracy
-fe.protection.inventory.openmodularturrets.usable_meta.*                                                     # (default: true) INVENTORY Throwable Bullet
 fe.protection.inventory.openprinter.folder.*                                                                 # (default: true) INVENTORY Folder
 fe.protection.inventory.openprinter.paper_shreds.*                                                           # (default: true) INVENTORY Paper Shreds
 fe.protection.inventory.openprinter.printed_page.*                                                           # (default: true) INVENTORY Printed Page
@@ -7909,6 +8091,7 @@ fe.protection.inventory.opensecurity.cooldown_upgrade.*                         
 fe.protection.inventory.opensecurity.damage_upgrade.*                                                        # (default: true) INVENTORY Damage Upgrade
 fe.protection.inventory.opensecurity.energy_upgrade.*                                                        # (default: true) INVENTORY Energy Upgrade
 fe.protection.inventory.opensecurity.mag_card.*                                                              # (default: true) INVENTORY Magnetic Strip Card
+fe.protection.inventory.opensecurity.mag_secure_door.*                                                       # (default: true) INVENTORY MagReader Security Door
 fe.protection.inventory.opensecurity.movement_upgrade.*                                                      # (default: true) INVENTORY Movement Upgrade
 fe.protection.inventory.opensecurity.nanodna.*                                                               # (default: true) INVENTORY NanoDNA
 fe.protection.inventory.opensecurity.private_secure_door.*                                                   # (default: true) INVENTORY Private Security Door
@@ -8155,7 +8338,7 @@ fe.protection.inventory.railcraft.turbine_blade.*                               
 fe.protection.inventory.railcraft.turbine_disk.*                                                             # (default: true) INVENTORY Turbine Disk
 fe.protection.inventory.railcraft.turbine_rotor.*                                                            # (default: true) INVENTORY Turbine Rotor
 fe.protection.inventory.retrocomputers.cpu.*                                                                 # (default: true) INVENTORY XC8010 CPU
-fe.protection.inventory.retrocomputers.debug.*                                                               # (default: true) INVENTORY §dDebug Item
+fe.protection.inventory.retrocomputers.debug.*                                                               # (default: true) INVENTORY §2Debug Item
 fe.protection.inventory.retrocomputers.disk.*                                                                # (default: true) INVENTORY Minimal FORTH Boot Disk
 fe.protection.inventory.retrocomputers.screwdriver.*                                                         # (default: true) INVENTORY Screwdriver
 fe.protection.inventory.retrocomputers.writable_disk.*                                                       # (default: true) INVENTORY Floppy Disk
@@ -8635,6 +8818,55 @@ fe.protection.inventory.zettaindustries.smartcard.*                             
 fe.protection.inventory.zettaindustries.smartcardterminal.*                                                  # (default: true) INVENTORY Smart Card Terminal [WIP]
 fe.protection.inventorygroup                                                                                 # (default: default) Inventory group property - can be set to any identifier to separate inventories for certain regions
 fe.protection.use.*                                                                                          # (default: true) Allow using items
+fe.protection.use.advancedrocketry.asteroidchip.*                                                            # (default: true) USE Asteroid Chip
+fe.protection.use.advancedrocketry.atmanalyser.*                                                             # (default: true) USE Atmosphere Analyzer
+fe.protection.use.advancedrocketry.basiclasergun.*                                                           # (default: true) USE Basic Laser Gun
+fe.protection.use.advancedrocketry.beaconfinder.*                                                            # (default: true) USE Beacon Finder
+fe.protection.use.advancedrocketry.biomechanger.*                                                            # (default: true) USE Biome Changer Remote
+fe.protection.use.advancedrocketry.bucketenrichedlava.*                                                      # (default: true) USE Tank of Enriched Lava
+fe.protection.use.advancedrocketry.buckethydrogen.*                                                          # (default: true) USE Tank of Hydrogen
+fe.protection.use.advancedrocketry.bucketnitrogen.*                                                          # (default: true) USE Tank of Nitrogen
+fe.protection.use.advancedrocketry.bucketoxygen.*                                                            # (default: true) USE Tank of Oxygen
+fe.protection.use.advancedrocketry.bucketrocketfuel.*                                                        # (default: true) USE Tank of Rocket Fuel
+fe.protection.use.advancedrocketry.carbonscrubbercartridge.*                                                 # (default: true) USE Carbon Collection Cartridge
+fe.protection.use.advancedrocketry.dataunit.*                                                                # (default: true) USE Data Storage Unit
+fe.protection.use.advancedrocketry.elevatorchip.*                                                            # (default: true) USE Space Elevator Chip
+fe.protection.use.advancedrocketry.hovercraft.*                                                              # (default: true) USE HoverCraft
+fe.protection.use.advancedrocketry.ic.*                                                                      # (default: true) USE Basic Circuit
+fe.protection.use.advancedrocketry.itemcircuitplate.*                                                        # (default: true) USE Basic Circuit Plate
+fe.protection.use.advancedrocketry.itemupgrade.*                                                             # (default: true) USE Hover Upgrade
+fe.protection.use.advancedrocketry.jackhammer.*                                                              # (default: true) USE Jack Hammer
+fe.protection.use.advancedrocketry.jetpack.*                                                                 # (default: true) USE Jet Pack
+fe.protection.use.advancedrocketry.lens.*                                                                    # (default: true) USE Basic Lens
+fe.protection.use.advancedrocketry.misc.*                                                                    # (default: true) USE User Interface
+fe.protection.use.advancedrocketry.orescanner.*                                                              # (default: true) USE Ore Scanner
+fe.protection.use.advancedrocketry.planetidchip.*                                                            # (default: true) USE Planet Id Chip
+fe.protection.use.advancedrocketry.pressuretank.*                                                            # (default: true) USE Low Pressure Tank
+fe.protection.use.advancedrocketry.productboule.*                                                            # (default: true) USE No name!!!
+fe.protection.use.advancedrocketry.productdust.*                                                             # (default: true) USE Titanium Aluminide Dust
+fe.protection.use.advancedrocketry.productfan.*                                                              # (default: true) USE No name!!!
+fe.protection.use.advancedrocketry.productgear.*                                                             # (default: true) USE Titanium Aluminide Gear
+fe.protection.use.advancedrocketry.productgem.*                                                              # (default: true) USE No name!!!
+fe.protection.use.advancedrocketry.productingot.*                                                            # (default: true) USE Titanium Aluminide Ingot
+fe.protection.use.advancedrocketry.productnugget.*                                                           # (default: true) USE Titanium Aluminide Nugget
+fe.protection.use.advancedrocketry.productplate.*                                                            # (default: true) USE Titanium Aluminide Plate
+fe.protection.use.advancedrocketry.productrod.*                                                              # (default: true) USE Titanium Aluminide Rod
+fe.protection.use.advancedrocketry.productsheet.*                                                            # (default: true) USE Titanium Aluminide Sheet
+fe.protection.use.advancedrocketry.satellite.*                                                               # (default: true) USE Satellite
+fe.protection.use.advancedrocketry.satelliteidchip.*                                                         # (default: true) USE Satellite Id Chip
+fe.protection.use.advancedrocketry.satellitepowersource.*                                                    # (default: true) USE Basic Solar Panel
+fe.protection.use.advancedrocketry.satelliteprimaryfunction.*                                                # (default: true) USE Optical Sensor
+fe.protection.use.advancedrocketry.sawbladeiron.*                                                            # (default: true) USE Iron Saw Blade
+fe.protection.use.advancedrocketry.sealdetector.*                                                            # (default: true) USE Seal Detector
+fe.protection.use.advancedrocketry.smallairlockdoor.*                                                        # (default: true) USE Small Airlock Door
+fe.protection.use.advancedrocketry.spaceboots.*                                                              # (default: true) USE Space Boots
+fe.protection.use.advancedrocketry.spacechestplate.*                                                         # (default: true) USE Space Suit Chest-Piece
+fe.protection.use.advancedrocketry.spacehelmet.*                                                             # (default: true) USE Space Helmet
+fe.protection.use.advancedrocketry.spaceleggings.*                                                           # (default: true) USE Space Suit Legging
+fe.protection.use.advancedrocketry.spacestation.*                                                            # (default: true) USE Space Station Container
+fe.protection.use.advancedrocketry.spacestationchip.*                                                        # (default: true) USE Space Station Id Chip
+fe.protection.use.advancedrocketry.thermite.*                                                                # (default: true) USE Thermite
+fe.protection.use.advancedrocketry.wafer.*                                                                   # (default: true) USE Silicon Wafer
 fe.protection.use.ae2wtlib.infinity_booster_card.*                                                           # (default: true) USE Infinity Booster Card
 fe.protection.use.ae2wtlib.wut.*                                                                             # (default: true) USE Wireless Ultimate Terminal
 fe.protection.use.ae2wtlib.wut_creative.*                                                                    # (default: true) USE Creative Wireless Ultimate Terminal
@@ -8970,6 +9202,9 @@ fe.protection.use.chiselsandbits.wrench_wood.*                                  
 fe.protection.use.clipboard.clipboard.*                                                                      # (default: true) USE Clipboard
 fe.protection.use.comforts.hammock.*                                                                         # (default: true) USE White Hammock Cloth
 fe.protection.use.comforts.sleeping_bag.*                                                                    # (default: true) USE White Sleeping Bag
+fe.protection.use.compactmachines3.psd.*                                                                     # (default: true) USE Personal Shrinking Device
+fe.protection.use.compactmachines3.redstonetunneltool.*                                                      # (default: true) USE Redstone Tunnel
+fe.protection.use.compactmachines3.tunneltool.*                                                              # (default: true) USE Tunnel
 fe.protection.use.computronics.oc_parts.*                                                                    # (default: true) USE Camera Upgrade
 fe.protection.use.computronics.oc_special_parts.*                                                            # (default: true) USE Magical Memory (Creative)
 fe.protection.use.computronics.parts.*                                                                       # (default: true) USE Tape Track
@@ -9095,6 +9330,7 @@ fe.protection.use.enderio.item_staff_of_levity.*                                
 fe.protection.use.enderio.item_travel_staff.*                                                                # (default: true) USE Staff of Traveling
 fe.protection.use.enderio.item_xp_transfer.*                                                                 # (default: true) USE Experience Rod
 fe.protection.use.enderio.item_yeta_wrench.*                                                                 # (default: true) USE Yeta Wrench
+fe.protection.use.enderstorage.ender_pouch.*                                                                 # (default: true) USE Ender Pouch
 fe.protection.use.eplus.table_upgrade.*                                                                      # (default: true) USE Table Upgrade
 fe.protection.use.extracells.fluid.item.*                                                                    # (default: true) USE null
 fe.protection.use.extracells.oc.upgrade.*                                                                    # (default: true) USE ME Upgrade (Tier 3)
@@ -10350,6 +10586,19 @@ fe.protection.use.ironjetpacks.wood_capacitor.*                                 
 fe.protection.use.ironjetpacks.wood_cell.*                                                                   # (default: true) USE Wood Energy Cell
 fe.protection.use.ironjetpacks.wood_jetpack.*                                                                # (default: true) USE Wood Jetpack
 fe.protection.use.ironjetpacks.wood_thruster.*                                                               # (default: true) USE Wood Thruster
+fe.protection.use.libvulpes.battery.*                                                                        # (default: true) USE Small Battery
+fe.protection.use.libvulpes.holoprojector.*                                                                  # (default: true) USE Holo-Projector
+fe.protection.use.libvulpes.linker.*                                                                         # (default: true) USE Linker
+fe.protection.use.libvulpes.productboule.*                                                                   # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productdust.*                                                                    # (default: true) USE Dilithium Dust
+fe.protection.use.libvulpes.productfan.*                                                                     # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productgear.*                                                                    # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productgem.*                                                                     # (default: true) USE Dilithium Crystal
+fe.protection.use.libvulpes.productingot.*                                                                   # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productnugget.*                                                                  # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productplate.*                                                                   # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productrod.*                                                                     # (default: true) USE No name!!!
+fe.protection.use.libvulpes.productsheet.*                                                                   # (default: true) USE No name!!!
 fe.protection.use.littletiles.blockingredient.*                                                              # (default: true) USE item.LTBlockIngredient.name
 fe.protection.use.littletiles.bottle_black.*                                                                 # (default: true) USE Black Bottle
 fe.protection.use.littletiles.bottle_cyan.*                                                                  # (default: true) USE Cyan Bottle
@@ -10363,7 +10612,7 @@ fe.protection.use.littletiles.hammer.*                                          
 fe.protection.use.littletiles.multitiles.*                                                                   # (default: true) USE Multi-Tile-Structure
 fe.protection.use.littletiles.premade.*                                                                      # (default: true) USE item.LTPremade.null.name
 fe.protection.use.littletiles.recipe.*                                                                       # (default: true) USE Little Recipe
-fe.protection.use.littletiles.recipeadvanced.*                                                               # (default: true) USE Advanced Recipe
+fe.protection.use.littletiles.recipeadvanced.*                                                               # (default: true) USE Little Blueprint
 fe.protection.use.littletiles.rubbermallet.*                                                                 # (default: true) USE Little Rubber Mallet
 fe.protection.use.littletiles.saw.*                                                                          # (default: true) USE Little Saw
 fe.protection.use.littletiles.screwdriver.*                                                                  # (default: true) USE Little Screwdriver
@@ -10772,12 +11021,6 @@ fe.protection.use.openfm.memorycard.*                                           
 fe.protection.use.openfm.radiotuner.*                                                                        # (default: true) USE Radio Tuner
 fe.protection.use.openglasses.openglasses.*                                                                  # (default: true) USE AR Glasses
 fe.protection.use.openglasses.openglasses_card.*                                                             # (default: true) USE Glasses Terminal Card
-fe.protection.use.openmodularturrets.addon_meta.*                                                            # (default: true) USE Addon - Turret Concealer
-fe.protection.use.openmodularturrets.ammo_meta.*                                                             # (default: true) USE Ammo - Blazing Clay
-fe.protection.use.openmodularturrets.intermediate_regular.*                                                  # (default: true) USE IO Bus
-fe.protection.use.openmodularturrets.intermediate_tiered.*                                                   # (default: true) USE Sensor (Tier 1)
-fe.protection.use.openmodularturrets.upgrade_meta.*                                                          # (default: true) USE Upgrade - Accuracy
-fe.protection.use.openmodularturrets.usable_meta.*                                                           # (default: true) USE Throwable Bullet
 fe.protection.use.openprinter.folder.*                                                                       # (default: true) USE Folder
 fe.protection.use.openprinter.paper_shreds.*                                                                 # (default: true) USE Paper Shreds
 fe.protection.use.openprinter.printed_page.*                                                                 # (default: true) USE Printed Page
@@ -10787,6 +11030,7 @@ fe.protection.use.opensecurity.cooldown_upgrade.*                               
 fe.protection.use.opensecurity.damage_upgrade.*                                                              # (default: true) USE Damage Upgrade
 fe.protection.use.opensecurity.energy_upgrade.*                                                              # (default: true) USE Energy Upgrade
 fe.protection.use.opensecurity.mag_card.*                                                                    # (default: true) USE Magnetic Strip Card
+fe.protection.use.opensecurity.mag_secure_door.*                                                             # (default: true) USE MagReader Security Door
 fe.protection.use.opensecurity.movement_upgrade.*                                                            # (default: true) USE Movement Upgrade
 fe.protection.use.opensecurity.nanodna.*                                                                     # (default: true) USE NanoDNA
 fe.protection.use.opensecurity.private_secure_door.*                                                         # (default: true) USE Private Security Door
@@ -11033,7 +11277,7 @@ fe.protection.use.railcraft.turbine_blade.*                                     
 fe.protection.use.railcraft.turbine_disk.*                                                                   # (default: true) USE Turbine Disk
 fe.protection.use.railcraft.turbine_rotor.*                                                                  # (default: true) USE Turbine Rotor
 fe.protection.use.retrocomputers.cpu.*                                                                       # (default: true) USE XC8010 CPU
-fe.protection.use.retrocomputers.debug.*                                                                     # (default: true) USE §dDebug Item
+fe.protection.use.retrocomputers.debug.*                                                                     # (default: true) USE §2Debug Item
 fe.protection.use.retrocomputers.disk.*                                                                      # (default: true) USE Minimal FORTH Boot Disk
 fe.protection.use.retrocomputers.screwdriver.*                                                               # (default: true) USE Screwdriver
 fe.protection.use.retrocomputers.writable_disk.*                                                             # (default: true) USE Floppy Disk
