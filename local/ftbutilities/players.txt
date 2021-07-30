@@ -1,1 +1,9 @@
-// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+// For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
+
+// MisterNoNameLP
+[678713c32b614ddabc086702cc6cc39b]
+parent: cl1
+
+// greysilly7
+[475b43e036584d6b8eda725e4b746308]
+parent: cl1

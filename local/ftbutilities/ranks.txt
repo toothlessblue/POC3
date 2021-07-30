@@ -1,4 +1,4 @@
-// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+// For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
 
 [player]
 power: 1
@@ -11,9 +11,18 @@ command.yes: true
 command.no: true
 command.wallet: true
 command.tickdynamic: true
+command.back: true
+command.spawn: true
 ftbutilities.homes.max: 3
 ftbutilities.homes.warmup: 0
 ftbutilities.homes.cooldown: 0
+ftbutilities.spawn.cooldown: 0
+ftbutilities.spawn.warmup: 0
+
+[cl1]
+power: 2
+ftbutilities.claims.max_chunks: 100
+ftbutilities.chunkloader.max_chunks: 3
 
 [op]
 power: 2

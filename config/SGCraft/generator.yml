@@ -12,6 +12,7 @@ worlds:
     - T9E4LR4G8
     - QAN3Y43VS
     world:
+    - ABKM2LL2M
     - VFLVYJ1XB
     - UBRK3XNYP
     - TYZQRUP2T
@@ -28,6 +29,7 @@ worlds:
     - W8NT2C8WM
     - 4Z5QXLFNW
     - MWXICERBG
+    - E5C9D1WDT
     - RLGO3DOEA
     - 93TSUC28D
     - 8HFA2INW6
@@ -55,3 +57,6 @@ worlds:
     avp:
     - KSSMPI3EU
     - 58UMNCCU2
+    mining:
+    - 6W7WD5MR6
+    - G7D2DTF7U
