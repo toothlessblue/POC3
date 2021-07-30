@@ -1,14 +1,14 @@
-# ProjectOC light
-ProjectOC light is a lightweight modpack with focus on OpenComputers.  
+# ProjectOC 3
+ProjectOC 3 is a modpack with focus on OpenComputers.  
 The pack is designed for our public server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
-MC server: poclc.bloodcoffeegames.com  
+MC server: poc3.bloodcoffeegames.com  
 Discord server: [https://discord.gg/v927kk7](https://discord.gg/v927kk7)  
-Modpack (GitHub): [https://github.com/MisterNoNameLP/pocl](https://github.com/MisterNoNameLP/pocl)  
+Modpack (GitHub): [https://github.com/toothlessblue/POC3](https://github.com/toothlessblue/POC3)  
 
 # Optifine
 We strongly recommend anyone to install optifine.

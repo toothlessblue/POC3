@@ -3,26 +3,43 @@
 &emsp; Computronics  
 &emsp; OCDevices  
 &emsp; OCSensors  
-&emsp; OpenGlasses  
+&emsp; OpenGlasses2  
 &emsp; OpenLights  
-&emsp; OpenModularTurrets  
 &emsp; OpenScreens  
 &emsp; OpenPrinter  
 &emsp; OpenPython  
 &emsp; OpenSecurity  
 &emsp; OpenFM  
+&emsp; Zettaindustries  
 
 **Some mods to round off the pack:**  
+&emsp; AdvancedRocketry  
+&emsp; Alchemistry  
+&emsp; AliensVsPredator  
+&emsp; AppliedEnergistics2  
 &emsp; ArchitectureCraft  
 &emsp; BetterFPS  
+&emsp; BiomesOPlenty  
 &emsp; ChestTransporter  
 &emsp; Chisel  
 &emsp; ChiselAndBits  
 &emsp; Clipboard  
-&emsp; Comforts    
+&emsp; Comforts  
+&emsp; CompactMachines  
+&emsp; Controlling  
+&emsp; CompressedBlocks    
+&emsp; DoggyTalents  
+&emsp; EnchantingPlus  
+&emsp; EnderIO  
+&emsp; EnderIO Conduits  
+&emsp; EnderStorage  
+&emsp; ExtraCells  
+&emsp; FastLeafDecay  
 &emsp; FTBUtilities  
 &emsp; Gravestone  
 &emsp; IronChest  
+&emsp; IronJetpacks  
+&emsp; LazyAE2  
 &emsp; LittleTiles  
 &emsp; MalisisDoors  
 &emsp; MmmMmmMmmMmm  
@@ -31,6 +48,8 @@
 &emsp; Morph-o-Tool  
 &emsp; MouseTweaks  
 &emsp; MultiHotbar  
+&emsp; NuclearCraft  
+&emsp; PneumaticCraft:Repressurized  
 &emsp; ProjectRedBase  
 &emsp; ProjectRedCompat  
 &emsp; ProjectRedFabrication  
@@ -38,7 +57,15 @@
 &emsp; ProjectRedLighting  
 &emsp; Railcraft  
 &emsp; RetroComputers  
-&emsp; RSGauges  rminal  
+&emsp; RSGauges  
+&emsp; SimpleFluidTanks  
+&emsp; ThermalExpansion  
+&emsp; ThermalDynamics  
+&emsp; Thut'sElevators  
+&emsp; Tinkers'Construct  
+&emsp; Tinkers'ToolLeveling  
+&emsp; VeinMiner  
+&emsp; WirelessCraftingTerminal  
 &emsp; and some requirement mods/libarys as well as background mods like BetterFPS.  
 
 **optional:**  
