@@ -11,9 +11,6 @@
       "config": {
         "ftbu.claims.max_chunks": 1,
         "ftbu.chunkloader.max_chunks": 1,
-        "ftbu.homes.max": 3,
-        "ftbu.homes.warmup": 0,
-        "ftbu.homes.cooldown": 0,
       }
     },
 "vip": {

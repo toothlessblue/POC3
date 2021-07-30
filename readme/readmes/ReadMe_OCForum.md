@@ -1,5 +1,5 @@
-# ProjectOC 3
-ProjectOC 3 is a little server with focus on OpenComputers.  
+# ProjectOC light
+ProjectOC light is a little creative server with focus on OpenComputers.  
 The pack is designed for our server, but can be used standalone too.
 
 On our server you have the possibility to access your OC disks using an FTP connection. This way you can code directly on the server using your preferred editor/IDE.
@@ -8,10 +8,10 @@ We are open for any suggestions and to do some events like game jams if the inte
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
-MC server: poc3.bloodcoffeegames.com  
+MC server: poclc.bloodcoffeegames.com  
 Discord server: https://discord.gg/v927kk7  
-Modpack (GitHub): https://github.com/toothlessblue/POC3  
-Modpack (Technic Launcher): https://www.technicpack.net/modpack/projectoc-reboot.1745971
+Modpack (GitHub): https://github.com/MisterNoNameLP/pocl
+Modpack (Technic Launcher): https://www.technicpack.net/modpack/projectoc-light.1835989
 
 # Optifine
 We strongly recommend anyone to install optifine.

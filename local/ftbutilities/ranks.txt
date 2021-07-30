@@ -27,7 +27,6 @@ power: 3
 default_op_rank: true
 example.other_permission: true
 ftbutilities.chunkloader.max_chunks: 0
-ftbutilities.homes.max: 10
 
 [oc]
 power: 4

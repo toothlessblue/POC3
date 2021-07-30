@@ -17,3 +17,6 @@ git checkout server
 echo "pull new update"
 git fetch --all
 git reset --hard origin/server
+
+#set permissions
+chown -R pufferpanel:pufferpanel ./*
