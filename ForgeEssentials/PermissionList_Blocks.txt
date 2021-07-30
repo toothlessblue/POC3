@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 24.07 16:06 ------------ \\#
-#// ----------- Total amount: 25084 --------- \\#
+#// --------------- 30.07 18:54 ------------ \\#
+#// ----------- Total amount: 24889 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                                  # (default: true) Allow breaking blocks
 fe.protection.break.additionalcompression.blocksand_compressed.*                       # (default: true) BREAK %s Sand
@@ -106,10 +106,6 @@ fe.protection.break.advancedrocketry.vitrifiedsand.*                            
 fe.protection.break.advancedrocketry.warpcore.*                                        # (default: true) BREAK Warp Core
 fe.protection.break.advancedrocketry.warpmonitor.*                                     # (default: true) BREAK Warp Controller
 fe.protection.break.advancedrocketry.wirelesstransciever.*                             # (default: true) BREAK Wireless Transceiver
-fe.protection.break.ae2stuff.encoder.*                                                 # (default: true) BREAK Air
-fe.protection.break.ae2stuff.grower.*                                                  # (default: true) BREAK Air
-fe.protection.break.ae2stuff.inscriber.*                                               # (default: true) BREAK Air
-fe.protection.break.ae2stuff.wireless.*                                                # (default: true) BREAK Air
 fe.protection.break.alchemistry.argon_light.*                                          # (default: true) BREAK Argon Light
 fe.protection.break.alchemistry.atomizer.*                                             # (default: true) BREAK Atomizer
 fe.protection.break.alchemistry.chemical_combiner.*                                    # (default: true) BREAK Chemical Combiner
@@ -873,7 +869,6 @@ fe.protection.break.cookingforblockheads.sink.*                                 
 fe.protection.break.cookingforblockheads.spice_rack.*                                  # (default: true) BREAK Spice Rack
 fe.protection.break.cookingforblockheads.toaster.*                                     # (default: true) BREAK Toaster
 fe.protection.break.cookingforblockheads.tool_rack.*                                   # (default: true) BREAK Tool Rack
-fe.protection.break.craftingstation.crafting_station.*                                 # (default: true) BREAK Air
 fe.protection.break.doggytalents.dog_bath.*                                            # (default: true) BREAK Dog Bath
 fe.protection.break.doggytalents.dog_bed.*                                             # (default: true) BREAK Dog Bed
 fe.protection.break.doggytalents.food_bowl.*                                           # (default: true) BREAK Food Bowl
@@ -1349,7 +1344,6 @@ fe.protection.break.littletiles.ltflowinglava.*                                 
 fe.protection.break.littletiles.ltflowingwater.*                                       # (default: true) BREAK tile.LTFlowingWater.name
 fe.protection.break.littletiles.ltinput.*                                              # (default: true) BREAK tile.ltinput.name
 fe.protection.break.littletiles.ltoutput.*                                             # (default: true) BREAK tile.ltoutput.name
-fe.protection.break.littletiles.ltparticleblock.*                                      # (default: true) BREAK Air
 fe.protection.break.littletiles.ltsinglecable.*                                        # (default: true) BREAK tile.ltsinglecable.name
 fe.protection.break.littletiles.ltstorageblocktile.*                                   # (default: true) BREAK Little Storage Block
 fe.protection.break.littletiles.lttransparentcoloredblock.*                            # (default: true) BREAK tile.LTTransparentColoredBlock.name
@@ -1951,20 +1945,6 @@ fe.protection.break.openentity.entityproxy.*                                    
 fe.protection.break.openfm.radio.*                                                     # (default: true) BREAK Radio
 fe.protection.break.openfm.speaker.*                                                   # (default: true) BREAK Speaker
 fe.protection.break.openglasses.openglassesterminal.*                                  # (default: true) BREAK Glasses Terminal
-fe.protection.break.openmodularturrets.base_addon.*                                    # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.disposable_item_turret.*                        # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.expander.*                                      # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.grenade_turret.*                                # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.incendiary_turret.*                             # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.laser_turret.*                                  # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.lever_block.*                                   # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.machine_gun_turret.*                            # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.potato_cannon_turret.*                          # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.rail_gun_turret.*                               # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.relativistic_turret.*                           # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.rocket_turret.*                                 # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.teleporter_turret.*                             # (default: true) BREAK Air
-fe.protection.break.openmodularturrets.turret_base.*                                   # (default: true) BREAK Air
 fe.protection.break.openprinter.briefcase.*                                            # (default: true) BREAK Briefcase
 fe.protection.break.openprinter.filecabinet.*                                          # (default: true) BREAK Open File Cabinet
 fe.protection.break.openprinter.printer.*                                              # (default: true) BREAK Open Printer
@@ -2147,8 +2127,6 @@ fe.protection.break.railcraft.track_outfitted.*                                 
 fe.protection.break.railcraft.trade_station.*                                          # (default: true) BREAK Trade Station
 fe.protection.break.railcraft.wire.*                                                   # (default: true) BREAK Charge Shunting Wire
 fe.protection.break.railcraft.worldlogic.*                                             # (default: true) BREAK Saltpeter Ore Spawner
-fe.protection.break.railcraft.worldspike.*                                             # (default: true) BREAK Air
-fe.protection.break.railcraft.worldspike_point.*                                       # (default: true) BREAK Air
 fe.protection.break.retrocomputers.backplane.*                                         # (default: true) BREAK Backplane
 fe.protection.break.retrocomputers.computer.*                                          # (default: true) BREAK Computer
 fe.protection.break.retrocomputers.disk_drive.*                                        # (default: true) BREAK Disk Drive
@@ -2289,14 +2267,6 @@ fe.protection.break.sgcraft.stargatering.*                                      
 fe.protection.break.sgcraft.zpm_console.*                                              # (default: true) BREAK ZPM Console
 fe.protection.break.simplefluidtanks.tankblock.*                                       # (default: true) BREAK Fluid Tank
 fe.protection.break.simplefluidtanks.valveblock.*                                      # (default: true) BREAK Valve
-fe.protection.break.storagenetwork.controller.*                                        # (default: true) BREAK Air
-fe.protection.break.storagenetwork.ex_kabel.*                                          # (default: true) BREAK Air
-fe.protection.break.storagenetwork.im_kabel.*                                          # (default: true) BREAK Air
-fe.protection.break.storagenetwork.kabel.*                                             # (default: true) BREAK Air
-fe.protection.break.storagenetwork.master.*                                            # (default: true) BREAK Air
-fe.protection.break.storagenetwork.process_kabel.*                                     # (default: true) BREAK Air
-fe.protection.break.storagenetwork.request.*                                           # (default: true) BREAK Air
-fe.protection.break.storagenetwork.storage_kabel.*                                     # (default: true) BREAK Air
 fe.protection.break.taiga.abyssum_block.*                                              # (default: true) BREAK Abyssum Block
 fe.protection.break.taiga.abyssum_ore.*                                                # (default: true) BREAK Abyssum Ore
 fe.protection.break.taiga.adamant_block.*                                              # (default: true) BREAK Adamant Block
@@ -2426,19 +2396,19 @@ fe.protection.break.tconstruct.lavawood_stairs.*                                
 fe.protection.break.tconstruct.metal.*                                                 # (default: true) BREAK tile.tconstruct.metal.name
 fe.protection.break.tconstruct.milk.*                                                  # (default: true) BREAK fluid.milk.name
 fe.protection.break.tconstruct.molten_alubrass.*                                       # (default: true) BREAK Molten Aluminum Brass
-fe.protection.break.tconstruct.molten_aluminum.*                                       # (default: true) BREAK fluid.aluminum.name
+fe.protection.break.tconstruct.molten_aluminum.*                                       # (default: true) BREAK Molten Aluminum
 fe.protection.break.tconstruct.molten_ardite.*                                         # (default: true) BREAK Molten Ardite
 fe.protection.break.tconstruct.molten_brass.*                                          # (default: true) BREAK Molten Brass
 fe.protection.break.tconstruct.molten_bronze.*                                         # (default: true) BREAK Molten Bronze
 fe.protection.break.tconstruct.molten_clay.*                                           # (default: true) BREAK Molten Clay
 fe.protection.break.tconstruct.molten_cobalt.*                                         # (default: true) BREAK Molten Cobalt
-fe.protection.break.tconstruct.molten_copper.*                                         # (default: true) BREAK fluid.copper.name
+fe.protection.break.tconstruct.molten_copper.*                                         # (default: true) BREAK Molten Copper
 fe.protection.break.tconstruct.molten_dirt.*                                           # (default: true) BREAK Liquid Dirt
 fe.protection.break.tconstruct.molten_electrum.*                                       # (default: true) BREAK Molten Electrum
 fe.protection.break.tconstruct.molten_emerald.*                                        # (default: true) BREAK fluid.emerald.name
 fe.protection.break.tconstruct.molten_glass.*                                          # (default: true) BREAK Molten Glass
-fe.protection.break.tconstruct.molten_gold.*                                           # (default: true) BREAK fluid.gold.name
-fe.protection.break.tconstruct.molten_iron.*                                           # (default: true) BREAK fluid.iron.name
+fe.protection.break.tconstruct.molten_gold.*                                           # (default: true) BREAK Molten Gold
+fe.protection.break.tconstruct.molten_iron.*                                           # (default: true) BREAK Molten Iron
 fe.protection.break.tconstruct.molten_knightslime.*                                    # (default: true) BREAK Molten Knightslime
 fe.protection.break.tconstruct.molten_lead.*                                           # (default: true) BREAK Molten Lead
 fe.protection.break.tconstruct.molten_magnesium.*                                      # (default: true) BREAK fluid.magnesium.name
@@ -2446,11 +2416,11 @@ fe.protection.break.tconstruct.molten_manyullyn.*                               
 fe.protection.break.tconstruct.molten_nickel.*                                         # (default: true) BREAK Molten Nickel
 fe.protection.break.tconstruct.molten_obsidian.*                                       # (default: true) BREAK Molten Obsidian
 fe.protection.break.tconstruct.molten_pigiron.*                                        # (default: true) BREAK Molten Pigiron
-fe.protection.break.tconstruct.molten_silver.*                                         # (default: true) BREAK fluid.silver.name
+fe.protection.break.tconstruct.molten_silver.*                                         # (default: true) BREAK Molten Silver
 fe.protection.break.tconstruct.molten_steel.*                                          # (default: true) BREAK Molten Steel
 fe.protection.break.tconstruct.molten_stone.*                                          # (default: true) BREAK Seared Stone
 fe.protection.break.tconstruct.molten_thorium.*                                        # (default: true) BREAK fluid.thorium.name
-fe.protection.break.tconstruct.molten_tin.*                                            # (default: true) BREAK fluid.tin.name
+fe.protection.break.tconstruct.molten_tin.*                                            # (default: true) BREAK Molten Tin
 fe.protection.break.tconstruct.molten_uranium.*                                        # (default: true) BREAK fluid.uranium.name
 fe.protection.break.tconstruct.molten_zinc.*                                           # (default: true) BREAK Molten Zinc
 fe.protection.break.tconstruct.mudbrick_stairs.*                                       # (default: true) BREAK Mud Bricks Stairs
@@ -2534,15 +2504,6 @@ fe.protection.break.thermalfoundation.storage_resource.*                        
 fe.protection.break.threng.big_assembler.*                                             # (default: true) BREAK tile.threng:big_assembler.name
 fe.protection.break.threng.machine.*                                                   # (default: true) BREAK tile.threng:machine.name
 fe.protection.break.thuttech.lift.*                                                    # (default: true) BREAK Elevator
-fe.protection.break.tombstone.dark_marble.*                                            # (default: true) BREAK Air
-fe.protection.break.tombstone.decorative_grave_cross.*                                 # (default: true) BREAK Air
-fe.protection.break.tombstone.decorative_grave_normal.*                                # (default: true) BREAK Air
-fe.protection.break.tombstone.decorative_grave_simple.*                                # (default: true) BREAK Air
-fe.protection.break.tombstone.decorative_tombstone.*                                   # (default: true) BREAK Air
-fe.protection.break.tombstone.grave_cross.*                                            # (default: true) BREAK Air
-fe.protection.break.tombstone.grave_normal.*                                           # (default: true) BREAK Air
-fe.protection.break.tombstone.grave_simple.*                                           # (default: true) BREAK Air
-fe.protection.break.tombstone.tombstone.*                                              # (default: true) BREAK Air
 fe.protection.break.zettaindustries.batterycomputerport.*                              # (default: true) BREAK Battery Computer Port
 fe.protection.break.zettaindustries.batterycontroller.*                                # (default: true) BREAK Battery Controller
 fe.protection.break.zettaindustries.batteryelectrode.*                                 # (default: true) BREAK Battery Electrode
@@ -2662,10 +2623,6 @@ fe.protection.explode.advancedrocketry.vitrifiedsand.*                          
 fe.protection.explode.advancedrocketry.warpcore.*                                      # (default: true) EXPLODE Warp Core
 fe.protection.explode.advancedrocketry.warpmonitor.*                                   # (default: true) EXPLODE Warp Controller
 fe.protection.explode.advancedrocketry.wirelesstransciever.*                           # (default: true) EXPLODE Wireless Transceiver
-fe.protection.explode.ae2stuff.encoder.*                                               # (default: true) EXPLODE Air
-fe.protection.explode.ae2stuff.grower.*                                                # (default: true) EXPLODE Air
-fe.protection.explode.ae2stuff.inscriber.*                                             # (default: true) EXPLODE Air
-fe.protection.explode.ae2stuff.wireless.*                                              # (default: true) EXPLODE Air
 fe.protection.explode.alchemistry.argon_light.*                                        # (default: true) EXPLODE Argon Light
 fe.protection.explode.alchemistry.atomizer.*                                           # (default: true) EXPLODE Atomizer
 fe.protection.explode.alchemistry.chemical_combiner.*                                  # (default: true) EXPLODE Chemical Combiner
@@ -3429,7 +3386,6 @@ fe.protection.explode.cookingforblockheads.sink.*                               
 fe.protection.explode.cookingforblockheads.spice_rack.*                                # (default: true) EXPLODE Spice Rack
 fe.protection.explode.cookingforblockheads.toaster.*                                   # (default: true) EXPLODE Toaster
 fe.protection.explode.cookingforblockheads.tool_rack.*                                 # (default: true) EXPLODE Tool Rack
-fe.protection.explode.craftingstation.crafting_station.*                               # (default: true) EXPLODE Air
 fe.protection.explode.doggytalents.dog_bath.*                                          # (default: true) EXPLODE Dog Bath
 fe.protection.explode.doggytalents.dog_bed.*                                           # (default: true) EXPLODE Dog Bed
 fe.protection.explode.doggytalents.food_bowl.*                                         # (default: true) EXPLODE Food Bowl
@@ -3905,7 +3861,6 @@ fe.protection.explode.littletiles.ltflowinglava.*                               
 fe.protection.explode.littletiles.ltflowingwater.*                                     # (default: true) EXPLODE tile.LTFlowingWater.name
 fe.protection.explode.littletiles.ltinput.*                                            # (default: true) EXPLODE tile.ltinput.name
 fe.protection.explode.littletiles.ltoutput.*                                           # (default: true) EXPLODE tile.ltoutput.name
-fe.protection.explode.littletiles.ltparticleblock.*                                    # (default: true) EXPLODE Air
 fe.protection.explode.littletiles.ltsinglecable.*                                      # (default: true) EXPLODE tile.ltsinglecable.name
 fe.protection.explode.littletiles.ltstorageblocktile.*                                 # (default: true) EXPLODE Little Storage Block
 fe.protection.explode.littletiles.lttransparentcoloredblock.*                          # (default: true) EXPLODE tile.LTTransparentColoredBlock.name
@@ -4507,20 +4462,6 @@ fe.protection.explode.openentity.entityproxy.*                                  
 fe.protection.explode.openfm.radio.*                                                   # (default: true) EXPLODE Radio
 fe.protection.explode.openfm.speaker.*                                                 # (default: true) EXPLODE Speaker
 fe.protection.explode.openglasses.openglassesterminal.*                                # (default: true) EXPLODE Glasses Terminal
-fe.protection.explode.openmodularturrets.base_addon.*                                  # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.disposable_item_turret.*                      # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.expander.*                                    # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.grenade_turret.*                              # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.incendiary_turret.*                           # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.laser_turret.*                                # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.lever_block.*                                 # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.machine_gun_turret.*                          # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.potato_cannon_turret.*                        # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.rail_gun_turret.*                             # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.relativistic_turret.*                         # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.rocket_turret.*                               # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.teleporter_turret.*                           # (default: true) EXPLODE Air
-fe.protection.explode.openmodularturrets.turret_base.*                                 # (default: true) EXPLODE Air
 fe.protection.explode.openprinter.briefcase.*                                          # (default: true) EXPLODE Briefcase
 fe.protection.explode.openprinter.filecabinet.*                                        # (default: true) EXPLODE Open File Cabinet
 fe.protection.explode.openprinter.printer.*                                            # (default: true) EXPLODE Open Printer
@@ -4703,8 +4644,6 @@ fe.protection.explode.railcraft.track_outfitted.*                               
 fe.protection.explode.railcraft.trade_station.*                                        # (default: true) EXPLODE Trade Station
 fe.protection.explode.railcraft.wire.*                                                 # (default: true) EXPLODE Charge Shunting Wire
 fe.protection.explode.railcraft.worldlogic.*                                           # (default: true) EXPLODE Saltpeter Ore Spawner
-fe.protection.explode.railcraft.worldspike.*                                           # (default: true) EXPLODE Air
-fe.protection.explode.railcraft.worldspike_point.*                                     # (default: true) EXPLODE Air
 fe.protection.explode.retrocomputers.backplane.*                                       # (default: true) EXPLODE Backplane
 fe.protection.explode.retrocomputers.computer.*                                        # (default: true) EXPLODE Computer
 fe.protection.explode.retrocomputers.disk_drive.*                                      # (default: true) EXPLODE Disk Drive
@@ -4845,14 +4784,6 @@ fe.protection.explode.sgcraft.stargatering.*                                    
 fe.protection.explode.sgcraft.zpm_console.*                                            # (default: true) EXPLODE ZPM Console
 fe.protection.explode.simplefluidtanks.tankblock.*                                     # (default: true) EXPLODE Fluid Tank
 fe.protection.explode.simplefluidtanks.valveblock.*                                    # (default: true) EXPLODE Valve
-fe.protection.explode.storagenetwork.controller.*                                      # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.ex_kabel.*                                        # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.im_kabel.*                                        # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.kabel.*                                           # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.master.*                                          # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.process_kabel.*                                   # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.request.*                                         # (default: true) EXPLODE Air
-fe.protection.explode.storagenetwork.storage_kabel.*                                   # (default: true) EXPLODE Air
 fe.protection.explode.taiga.abyssum_block.*                                            # (default: true) EXPLODE Abyssum Block
 fe.protection.explode.taiga.abyssum_ore.*                                              # (default: true) EXPLODE Abyssum Ore
 fe.protection.explode.taiga.adamant_block.*                                            # (default: true) EXPLODE Adamant Block
@@ -4982,19 +4913,19 @@ fe.protection.explode.tconstruct.lavawood_stairs.*                              
 fe.protection.explode.tconstruct.metal.*                                               # (default: true) EXPLODE tile.tconstruct.metal.name
 fe.protection.explode.tconstruct.milk.*                                                # (default: true) EXPLODE fluid.milk.name
 fe.protection.explode.tconstruct.molten_alubrass.*                                     # (default: true) EXPLODE Molten Aluminum Brass
-fe.protection.explode.tconstruct.molten_aluminum.*                                     # (default: true) EXPLODE fluid.aluminum.name
+fe.protection.explode.tconstruct.molten_aluminum.*                                     # (default: true) EXPLODE Molten Aluminum
 fe.protection.explode.tconstruct.molten_ardite.*                                       # (default: true) EXPLODE Molten Ardite
 fe.protection.explode.tconstruct.molten_brass.*                                        # (default: true) EXPLODE Molten Brass
 fe.protection.explode.tconstruct.molten_bronze.*                                       # (default: true) EXPLODE Molten Bronze
 fe.protection.explode.tconstruct.molten_clay.*                                         # (default: true) EXPLODE Molten Clay
 fe.protection.explode.tconstruct.molten_cobalt.*                                       # (default: true) EXPLODE Molten Cobalt
-fe.protection.explode.tconstruct.molten_copper.*                                       # (default: true) EXPLODE fluid.copper.name
+fe.protection.explode.tconstruct.molten_copper.*                                       # (default: true) EXPLODE Molten Copper
 fe.protection.explode.tconstruct.molten_dirt.*                                         # (default: true) EXPLODE Liquid Dirt
 fe.protection.explode.tconstruct.molten_electrum.*                                     # (default: true) EXPLODE Molten Electrum
 fe.protection.explode.tconstruct.molten_emerald.*                                      # (default: true) EXPLODE fluid.emerald.name
 fe.protection.explode.tconstruct.molten_glass.*                                        # (default: true) EXPLODE Molten Glass
-fe.protection.explode.tconstruct.molten_gold.*                                         # (default: true) EXPLODE fluid.gold.name
-fe.protection.explode.tconstruct.molten_iron.*                                         # (default: true) EXPLODE fluid.iron.name
+fe.protection.explode.tconstruct.molten_gold.*                                         # (default: true) EXPLODE Molten Gold
+fe.protection.explode.tconstruct.molten_iron.*                                         # (default: true) EXPLODE Molten Iron
 fe.protection.explode.tconstruct.molten_knightslime.*                                  # (default: true) EXPLODE Molten Knightslime
 fe.protection.explode.tconstruct.molten_lead.*                                         # (default: true) EXPLODE Molten Lead
 fe.protection.explode.tconstruct.molten_magnesium.*                                    # (default: true) EXPLODE fluid.magnesium.name
@@ -5002,11 +4933,11 @@ fe.protection.explode.tconstruct.molten_manyullyn.*                             
 fe.protection.explode.tconstruct.molten_nickel.*                                       # (default: true) EXPLODE Molten Nickel
 fe.protection.explode.tconstruct.molten_obsidian.*                                     # (default: true) EXPLODE Molten Obsidian
 fe.protection.explode.tconstruct.molten_pigiron.*                                      # (default: true) EXPLODE Molten Pigiron
-fe.protection.explode.tconstruct.molten_silver.*                                       # (default: true) EXPLODE fluid.silver.name
+fe.protection.explode.tconstruct.molten_silver.*                                       # (default: true) EXPLODE Molten Silver
 fe.protection.explode.tconstruct.molten_steel.*                                        # (default: true) EXPLODE Molten Steel
 fe.protection.explode.tconstruct.molten_stone.*                                        # (default: true) EXPLODE Seared Stone
 fe.protection.explode.tconstruct.molten_thorium.*                                      # (default: true) EXPLODE fluid.thorium.name
-fe.protection.explode.tconstruct.molten_tin.*                                          # (default: true) EXPLODE fluid.tin.name
+fe.protection.explode.tconstruct.molten_tin.*                                          # (default: true) EXPLODE Molten Tin
 fe.protection.explode.tconstruct.molten_uranium.*                                      # (default: true) EXPLODE fluid.uranium.name
 fe.protection.explode.tconstruct.molten_zinc.*                                         # (default: true) EXPLODE Molten Zinc
 fe.protection.explode.tconstruct.mudbrick_stairs.*                                     # (default: true) EXPLODE Mud Bricks Stairs
@@ -5090,15 +5021,6 @@ fe.protection.explode.thermalfoundation.storage_resource.*                      
 fe.protection.explode.threng.big_assembler.*                                           # (default: true) EXPLODE tile.threng:big_assembler.name
 fe.protection.explode.threng.machine.*                                                 # (default: true) EXPLODE tile.threng:machine.name
 fe.protection.explode.thuttech.lift.*                                                  # (default: true) EXPLODE Elevator
-fe.protection.explode.tombstone.dark_marble.*                                          # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.decorative_grave_cross.*                               # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.decorative_grave_normal.*                              # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.decorative_grave_simple.*                              # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.decorative_tombstone.*                                 # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.grave_cross.*                                          # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.grave_normal.*                                         # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.grave_simple.*                                         # (default: true) EXPLODE Air
-fe.protection.explode.tombstone.tombstone.*                                            # (default: true) EXPLODE Air
 fe.protection.explode.zettaindustries.batterycomputerport.*                            # (default: true) EXPLODE Battery Computer Port
 fe.protection.explode.zettaindustries.batterycontroller.*                              # (default: true) EXPLODE Battery Controller
 fe.protection.explode.zettaindustries.batteryelectrode.*                               # (default: true) EXPLODE Battery Electrode
@@ -5218,10 +5140,6 @@ fe.protection.interact.advancedrocketry.vitrifiedsand.*                         
 fe.protection.interact.advancedrocketry.warpcore.*                                     # (default: true) INTERACT Warp Core
 fe.protection.interact.advancedrocketry.warpmonitor.*                                  # (default: true) INTERACT Warp Controller
 fe.protection.interact.advancedrocketry.wirelesstransciever.*                          # (default: true) INTERACT Wireless Transceiver
-fe.protection.interact.ae2stuff.encoder.*                                              # (default: true) INTERACT Air
-fe.protection.interact.ae2stuff.grower.*                                               # (default: true) INTERACT Air
-fe.protection.interact.ae2stuff.inscriber.*                                            # (default: true) INTERACT Air
-fe.protection.interact.ae2stuff.wireless.*                                             # (default: true) INTERACT Air
 fe.protection.interact.alchemistry.argon_light.*                                       # (default: true) INTERACT Argon Light
 fe.protection.interact.alchemistry.atomizer.*                                          # (default: true) INTERACT Atomizer
 fe.protection.interact.alchemistry.chemical_combiner.*                                 # (default: true) INTERACT Chemical Combiner
@@ -5985,7 +5903,6 @@ fe.protection.interact.cookingforblockheads.sink.*                              
 fe.protection.interact.cookingforblockheads.spice_rack.*                               # (default: true) INTERACT Spice Rack
 fe.protection.interact.cookingforblockheads.toaster.*                                  # (default: true) INTERACT Toaster
 fe.protection.interact.cookingforblockheads.tool_rack.*                                # (default: true) INTERACT Tool Rack
-fe.protection.interact.craftingstation.crafting_station.*                              # (default: true) INTERACT Air
 fe.protection.interact.doggytalents.dog_bath.*                                         # (default: true) INTERACT Dog Bath
 fe.protection.interact.doggytalents.dog_bed.*                                          # (default: true) INTERACT Dog Bed
 fe.protection.interact.doggytalents.food_bowl.*                                        # (default: true) INTERACT Food Bowl
@@ -6462,7 +6379,6 @@ fe.protection.interact.littletiles.ltflowinglava.*                              
 fe.protection.interact.littletiles.ltflowingwater.*                                    # (default: true) INTERACT tile.LTFlowingWater.name
 fe.protection.interact.littletiles.ltinput.*                                           # (default: true) INTERACT tile.ltinput.name
 fe.protection.interact.littletiles.ltoutput.*                                          # (default: true) INTERACT tile.ltoutput.name
-fe.protection.interact.littletiles.ltparticleblock.*                                   # (default: true) INTERACT Air
 fe.protection.interact.littletiles.ltsinglecable.*                                     # (default: true) INTERACT tile.ltsinglecable.name
 fe.protection.interact.littletiles.ltstorageblocktile.*                                # (default: true) INTERACT Little Storage Block
 fe.protection.interact.littletiles.lttransparentcoloredblock.*                         # (default: true) INTERACT tile.LTTransparentColoredBlock.name
@@ -7064,20 +6980,6 @@ fe.protection.interact.openentity.entityproxy.*                                 
 fe.protection.interact.openfm.radio.*                                                  # (default: true) INTERACT Radio
 fe.protection.interact.openfm.speaker.*                                                # (default: true) INTERACT Speaker
 fe.protection.interact.openglasses.openglassesterminal.*                               # (default: true) INTERACT Glasses Terminal
-fe.protection.interact.openmodularturrets.base_addon.*                                 # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.disposable_item_turret.*                     # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.expander.*                                   # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.grenade_turret.*                             # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.incendiary_turret.*                          # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.laser_turret.*                               # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.lever_block.*                                # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.machine_gun_turret.*                         # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.potato_cannon_turret.*                       # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.rail_gun_turret.*                            # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.relativistic_turret.*                        # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.rocket_turret.*                              # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.teleporter_turret.*                          # (default: true) INTERACT Air
-fe.protection.interact.openmodularturrets.turret_base.*                                # (default: true) INTERACT Air
 fe.protection.interact.openprinter.briefcase.*                                         # (default: true) INTERACT Briefcase
 fe.protection.interact.openprinter.filecabinet.*                                       # (default: true) INTERACT Open File Cabinet
 fe.protection.interact.openprinter.printer.*                                           # (default: true) INTERACT Open Printer
@@ -7260,8 +7162,6 @@ fe.protection.interact.railcraft.track_outfitted.*                              
 fe.protection.interact.railcraft.trade_station.*                                       # (default: true) INTERACT Trade Station
 fe.protection.interact.railcraft.wire.*                                                # (default: true) INTERACT Charge Shunting Wire
 fe.protection.interact.railcraft.worldlogic.*                                          # (default: true) INTERACT Saltpeter Ore Spawner
-fe.protection.interact.railcraft.worldspike.*                                          # (default: true) INTERACT Air
-fe.protection.interact.railcraft.worldspike_point.*                                    # (default: true) INTERACT Air
 fe.protection.interact.retrocomputers.backplane.*                                      # (default: true) INTERACT Backplane
 fe.protection.interact.retrocomputers.computer.*                                       # (default: true) INTERACT Computer
 fe.protection.interact.retrocomputers.disk_drive.*                                     # (default: true) INTERACT Disk Drive
@@ -7402,14 +7302,6 @@ fe.protection.interact.sgcraft.stargatering.*                                   
 fe.protection.interact.sgcraft.zpm_console.*                                           # (default: true) INTERACT ZPM Console
 fe.protection.interact.simplefluidtanks.tankblock.*                                    # (default: true) INTERACT Fluid Tank
 fe.protection.interact.simplefluidtanks.valveblock.*                                   # (default: true) INTERACT Valve
-fe.protection.interact.storagenetwork.controller.*                                     # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.ex_kabel.*                                       # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.im_kabel.*                                       # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.kabel.*                                          # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.master.*                                         # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.process_kabel.*                                  # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.request.*                                        # (default: true) INTERACT Air
-fe.protection.interact.storagenetwork.storage_kabel.*                                  # (default: true) INTERACT Air
 fe.protection.interact.taiga.abyssum_block.*                                           # (default: true) INTERACT Abyssum Block
 fe.protection.interact.taiga.abyssum_ore.*                                             # (default: true) INTERACT Abyssum Ore
 fe.protection.interact.taiga.adamant_block.*                                           # (default: true) INTERACT Adamant Block
@@ -7539,19 +7431,19 @@ fe.protection.interact.tconstruct.lavawood_stairs.*                             
 fe.protection.interact.tconstruct.metal.*                                              # (default: true) INTERACT tile.tconstruct.metal.name
 fe.protection.interact.tconstruct.milk.*                                               # (default: true) INTERACT fluid.milk.name
 fe.protection.interact.tconstruct.molten_alubrass.*                                    # (default: true) INTERACT Molten Aluminum Brass
-fe.protection.interact.tconstruct.molten_aluminum.*                                    # (default: true) INTERACT fluid.aluminum.name
+fe.protection.interact.tconstruct.molten_aluminum.*                                    # (default: true) INTERACT Molten Aluminum
 fe.protection.interact.tconstruct.molten_ardite.*                                      # (default: true) INTERACT Molten Ardite
 fe.protection.interact.tconstruct.molten_brass.*                                       # (default: true) INTERACT Molten Brass
 fe.protection.interact.tconstruct.molten_bronze.*                                      # (default: true) INTERACT Molten Bronze
 fe.protection.interact.tconstruct.molten_clay.*                                        # (default: true) INTERACT Molten Clay
 fe.protection.interact.tconstruct.molten_cobalt.*                                      # (default: true) INTERACT Molten Cobalt
-fe.protection.interact.tconstruct.molten_copper.*                                      # (default: true) INTERACT fluid.copper.name
+fe.protection.interact.tconstruct.molten_copper.*                                      # (default: true) INTERACT Molten Copper
 fe.protection.interact.tconstruct.molten_dirt.*                                        # (default: true) INTERACT Liquid Dirt
 fe.protection.interact.tconstruct.molten_electrum.*                                    # (default: true) INTERACT Molten Electrum
 fe.protection.interact.tconstruct.molten_emerald.*                                     # (default: true) INTERACT fluid.emerald.name
 fe.protection.interact.tconstruct.molten_glass.*                                       # (default: true) INTERACT Molten Glass
-fe.protection.interact.tconstruct.molten_gold.*                                        # (default: true) INTERACT fluid.gold.name
-fe.protection.interact.tconstruct.molten_iron.*                                        # (default: true) INTERACT fluid.iron.name
+fe.protection.interact.tconstruct.molten_gold.*                                        # (default: true) INTERACT Molten Gold
+fe.protection.interact.tconstruct.molten_iron.*                                        # (default: true) INTERACT Molten Iron
 fe.protection.interact.tconstruct.molten_knightslime.*                                 # (default: true) INTERACT Molten Knightslime
 fe.protection.interact.tconstruct.molten_lead.*                                        # (default: true) INTERACT Molten Lead
 fe.protection.interact.tconstruct.molten_magnesium.*                                   # (default: true) INTERACT fluid.magnesium.name
@@ -7559,11 +7451,11 @@ fe.protection.interact.tconstruct.molten_manyullyn.*                            
 fe.protection.interact.tconstruct.molten_nickel.*                                      # (default: true) INTERACT Molten Nickel
 fe.protection.interact.tconstruct.molten_obsidian.*                                    # (default: true) INTERACT Molten Obsidian
 fe.protection.interact.tconstruct.molten_pigiron.*                                     # (default: true) INTERACT Molten Pigiron
-fe.protection.interact.tconstruct.molten_silver.*                                      # (default: true) INTERACT fluid.silver.name
+fe.protection.interact.tconstruct.molten_silver.*                                      # (default: true) INTERACT Molten Silver
 fe.protection.interact.tconstruct.molten_steel.*                                       # (default: true) INTERACT Molten Steel
 fe.protection.interact.tconstruct.molten_stone.*                                       # (default: true) INTERACT Seared Stone
 fe.protection.interact.tconstruct.molten_thorium.*                                     # (default: true) INTERACT fluid.thorium.name
-fe.protection.interact.tconstruct.molten_tin.*                                         # (default: true) INTERACT fluid.tin.name
+fe.protection.interact.tconstruct.molten_tin.*                                         # (default: true) INTERACT Molten Tin
 fe.protection.interact.tconstruct.molten_uranium.*                                     # (default: true) INTERACT fluid.uranium.name
 fe.protection.interact.tconstruct.molten_zinc.*                                        # (default: true) INTERACT Molten Zinc
 fe.protection.interact.tconstruct.mudbrick_stairs.*                                    # (default: true) INTERACT Mud Bricks Stairs
@@ -7647,15 +7539,6 @@ fe.protection.interact.thermalfoundation.storage_resource.*                     
 fe.protection.interact.threng.big_assembler.*                                          # (default: true) INTERACT tile.threng:big_assembler.name
 fe.protection.interact.threng.machine.*                                                # (default: true) INTERACT tile.threng:machine.name
 fe.protection.interact.thuttech.lift.*                                                 # (default: true) INTERACT Elevator
-fe.protection.interact.tombstone.dark_marble.*                                         # (default: true) INTERACT Air
-fe.protection.interact.tombstone.decorative_grave_cross.*                              # (default: true) INTERACT Air
-fe.protection.interact.tombstone.decorative_grave_normal.*                             # (default: true) INTERACT Air
-fe.protection.interact.tombstone.decorative_grave_simple.*                             # (default: true) INTERACT Air
-fe.protection.interact.tombstone.decorative_tombstone.*                                # (default: true) INTERACT Air
-fe.protection.interact.tombstone.grave_cross.*                                         # (default: true) INTERACT Air
-fe.protection.interact.tombstone.grave_normal.*                                        # (default: true) INTERACT Air
-fe.protection.interact.tombstone.grave_simple.*                                        # (default: true) INTERACT Air
-fe.protection.interact.tombstone.tombstone.*                                           # (default: true) INTERACT Air
 fe.protection.interact.zettaindustries.batterycomputerport.*                           # (default: true) INTERACT Battery Computer Port
 fe.protection.interact.zettaindustries.batterycontroller.*                             # (default: true) INTERACT Battery Controller
 fe.protection.interact.zettaindustries.batteryelectrode.*                              # (default: true) INTERACT Battery Electrode
@@ -7775,10 +7658,6 @@ fe.protection.place.advancedrocketry.vitrifiedsand.*                            
 fe.protection.place.advancedrocketry.warpcore.*                                        # (default: true) PLACE Warp Core
 fe.protection.place.advancedrocketry.warpmonitor.*                                     # (default: true) PLACE Warp Controller
 fe.protection.place.advancedrocketry.wirelesstransciever.*                             # (default: true) PLACE Wireless Transceiver
-fe.protection.place.ae2stuff.encoder.*                                                 # (default: true) PLACE Air
-fe.protection.place.ae2stuff.grower.*                                                  # (default: true) PLACE Air
-fe.protection.place.ae2stuff.inscriber.*                                               # (default: true) PLACE Air
-fe.protection.place.ae2stuff.wireless.*                                                # (default: true) PLACE Air
 fe.protection.place.alchemistry.argon_light.*                                          # (default: true) PLACE Argon Light
 fe.protection.place.alchemistry.atomizer.*                                             # (default: true) PLACE Atomizer
 fe.protection.place.alchemistry.chemical_combiner.*                                    # (default: true) PLACE Chemical Combiner
@@ -8542,7 +8421,6 @@ fe.protection.place.cookingforblockheads.sink.*                                 
 fe.protection.place.cookingforblockheads.spice_rack.*                                  # (default: true) PLACE Spice Rack
 fe.protection.place.cookingforblockheads.toaster.*                                     # (default: true) PLACE Toaster
 fe.protection.place.cookingforblockheads.tool_rack.*                                   # (default: true) PLACE Tool Rack
-fe.protection.place.craftingstation.crafting_station.*                                 # (default: true) PLACE Air
 fe.protection.place.doggytalents.dog_bath.*                                            # (default: true) PLACE Dog Bath
 fe.protection.place.doggytalents.dog_bed.*                                             # (default: true) PLACE Dog Bed
 fe.protection.place.doggytalents.food_bowl.*                                           # (default: true) PLACE Food Bowl
@@ -9018,7 +8896,6 @@ fe.protection.place.littletiles.ltflowinglava.*                                 
 fe.protection.place.littletiles.ltflowingwater.*                                       # (default: true) PLACE tile.LTFlowingWater.name
 fe.protection.place.littletiles.ltinput.*                                              # (default: true) PLACE tile.ltinput.name
 fe.protection.place.littletiles.ltoutput.*                                             # (default: true) PLACE tile.ltoutput.name
-fe.protection.place.littletiles.ltparticleblock.*                                      # (default: true) PLACE Air
 fe.protection.place.littletiles.ltsinglecable.*                                        # (default: true) PLACE tile.ltsinglecable.name
 fe.protection.place.littletiles.ltstorageblocktile.*                                   # (default: true) PLACE Little Storage Block
 fe.protection.place.littletiles.lttransparentcoloredblock.*                            # (default: true) PLACE tile.LTTransparentColoredBlock.name
@@ -9620,20 +9497,6 @@ fe.protection.place.openentity.entityproxy.*                                    
 fe.protection.place.openfm.radio.*                                                     # (default: true) PLACE Radio
 fe.protection.place.openfm.speaker.*                                                   # (default: true) PLACE Speaker
 fe.protection.place.openglasses.openglassesterminal.*                                  # (default: true) PLACE Glasses Terminal
-fe.protection.place.openmodularturrets.base_addon.*                                    # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.disposable_item_turret.*                        # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.expander.*                                      # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.grenade_turret.*                                # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.incendiary_turret.*                             # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.laser_turret.*                                  # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.lever_block.*                                   # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.machine_gun_turret.*                            # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.potato_cannon_turret.*                          # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.rail_gun_turret.*                               # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.relativistic_turret.*                           # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.rocket_turret.*                                 # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.teleporter_turret.*                             # (default: true) PLACE Air
-fe.protection.place.openmodularturrets.turret_base.*                                   # (default: true) PLACE Air
 fe.protection.place.openprinter.briefcase.*                                            # (default: true) PLACE Briefcase
 fe.protection.place.openprinter.filecabinet.*                                          # (default: true) PLACE Open File Cabinet
 fe.protection.place.openprinter.printer.*                                              # (default: true) PLACE Open Printer
@@ -9816,8 +9679,6 @@ fe.protection.place.railcraft.track_outfitted.*                                 
 fe.protection.place.railcraft.trade_station.*                                          # (default: true) PLACE Trade Station
 fe.protection.place.railcraft.wire.*                                                   # (default: true) PLACE Charge Shunting Wire
 fe.protection.place.railcraft.worldlogic.*                                             # (default: true) PLACE Saltpeter Ore Spawner
-fe.protection.place.railcraft.worldspike.*                                             # (default: true) PLACE Air
-fe.protection.place.railcraft.worldspike_point.*                                       # (default: true) PLACE Air
 fe.protection.place.retrocomputers.backplane.*                                         # (default: true) PLACE Backplane
 fe.protection.place.retrocomputers.computer.*                                          # (default: true) PLACE Computer
 fe.protection.place.retrocomputers.disk_drive.*                                        # (default: true) PLACE Disk Drive
@@ -9958,14 +9819,6 @@ fe.protection.place.sgcraft.stargatering.*                                      
 fe.protection.place.sgcraft.zpm_console.*                                              # (default: true) PLACE ZPM Console
 fe.protection.place.simplefluidtanks.tankblock.*                                       # (default: true) PLACE Fluid Tank
 fe.protection.place.simplefluidtanks.valveblock.*                                      # (default: true) PLACE Valve
-fe.protection.place.storagenetwork.controller.*                                        # (default: true) PLACE Air
-fe.protection.place.storagenetwork.ex_kabel.*                                          # (default: true) PLACE Air
-fe.protection.place.storagenetwork.im_kabel.*                                          # (default: true) PLACE Air
-fe.protection.place.storagenetwork.kabel.*                                             # (default: true) PLACE Air
-fe.protection.place.storagenetwork.master.*                                            # (default: true) PLACE Air
-fe.protection.place.storagenetwork.process_kabel.*                                     # (default: true) PLACE Air
-fe.protection.place.storagenetwork.request.*                                           # (default: true) PLACE Air
-fe.protection.place.storagenetwork.storage_kabel.*                                     # (default: true) PLACE Air
 fe.protection.place.taiga.abyssum_block.*                                              # (default: true) PLACE Abyssum Block
 fe.protection.place.taiga.abyssum_ore.*                                                # (default: true) PLACE Abyssum Ore
 fe.protection.place.taiga.adamant_block.*                                              # (default: true) PLACE Adamant Block
@@ -10095,19 +9948,19 @@ fe.protection.place.tconstruct.lavawood_stairs.*                                
 fe.protection.place.tconstruct.metal.*                                                 # (default: true) PLACE tile.tconstruct.metal.name
 fe.protection.place.tconstruct.milk.*                                                  # (default: true) PLACE fluid.milk.name
 fe.protection.place.tconstruct.molten_alubrass.*                                       # (default: true) PLACE Molten Aluminum Brass
-fe.protection.place.tconstruct.molten_aluminum.*                                       # (default: true) PLACE fluid.aluminum.name
+fe.protection.place.tconstruct.molten_aluminum.*                                       # (default: true) PLACE Molten Aluminum
 fe.protection.place.tconstruct.molten_ardite.*                                         # (default: true) PLACE Molten Ardite
 fe.protection.place.tconstruct.molten_brass.*                                          # (default: true) PLACE Molten Brass
 fe.protection.place.tconstruct.molten_bronze.*                                         # (default: true) PLACE Molten Bronze
 fe.protection.place.tconstruct.molten_clay.*                                           # (default: true) PLACE Molten Clay
 fe.protection.place.tconstruct.molten_cobalt.*                                         # (default: true) PLACE Molten Cobalt
-fe.protection.place.tconstruct.molten_copper.*                                         # (default: true) PLACE fluid.copper.name
+fe.protection.place.tconstruct.molten_copper.*                                         # (default: true) PLACE Molten Copper
 fe.protection.place.tconstruct.molten_dirt.*                                           # (default: true) PLACE Liquid Dirt
 fe.protection.place.tconstruct.molten_electrum.*                                       # (default: true) PLACE Molten Electrum
 fe.protection.place.tconstruct.molten_emerald.*                                        # (default: true) PLACE fluid.emerald.name
 fe.protection.place.tconstruct.molten_glass.*                                          # (default: true) PLACE Molten Glass
-fe.protection.place.tconstruct.molten_gold.*                                           # (default: true) PLACE fluid.gold.name
-fe.protection.place.tconstruct.molten_iron.*                                           # (default: true) PLACE fluid.iron.name
+fe.protection.place.tconstruct.molten_gold.*                                           # (default: true) PLACE Molten Gold
+fe.protection.place.tconstruct.molten_iron.*                                           # (default: true) PLACE Molten Iron
 fe.protection.place.tconstruct.molten_knightslime.*                                    # (default: true) PLACE Molten Knightslime
 fe.protection.place.tconstruct.molten_lead.*                                           # (default: true) PLACE Molten Lead
 fe.protection.place.tconstruct.molten_magnesium.*                                      # (default: true) PLACE fluid.magnesium.name
@@ -10115,11 +9968,11 @@ fe.protection.place.tconstruct.molten_manyullyn.*                               
 fe.protection.place.tconstruct.molten_nickel.*                                         # (default: true) PLACE Molten Nickel
 fe.protection.place.tconstruct.molten_obsidian.*                                       # (default: true) PLACE Molten Obsidian
 fe.protection.place.tconstruct.molten_pigiron.*                                        # (default: true) PLACE Molten Pigiron
-fe.protection.place.tconstruct.molten_silver.*                                         # (default: true) PLACE fluid.silver.name
+fe.protection.place.tconstruct.molten_silver.*                                         # (default: true) PLACE Molten Silver
 fe.protection.place.tconstruct.molten_steel.*                                          # (default: true) PLACE Molten Steel
 fe.protection.place.tconstruct.molten_stone.*                                          # (default: true) PLACE Seared Stone
 fe.protection.place.tconstruct.molten_thorium.*                                        # (default: true) PLACE fluid.thorium.name
-fe.protection.place.tconstruct.molten_tin.*                                            # (default: true) PLACE fluid.tin.name
+fe.protection.place.tconstruct.molten_tin.*                                            # (default: true) PLACE Molten Tin
 fe.protection.place.tconstruct.molten_uranium.*                                        # (default: true) PLACE fluid.uranium.name
 fe.protection.place.tconstruct.molten_zinc.*                                           # (default: true) PLACE Molten Zinc
 fe.protection.place.tconstruct.mudbrick_stairs.*                                       # (default: true) PLACE Mud Bricks Stairs
@@ -10203,15 +10056,6 @@ fe.protection.place.thermalfoundation.storage_resource.*                        
 fe.protection.place.threng.big_assembler.*                                             # (default: true) PLACE tile.threng:big_assembler.name
 fe.protection.place.threng.machine.*                                                   # (default: true) PLACE tile.threng:machine.name
 fe.protection.place.thuttech.lift.*                                                    # (default: true) PLACE Elevator
-fe.protection.place.tombstone.dark_marble.*                                            # (default: true) PLACE Air
-fe.protection.place.tombstone.decorative_grave_cross.*                                 # (default: true) PLACE Air
-fe.protection.place.tombstone.decorative_grave_normal.*                                # (default: true) PLACE Air
-fe.protection.place.tombstone.decorative_grave_simple.*                                # (default: true) PLACE Air
-fe.protection.place.tombstone.decorative_tombstone.*                                   # (default: true) PLACE Air
-fe.protection.place.tombstone.grave_cross.*                                            # (default: true) PLACE Air
-fe.protection.place.tombstone.grave_normal.*                                           # (default: true) PLACE Air
-fe.protection.place.tombstone.grave_simple.*                                           # (default: true) PLACE Air
-fe.protection.place.tombstone.tombstone.*                                              # (default: true) PLACE Air
 fe.protection.place.zettaindustries.batterycomputerport.*                              # (default: true) PLACE Battery Computer Port
 fe.protection.place.zettaindustries.batterycontroller.*                                # (default: true) PLACE Battery Controller
 fe.protection.place.zettaindustries.batteryelectrode.*                                 # (default: true) PLACE Battery Electrode
@@ -10331,10 +10175,6 @@ fe.protection.trample.advancedrocketry.vitrifiedsand.*                          
 fe.protection.trample.advancedrocketry.warpcore.*                                      # (default: true) PLACE Warp Core
 fe.protection.trample.advancedrocketry.warpmonitor.*                                   # (default: true) PLACE Warp Controller
 fe.protection.trample.advancedrocketry.wirelesstransciever.*                           # (default: true) PLACE Wireless Transceiver
-fe.protection.trample.ae2stuff.encoder.*                                               # (default: true) PLACE Air
-fe.protection.trample.ae2stuff.grower.*                                                # (default: true) PLACE Air
-fe.protection.trample.ae2stuff.inscriber.*                                             # (default: true) PLACE Air
-fe.protection.trample.ae2stuff.wireless.*                                              # (default: true) PLACE Air
 fe.protection.trample.alchemistry.argon_light.*                                        # (default: true) PLACE Argon Light
 fe.protection.trample.alchemistry.atomizer.*                                           # (default: true) PLACE Atomizer
 fe.protection.trample.alchemistry.chemical_combiner.*                                  # (default: true) PLACE Chemical Combiner
@@ -11098,7 +10938,6 @@ fe.protection.trample.cookingforblockheads.sink.*                               
 fe.protection.trample.cookingforblockheads.spice_rack.*                                # (default: true) PLACE Spice Rack
 fe.protection.trample.cookingforblockheads.toaster.*                                   # (default: true) PLACE Toaster
 fe.protection.trample.cookingforblockheads.tool_rack.*                                 # (default: true) PLACE Tool Rack
-fe.protection.trample.craftingstation.crafting_station.*                               # (default: true) PLACE Air
 fe.protection.trample.doggytalents.dog_bath.*                                          # (default: true) PLACE Dog Bath
 fe.protection.trample.doggytalents.dog_bed.*                                           # (default: true) PLACE Dog Bed
 fe.protection.trample.doggytalents.food_bowl.*                                         # (default: true) PLACE Food Bowl
@@ -11574,7 +11413,6 @@ fe.protection.trample.littletiles.ltflowinglava.*                               
 fe.protection.trample.littletiles.ltflowingwater.*                                     # (default: true) PLACE tile.LTFlowingWater.name
 fe.protection.trample.littletiles.ltinput.*                                            # (default: true) PLACE tile.ltinput.name
 fe.protection.trample.littletiles.ltoutput.*                                           # (default: true) PLACE tile.ltoutput.name
-fe.protection.trample.littletiles.ltparticleblock.*                                    # (default: true) PLACE Air
 fe.protection.trample.littletiles.ltsinglecable.*                                      # (default: true) PLACE tile.ltsinglecable.name
 fe.protection.trample.littletiles.ltstorageblocktile.*                                 # (default: true) PLACE Little Storage Block
 fe.protection.trample.littletiles.lttransparentcoloredblock.*                          # (default: true) PLACE tile.LTTransparentColoredBlock.name
@@ -12176,20 +12014,6 @@ fe.protection.trample.openentity.entityproxy.*                                  
 fe.protection.trample.openfm.radio.*                                                   # (default: true) PLACE Radio
 fe.protection.trample.openfm.speaker.*                                                 # (default: true) PLACE Speaker
 fe.protection.trample.openglasses.openglassesterminal.*                                # (default: true) PLACE Glasses Terminal
-fe.protection.trample.openmodularturrets.base_addon.*                                  # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.disposable_item_turret.*                      # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.expander.*                                    # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.grenade_turret.*                              # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.incendiary_turret.*                           # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.laser_turret.*                                # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.lever_block.*                                 # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.machine_gun_turret.*                          # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.potato_cannon_turret.*                        # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.rail_gun_turret.*                             # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.relativistic_turret.*                         # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.rocket_turret.*                               # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.teleporter_turret.*                           # (default: true) PLACE Air
-fe.protection.trample.openmodularturrets.turret_base.*                                 # (default: true) PLACE Air
 fe.protection.trample.openprinter.briefcase.*                                          # (default: true) PLACE Briefcase
 fe.protection.trample.openprinter.filecabinet.*                                        # (default: true) PLACE Open File Cabinet
 fe.protection.trample.openprinter.printer.*                                            # (default: true) PLACE Open Printer
@@ -12372,8 +12196,6 @@ fe.protection.trample.railcraft.track_outfitted.*                               
 fe.protection.trample.railcraft.trade_station.*                                        # (default: true) PLACE Trade Station
 fe.protection.trample.railcraft.wire.*                                                 # (default: true) PLACE Charge Shunting Wire
 fe.protection.trample.railcraft.worldlogic.*                                           # (default: true) PLACE Saltpeter Ore Spawner
-fe.protection.trample.railcraft.worldspike.*                                           # (default: true) PLACE Air
-fe.protection.trample.railcraft.worldspike_point.*                                     # (default: true) PLACE Air
 fe.protection.trample.retrocomputers.backplane.*                                       # (default: true) PLACE Backplane
 fe.protection.trample.retrocomputers.computer.*                                        # (default: true) PLACE Computer
 fe.protection.trample.retrocomputers.disk_drive.*                                      # (default: true) PLACE Disk Drive
@@ -12514,14 +12336,6 @@ fe.protection.trample.sgcraft.stargatering.*                                    
 fe.protection.trample.sgcraft.zpm_console.*                                            # (default: true) PLACE ZPM Console
 fe.protection.trample.simplefluidtanks.tankblock.*                                     # (default: true) PLACE Fluid Tank
 fe.protection.trample.simplefluidtanks.valveblock.*                                    # (default: true) PLACE Valve
-fe.protection.trample.storagenetwork.controller.*                                      # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.ex_kabel.*                                        # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.im_kabel.*                                        # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.kabel.*                                           # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.master.*                                          # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.process_kabel.*                                   # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.request.*                                         # (default: true) PLACE Air
-fe.protection.trample.storagenetwork.storage_kabel.*                                   # (default: true) PLACE Air
 fe.protection.trample.taiga.abyssum_block.*                                            # (default: true) PLACE Abyssum Block
 fe.protection.trample.taiga.abyssum_ore.*                                              # (default: true) PLACE Abyssum Ore
 fe.protection.trample.taiga.adamant_block.*                                            # (default: true) PLACE Adamant Block
@@ -12651,19 +12465,19 @@ fe.protection.trample.tconstruct.lavawood_stairs.*                              
 fe.protection.trample.tconstruct.metal.*                                               # (default: true) PLACE tile.tconstruct.metal.name
 fe.protection.trample.tconstruct.milk.*                                                # (default: true) PLACE fluid.milk.name
 fe.protection.trample.tconstruct.molten_alubrass.*                                     # (default: true) PLACE Molten Aluminum Brass
-fe.protection.trample.tconstruct.molten_aluminum.*                                     # (default: true) PLACE fluid.aluminum.name
+fe.protection.trample.tconstruct.molten_aluminum.*                                     # (default: true) PLACE Molten Aluminum
 fe.protection.trample.tconstruct.molten_ardite.*                                       # (default: true) PLACE Molten Ardite
 fe.protection.trample.tconstruct.molten_brass.*                                        # (default: true) PLACE Molten Brass
 fe.protection.trample.tconstruct.molten_bronze.*                                       # (default: true) PLACE Molten Bronze
 fe.protection.trample.tconstruct.molten_clay.*                                         # (default: true) PLACE Molten Clay
 fe.protection.trample.tconstruct.molten_cobalt.*                                       # (default: true) PLACE Molten Cobalt
-fe.protection.trample.tconstruct.molten_copper.*                                       # (default: true) PLACE fluid.copper.name
+fe.protection.trample.tconstruct.molten_copper.*                                       # (default: true) PLACE Molten Copper
 fe.protection.trample.tconstruct.molten_dirt.*                                         # (default: true) PLACE Liquid Dirt
 fe.protection.trample.tconstruct.molten_electrum.*                                     # (default: true) PLACE Molten Electrum
 fe.protection.trample.tconstruct.molten_emerald.*                                      # (default: true) PLACE fluid.emerald.name
 fe.protection.trample.tconstruct.molten_glass.*                                        # (default: true) PLACE Molten Glass
-fe.protection.trample.tconstruct.molten_gold.*                                         # (default: true) PLACE fluid.gold.name
-fe.protection.trample.tconstruct.molten_iron.*                                         # (default: true) PLACE fluid.iron.name
+fe.protection.trample.tconstruct.molten_gold.*                                         # (default: true) PLACE Molten Gold
+fe.protection.trample.tconstruct.molten_iron.*                                         # (default: true) PLACE Molten Iron
 fe.protection.trample.tconstruct.molten_knightslime.*                                  # (default: true) PLACE Molten Knightslime
 fe.protection.trample.tconstruct.molten_lead.*                                         # (default: true) PLACE Molten Lead
 fe.protection.trample.tconstruct.molten_magnesium.*                                    # (default: true) PLACE fluid.magnesium.name
@@ -12671,11 +12485,11 @@ fe.protection.trample.tconstruct.molten_manyullyn.*                             
 fe.protection.trample.tconstruct.molten_nickel.*                                       # (default: true) PLACE Molten Nickel
 fe.protection.trample.tconstruct.molten_obsidian.*                                     # (default: true) PLACE Molten Obsidian
 fe.protection.trample.tconstruct.molten_pigiron.*                                      # (default: true) PLACE Molten Pigiron
-fe.protection.trample.tconstruct.molten_silver.*                                       # (default: true) PLACE fluid.silver.name
+fe.protection.trample.tconstruct.molten_silver.*                                       # (default: true) PLACE Molten Silver
 fe.protection.trample.tconstruct.molten_steel.*                                        # (default: true) PLACE Molten Steel
 fe.protection.trample.tconstruct.molten_stone.*                                        # (default: true) PLACE Seared Stone
 fe.protection.trample.tconstruct.molten_thorium.*                                      # (default: true) PLACE fluid.thorium.name
-fe.protection.trample.tconstruct.molten_tin.*                                          # (default: true) PLACE fluid.tin.name
+fe.protection.trample.tconstruct.molten_tin.*                                          # (default: true) PLACE Molten Tin
 fe.protection.trample.tconstruct.molten_uranium.*                                      # (default: true) PLACE fluid.uranium.name
 fe.protection.trample.tconstruct.molten_zinc.*                                         # (default: true) PLACE Molten Zinc
 fe.protection.trample.tconstruct.mudbrick_stairs.*                                     # (default: true) PLACE Mud Bricks Stairs
@@ -12759,15 +12573,6 @@ fe.protection.trample.thermalfoundation.storage_resource.*                      
 fe.protection.trample.threng.big_assembler.*                                           # (default: true) PLACE tile.threng:big_assembler.name
 fe.protection.trample.threng.machine.*                                                 # (default: true) PLACE tile.threng:machine.name
 fe.protection.trample.thuttech.lift.*                                                  # (default: true) PLACE Elevator
-fe.protection.trample.tombstone.dark_marble.*                                          # (default: true) PLACE Air
-fe.protection.trample.tombstone.decorative_grave_cross.*                               # (default: true) PLACE Air
-fe.protection.trample.tombstone.decorative_grave_normal.*                              # (default: true) PLACE Air
-fe.protection.trample.tombstone.decorative_grave_simple.*                              # (default: true) PLACE Air
-fe.protection.trample.tombstone.decorative_tombstone.*                                 # (default: true) PLACE Air
-fe.protection.trample.tombstone.grave_cross.*                                          # (default: true) PLACE Air
-fe.protection.trample.tombstone.grave_normal.*                                         # (default: true) PLACE Air
-fe.protection.trample.tombstone.grave_simple.*                                         # (default: true) PLACE Air
-fe.protection.trample.tombstone.tombstone.*                                            # (default: true) PLACE Air
 fe.protection.trample.zettaindustries.batterycomputerport.*                            # (default: true) PLACE Battery Computer Port
 fe.protection.trample.zettaindustries.batterycontroller.*                              # (default: true) PLACE Battery Controller
 fe.protection.trample.zettaindustries.batteryelectrode.*                               # (default: true) PLACE Battery Electrode
