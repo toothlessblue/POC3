@@ -3,9 +3,8 @@
 &emsp; Computronics  
 &emsp; OCDevices  
 &emsp; OCSensors  
-&emsp; OpenGlasses  
+&emsp; OpenGlasses2  
 &emsp; OpenLights  
-&emsp; OpenModularTurrets  
 &emsp; OpenScreens  
 &emsp; OpenPrinter  
 &emsp; OpenPython  

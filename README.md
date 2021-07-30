@@ -22,9 +22,8 @@ Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar
 &emsp; Computronics  
 &emsp; OCDevices  
 &emsp; OCSensors  
-&emsp; OpenGlasses  
+&emsp; OpenGlasses2  
 &emsp; OpenLights  
-&emsp; OpenModularTurrets  
 &emsp; OpenScreens  
 &emsp; OpenPrinter  
 &emsp; OpenPython  
