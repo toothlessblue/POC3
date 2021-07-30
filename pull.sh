@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #backup
-git checkout server_backup
+git checkout server_creative_backup
 git add *
 git commit
 git push
