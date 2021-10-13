@@ -36,6 +36,7 @@ WailaErrorOutput.txt
 
 mods/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar
 mods/TickDynamic-1.12.2-1.0.2.jar
+mods/OptiFine*
 
 config/FastAsyncWorldEdit
 ForgeEssentials/playerlogger.h2.db
@@ -47,4 +48,3 @@ ForgeEssentials/PermissionList_Items.txt
 ForgeEssentials/PermissionsList.txt
 ForgeEssentials/modlist.txt
 
-mods/OptiFine_1.12.2_HD_U_F5.jar
