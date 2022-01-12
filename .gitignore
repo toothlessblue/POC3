@@ -33,7 +33,7 @@ servers.dat
 usercache.json
 usernamecache.json
 WailaErrorOutput.txt
-
+config.json
 mods/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar
 mods/TickDynamic-1.12.2-1.0.2.jar
 mods/OptiFine*
