@@ -15,7 +15,7 @@ We strongly recommend anyone to install optifine.
 Unfortunately we are not allowed to add it to our modpack.
 So you have to install it by yourself.
 
-Optifine: https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar  
+Optifine: http://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar  
 
 # The modpack:
 **OpenComputers with:**  
