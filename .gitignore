@@ -46,3 +46,5 @@ ForgeEssentials/PermissionList_Blocks.txt
 ForgeEssentials/PermissionList_Items.txt
 ForgeEssentials/PermissionsList.txt
 ForgeEssentials/modlist.txt
+
+hs_err*
