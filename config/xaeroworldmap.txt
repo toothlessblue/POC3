@@ -1,4 +1,4 @@
-ignoreUpdate:112
+ignoreUpdate:84
 updateNotification:true
 differentiateByServerAddress:true
 debug:false
@@ -6,7 +6,7 @@ lighting:true
 colours:0
 loadChunks:true
 updateChunks:true
-terrainSlopes:2
+terrainSlopes:true
 terrainDepth:true
 footsteps:true
 flowers:true
@@ -17,8 +17,5 @@ waypoints:true
 renderArrow:true
 displayZoom:true
 ignoreHeightmaps:false
-worldmapWaypointsScale:1.0
-openMapAnimation:true
-reloadVersion:0
-reloadEverything:false
+waypointScale:1.0
 globalVersion:5

@@ -10986,10 +10986,10 @@ appliedenergistics2:facade:0, Cable Facade - Honeycomb Block
 appliedenergistics2:facade:0, Cable Facade - Pressed Wax Block
 appliedenergistics2:facade:0, Cable Facade - Waxcomb Block
 appliedenergistics2:facade:0, Cable Facade - Nikolite Ore
-appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:facade:0, Cable Facade - Block of Sulfur
 appliedenergistics2:facade:0, Cable Facade - Block of Graphite
 appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Variable Redstone Emitter
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -12807,34 +12807,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -14727,62 +14727,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -15584,8 +15584,6 @@ cookingforblockheads:recipe_book:2, Cooking for Blockheads II
 cookingforblockheads:heating_unit, Heating Unit
 cookingforblockheads:ice_unit, Ice Unit
 cookingforblockheads:preservation_chamber, Preservation Chamber
-doggytalents:dog_bath, Dog Bath
-doggytalents:food_bowl, Food Bowl
 doggytalents:throw_bone, Throw Bone
 doggytalents:throw_bone_wet, Drool Throw Bone
 doggytalents:throw_stick, Throw Stick
@@ -15614,6 +15612,8 @@ doggytalents:leather_jacket, Leather Jacket
 doggytalents:tiny_bone, Tiny Bone
 doggytalents:big_bone, Big Bone
 doggytalents:owner_change, Change Dog Owner
+doggytalents:dog_bath, Dog Bath
+doggytalents:food_bowl, Food Bowl
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -15910,42 +15910,34 @@ openscreens:frontflatscreen3, §bFlatscreen (Front) (Tier 3)
 openscreens:holoscreen1, Holo Screen (Tier 1)
 openscreens:holoscreen2, §eHolo Screen (Tier 2)
 openscreens:holoscreen3, §bHolo Screen (Tier 3)
-opensecurity:alarm, Alarm
-opensecurity:entity_detector, Entity Detector
-opensecurity:card_writer, Card Writer
-opensecurity:rfid_reader, RFID Reader
-opensecurity:biometric_reader, Biometric Reader
-opensecurity:mag_reader, Magnetic Card Reader
-opensecurity:data_block, Data Block
-opensecurity:nanofog_terminal, NanoFog Terminal
-opensecurity:security_terminal, Security Terminal
-opensecurity:keypad, Keypad
 opensecurity:energy_turret, Energy Turret
+opensecurity:entity_detector, Entity Detector
+opensecurity:rfid_reader, RFID Reader
+opensecurity:security_terminal, Security Terminal
+opensecurity:mag_reader, Magnetic Card Reader
+opensecurity:keypad, Keypad
+opensecurity:nanofog_terminal, NanoFog Terminal
+opensecurity:card_writer, Card Writer
+opensecurity:data_block, Data Block
+opensecurity:alarm, Alarm
+opensecurity:biometric_reader, Biometric Reader
 opensecurity:rolldoor_element, Rolldoor Element
-opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:secure_door, Security Door
 opensecurity:private_secure_door, Private Security Door
-opensecurity:rolldoor, Rolldoor
+opensecurity:mag_secure_door, MagReader Security Door
 opensecurity:rolldoor_controller, Rolldoor Controller
-opensecurity:mag_reader_camo, Camo Magnetic Card Reader
-opensecurity:door_controller, Door Controller
 opensecurity:nanofog, NanoFog
-opensecurity:rfid_card, RFID Card
-opensecurity:energy_upgrade, Energy Upgrade
-opensecurity:nanodna, NanoDNA
-opensecurity:rfid_reader_card, RFID Reader Card
-opensecurity:mag_card, Magnetic Strip Card
-opensecurity:movement_upgrade, Movement Upgrade
-opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:rolldoor, Rolldoor
+opensecurity:door_controller, Door Controller
+opensecurity:mag_reader_camo, Camo Magnetic Card Reader
 opensecurity:damage_upgrade, Damage Upgrade
-pneumaticcraft:fluid.plastic, Plastic
-pneumaticcraft:fluid.kerosene, Kerosene
-pneumaticcraft:fluid.lpg, LPG
-pneumaticcraft:fluid.fuel, Gasoline
-pneumaticcraft:fluid.lubricant, Lubricant
-pneumaticcraft:fluid.etchacid, Etching Acid
-pneumaticcraft:fluid.oil, Oil
-pneumaticcraft:fluid.diesel, Diesel
+opensecurity:energy_upgrade, Energy Upgrade
+opensecurity:mag_card, Magnetic Strip Card
+opensecurity:rfid_card, RFID Card
+opensecurity:movement_upgrade, Movement Upgrade
+opensecurity:rfid_reader_card, RFID Reader Card
+opensecurity:cooldown_upgrade, Cooldown Upgrade
+opensecurity:nanodna, NanoDNA
 pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
 pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
 pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
@@ -15955,6 +15947,14 @@ pneumaticcraft:heat_frame, Heat Frame
 pneumaticcraft:spawner_agitator, Spawner Agitator
 pneumaticcraft:crop_support, Crop Support
 pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.lubricant, Lubricant
 pneumaticcraft:gps_tool, GPS Tool
 pneumaticcraft:gps_area_tool, GPS Area Tool
 pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
@@ -19432,9 +19432,9 @@ chiselsandbits:block_bit:0, Chiseled Bit - Honeycomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Pressed Wax Block
 chiselsandbits:block_bit:0, Chiseled Bit - Waxcomb Block
 chiselsandbits:block_bit:0, Chiseled Bit - Nikolite Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Graphite
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Charcoal
+chiselsandbits:block_bit:0, Chiseled Bit - Variable Redstone Emitter
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
 chiselsandbits:block_bit:0, Chiseled Bit
@@ -19681,6 +19681,70 @@ openfm:radiotuner, Radio Tuner
 openfm:memorycard, Memory Card
 openfm:radio, Radio
 openfm:speaker, Speaker
+openmodularturrets:intermediate_tiered:0, Sensor (Tier 1)
+openmodularturrets:intermediate_tiered:1, Sensor (Tier 2)
+openmodularturrets:intermediate_tiered:2, Sensor (Tier 3)
+openmodularturrets:intermediate_tiered:3, Sensor (Tier 4)
+openmodularturrets:intermediate_tiered:4, Sensor (Tier 5)
+openmodularturrets:intermediate_tiered:5, Chamber (Tier 1)
+openmodularturrets:intermediate_tiered:6, Chamber (Tier 2)
+openmodularturrets:intermediate_tiered:7, Chamber (Tier 3)
+openmodularturrets:intermediate_tiered:8, Chamber (Tier 4)
+openmodularturrets:intermediate_tiered:9, Chamber (Tier 5)
+openmodularturrets:intermediate_tiered:10, Barrel (Tier 1)
+openmodularturrets:intermediate_tiered:11, Barrel (Tier 2)
+openmodularturrets:intermediate_tiered:12, Barrel (Tier 3)
+openmodularturrets:intermediate_tiered:13, Barrel (Tier 4)
+openmodularturrets:intermediate_tiered:14, Barrel (Tier 5)
+openmodularturrets:intermediate_regular:0, IO Bus
+openmodularturrets:addon_meta:0, Addon - Turret Concealer
+openmodularturrets:addon_meta:1, Addon - Damage Boost
+openmodularturrets:addon_meta:2, Addon - Potentia Converter
+openmodularturrets:addon_meta:3, Addon - Recycler
+openmodularturrets:addon_meta:4, Addon - Redstone Reactor
+openmodularturrets:addon_meta:5, Addon - Serial Port
+openmodularturrets:addon_meta:6, Addon - Solar Panel
+openmodularturrets:addon_meta:7, Addon - Fake Drops
+openmodularturrets:upgrade_meta:0, Upgrade - Accuracy
+openmodularturrets:upgrade_meta:1, Upgrade - Efficiency
+openmodularturrets:upgrade_meta:2, Upgrade - Fire Rate
+openmodularturrets:upgrade_meta:3, Upgrade - Range
+openmodularturrets:upgrade_meta:4, Upgrade - Scatter Shot
+openmodularturrets:ammo_meta:0, Ammo - Blazing Clay
+openmodularturrets:ammo_meta:1, Ammo - Bullet
+openmodularturrets:ammo_meta:2, Ammo - Ferro-Magnetic Slug
+openmodularturrets:ammo_meta:3, Ammo - Grenade
+openmodularturrets:ammo_meta:4, Ammo - Rocket
+openmodularturrets:usable_meta:0, Throwable Bullet
+openmodularturrets:usable_meta:1, Throwable Grenade
+openmodularturrets:usable_meta:2, Turret Memory Card
+openmodularturrets:turret_base:0, Turret Base (Tier 1)
+openmodularturrets:turret_base:1, Turret Base (Tier 2)
+openmodularturrets:turret_base:2, Turret Base (Tier 3)
+openmodularturrets:turret_base:3, Turret Base (Tier 4)
+openmodularturrets:turret_base:4, Turret Base (Tier 5)
+openmodularturrets:expander:0, Base Inventory Expander (Tier 1)
+openmodularturrets:expander:1, Base Inventory Expander (Tier 2)
+openmodularturrets:expander:2, Base Inventory Expander (Tier 3)
+openmodularturrets:expander:3, Base Inventory Expander (Tier 4)
+openmodularturrets:expander:4, Base Inventory Expander (Tier 5)
+openmodularturrets:expander:5, Base Power Expander (Tier 1)
+openmodularturrets:expander:6, Base Power Expander (Tier 2)
+openmodularturrets:expander:7, Base Power Expander (Tier 3)
+openmodularturrets:expander:8, Base Power Expander (Tier 4)
+openmodularturrets:expander:9, Base Power Expander (Tier 5)
+openmodularturrets:base_addon:0, Base Addon - Loot Deleter
+openmodularturrets:disposable_item_turret, Disposable Item Turret
+openmodularturrets:potato_cannon_turret, Potato Cannon Turret
+openmodularturrets:machine_gun_turret, Gun Turret
+openmodularturrets:incendiary_turret, Incendiary Turret
+openmodularturrets:grenade_turret, Grenade Launcher Turret
+openmodularturrets:relativistic_turret, Relativistic Turret
+openmodularturrets:rocket_turret, Rocket Launcher Turret
+openmodularturrets:teleporter_turret, Teleporter Turret
+openmodularturrets:laser_turret, Laser Turret
+openmodularturrets:rail_gun_turret, Rail Gun Turret
+openmodularturrets:lever_block, Basic Turret Base Crank
 openprinter:paper_shreds, Paper Shreds
 openprinter:printer_ink_color, Color Ink
 openprinter:printer_ink_black, Black Ink
@@ -21022,20 +21086,20 @@ quacklib:component:27, Motor
 quacklib:nikolite_ore, Nikolite Ore
 quacklib:alloy_furnace, Alloy Furnace
 quacklib:multiblock_test, tile.quacklib:multiblock_test.name
-retrocomputers:computer, Computer
-retrocomputers:backplane, Backplane
-retrocomputers:retinal_scanner, Retinal Scanner
 retrocomputers:redstone_port_analog, Analog Redstone Port
 retrocomputers:disk_drive, Disk Drive
-retrocomputers:radio, Wireless Transceiver
 retrocomputers:terminal, Terminal
+retrocomputers:radio, Wireless Transceiver
+retrocomputers:retinal_scanner, Retinal Scanner
+retrocomputers:backplane, Backplane
 retrocomputers:memory, 8K RAM Module
+retrocomputers:computer, Computer
 retrocomputers:ribbon_cable, Ribbon Cable
-retrocomputers:writable_disk, Floppy Disk
 retrocomputers:screwdriver, Screwdriver
 retrocomputers:cpu, XC8010 CPU
-quacklib:wrench, Wrench
 retrocomputers:debug, Debug Item
+quacklib:wrench, Wrench
+retrocomputers:writable_disk, Floppy Disk
 retrocomputers:disk:0, Minimal FORTH Boot Disk
 retrocomputers:disk:1, FORTH Boot Disk
 retrocomputers:disk:2, Extended FORTH Boot Disk
@@ -21048,14 +21112,7 @@ simplefluidtanks:valveitem, Valve
 simplefluidtanks:wrench, Wrench
 valkyrielib:guide, Digital Guide
 starterkit:starterkit, Starter Kit
-zettaindustries:nfcprogrammer, NFC Programmer
-zettaindustries:nfcreader, NFC Reader
-zettaindustries:itemcardnfc, NFC Card
-zettaindustries:itemprivatecardnfc, Private NFC Card
-zettaindustries:smartcard, Smart Card [WIP]
-zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
-zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
-zettaindustries:variableredstoneemitter, Variable Redstone Emitter
+zettaindustries:rfmeterblock, FU Meter
 zettaindustries:sulfurousacid, tile.sulfurousacid.name
 zettaindustries:batterycomputerport, Battery Computer Port
 zettaindustries:batterycontroller, Battery Controller
@@ -21066,7 +21123,14 @@ zettaindustries:batterywall, Battery Wall
 zettaindustries:blockgraphite, Block of Graphite
 zettaindustries:sulfurblock, Block of Sulfur
 zettaindustries:charcoalblock, Block of Charcoal
-zettaindustries:rfmeterblock, FU Meter
+zettaindustries:nfcprogrammer, NFC Programmer
+zettaindustries:nfcreader, NFC Reader
+zettaindustries:itemcardnfc, NFC Card
+zettaindustries:itemprivatecardnfc, Private NFC Card
+zettaindustries:smartcard, Smart Card [WIP]
+zettaindustries:smartcardterminal, Smart Card Terminal [WIP]
+zettaindustries:smartcardterminalblock, Smart Card Terminal [WIP]
+zettaindustries:variableredstoneemitter, Variable Redstone Emitter
 zettaindustries:logo, Zetta Industries
 openentity:entityproxy, Entity Proxy
 openentity:dnadevice, DNA Device
@@ -21096,7 +21160,7 @@ openentity:upgradeendertank, Upgrade Ender Tank
 openentity:upgraderange, Upgrade Range
 openentity:upgradecapacity_fe, Upgrade Capacity (FE/RF)
 openentity:upgradetransferrate_fe, Upgrade Transferrate (FE/RF)
-openglasses:openglasses_card, Glasses Terminal Card
+openglasses:openglasses:0, AR Glasses
+openglasses:openglasses:0, AR Glasses
 openglasses:openglassesterminal, Glasses Terminal
-openglasses:openglasses:0, AR Glasses
-openglasses:openglasses:0, AR Glasses
+openglasses:openglasses_card, Glasses Terminal Card
