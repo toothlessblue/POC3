@@ -1,0 +1,13 @@
+name = "project-75423"
+filename = "simplefluidtanks-1.12.2-1.7.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2b1e6ec035ad44242d30f22f55714009dfcb1adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2756655
+project-id = 75423

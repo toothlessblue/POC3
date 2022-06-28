@@ -1,0 +1,13 @@
+name = "AliensVsPredator"
+filename = "aliensvspredator-6.0.0.62.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e090f85321df8434b76f8f34c9ff9600097bf6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2997965
+project-id = 221641

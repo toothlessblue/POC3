@@ -1,0 +1,13 @@
+name = "RetroComputers"
+filename = "retrocomputers-3.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e7c8f143d21f331f5502bb99f77d7f02c6b4415"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668652
+project-id = 276918

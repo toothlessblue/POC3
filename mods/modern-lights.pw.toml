@@ -1,0 +1,13 @@
+name = "Modern Lights"
+filename = "ModernLights-1.0.3_1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aca2cb741691c52ba7bad5ff53d4561249f70a73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2463318
+project-id = 274081

@@ -1,0 +1,13 @@
+name = "Additional Compression"
+filename = "Additional-Compression-1.12.2-3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "547238ef505cad32b4d0d52f80e04fac105276df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2915872
+project-id = 255221

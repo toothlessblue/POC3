@@ -1,0 +1,13 @@
+name = "TAIGA (Tinkers alloying addon)"
+filename = "taiga-1.12.2-1.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0322c349f02c20a0e2f9d9434a66b74b14db4221"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2626416
+project-id = 247661

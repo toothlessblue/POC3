@@ -1,0 +1,13 @@
+name = "UniDict"
+filename = "UniDict-1.12.2-3.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32b5738b65ca70d934b3345ac4adb2b2dc183c9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3268501
+project-id = 244258

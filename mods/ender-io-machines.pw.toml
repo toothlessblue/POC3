@@ -1,0 +1,13 @@
+name = "Ender IO Machines"
+filename = "EnderIO-machines-1.12.2-5.2.66.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72caf1adb4d529b99644d501a62f2b370d0fa621"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3124442
+project-id = 297196

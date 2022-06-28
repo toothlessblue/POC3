@@ -1,0 +1,13 @@
+name = "Surge"
+filename = "Surge-1.12.2-2.0.77.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0efa575c6e43031622aa52c1f4836aa552322da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2665849
+project-id = 250290

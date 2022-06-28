@@ -1,0 +1,13 @@
+name = "OpenGlasses2"
+filename = "OpenGlasses-MC1.12.2-2.2-50.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ba88b516bd19af6b29edddf068299c087987fc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2842055
+project-id = 300957

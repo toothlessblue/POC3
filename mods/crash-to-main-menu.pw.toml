@@ -1,0 +1,13 @@
+name = "Crash To Main Menu"
+filename = "CrashToMainMenu-client-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa89fd382553731d27f5464c875fd97526140cee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2725242
+project-id = 324444

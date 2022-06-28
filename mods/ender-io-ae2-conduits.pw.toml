@@ -1,0 +1,13 @@
+name = "Ender IO AE2 Conduits"
+filename = "EnderIO-conduits-appliedenergistics-1.12.2-5.2.66.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab4173e9bd4a8c82ba56d192d7fba1e2afee4af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3124444
+project-id = 297199

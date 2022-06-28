@@ -1,0 +1,13 @@
+name = "OpenPython"
+filename = "OpenPython-MC1.12.2-OC1.7-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "192c0a14d77e0b1fb519e7df51f60f1c64e18ece"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2629366
+project-id = 304710

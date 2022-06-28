@@ -1,0 +1,13 @@
+name = "ThutCore"
+filename = "thutcore-1.12.2-5.21.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18f4471c328d0acaf885c6beb6ccc27db98f2261"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2713584
+project-id = 224428

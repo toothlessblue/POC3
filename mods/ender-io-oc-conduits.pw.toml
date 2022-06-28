@@ -1,0 +1,13 @@
+name = "Ender IO OC Conduits"
+filename = "EnderIO-conduits-opencomputers-1.12.2-5.2.66.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "350f9dfa2f9cbe41f16cb002adfb2403b943e991"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3124445
+project-id = 297200

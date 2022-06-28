@@ -1,0 +1,13 @@
+name = "MDXLib"
+filename = "mdxlib-3.0.0.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c575e68cd25ead36fb1d48910a52a3491d2d18d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2975661
+project-id = 248278

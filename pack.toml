@@ -1,0 +1,13 @@
+name = "POC 3"
+author = "MisterNoNameLP"
+version = "3.6.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d0b8e4736a65fedc4a68a65d5004d1aa6fd4180e5ee6632422b7a5ba110a7f6"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

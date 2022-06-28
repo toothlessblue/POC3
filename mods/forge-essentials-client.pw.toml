@@ -1,0 +1,13 @@
+name = "Forge Essentials Client"
+filename = "forgeessentials-1.12.2-12.3.82-client.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c0f5401e2f8d45ab6eecf5f6cafbe648c4c9f22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2946123
+project-id = 235928

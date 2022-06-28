@@ -1,0 +1,13 @@
+name = "OpenEntity"
+filename = "OpenEntity-1.0.0-alpha_20191016.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35ef13336c3828fbcfc0dbc3881d129ba6a5f341"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2810610
+project-id = 285899

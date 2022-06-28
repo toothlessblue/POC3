@@ -1,0 +1,13 @@
+name = "A Lib"
+filename = "alib-1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01598e1bdd7e4851bab5193537011853652f08f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2761706
+project-id = 293426

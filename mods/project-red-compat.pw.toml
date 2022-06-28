@@ -1,0 +1,13 @@
+name = "Project Red - Compat"
+filename = "ProjectRed-1.12.2-4.9.4.120-compat.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "406381fafac5900cfc8a9d397ec6111c85f5efbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2745546
+project-id = 229050

@@ -1,0 +1,13 @@
+name = "VeinMiner"
+filename = "VeinMiner-1.12-0.38.2.647+b31535a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "007f517877ce7e78556bfb4038facff2bbb6a6c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2528295
+project-id = 67133

@@ -1,0 +1,13 @@
+name = "OMLib"
+filename = "omlib-1.12.2-3.1.4-249.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc85bf37e8984124a21b3ec3b92cde9793d55d8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2871957
+project-id = 254334

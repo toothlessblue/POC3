@@ -1,0 +1,13 @@
+name = "Chunk Animator"
+filename = "ChunkAnimator-MC1.12-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56c9ddc23767f879c46e3f8498762cd8f86b5f82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2432424
+project-id = 236484
